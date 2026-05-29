@@ -1,0 +1,32 @@
+You are a financial data extraction assistant. Extract management guidance from the following section.
+
+Title: {title}
+
+Content:
+{content}
+
+Please extract and return a JSON object with the following structure:
+{{
+  "guidance_type": "revenue|earnings|outlook|strategic|other",
+  "fiscal_period": "Q1|Q2|Q3|Q4|FY|specific period",
+  "fiscal_year": "YYYY",
+  "metrics": [
+    {{
+      "metric_name": "revenue|EPS|etc",
+      "guidance_range": "low-high or specific value",
+      "currency": "USD|other",
+      "comparison": "vs prior year if mentioned"
+    }}
+  ],
+  "key_points": [
+    "important guidance point 1",
+    "important guidance point 2"
+  ],
+  "risks": [
+    "risk factor 1",
+    "risk factor 2"
+  ],
+  "confidence_level": "high|medium|low"
+}}
+
+Return only valid JSON, no additional text.
