@@ -8,61 +8,136 @@
       "table_id": "table_9",
       "headers": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
       ],
       "rows": [
         {
-          "": "Voting\u00a0Rights"
+          "": "Class",
+          "col_1": "",
+          "col_2": "Claims and Equity Interests",
+          "col_3": "",
+          "col_4": "Status",
+          "col_5": "",
+          "col_6": "Voting\u00a0Rights"
         },
         {
-          "": "Presumed to Accept"
+          "": "1.",
+          "col_1": "",
+          "col_2": "Other Priority Claims",
+          "col_3": "",
+          "col_4": "Unimpaired",
+          "col_5": "",
+          "col_6": "Presumed to Accept"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Presumed to Accept"
+          "": "2.",
+          "col_1": "",
+          "col_2": "Secured Claims",
+          "col_3": "",
+          "col_4": "Unimpaired",
+          "col_5": "",
+          "col_6": "Presumed to Accept"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Entitled to Vote"
+          "": "3.",
+          "col_1": "",
+          "col_2": "Unsecured Notes Claims",
+          "col_3": "",
+          "col_4": "Impaired",
+          "col_5": "",
+          "col_6": "Entitled to Vote"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Presumed to Accept"
+          "": "4.",
+          "col_1": "",
+          "col_2": "General Unsecured Claims",
+          "col_3": "",
+          "col_4": "Unimpaired",
+          "col_5": "",
+          "col_6": "Presumed to Accept"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Presumed to Accept"
+          "": "5.",
+          "col_1": "",
+          "col_2": "510(b) Claims",
+          "col_3": "",
+          "col_4": "Unimpaired",
+          "col_5": "",
+          "col_6": "Presumed to Accept"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Presumed to Accept"
+          "": "6.",
+          "col_1": "",
+          "col_2": "Intercompany Claims",
+          "col_3": "",
+          "col_4": "Unimpaired",
+          "col_5": "",
+          "col_6": "Presumed to Accept"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Entitled to Vote"
+          "": "7.",
+          "col_1": "",
+          "col_2": "Existing Equity Interests",
+          "col_3": "",
+          "col_4": "Impaired",
+          "col_5": "",
+          "col_6": "Entitled to Vote"
         },
         {
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "": "Entitled to Vote"
+          "": "8.",
+          "col_1": "",
+          "col_2": "Existing Equity Awards",
+          "col_3": "",
+          "col_4": "Impaired",
+          "col_5": "",
+          "col_6": "Entitled to Vote"
         }
       ],
       "confidence": 0.5,
@@ -72,27 +147,4039 @@
       "table_id": "table_14",
       "headers": [
         "",
-        "",
-        ""
+        "col_1",
+        "col_2"
       ],
       "rows": [
         {
-          "": "Respectfully submitted,/s/ DRAFTPORTER\nHEDGES LLPJohn F. Higgins (TX Bar No. 09597500)Eric M.\nEnglish (TX Bar No. 24062714)M. Shane Johnson (TX Bar No. 24083263)James A. Keefe (TX Bar No. 24122842)Jordan T. Stevens (TX Bar\nNo. 24106467)Grecia V. Sarda (TX Bar No. 24132092)1000 Main\nSt., 36th FloorHouston, Texas 77002Telephone: (713)\n226-6000Facsimile: (713) 226-6248Email:\u2002\u2009\u200ajhiggins@porterhedges.comeenglish@porterhedges.comsjohnson@porterhedges.comjkeefe@porterhedges.comjstevens@porterhedges.comgsarda@porterhedges.comProposed Counsel to the Debtor and Debtor in Possession"
+          "": "Houston, TexasDated: November\n[\u00a0\u2022\u00a0], 2024",
+          "col_1": "",
+          "col_2": "Respectfully submitted,/s/ DRAFTPORTER\nHEDGES LLPJohn F. Higgins (TX Bar No. 09597500)Eric M.\nEnglish (TX Bar No. 24062714)M. Shane Johnson (TX Bar No. 24083263)James A. Keefe (TX Bar No. 24122842)Jordan T. Stevens (TX Bar\nNo. 24106467)Grecia V. Sarda (TX Bar No. 24132092)1000 Main\nSt., 36th FloorHouston, Texas 77002Telephone: (713)\n226-6000Facsimile: (713) 226-6248Email:\u2002\u2009\u200ajhiggins@porterhedges.comeenglish@porterhedges.comsjohnson@porterhedges.comjkeefe@porterhedges.comjstevens@porterhedges.comgsarda@porterhedges.comProposed Counsel to the Debtor and Debtor in Possession"
         }
       ],
       "confidence": 0.5,
       "source_section": null
     }
   ],
-  "prose_chunks": [],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_53",
+      "text": "Where May Interested Parties Obtain Copies of the Plan\nand Disclosure Statement?",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "plan and disclosure statement copies",
+          "information access",
+          "interested parties"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section is a heading asking where interested parties may obtain copies of the plan and disclosure statement, but it does not provide the actual source or additional details."
+      }
+    },
+    {
+      "chunk_id": "prose_p_69",
+      "text": "have been assumed or rejected by the Debtor by prior order of the Bankruptcy Court;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party in bankruptcy proceeding"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy",
+          "assumption or rejection of obligations",
+          "court order"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain matters have been assumed or rejected by the Debtor pursuant to a prior order of the Bankruptcy Court."
+      }
+    },
+    {
+      "chunk_id": "prose_p_109",
+      "text": "\u201c Exculpation \u201d means the exculpation provision set forth in Article X.E of the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Exculpation",
+            "type": "other",
+            "attributes": {
+              "definition": "the exculpation provision set forth in Article X.E of the Plan"
+            }
+          },
+          {
+            "name": "Article X.E",
+            "type": "other",
+            "attributes": {
+              "role": "location of the exculpation provision within the Plan"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "referenced governing document"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition",
+          "exculpation provision",
+          "plan reference"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"Exculpation\" as the exculpation provision contained in Article X.E of the Plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_71",
+      "text": "are the subject of a motion to reject filed by the Debtor pending on the Effective Date;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party filing motion to reject",
+              "status": "pending on the Effective Date"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "motion to reject",
+          "Effective Date",
+          "pending matters"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain matters are subject to a motion to reject filed by the Debtor and pending on the Effective Date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_149",
+      "text": "Article X.F of the Plan provides for an injunction of causes of action against the Debtor:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Article X.F",
+            "type": "other",
+            "attributes": {
+              "role": "Plan provision"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan"
+            }
+          },
+          {
+            "name": "the Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "subject of injunction"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "injunction",
+          "causes of action",
+          "debtor",
+          "plan provision"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that Article X.F of the Plan provides for an injunction against causes of action against the Debtor."
+      }
+    },
+    {
+      "chunk_id": "prose_p_127",
+      "text": "\u201c Restructuring Transactions \u201d has the meaning ascribed thereto in Article V.A of the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Restructuring Transactions",
+            "type": "other",
+            "attributes": {
+              "definition": "Has the meaning ascribed thereto in Article V.A of the Plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "reference": "Article V.A"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition",
+          "restructuring transactions",
+          "plan reference"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Restructuring Transactions\" by reference to Article V.A of the Plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_107",
+      "text": "\u201c Equity Security \u201d means an \u201cequity\nsecurity\u201d as defined in section 101(16) of the Bankruptcy Code.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Equity Security",
+            "type": "other",
+            "attributes": {
+              "definition": "An 'equity security' as defined in section 101(16) of the Bankruptcy Code"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "reference": "Section 101(16)"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition",
+          "equity security",
+          "Bankruptcy Code"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Equity Security\" by referencing its meaning under section 101(16) of the Bankruptcy Code."
+      }
+    },
+    {
+      "chunk_id": "prose_p_24",
+      "text": "The Reorganized Debtor shall not have any secured or unsecured funded debt upon the Plan Effective Date.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "debtor",
+              "condition": "shall not have any secured or unsecured funded debt upon the Plan Effective Date"
+            }
+          },
+          {
+            "name": "Plan Effective Date",
+            "type": "other",
+            "attributes": {
+              "description": "date when the plan becomes effective"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "debt elimination",
+          "secured debt",
+          "unsecured debt",
+          "plan effective date",
+          "capital structure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the Reorganized Debtor will have no secured or unsecured funded debt as of the Plan Effective Date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_113",
+      "text": "\u201c New Warrants Documents \u201d means, collectively, the\nNew Warrants Agreement and a form of the New Warrants.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "New Warrants Documents",
+            "type": "other",
+            "attributes": {
+              "definition": "collectively refers to the New Warrants Agreement and a form of the New Warrants"
+            }
+          },
+          {
+            "name": "New Warrants Agreement",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "New Warrants",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definitions",
+          "warrants",
+          "agreement documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"New Warrants Documents\" as a collective term referring to the New Warrants Agreement and a form of the New Warrants."
+      }
+    },
+    {
+      "chunk_id": "prose_p_97",
+      "text": "Certain defined terms with respect to the release, exculpation and injunction provisions of the Plan are set forth below:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "defined terms",
+          "release provisions",
+          "exculpation provisions",
+          "injunction provisions",
+          "Plan"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain defined terms related to the Plan's release, exculpation, and injunction provisions are provided below."
+      }
+    },
+    {
+      "chunk_id": "prose_p_117",
+      "text": "\u201c Plan Securities \u201d means, collectively, the New Common Stock, the Post-Effective Date\nEquity Awards, and the New Warrants.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan Securities",
+            "type": "other",
+            "attributes": {
+              "definition": "collectively, the New Common Stock, the Post-Effective Date Equity Awards, and the New Warrants"
+            }
+          },
+          {
+            "name": "New Common Stock",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "Post-Effective Date Equity Awards",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "New Warrants",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "security definitions",
+          "equity instruments",
+          "warrants"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"Plan Securities\" as a collective term for the New Common Stock, the Post-Effective Date Equity Awards, and the New Warrants."
+      }
+    },
+    {
+      "chunk_id": "prose_p_50",
+      "text": "The Debtor expects to meet the requirements for confirmation of the Plan and to emerge from bankruptcy\nshortly after filing.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy debtor",
+              "expects": "to meet requirements for confirmation of the Plan and emerge from bankruptcy shortly after filing"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "bankruptcy plan confirmation"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy",
+          "plan confirmation",
+          "emergence from bankruptcy"
+        ],
+        "sentiment": "positive",
+        "summary": "The Debtor expects to satisfy the requirements for confirmation of its Plan and to emerge from bankruptcy shortly after filing."
+      }
+    },
+    {
+      "chunk_id": "prose_p_160",
+      "text": "UNLESS AN OBJECTION IS TIMELY FILED IN ACCORDANCE WITH THE REQUIREMENTS OF THIS NOTICE, IT MAY NOT BE\nCONSIDERED BY THE BANKRUPTCY COURT.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "judicial body referenced in notice"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "objection deadline",
+          "bankruptcy notice",
+          "court procedure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The notice states that if an objection is not timely filed according to the notice's requirements, the bankruptcy court may not consider it."
+      }
+    },
+    {
+      "chunk_id": "prose_p_121",
+      "text": "\u201c Reorganized Debtor \u201d means the Debtor, as reorganized pursuant to and under the Plan or any successor thereto on or after the\nEffective Date, and its successors.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "definition": "The Debtor, as reorganized pursuant to and under the Plan or any successor thereto on or after the Effective Date, and its successors"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "entity being reorganized under the Plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan"
+            }
+          },
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "date from which successor status applies"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of reorganized debtor",
+          "bankruptcy reorganization",
+          "successor entity",
+          "effective date"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"Reorganized Debtor\" as the Debtor after reorganization under the Plan, including any successor entity on or after the Effective Date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_38",
+      "text": "The following chart summarizes the classification of Claims and Equity Interests set forth in the Plan and indicates whether each such Class\nis entitled to vote on the Plan:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Claims",
+            "type": "other",
+            "attributes": {
+              "context": "classification in the Plan",
+              "voting_status": "indicated by class"
+            }
+          },
+          {
+            "name": "Equity Interests",
+            "type": "other",
+            "attributes": {
+              "context": "classification in the Plan",
+              "voting_status": "indicated by class"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "reorganization plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "claims classification",
+          "equity interests classification",
+          "plan voting rights",
+          "class entitlement to vote"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces a chart that summarizes how Claims and Equity Interests are classified under the Plan and whether each class is entitled to vote on the Plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_104",
+      "text": "\u201c Claim \u201d means any \u201cclaim\u201d as defined in section 101(5) of the Bankruptcy Code. Except where otherwise provided in context,\n\u201cClaim\u201d refers to such a claim against the Debtor.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "reference": "section 101(5)",
+              "role": "legal definition source"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "entity against which a Claim is made"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of Claim",
+          "Bankruptcy Code",
+          "legal terminology",
+          "debtor claims"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"Claim\" by reference to section 101(5) of the Bankruptcy Code and clarifies that, unless context indicates otherwise, it means such a claim against the Debtor."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "HOLDERS OF SUCH CLAIMS AND EQUITY INTERESTS HAVE UNTIL DECEMBER\u00a030, 2024 AT 4:00 P.M. (PREVAILING CENTRAL\nTIME) TO VOTE ON THE PLAN BY FOLLOWING THE INSTRUCTIONS ON THEIR BALLOTS.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "December 30, 2024",
+            "type": "other",
+            "attributes": {
+              "role": "voting deadline"
+            }
+          },
+          {
+            "name": "4:00 P.M. (Prevailing Central Time)",
+            "type": "other",
+            "attributes": {
+              "role": "deadline time"
+            }
+          },
+          {
+            "name": "claims and equity interests",
+            "type": "other",
+            "attributes": {
+              "role": "voting parties"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "matter to be voted on"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "voting deadline",
+          "plan ballot instructions",
+          "claims and equity interests"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that holders of claims and equity interests must vote on the plan by December 30, 2024 at 4:00 P.M. Central Time, following the instructions on their ballots."
+      }
+    },
+    {
+      "chunk_id": "prose_p_106",
+      "text": "\u201c Effective Date \u201d means the first Business Day on which the conditions specified in Article IX of the Plan have\nbeen satisfied or waived in accordance with the terms of Article IX .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "definition": "the first Business Day on which the conditions specified in Article IX of the Plan have been satisfied or waived in accordance with the terms of Article IX"
+            }
+          },
+          {
+            "name": "Article IX",
+            "type": "other",
+            "attributes": {
+              "role": "references conditions that must be satisfied or waived for the Effective Date"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "document or agreement referenced in the definition"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition",
+          "effective date",
+          "conditions precedent",
+          "plan reference"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Effective Date\" as the first Business Day when the conditions in Article IX of the Plan have been satisfied or waived."
+      }
+    },
+    {
+      "chunk_id": "prose_p_98",
+      "text": "\u201c Affiliate \u201d shall, with respect to an Entity, have the meaning set forth in section 101(2) of the Bankruptcy Code as if such\nEntity were a debtor in a case under the Bankruptcy Code.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Affiliate",
+            "type": "other",
+            "attributes": {
+              "definition": "With respect to an Entity, has the meaning set forth in section 101(2) of the Bankruptcy Code as if such Entity were a debtor in a case under the Bankruptcy Code."
+            }
+          },
+          {
+            "name": "Entity",
+            "type": "other",
+            "attributes": {
+              "role": "Referenced term in the definition of Affiliate"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "role": "Referenced legal code"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition",
+          "affiliate",
+          "bankruptcy code",
+          "legal terminology"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Affiliate\" by reference to section 101(2) of the Bankruptcy Code, treating the relevant entity as if it were a debtor in a bankruptcy case."
+      }
+    },
+    {
+      "chunk_id": "prose_p_96",
+      "text": "Holders of\nClaims and Equity Interests may opt out of the third-party release set forth below by checking the appropriate box on their Ballot or Notice of Non-Voting Status, as\napplicable.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Claims and Equity Interests",
+            "type": "other",
+            "attributes": {
+              "role": "holders may opt out of third-party release"
+            }
+          },
+          {
+            "name": "Ballot",
+            "type": "other",
+            "attributes": {
+              "role": "document used to check opt-out box"
+            }
+          },
+          {
+            "name": "Notice of Non-Voting Status",
+            "type": "other",
+            "attributes": {
+              "role": "document used to check opt-out box"
+            }
+          },
+          {
+            "name": "third-party release",
+            "type": "other",
+            "attributes": {
+              "role": "release provision that may be opted out of"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "opt-out rights",
+          "third-party release",
+          "ballot process",
+          "notice of non-voting status",
+          "claims and equity interests"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that holders of Claims and Equity Interests may opt out of the third-party release by checking the appropriate box on their Ballot or Notice of Non-Voting Status."
+      }
+    },
+    {
+      "chunk_id": "prose_p_112",
+      "text": "\u201c New Warrants Agreement \u201d means the agreement governing the New Warrants to be entered into between the Debtor or Reorganized\nDebtor, as applicable, and a warrant agent on or prior to the Effective Date.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "New Warrants Agreement",
+            "type": "other",
+            "attributes": {
+              "definition": "the agreement governing the New Warrants",
+              "parties": "the Debtor or Reorganized Debtor, as applicable, and a warrant agent",
+              "timing": "to be entered into on or prior to the Effective Date"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party to the New Warrants Agreement"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "alternative party to the New Warrants Agreement"
+            }
+          },
+          {
+            "name": "warrant agent",
+            "type": "other",
+            "attributes": {
+              "role": "party to the New Warrants Agreement"
+            }
+          },
+          {
+            "name": "New Warrants",
+            "type": "other",
+            "attributes": {
+              "role": "subject of the agreement"
+            }
+          },
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "deadline for entering into the agreement"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of New Warrants Agreement",
+          "warrants",
+          "debtor/reorganized debtor",
+          "warrant agent",
+          "effective date"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the New Warrants Agreement as the agreement governing the New Warrants, to be entered into by the Debtor or Reorganized Debtor and a warrant agent on or before the Effective Date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_12",
+      "text": "The Debtor in this case, along with the last four digits of the Debtor\u2019s federal tax identification\nnumber, is Vroom, Inc. (2566). The Debtor\u2019s address is 3600 West Sam Houston Pkwy S, Floor 4, Houston, Texas 77042.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Vroom, Inc.",
+            "type": "company",
+            "attributes": {
+              "debtor_status": "Debtor",
+              "tax_id_last_four_digits": "2566",
+              "address": "3600 West Sam Houston Pkwy S, Floor 4, Houston, Texas 77042"
+            }
+          },
+          {
+            "name": "3600 West Sam Houston Pkwy S, Floor 4, Houston, Texas 77042",
+            "type": "location",
+            "attributes": {
+              "role": "Debtor address"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "debtor identification",
+          "tax identification number",
+          "address"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Vroom, Inc. as the debtor, provides the last four digits of its federal tax identification number, and lists its address in Houston, Texas."
+      }
+    },
+    {
+      "chunk_id": "prose_p_65",
+      "text": "The text of certain executory contract and unexpired lease provisions of the Plan are set forth below for your convenience, but you should\nreview the Disclosure Statement and the Plan for a complete description of such provisions :",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "executory contract and unexpired lease provisions"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "context": "referenced as a document to review for complete description"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executory contracts",
+          "unexpired leases",
+          "bankruptcy plan provisions",
+          "disclosure statement reference"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain executory contract and unexpired lease provisions of the Plan are provided for convenience, and directs readers to review the Disclosure Statement and the Plan for a complete description."
+      }
+    },
+    {
+      "chunk_id": "prose_p_56",
+      "text": "PLEASE NOTE that the staff of the Clerk\u2019s Office, the United States Trustee, the Debtor\u2019s\nproposed restructuring counsel, and the Solicitation Agent cannot give legal advice. Please consult a lawyer to assist in determining your rights.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Clerk\u2019s Office",
+            "type": "other",
+            "attributes": {
+              "role": "staff cannot give legal advice"
+            }
+          },
+          {
+            "name": "United States Trustee",
+            "type": "other",
+            "attributes": {
+              "role": "cannot give legal advice"
+            }
+          },
+          {
+            "name": "Debtor\u2019s proposed restructuring counsel",
+            "type": "other",
+            "attributes": {
+              "role": "cannot give legal advice"
+            }
+          },
+          {
+            "name": "Solicitation Agent",
+            "type": "other",
+            "attributes": {
+              "role": "cannot give legal advice"
+            }
+          },
+          {
+            "name": "lawyer",
+            "type": "person",
+            "attributes": {
+              "role": "consult for legal advice"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "legal disclaimer",
+          "no legal advice",
+          "consult an attorney",
+          "bankruptcy/restructuring process"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that staff of the Clerk\u2019s Office, the United States Trustee, the Debtor\u2019s proposed restructuring counsel, and the Solicitation Agent cannot provide legal advice, and advises consulting a lawyer to determine rights."
+      }
+    },
+    {
+      "chunk_id": "prose_p_2",
+      "text": "Notice of (I)\u00a0Commencement of Prepackaged Case under Chapter 11 of the Bankruptcy Code, (II) Combined Hearing on the Disclosure\nStatement, Confirmation of the \u201cPrepackaged\u201d Chapter 11 Plan, and Related Matters, and (III) Objection Deadlines",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Chapter 11",
+            "type": "other",
+            "attributes": {
+              "context": "Bankruptcy Code proceeding"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "context": "Combined hearing item"
+            }
+          },
+          {
+            "name": "Prepackaged Chapter 11 Plan",
+            "type": "other",
+            "attributes": {
+              "context": "Plan subject to confirmation hearing"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "prepackaged bankruptcy case commencement",
+          "Chapter 11 bankruptcy",
+          "combined hearing",
+          "disclosure statement",
+          "plan confirmation",
+          "objection deadlines"
+        ],
+        "sentiment": "negative",
+        "summary": "The section announces the commencement of a prepackaged Chapter 11 bankruptcy case and a combined hearing on the disclosure statement, confirmation of the prepackaged plan, and related matters, along with objection deadlines."
+      }
+    },
+    {
+      "chunk_id": "prose_p_82",
+      "text": "The inclusion or exclusion of a contract or lease on any schedule or exhibit shall not constitute an admission by the Debtor that such\ncontract or lease is an Executory Contract or Unexpired Lease or that the Debtor has any liability thereunder.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party to contract or lease",
+              "context": "Referenced as not admitting liability by inclusion or exclusion of contracts or leases on schedules or exhibits"
+            }
+          },
+          {
+            "name": "Executory Contract",
+            "type": "other",
+            "attributes": {
+              "context": "Legal classification referenced in the section"
+            }
+          },
+          {
+            "name": "Unexpired Lease",
+            "type": "other",
+            "attributes": {
+              "context": "Legal classification referenced in the section"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "contract and lease schedules",
+          "no admission of liability",
+          "executory contracts",
+          "unexpired leases"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that including or excluding a contract or lease on any schedule or exhibit does not mean the Debtor admits the contract is an executory contract or unexpired lease, or that any liability exists under it."
+      }
+    },
+    {
+      "chunk_id": "prose_p_118",
+      "text": "\u201c Plan Supplement \u201d means, collectively, the compilation of the Plan Supplement Documents, all\nof which are incorporated by reference into, and are an integral part of, the Plan, as all of the same may be amended, supplemented, or modified from time to time.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan Supplement",
+            "type": "other",
+            "attributes": {
+              "definition": "Collectively, the compilation of the Plan Supplement Documents",
+              "relationship": "Incorporated by reference into, and integral part of, the Plan",
+              "modification": "May be amended, supplemented, or modified from time to time"
+            }
+          },
+          {
+            "name": "Plan Supplement Documents",
+            "type": "other",
+            "attributes": {
+              "definition": "Documents included in the Plan Supplement"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "definition": "The plan into which the Plan Supplement is incorporated"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of Plan Supplement",
+          "incorporation by reference",
+          "plan documents",
+          "amendment and modification"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Plan Supplement\" as the collective compilation of the Plan Supplement Documents, which are incorporated into and form an integral part of the Plan and may be amended, supplemented, or modified over time."
+      }
+    },
+    {
+      "chunk_id": "prose_p_95",
+      "text": "The text of certain release, exculpation and injunction provisions of the Plan and certain related definitions are set forth below for your\nconvenience, but you should review the Disclosure Statement and the Plan for a complete description of such provisions.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "document referenced in the section"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "document referenced in the section"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "release provisions",
+          "exculpation provisions",
+          "injunction provisions",
+          "related definitions",
+          "disclosure statement",
+          "plan"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain release, exculpation, and injunction provisions of the Plan, along with related definitions, are provided for convenience and directs readers to review the Disclosure Statement and Plan for a complete description."
+      }
+    },
+    {
+      "chunk_id": "prose_p_94",
+      "text": "Article X of the Plan contains the following release, exculpation and injunction provisions. YOU ARE ADVISED AND\nENCOURAGED TO CAREFULLY REVIEW AND CONSIDER THE PLAN, INCLUDING THE RELEASE, EXCULPATION, AND INJUNCTION PROVISIONS, AS YOUR RIGHTS MIGHT BE AFFECTED.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Article X",
+            "type": "other",
+            "attributes": {
+              "context": "of the Plan",
+              "mentions": "release, exculpation and injunction provisions"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "context": "contains release, exculpation, and injunction provisions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "release provisions",
+          "exculpation provisions",
+          "injunction provisions",
+          "plan disclosure",
+          "rights affected"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that Article X of the Plan includes release, exculpation, and injunction provisions and advises readers to carefully review the Plan because their rights may be affected."
+      }
+    },
+    {
+      "chunk_id": "prose_p_6",
+      "text": "THE BANKRUPTCY COURT HAS GRANTED THE SOLICITATION PROCEDURES ORDER AUTHORIZING THE DEBTOR TO SOLICIT VOTES TO ACCEPT OR\nREJECT THE PLAN FROM \u201cNON-ELIGIBLE\u201d HOLDERS OF CLASS 3 UNSECURED NOTES CLAIMS, CLASS 7 EXISTING EQUITY INTERESTS, AND CLASS 8 EXISTING EQUITY AWARDS.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court granting solicitation procedures order"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "entity authorized to solicit votes on the plan"
+            }
+          },
+          {
+            "name": "Class 3 Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "status": "non-eligible holders may be solicited for votes"
+            }
+          },
+          {
+            "name": "Class 7 Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "status": "non-eligible holders may be solicited for votes"
+            }
+          },
+          {
+            "name": "Class 8 Existing Equity Awards",
+            "type": "other",
+            "attributes": {
+              "status": "non-eligible holders may be solicited for votes"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy proceedings",
+          "solicitation procedures order",
+          "plan voting",
+          "unsecured notes claims",
+          "existing equity interests",
+          "existing equity awards"
+        ],
+        "sentiment": "neutral",
+        "summary": "The bankruptcy court approved a solicitation procedures order allowing the debtor to solicit votes to accept or reject the plan from non-eligible holders of Class 3 unsecured notes claims, Class 7 existing equity interests, and Class 8 existing equity awards."
+      }
+    },
+    {
+      "chunk_id": "prose_p_111",
+      "text": "\u201c New Governance Documents \u201d means any\norganizational or constitutional documents, including charters, bylaws, operating agreements, option agreements, shareholder agreement, registration rights agreements or other governance documents, in each case, relating to the Reorganized Debtor.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "New Governance Documents",
+            "type": "other",
+            "attributes": {
+              "definition": "Any organizational or constitutional documents, including charters, bylaws, operating agreements, option agreements, shareholder agreement, registration rights agreements, or other governance documents relating to the Reorganized Debtor."
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "Entity whose governance documents are referenced"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "governance documents",
+          "organizational documents",
+          "constitutional documents",
+          "reorganized debtor",
+          "corporate governance"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"New Governance Documents\" as a broad set of organizational or constitutional documents, such as charters, bylaws, operating agreements, option agreements, shareholder agreements, registration rights agreements, and similar governance documents relating to the Reorganized Debtor."
+      }
+    },
+    {
+      "chunk_id": "prose_p_126",
+      "text": "\u201c Restructuring Support Agreement \u201d means that certain Restructuring Support\nAgreement, dated as of November\u00a012, 2024, by and among the Debtor, Consenting Noteholders, and any other parties thereto (as amended, supplemented or modified from time to time), attached as Exhibit A to the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "definition": "Certain Restructuring Support Agreement dated as of November 12, 2024, by and among the Debtor, Consenting Noteholders, and any other parties thereto, as amended, supplemented or modified from time to time",
+              "attachment": "Exhibit A to the Plan"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "Consenting Noteholders",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "restructuring support agreement",
+          "definition",
+          "bankruptcy/restructuring",
+          "plan exhibit"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Restructuring Support Agreement\" as a specific agreement dated November 12, 2024 among the Debtor, Consenting Noteholders, and other parties, and notes that it is attached as Exhibit A to the Plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_64",
+      "text": "ARTICLE VI OF THE PLAN CONTAINS THE FOLLOWING PROVISIONS REGARDING EXECUTORY CONTRACTS AND\nUNEXPIRED LEASES. PARTIES TO EXECUTORY CONTRACTS AND/OR UNEXPIRED LEASES ARE ADVISED AND ENCOURAGED TO CAREFULLY REVIEW AND CONSIDER THE PLAN, INCLUDING ARTICLE\u00a0VI , AS THEIR RIGHTS MIGHT BE AFFECTED.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Article VI of the Plan",
+            "type": "other",
+            "attributes": {
+              "topic": "executory contracts and unexpired leases"
+            }
+          },
+          {
+            "name": "executory contracts",
+            "type": "other",
+            "attributes": {
+              "context": "rights may be affected by the plan"
+            }
+          },
+          {
+            "name": "unexpired leases",
+            "type": "other",
+            "attributes": {
+              "context": "rights may be affected by the plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executory contracts",
+          "unexpired leases",
+          "plan provisions",
+          "rights affected"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that Article VI of the plan addresses executory contracts and unexpired leases and advises parties to review the plan carefully because their rights may be affected."
+      }
+    },
+    {
+      "chunk_id": "prose_p_61",
+      "text": "The Bankruptcy Court has ordered that the U.S. Trustee shall NOT schedule a meeting of creditors pursuant to section 341 of the\nBankruptcy Code before [January 13], 2025, and if the Plan is confirmed on or before [January 13], 2025, the requirement to schedule such a meeting shall be waived.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. Trustee",
+            "type": "other",
+            "attributes": {
+              "role": "trustee",
+              "action": "shall not schedule a meeting of creditors"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court",
+              "action": "ordered delay/waiver of creditor meeting scheduling"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "bankruptcy plan",
+              "condition": "if confirmed on or before January 13, 2025, meeting requirement is waived"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy proceedings",
+          "meeting of creditors",
+          "Section 341",
+          "plan confirmation deadline",
+          "waiver of meeting requirement"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Bankruptcy Court ordered that the U.S. Trustee must not schedule a Section 341 meeting of creditors before January 13, 2025, and that the meeting requirement will be waived if the Plan is confirmed on or before that date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_67",
+      "text": "On the Effective Date, all Executory Contracts and Unexpired Leases of the Debtor will be assumed by the Debtor\nin accordance with, and subject to, the provisions and requirements of sections 365 and 1123 of the Bankruptcy Code, except for those Executory Contracts and Unexpired Leases that, in each case:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party to bankruptcy proceeding",
+              "context": "Executory Contracts and Unexpired Leases will be assumed by the Debtor on the Effective Date"
+            }
+          },
+          {
+            "name": "Executory Contracts",
+            "type": "other",
+            "attributes": {
+              "context": "subject to assumption by the Debtor on the Effective Date, except as otherwise provided"
+            }
+          },
+          {
+            "name": "Unexpired Leases",
+            "type": "other",
+            "attributes": {
+              "context": "subject to assumption by the Debtor on the Effective Date, except as otherwise provided"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "sections_referenced": "365, 1123"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy",
+          "assumption of executory contracts",
+          "assumption of unexpired leases",
+          "Effective Date",
+          "sections 365 and 1123 of the Bankruptcy Code"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that, on the Effective Date, the Debtor will assume all executory contracts and unexpired leases in accordance with the Bankruptcy Code, except for certain specified contracts and leases."
+      }
+    },
+    {
+      "chunk_id": "prose_p_36",
+      "text": "Five percent (5%)\u00a0of the Fully-Diluted New Common Stock as of immediately following the Plan Effective Date\nshall be reserved for the issuance of stock options to purchase New Common Stock to management employees of the Reorganized Debtor (the \u201c ESO Grants ,\u201d and together with the RSU Awards, the \u201c MIP\nEquity \u201d).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Fully-Diluted New Common Stock",
+            "type": "other",
+            "attributes": {
+              "context": "As of immediately following the Plan Effective Date"
+            }
+          },
+          {
+            "name": "Plan Effective Date",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "stock options",
+            "type": "other",
+            "attributes": {
+              "purpose": "Reserved for issuance to management employees of the Reorganized Debtor"
+            }
+          },
+          {
+            "name": "management employees of the Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "Recipients of ESO Grants"
+            }
+          },
+          {
+            "name": "ESO Grants",
+            "type": "other",
+            "attributes": {
+              "definition": "Stock options to purchase New Common Stock reserved for management employees"
+            }
+          },
+          {
+            "name": "RSU Awards",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "MIP Equity",
+            "type": "other",
+            "attributes": {
+              "definition": "Collective term for ESO Grants and RSU Awards"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "5%",
+            "type": "other",
+            "currency": "other",
+            "period": "immediately following the Plan Effective Date"
+          }
+        ],
+        "key_topics": [
+          "equity compensation",
+          "stock option reserve",
+          "management incentive plan",
+          "reorganized debtor",
+          "new common stock"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that 5% of the fully diluted new common stock immediately after the Plan Effective Date will be reserved for stock options granted to management employees of the Reorganized Debtor, referred to as ESO Grants and part of MIP Equity."
+      }
+    },
+    {
+      "chunk_id": "prose_p_54",
+      "text": "Copies of the Plan, Disclosure Statement, Restructuring Support Agreement, and related documents may be\nobtained free of charge: (1)\u00a0by contacting the Solicitation Agent by phone at (866)\u00a0967-1785 (USA or Canada) or (310)\u00a0751-2685 (international); or\n(2)\u00a0through the Case Website (https://www.veritaglobal.net/vrm).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "description": "Document available free of charge"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "description": "Document available free of charge"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "description": "Document available free of charge"
+            }
+          },
+          {
+            "name": "Solicitation Agent",
+            "type": "other",
+            "attributes": {
+              "description": "Contact for obtaining copies of documents",
+              "phone_us_canada": "(866) 967-1785",
+              "phone_international": "(310) 751-2685"
+            }
+          },
+          {
+            "name": "Case Website",
+            "type": "other",
+            "attributes": {
+              "url": "https://www.veritaglobal.net/vrm"
+            }
+          },
+          {
+            "name": "Verita Global",
+            "type": "company",
+            "attributes": {
+              "url": "https://www.veritaglobal.net/vrm"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "document availability",
+          "contact information",
+          "case website",
+          "restructuring documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains how to obtain copies of the Plan, Disclosure Statement, Restructuring Support Agreement, and related documents free of charge via the Solicitation Agent by phone or through the case website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_26",
+      "text": "On the Plan Effective Date, except to the extent otherwise provided in the Plan, all notes, instruments,\ncertificates, and other documents evidencing Unsecured Notes Claims, Existing Equity Interests, and Existing Equity Awards shall be canceled and the obligations of the Debtor thereunder or in any way related thereto shall be deemed satisfied in full\nand discharged.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "effective date referenced in the plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan"
+            }
+          },
+          {
+            "name": "Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "status": "to be canceled and discharged"
+            }
+          },
+          {
+            "name": "Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "status": "to be canceled and discharged"
+            }
+          },
+          {
+            "name": "Existing Equity Awards",
+            "type": "other",
+            "attributes": {
+              "status": "to be canceled and discharged"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "company",
+            "attributes": {
+              "status": "obligations deemed satisfied in full and discharged"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cancellation of claims and interests",
+          "discharge of obligations",
+          "bankruptcy plan treatment",
+          "equity and debt extinguishment"
+        ],
+        "sentiment": "negative",
+        "summary": "On the Plan Effective Date, the specified notes, equity interests, and equity awards are canceled, and the Debtor's related obligations are deemed fully satisfied and discharged."
+      }
+    },
+    {
+      "chunk_id": "prose_p_32",
+      "text": "On the Plan Effective Date, the New Board shall amend and restate and increase the shares available for issuance\nunder the 2020 Incentive Award Plan, and grant new awards in order to implement the management incentive plan (the \u201c MIP \u201d) on the terms and conditions set forth below and in the term sheet attached as Annex\u00a0A to Exhibit\u00a02 to the RSA (the \u201c MIP Term Sheet \u201d).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "New Board",
+            "type": "other",
+            "attributes": {
+              "role": "board"
+            }
+          },
+          {
+            "name": "2020 Incentive Award Plan",
+            "type": "other",
+            "attributes": {
+              "description": "equity incentive plan"
+            }
+          },
+          {
+            "name": "management incentive plan",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "MIP"
+            }
+          },
+          {
+            "name": "MIP Term Sheet",
+            "type": "other",
+            "attributes": {
+              "attachment": "Annex A to Exhibit 2 to the RSA"
+            }
+          },
+          {
+            "name": "RSA",
+            "type": "other",
+            "attributes": {
+              "document_type": "agreement"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "equity incentive plan amendment",
+          "share authorization increase",
+          "management incentive plan",
+          "new awards issuance",
+          "plan effective date"
+        ],
+        "sentiment": "neutral",
+        "summary": "On the Plan Effective Date, the New Board will amend and restate the 2020 Incentive Award Plan, increase the shares available for issuance, and grant new awards to implement the management incentive plan under the referenced term sheet."
+      }
+    },
+    {
+      "chunk_id": "prose_p_81",
+      "text": "Each Executory Contract and Unexpired Lease assumed and/or assigned pursuant to the Plan shall revest in and be fully enforceable by the\nReorganized Debtor or the applicable assignee in accordance with its terms and conditions, except as modified by the provisions of the Plan, any order of the Bankruptcy Court approving its assumption and/or assignment, or applicable law.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Executory Contract",
+            "type": "other",
+            "attributes": {
+              "role": "contract assumed and/or assigned pursuant to the Plan"
+            }
+          },
+          {
+            "name": "Unexpired Lease",
+            "type": "other",
+            "attributes": {
+              "role": "lease assumed and/or assigned pursuant to the Plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy plan"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "entity receiving revested contracts and leases"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court approving assumption and/or assignment"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "assumption and assignment of contracts and leases",
+          "revesting of rights",
+          "enforceability of obligations",
+          "bankruptcy plan provisions",
+          "bankruptcy court approval"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that executory contracts and unexpired leases assumed or assigned under the Plan will revest in and remain enforceable by the Reorganized Debtor or applicable assignee, subject to the Plan, bankruptcy court orders, and applicable law."
+      }
+    },
+    {
+      "chunk_id": "prose_p_99",
+      "text": "\u201c Causes of Action \u201d means any action, claim, cross-claim, third-party\nclaim, cause of action, controversy, dispute, demand, right, lien, indemnity, contribution, guaranty, suit, obligation, liability, loss, debt, fee, expense, damage, interest, judgment, cost, account, defense, remedy, offset, power, privilege,\nproceeding, license, and franchise of any kind or character whatsoever,",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "legal definition",
+          "causes of action",
+          "claims and liabilities",
+          "contract terminology"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Causes of Action\" broadly to include a wide range of legal claims, rights, obligations, liabilities, remedies, and related proceedings."
+      }
+    },
+    {
+      "chunk_id": "prose_p_135",
+      "text": "AS OF THE EFFECTIVE DATE, EXCEPT FOR THE RIGHTS THAT REMAIN IN EFFECT FROM AND AFTER THE EFFECTIVE DATE TO ENFORCE THE PLAN, AND THE OBLIGATIONS\nCONTEMPLATED BY THE PLAN AND THE RESTRUCTURING DOCUMENTS, OR AS OTHERWISE PROVIDED IN ANY ORDER OF THE BANKRUPTCY COURT, ON AND AFTER THE EFFECTIVE DATE, THE RELEASED PARTIES WILL BE DEEMED CONCLUSIVELY, ABSOLUTELY, UNCONDITIONALLY, IRREVOCABLY, AND\nFOREVER RELEASED, TO THE",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "date referenced in the plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring plan"
+            }
+          },
+          {
+            "name": "Restructuring Documents",
+            "type": "other",
+            "attributes": {
+              "role": "documents related to the restructuring"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court referenced in the release provision"
+            }
+          },
+          {
+            "name": "Released Parties",
+            "type": "other",
+            "attributes": {
+              "role": "parties being released"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "release provisions",
+          "effective date",
+          "bankruptcy court order",
+          "plan enforcement",
+          "restructuring documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that, as of the effective date, the released parties are conclusively and permanently released except for rights needed to enforce the plan and obligations under the plan and restructuring documents, or as otherwise ordered by the bankruptcy court."
+      }
+    },
+    {
+      "chunk_id": "prose_p_122",
+      "text": "\u201c Restructuring Documents \u201d means, collectively, the documents and agreements (and the\nexhibits, schedules, annexes and supplements thereto) necessary to implement, or entered into in connection with, the Plan, including, without limitation, the Plan Supplement Documents, the New Governance Documents, the New Warrants Documents, and\nany other \u201cDefinitive Documents\u201d (as defined in the Restructuring Support Agreement).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Restructuring Documents",
+            "type": "other",
+            "attributes": {
+              "definition": "Collectively, the documents and agreements, including exhibits, schedules, annexes, and supplements, necessary to implement or entered into in connection with the Plan.",
+              "includes": "Plan Supplement Documents, New Governance Documents, New Warrants Documents, and any other Definitive Documents as defined in the Restructuring Support Agreement"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "Plan Supplement Documents",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "New Governance Documents",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "New Warrants Documents",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "Definitive Documents",
+            "type": "other",
+            "attributes": {
+              "defined_in": "Restructuring Support Agreement"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "restructuring documents",
+          "plan implementation",
+          "definitive documents",
+          "governance documents",
+          "warrants documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines \"Restructuring Documents\" as the collective set of documents and agreements needed to implement or entered into in connection with the Plan, including specified supplemental, governance, warrant, and other definitive documents."
+      }
+    },
+    {
+      "chunk_id": "prose_p_73",
+      "text": "are identified as rejected Executory Contracts and Unexpired Leases by the Debtor on the Schedule of Rejected\nExecutory Contracts and Unexpired Leases to be Filed in the Plan Supplement, which may be amended by the Debtor up to and through the Effective Date to add or remove Executory Contracts and Unexpired Leases by filing with the Bankruptcy Court a\nsubsequent Plan Supplement and serving it on the affected non-Debtor contract parties; or",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party in bankruptcy proceeding"
+            }
+          },
+          {
+            "name": "Executory Contracts and Unexpired Leases",
+            "type": "other",
+            "attributes": {
+              "context": "contracts and leases subject to rejection or amendment in the Plan Supplement"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court receiving filings"
+            }
+          },
+          {
+            "name": "Plan Supplement",
+            "type": "other",
+            "attributes": {
+              "role": "document that may be amended through the Effective Date"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "rejected executory contracts",
+          "unexpired leases",
+          "plan supplement amendments",
+          "bankruptcy court filing",
+          "effective date"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain executory contracts and unexpired leases are identified as rejected by the Debtor in a schedule to be filed in the Plan Supplement, and that the Debtor may amend this schedule up to and through the Effective Date by filing a subsequent Plan Supplement with the Bankruptcy Court and serving affected non-Debtor contract parties."
+      }
+    },
+    {
+      "chunk_id": "prose_p_13",
+      "text": "All capitalized terms used but not otherwise defined herein shall have the meanings ascribed to them in the\nPlan. The Plan is attached as Exhibit A hereto and described in greater detail in the Disclosure Statement for the Prepackaged Plan of Reorganization for Vroom, Inc. under Chapter 11 of the Bankruptcy Code , dated as of November 12,\n2024 [Docket No. [ \u2022 ]] (as amended, supplemented, or modified from time to time, the \u201c Disclosure Statement \u201d).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "description": "Attached as Exhibit A and referenced in the Disclosure Statement"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "full_name": "Disclosure Statement for the Prepackaged Plan of Reorganization for Vroom, Inc. under Chapter 11 of the Bankruptcy Code",
+              "date": "2024-11-12",
+              "docket_no": "[\u2022]",
+              "status": "as amended, supplemented, or modified from time to time"
+            }
+          },
+          {
+            "name": "Vroom, Inc.",
+            "type": "company",
+            "attributes": {
+              "chapter": "11",
+              "context": "Prepackaged Plan of Reorganization"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "context": "Referenced in connection with Chapter 11 proceedings"
+            }
+          },
+          {
+            "name": "Exhibit A",
+            "type": "other",
+            "attributes": {
+              "description": "Attachment containing the Plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Plan definitions",
+          "Disclosure Statement",
+          "Chapter 11 reorganization",
+          "Vroom, Inc.",
+          "Exhibit reference"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that undefined capitalized terms have the meanings given in the Plan, which is attached as Exhibit A and further described in the Disclosure Statement for Vroom, Inc.'s prepackaged Chapter 11 reorganization."
+      }
+    },
+    {
+      "chunk_id": "prose_p_18",
+      "text": "This notice sets forth information regarding the Plan and the treatment of Claims and Equity Interests thereunder, key dates and deadlines\nregarding the Plan and the Disclosure Statement, and certain other relevant information. Any information set forth herein is qualified in its entirety by the terms of the Plan. In the event of any inconsistency or conflict between this summary\nand the terms of the Plan, the terms of the Plan shall control and govern .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "governing document",
+              "mentions": "treatment of Claims and Equity Interests, key dates and deadlines"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "referenced document"
+            }
+          },
+          {
+            "name": "Claims",
+            "type": "other",
+            "attributes": {
+              "role": "claims under the Plan"
+            }
+          },
+          {
+            "name": "Equity Interests",
+            "type": "other",
+            "attributes": {
+              "role": "equity interests under the Plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Plan summary",
+          "Claims treatment",
+          "Equity Interests treatment",
+          "key dates and deadlines",
+          "Disclosure Statement",
+          "plan governs over summary in case of conflict"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the notice summarizes the Plan, including treatment of Claims and Equity Interests and important dates and deadlines, but the Plan itself controls if there is any inconsistency."
+      }
+    },
+    {
+      "chunk_id": "prose_p_150",
+      "text": "THE COMBINED ORDER SHALL PERMANENTLY ENJOIN THE COMMENCEMENT OR PROSECUTION BY ANY PERSON, WHETHER DIRECTLY, DERIVATIVELY, OR OTHERWISE, OF\nANY CLAIMS, OBLIGATIONS, SUITS, JUDGMENTS, DAMAGES, DEMANDS, DEBTS, RIGHTS, CAUSES OF ACTION, LOSSES, OR LIABILITIES RELEASED PURSUANT TO THE PLAN, INCLUDING THE CLAIMS, OBLIGATIONS, SUITS, JUDGMENTS, DAMAGES, DEMANDS, DEBTS, RIGHTS, CAUSES OF\nACTION, AND LIABILITIES RELEASED OR EXCULPATED IN THE PLAN OR THE COMBINED ORDER.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Combined Order",
+            "type": "other",
+            "attributes": {
+              "role": "court order",
+              "action": "permanently enjoins commencement or prosecution of released claims"
+            }
+          },
+          {
+            "name": "the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring or bankruptcy plan",
+              "action": "releases and/or exculpates certain claims, obligations, and liabilities"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "injunction",
+          "claim release",
+          "exculpation",
+          "bankruptcy plan",
+          "litigation bar"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the Combined Order permanently enjoins any person from commencing or prosecuting claims, obligations, suits, judgments, damages, demands, debts, rights, causes of action, losses, or liabilities that are released or exculpated under the Plan or the Combined Order."
+      }
+    },
+    {
+      "chunk_id": "prose_p_76",
+      "text": "Without amending or altering any prior order of the Bankruptcy Court approving the assumption or rejection of any Executory Contract or\nUnexpired Lease, the Combined Order shall constitute an order of the Bankruptcy Court approving such assumptions and the rejection of Executory Contracts and Unexpired Leases set forth in the Schedule of Rejected Executory Contracts and Unexpired\nLeases pursuant to sections 365 and 1123 of the Bankruptcy Code as of the Effective Date.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court approving assumptions and rejections of contracts and leases"
+            }
+          },
+          {
+            "name": "Combined Order",
+            "type": "other",
+            "attributes": {
+              "role": "order constituting approval of assumptions and rejections"
+            }
+          },
+          {
+            "name": "Executory Contract",
+            "type": "other",
+            "attributes": {
+              "role": "contract subject to assumption or rejection"
+            }
+          },
+          {
+            "name": "Unexpired Lease",
+            "type": "other",
+            "attributes": {
+              "role": "lease subject to assumption or rejection"
+            }
+          },
+          {
+            "name": "Schedule of Rejected Executory Contracts and Unexpired Leases",
+            "type": "other",
+            "attributes": {
+              "role": "schedule listing rejected contracts and leases"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "sections_referenced": "365, 1123"
+            }
+          },
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "date on which the order becomes effective"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy proceedings",
+          "assumption and rejection of executory contracts",
+          "unexpired leases",
+          "court order approval",
+          "Bankruptcy Code sections 365 and 1123"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the Combined Order will serve as Bankruptcy Court approval for the assumption and rejection of specified executory contracts and unexpired leases, effective on the Effective Date, without changing any prior court orders."
+      }
+    },
+    {
+      "chunk_id": "prose_p_34",
+      "text": "Ten percent (10%)\u00a0of the Fully-Diluted New Common Stock as of immediately following the Plan Effective Date\nshall be reserved for the issuance of restricted stock units with respect to New Common Stock (collectively, the \u201c RSU Awards \u201d) to employees of the Reorganized Debtor. The RSU Awards shall be granted promptly following the\nPlan Effective Date, with the allocation of such grants to be determined in good faith by the New Board in consultation with the Reorganized Debtor\u2019s CEO.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Fully-Diluted New Common Stock",
+            "type": "other",
+            "attributes": {
+              "reserved_percentage": "10%",
+              "purpose": "issuance of restricted stock units",
+              "timing": "as of immediately following the Plan Effective Date"
+            }
+          },
+          {
+            "name": "RSU Awards",
+            "type": "other",
+            "attributes": {
+              "definition": "restricted stock units with respect to New Common Stock",
+              "recipients": "employees of the Reorganized Debtor",
+              "grant_timing": "promptly following the Plan Effective Date"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "employer of RSU recipients"
+            }
+          },
+          {
+            "name": "New Board",
+            "type": "other",
+            "attributes": {
+              "role": "determines allocation of RSU grants in good faith",
+              "consultation": "with the Reorganized Debtor\u2019s CEO"
+            }
+          },
+          {
+            "name": "CEO",
+            "type": "person",
+            "attributes": {
+              "role": "consulted on allocation of RSU grants"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "10%",
+            "type": "other",
+            "currency": "other",
+            "period": "immediately following the Plan Effective Date"
+          }
+        ],
+        "key_topics": [
+          "restricted stock units",
+          "equity reservation",
+          "employee compensation",
+          "post-effective-date grants",
+          "board allocation discretion"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides for reserving 10% of the fully diluted New Common Stock for RSU awards to employees of the Reorganized Debtor, to be granted promptly after the Plan Effective Date and allocated by the New Board in consultation with the CEO."
+      }
+    },
+    {
+      "chunk_id": "prose_p_55",
+      "text": "All pleadings filed in the Chapter 11 Case (i)\u00a0may be\ninspected at the office of the Clerk of the Bankruptcy Court for the Southern District of Texas, P.O. Box 61010, Houston, Texas 77208 (the \u201c Clerk\u2019s Office \u201d) and (ii)\u00a0will be available (a)\u00a0through the Bankruptcy\nCourt\u2019s electronic case filing system at https://www.txs.uscourts.gov/page/bankruptcy-court using a PACER password (to obtain a PACER password, go to the PACER website at http://pacer.psc.uscourts.gov)\nand (b)\u00a0on the Case Website.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "context": "bankruptcy proceeding"
+            }
+          },
+          {
+            "name": "Clerk of the Bankruptcy Court for the Southern District of Texas",
+            "type": "other",
+            "attributes": {
+              "office": "P.O. Box 61010, Houston, Texas 77208",
+              "alias": "Clerk\u2019s Office"
+            }
+          },
+          {
+            "name": "Bankruptcy Court for the Southern District of Texas",
+            "type": "other",
+            "attributes": {
+              "electronic_case_filing_system_url": "https://www.txs.uscourts.gov/page/bankruptcy-court"
+            }
+          },
+          {
+            "name": "PACER",
+            "type": "other",
+            "attributes": {
+              "website": "http://pacer.psc.uscourts.gov"
+            }
+          },
+          {
+            "name": "Case Website",
+            "type": "other",
+            "attributes": {
+              "description": "website where pleadings are available"
+            }
+          },
+          {
+            "name": "Houston, Texas 77208",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy case pleadings access",
+          "Clerk's Office inspection",
+          "electronic case filing system",
+          "PACER access",
+          "case website"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains where pleadings filed in the Chapter 11 case can be inspected and accessed, including the Clerk\u2019s Office, the Bankruptcy Court\u2019s electronic filing system via PACER, and the Case Website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_86",
+      "text": "All Proofs of Claim with respect to Claims arising from the rejection of Executory Contracts or Unexpired Leases, pursuant to\nthe Plan or the Combined Order, if any, must be Filed with the Bankruptcy Court within twenty-one\u00a0(21)\u00a0days after service of an order of the Bankruptcy Court (including the Combined Order) approving such rejection. Any Claim arising from\nthe rejection of Executory Contracts or Unexpired Leases that becomes an Allowed Claim is classified and shall be treated as a Class 4 General Unsecured Claim.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court"
+            }
+          },
+          {
+            "name": "Proofs of Claim",
+            "type": "other",
+            "attributes": {
+              "context": "claims related to rejection of executory contracts or unexpired leases"
+            }
+          },
+          {
+            "name": "Executory Contracts",
+            "type": "other",
+            "attributes": {
+              "context": "contracts subject to rejection under the Plan or Combined Order"
+            }
+          },
+          {
+            "name": "Unexpired Leases",
+            "type": "other",
+            "attributes": {
+              "context": "leases subject to rejection under the Plan or Combined Order"
+            }
+          },
+          {
+            "name": "Combined Order",
+            "type": "other",
+            "attributes": {
+              "role": "court order"
+            }
+          },
+          {
+            "name": "Class 4 General Unsecured Claim",
+            "type": "other",
+            "attributes": {
+              "classification": "allowed claim"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "21",
+            "type": "other",
+            "currency": "other",
+            "period": "days after service of order"
+          }
+        ],
+        "key_topics": [
+          "proofs of claim deadline",
+          "rejection of executory contracts",
+          "rejection of unexpired leases",
+          "bankruptcy claims classification",
+          "class 4 general unsecured claims"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section sets a 21-day deadline to file proofs of claim arising from rejected executory contracts or unexpired leases and states that any allowed such claim will be treated as a Class 4 General Unsecured Claim."
+      }
+    },
+    {
+      "chunk_id": "prose_p_49",
+      "text": "Creditors and (B)\u00a0Waiving Requirement of Filing Statements of Financial Affairs and Schedules of Assets and Liabilities; and (VI) Granting Related Relief [Docket\nNo.\u00a0[\u00a0\u2022\u00a0]] (the \u201c Solicitation Procedures Order \u201d), the Debtor is soliciting votes to accept or reject the Plan from the remaining Holders of Class 3 Unsecured Notes Claims, as well as Holders of Class 7\nExisting Equity Interests and Class 8 Existing Equity Awards (each, a \u201c Voting Class \u201d). The voting deadline is December\u00a030, 2024 at 4:00 p.m. (Prevailing Central Time) (the \u201c Voting\nDeadline \u201d).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "soliciting votes on the Plan"
+            }
+          },
+          {
+            "name": "Class 3 Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "role": "voting class"
+            }
+          },
+          {
+            "name": "Class 7 Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "role": "voting class"
+            }
+          },
+          {
+            "name": "Class 8 Existing Equity Awards",
+            "type": "other",
+            "attributes": {
+              "role": "voting class"
+            }
+          },
+          {
+            "name": "Solicitation Procedures Order",
+            "type": "other",
+            "attributes": {
+              "description": "order referenced in connection with solicitation procedures"
+            }
+          },
+          {
+            "name": "Voting Deadline",
+            "type": "other",
+            "attributes": {
+              "date": "2024-12-30",
+              "time": "4:00 p.m.",
+              "timezone": "Prevailing Central Time"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "solicitation of votes",
+          "plan acceptance or rejection",
+          "voting classes",
+          "voting deadline",
+          "bankruptcy proceedings"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Debtor is soliciting votes to accept or reject the Plan from specified voting classes, including unsecured notes claims, existing equity interests, and equity awards. The voting deadline is December 30, 2024 at 4:00 p.m. Central Time."
+      }
+    },
+    {
+      "chunk_id": "prose_p_52",
+      "text": "Any responses or objections to the adequacy of the Disclosure Statement and/or confirmation of the Plan must:\n(i)\u00a0be in writing; (ii)\u00a0conform to the applicable Bankruptcy Rules and the Bankruptcy Local Rules; (iii)\u00a0set forth the name of the objecting party, the basis for the objection, and the specific grounds thereof; and (iv)\u00a0be filed\nwith the Clerk of the Bankruptcy Court no later than 4:00 p.m. (Prevailing Central Time) on [December 30], 2024 (the \u201c Objection Deadline \u201d). Any objections that fail to comply with the requirements set forth in the\nSolicitation Procedures Order may not be considered and may be overruled .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "document referenced in objections"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan referenced in objections"
+            }
+          },
+          {
+            "name": "Bankruptcy Rules",
+            "type": "other",
+            "attributes": {
+              "role": "procedural rules"
+            }
+          },
+          {
+            "name": "Bankruptcy Local Rules",
+            "type": "other",
+            "attributes": {
+              "role": "local procedural rules"
+            }
+          },
+          {
+            "name": "Clerk of the Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "filing authority"
+            }
+          },
+          {
+            "name": "Solicitation Procedures Order",
+            "type": "other",
+            "attributes": {
+              "role": "governing order"
+            }
+          },
+          {
+            "name": "December 30, 2024",
+            "type": "other",
+            "attributes": {
+              "role": "objection deadline date"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "objection procedures",
+          "bankruptcy confirmation process",
+          "disclosure statement adequacy",
+          "filing deadline",
+          "procedural compliance"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section sets out requirements for objections to the adequacy of the Disclosure Statement or confirmation of the Plan, including written form, compliance with bankruptcy rules, required content, and filing by the objection deadline of 4:00 p.m. Central Time on December 30, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_143",
+      "text": "PARTY ARISING FROM ANY OBLIGATIONS OWED TO THE RELEASING PARTY THAT ARE WHOLLY UNRELATED TO THE DEBTOR OR THE REORGANIZED DEBTOR; (2)\u00a0EXPRESSLY SET FORTH IN AND PRESERVED BY THE PLAN OR\nRELATED DOCUMENTS; OR (3)\u00a0ARISING FROM AN ACT OR OMISSION THAT IS JUDICIALLY DETERMINED BY A FINAL ORDER TO HAVE CONSTITUTED ACTUAL FRAUD, GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR CRIMINAL CONDUCT. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE\nFOREGOING, THE \u201cTHIRD-PARTY RELEASE\u201d SET FORTH ABOVE DOES NOT RELEASE ANY POST-EFFECTIVE DATE OBLIGATIONS OF ANY ENTITY UNDER THE PLAN OR ANY DOCUMENT, INSTRUMENT OR AGREEMENT EXECUTED IN CONNECTION WITH THE PLAN.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party referenced in release provisions"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party referenced in release provisions"
+            }
+          },
+          {
+            "name": "Releasing Party",
+            "type": "other",
+            "attributes": {
+              "role": "party referenced in release provisions"
+            }
+          },
+          {
+            "name": "Third-Party Release",
+            "type": "other",
+            "attributes": {
+              "role": "release provision",
+              "effect": "does not release post-effective date obligations"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan referenced in release provisions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "third-party release",
+          "exceptions to release",
+          "fraud and misconduct carve-outs",
+          "post-effective date obligations",
+          "plan-related documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes exceptions to a third-party release, including claims unrelated to the debtor, claims preserved by the plan or related documents, and claims arising from final orders finding fraud, gross negligence, willful misconduct, or criminal conduct. It also states that post-effective date obligations under the plan or related agreements are not released."
+      }
+    },
+    {
+      "chunk_id": "prose_p_22",
+      "text": "The capital structure of the Reorganized Debtor upon the Plan Effective Date shall consist of the new common\nstock to be issued by the Reorganized Debtor on the Plan Effective Date (the \u201c New Common Stock \u201d), distributed to (a)\u00a0the Holders of Unsecured Notes Claims and (b)\u00a0the Holders of Existing Equity Interests, and\nresulting in Pro Forma ownership percentages of (x)\u00a092.94% of the New Common Stock held by the Holders of Unsecured Notes Claims and (y)\u00a07.06% of the New Common Stock held by Holders of Existing Equity Interests, in each case\nsubject to dilution by (i)\u00a0the New Warrants, (ii)\u00a0the MIP Equity, and (iii)\u00a0the Post-Effective Date Equity Awards. 3",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Reorganized Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "issuer of New Common Stock upon Plan Effective Date"
+            }
+          },
+          {
+            "name": "New Common Stock",
+            "type": "other",
+            "attributes": {
+              "description": "new common stock to be issued on the Plan Effective Date"
+            }
+          },
+          {
+            "name": "Holders of Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "ownership_percentage": "92.94%",
+              "security": "New Common Stock"
+            }
+          },
+          {
+            "name": "Holders of Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "ownership_percentage": "7.06%",
+              "security": "New Common Stock"
+            }
+          },
+          {
+            "name": "New Warrants",
+            "type": "other",
+            "attributes": {
+              "dilution_effect": "dilutes New Common Stock ownership"
+            }
+          },
+          {
+            "name": "MIP Equity",
+            "type": "other",
+            "attributes": {
+              "dilution_effect": "dilutes New Common Stock ownership"
+            }
+          },
+          {
+            "name": "Post-Effective Date Equity Awards",
+            "type": "other",
+            "attributes": {
+              "dilution_effect": "dilutes New Common Stock ownership"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "92.94",
+            "type": "other",
+            "currency": "other",
+            "period": "Plan Effective Date"
+          },
+          {
+            "figure": "7.06",
+            "type": "other",
+            "currency": "other",
+            "period": "Plan Effective Date"
+          }
+        ],
+        "key_topics": [
+          "capital structure",
+          "reorganization plan",
+          "new common stock issuance",
+          "ownership allocation",
+          "equity dilution"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the Reorganized Debtor's capital structure on the Plan Effective Date, with New Common Stock distributed primarily to unsecured noteholders and existing equity holders, resulting in 92.94% and 7.06% pro forma ownership respectively, subject to dilution from warrants, MIP equity, and post-effective date equity awards."
+      }
+    },
+    {
+      "chunk_id": "prose_p_110",
+      "text": "\u201c Litigation Claims \u201d means the claims, rights of action, suits or proceedings, whether in law or in equity, whether known or unknown,\nthat the Debtor or its Estate may hold against any Person or Entity, in each case solely to the extent of the Debtor\u2019s or its Estate\u2019s interest therein. A non-exclusive list of the Litigation Claims held by the Debtor as of the Effective\nDate will be Filed with the Plan Supplement, which shall be deemed to include any derivative actions filed against the Debtor as of the Effective Date. For the avoidance of doubt, \u201cLitigation Claims\u201d shall exclude any Claims or Causes of\nAction subject to the Debtor Release set forth in Article X.B of the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "holder of Litigation Claims",
+              "includes": "its Estate",
+              "reference": "claims, rights of action, suits or proceedings held against any Person or Entity"
+            }
+          },
+          {
+            "name": "Estate",
+            "type": "other",
+            "attributes": {
+              "role": "estate of the Debtor",
+              "interest_limited_to": "Debtor\u2019s or its Estate\u2019s interest therein"
+            }
+          },
+          {
+            "name": "Person or Entity",
+            "type": "other",
+            "attributes": {
+              "role": "potential defendant or counterparty"
+            }
+          },
+          {
+            "name": "Plan Supplement",
+            "type": "other",
+            "attributes": {
+              "contains": "non-exclusive list of Litigation Claims held by the Debtor as of the Effective Date"
+            }
+          },
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "reference date for determining Litigation Claims list"
+            }
+          },
+          {
+            "name": "Debtor Release",
+            "type": "other",
+            "attributes": {
+              "reference": "Article X.B of the Plan",
+              "effect": "excludes certain Claims or Causes of Action from Litigation Claims"
+            }
+          },
+          {
+            "name": "Article X.B of the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "plan provision referenced for exclusions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of Litigation Claims",
+          "scope of claims and causes of action",
+          "Plan Supplement disclosure",
+          "derivative actions",
+          "Debtor Release exclusion"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines 'Litigation Claims' as the Debtor\u2019s or its Estate\u2019s claims, rights of action, suits, or proceedings against any person or entity, limited to their interest in such claims. It states that a non-exclusive list will be filed with the Plan Supplement, includes derivative actions filed as of the Effective Date, and excludes claims subject to the Debtor Release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_10",
+      "text": "The Plan implements the terms of a Restructuring Support Agreement, dated as of November\u00a012, 2024 (as may be amended, modified or\nsupplemented, the \u201c Restructuring Support Agreement \u201d), which the Debtor entered into with beneficial holders of approximately 97.6% of the Debtor\u2019s 0.750% unsecured convertible senior notes due 2026 (the\n\u201c Consenting Noteholders \u201d) and holders of approximately 5.9% of Existing Equity Interests (the \u201c Consenting Equity Interest Holders ,\u201d and collectively with the Consenting Noteholders, the\n\u201c Consenting Stakeholders \u201d). The Restructuring Support Agreement is the result of extensive good faith and arm\u2019s length negotiations among the Debtor and the Consenting Noteholders.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "date": "2024-11-12",
+              "amended_modified_or_supplemented": "yes",
+              "role": "agreement implemented by the Plan"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party to the Restructuring Support Agreement"
+            }
+          },
+          {
+            "name": "Consenting Noteholders",
+            "type": "other",
+            "attributes": {
+              "ownership_percentage": "97.6%",
+              "security": "0.750% unsecured convertible senior notes due 2026"
+            }
+          },
+          {
+            "name": "Consenting Equity Interest Holders",
+            "type": "other",
+            "attributes": {
+              "ownership_percentage": "5.9%",
+              "security": "Existing Equity Interests"
+            }
+          },
+          {
+            "name": "Consenting Stakeholders",
+            "type": "other",
+            "attributes": {
+              "includes": "Consenting Noteholders and Consenting Equity Interest Holders"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "97.6",
+            "type": "other",
+            "currency": "other",
+            "period": "as of agreement date"
+          },
+          {
+            "figure": "5.9",
+            "type": "other",
+            "currency": "other",
+            "period": "as of agreement date"
+          },
+          {
+            "figure": "0.750",
+            "type": "other",
+            "currency": "other",
+            "period": "notes due 2026"
+          }
+        ],
+        "key_topics": [
+          "restructuring support agreement",
+          "debt restructuring",
+          "consenting noteholders",
+          "existing equity interests",
+          "stakeholder negotiations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the Plan is based on a Restructuring Support Agreement dated November 12, 2024, entered into with holders of most of the debtor\u2019s unsecured convertible senior notes and a smaller portion of existing equity interests after extensive good-faith negotiations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_17",
+      "text": "The restructuring provided for in the Plan will leave the Debtor\u2019s business\nsubstantially intact while eliminating approximately $290.5\u00a0million of funded debt obligations, strengthening the Debtor\u2019s balance sheet and enhancing financial flexibility going forward. Importantly, the Plan provides for the\nsatisfaction of all trade and other non-funded debt claims in full, in the ordinary course of business . The Debtor will continue to operate in the normal course and its business operations will not be\ndisrupted by the restructuring process. The Debtor will have adequate liquidity to meet its financial obligations to vendors and suppliers, and expects to continue making payments to these parties without interruption.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "restructuring debtor",
+              "status": "business substantially intact after restructuring",
+              "operations": "continues in normal course"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring plan",
+              "effect": "eliminates funded debt obligations and satisfies trade and other non-funded debt claims in full"
+            }
+          },
+          {
+            "name": "vendors and suppliers",
+            "type": "other",
+            "attributes": {
+              "role": "trade counterparties",
+              "payment_status": "expected to be paid without interruption"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "290.5 million",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": null
+          }
+        ],
+        "key_topics": [
+          "debt restructuring",
+          "liability reduction",
+          "balance sheet strengthening",
+          "trade claims paid in full",
+          "business continuity",
+          "liquidity"
+        ],
+        "sentiment": "positive",
+        "summary": "The restructuring is expected to leave the Debtor\u2019s business largely intact while eliminating about $290.5 million of funded debt, fully paying trade and other non-funded claims, and allowing normal operations to continue with adequate liquidity."
+      }
+    },
+    {
+      "chunk_id": "prose_p_90",
+      "text": "Any Person or Entity that is required to File a Proof of Claim arising from the rejection of\nan Executory Contract or an Unexpired Lease that fails to timely do so shall be forever barred, estopped and enjoined from asserting such Claim, and such Claim shall not be enforceable, against the Debtor, the Reorganized Debtor, or the Estate, and\nthe Debtor, the Reorganized Debtor and its Estate, and their respective assets and property, shall be forever discharged from any and all indebtedness and liability with respect to such Claim unless otherwise ordered by the Bankruptcy Court or as\notherwise provided herein. All such Claims shall, as of the Effective Date, be subject to the permanent injunction set forth in Article X.F of the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party subject to claims and discharge"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "post-reorganization debtor protected from claims"
+            }
+          },
+          {
+            "name": "Estate",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy estate protected from claims"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court with authority to order otherwise"
+            }
+          },
+          {
+            "name": "Article X.F of the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "permanent injunction reference"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "proof of claim deadline",
+          "executory contract rejection",
+          "unexpired lease claims",
+          "claim bar and estoppel",
+          "discharge of indebtedness",
+          "permanent injunction"
+        ],
+        "sentiment": "negative",
+        "summary": "The section states that any party required to file a proof of claim for rejection of an executory contract or unexpired lease that misses the deadline is permanently barred from asserting the claim, which becomes unenforceable against the debtor, reorganized debtor, and estate, subject to limited court-ordered exceptions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_45",
+      "text": "On November\u00a012, 2024, the Debtor commenced solicitation of votes on the Plan from certain Holders of Class 3 Unsecured Notes\nClaims, in accordance with section 1125 of the Bankruptcy Code and within the meaning of section 1126 of the Bankruptcy Code. After the Petition Date, pursuant to the Order (I)\u00a0Scheduling Combined Hearing on (A)\u00a0Adequacy of Disclosure\nStatement and (B)\u00a0Confirmation of Plan; (II) Fixing Deadline to Object to Disclosure Statement and Plan; (III) Approving (A)\u00a0Solicitation Procedures, (B)\u00a0Form and Manner of Notice of Commencement, Combined Hearing, and Objection\nDeadline, and (C)\u00a0Notice of Non-Voting Status and Opt Out Opportunity; (IV) Conditionally Approving Disclosure Statement; (V)\u00a0Conditionally (A)\u00a0Directing the United States Trustee Not to Convene Section\u00a0341 Meeting of",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "commenced solicitation of votes on the Plan"
+            }
+          },
+          {
+            "name": "Class 3 Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "role": "holders were solicited for votes"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "sections_referenced": "1125, 1126"
+            }
+          },
+          {
+            "name": "United States Trustee",
+            "type": "other",
+            "attributes": {
+              "role": "referenced in order regarding section 341 meeting"
+            }
+          },
+          {
+            "name": "Petition Date",
+            "type": "other",
+            "attributes": {
+              "role": "reference point for post-petition actions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy plan solicitation",
+          "vote solicitation procedures",
+          "disclosure statement",
+          "confirmation hearing",
+          "class 3 unsecured notes claims",
+          "Bankruptcy Code sections 1125 and 1126"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that on November 12, 2024, the Debtor began soliciting votes on its Plan from holders of Class 3 Unsecured Notes Claims under the Bankruptcy Code, and references related post-petition court orders governing disclosure, solicitation, objections, and confirmation procedures."
+      }
+    },
+    {
+      "chunk_id": "prose_p_155",
+      "text": "NOTHING IN THE PLAN, COMBINED ORDER, OR OTHER RELATED PLAN DOCUMENTS SHALL AFFECT A\nRELEASE OF ANY CLAIM BY THE UNITED STATES GOVERNMENT OR ANY OF ITS AGENCIES OR ANY STATE AND LOCAL AUTHORITY WHATSOEVER, INCLUDING WITHOUT LIMITATION ANY CLAIM ARISING UNDER THE ENFORCEMENT, REGULATORY ACTIVITIES, OR POLICE POWERS OF SUCH\nGOVERNMENTAL AGENCIES, NOR SHALL ANYTHING IN THE PLAN, COMBINED ORDER, OR OTHER RELATED PLAN DOCUMENTS ENJOIN THE UNITED STATES OR ANY OF ITS AGENCIES OR ANY STATE AND LOCAL AUTHORITY WHATSOEVER FROM EXERCISING THE ENFORCEMENT, REGULATORY\nACTIVITIES, OR POLICE POWERS OF SUCH GOVERNMENTAL AGENCIES, NOR SHALL ANYTHING IN THE PLAN, COMBINED ORDER, OR OTHER RELATED PLAN DOCUMENTS EXCULPATE ANY PARTY OR PERSON IN CONNECTION WITH THE ENFORCEMENT, REGULATORY ACTIVITIES, OR POLICE POWERS OF\nSUCH GOVERNMENTAL AGENCIES.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "United States Government",
+            "type": "other",
+            "attributes": {
+              "role": "governmental authority referenced in non-release and non-injunction provisions"
+            }
+          },
+          {
+            "name": "United States agencies",
+            "type": "other",
+            "attributes": {
+              "role": "governmental agencies referenced in non-release and non-injunction provisions"
+            }
+          },
+          {
+            "name": "State and local authority",
+            "type": "other",
+            "attributes": {
+              "role": "governmental authorities referenced in non-release and non-injunction provisions"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "document referenced as not affecting governmental claims or powers"
+            }
+          },
+          {
+            "name": "Combined Order",
+            "type": "other",
+            "attributes": {
+              "role": "document referenced as not affecting governmental claims or powers"
+            }
+          },
+          {
+            "name": "Other related plan documents",
+            "type": "other",
+            "attributes": {
+              "role": "documents referenced as not affecting governmental claims or powers"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "government claims preservation",
+          "regulatory powers",
+          "police powers",
+          "non-release provisions",
+          "non-injunction provisions",
+          "exculpation limitations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that nothing in the plan, combined order, or related documents releases, enjoins, or exculpates claims or actions by the United States, its agencies, or state and local authorities in connection with enforcement, regulatory, or police powers."
+      }
+    },
+    {
+      "chunk_id": "prose_p_28",
+      "text": "Percentages to be fixed by reference to Market Price, calculated as the daily average price during the period\nfrom September\u00a023, 2024 until November\u00a08, 2024, such that Holders of Unsecured Notes Claims shall receive the percentage of all non-diluted New Common Stock corresponding to 75% of face value of Unsecured Notes divided by the sum of 75% of\nthe face value of Unsecured Notes and the product of the Market Price multiplied by a share count comprising Existing Equity Interests and existing RSUs (the \u201cNotes Percentage\u201d), and Holders of Existing Equity Interests shall receive 100%\nof the New Common Stock less the Notes Percentage. For the avoidance of doubt, all of the foregoing shall be subject to dilution by the MIP Awards, New Warrants, and Post-Effective Date Equity Awards. At a share count of 1,910,614 units (which\nincludes public equity and RSUs) and an illustrative Market Price of $9.14/share, the Notes Percentage is 92.94%.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Holders of Unsecured Notes Claims",
+            "type": "other",
+            "attributes": {
+              "entitlement": "Receive a percentage of all non-diluted New Common Stock based on the Notes Percentage formula"
+            }
+          },
+          {
+            "name": "Holders of Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "entitlement": "Receive 100% of the New Common Stock less the Notes Percentage"
+            }
+          },
+          {
+            "name": "Unsecured Notes",
+            "type": "other",
+            "attributes": {
+              "reference": "Used in the Notes Percentage calculation at 75% of face value"
+            }
+          },
+          {
+            "name": "Existing Equity Interests",
+            "type": "other",
+            "attributes": {
+              "reference": "Included in share count for Notes Percentage calculation"
+            }
+          },
+          {
+            "name": "RSUs",
+            "type": "other",
+            "attributes": {
+              "reference": "Included in share count for Notes Percentage calculation"
+            }
+          },
+          {
+            "name": "MIP Awards",
+            "type": "other",
+            "attributes": {
+              "effect": "Dilution of allocations"
+            }
+          },
+          {
+            "name": "New Warrants",
+            "type": "other",
+            "attributes": {
+              "effect": "Dilution of allocations"
+            }
+          },
+          {
+            "name": "Post-Effective Date Equity Awards",
+            "type": "other",
+            "attributes": {
+              "effect": "Dilution of allocations"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "75%",
+            "type": "other",
+            "currency": "other",
+            "period": "September 23, 2024 to November 8, 2024"
+          },
+          {
+            "figure": "1,910,614",
+            "type": "other",
+            "currency": "other",
+            "period": "illustrative"
+          },
+          {
+            "figure": "9.14",
+            "type": "other",
+            "currency": "USD",
+            "period": "illustrative"
+          },
+          {
+            "figure": "92.94%",
+            "type": "other",
+            "currency": "other",
+            "period": "illustrative"
+          }
+        ],
+        "key_topics": [
+          "equity distribution",
+          "notes recovery allocation",
+          "dilution",
+          "market price-based calculation",
+          "reorganization plan"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes how New Common Stock will be allocated between holders of unsecured notes claims and existing equity interests using a market-price-based formula, with the resulting percentages subject to dilution from specified awards. An illustrative example shows a Notes Percentage of 92.94% using a share count of 1,910,614 and a market price of $9.14 per share."
+      }
+    },
+    {
+      "chunk_id": "prose_p_92",
+      "text": "Unless otherwise provided in the Plan, each Executory Contract or Unexpired Lease that is assumed by the Debtor or the Reorganized Debtor shall\ninclude all modifications, amendments, supplements, restatements, or other agreements that in any manner affect such Executory Contract or Unexpired Lease, and all rights related thereto, if any, including all easements, licenses, permits, rights,\nprivileges, immunities, options, rights of first refusal, and any other interests, unless any of the foregoing has been previously rejected or repudiated or is rejected or repudiated hereunder. Modifications, amendments, supplements, and\nrestatements to prepetition Executory Contracts and Unexpired Leases that have been executed by the Debtor during the Chapter 11 Case shall not be deemed to alter the prepetition nature of the Executory Contract or Unexpired Lease, or the validity,\npriority, or amount of any Claims that may arise in connection therewith.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party in Chapter 11 case",
+              "context": "may assume Executory Contracts or Unexpired Leases"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "post-reorganization entity",
+              "context": "may assume Executory Contracts or Unexpired Leases"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan",
+              "context": "governs treatment of Executory Contracts and Unexpired Leases"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy proceeding",
+              "context": "period during which certain modifications were executed"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executory contracts",
+          "unexpired leases",
+          "assumption of contracts",
+          "modifications and amendments",
+          "rejection or repudiation",
+          "bankruptcy claims",
+          "Chapter 11"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that assumed executory contracts and unexpired leases include related modifications and associated rights unless previously or currently rejected or repudiated, and that postpetition modifications do not change the prepetition nature or claim validity, priority, or amount."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "On November\u00a013, 2024 (the \u201c Petition Date \u201d), Vroom, Inc. (\u201c Vroom \u201d or the\n\u201c Debtor \u201d) 1 commenced a case (the \u201c Chapter 11 Case \u201d) under chapter 11 of title 11 of the United States Code (the \u201c Bankruptcy\nCode \u201d) in the United States Bankruptcy Court for the Southern District of Texas (the \u201c Bankruptcy Court \u201d). On the Petition Date, the Debtor filed the Prepackaged Plan of Reorganization for Vroom, Inc. under\nChapter 11 of the Bankruptcy Code, dated November\u00a012, 2024 [Docket No.\u00a0[\u00a0\u2022\u00a0]] (as may be amended, modified, or supplemented from time to time, the \u201c Plan \u201d). 2 As set forth below, copies of the Plan, Disclosure Statement, Restructuring Support Agreement (as defined below), and related documents are available on the following website maintained by the\nDebtor\u2019s claims, balloting, and noticing agent, Kurtzman Carson Consultants, LLC d/b/a Verita Global (the\u00a0\u201c Solicitation Agent \u201d), in connection with the Chapter 11 Case: https://www.veritaglobal.net/vrm.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Vroom, Inc.",
+            "type": "company",
+            "attributes": {
+              "also_known_as": "Vroom",
+              "role": "Debtor",
+              "petition_date": "2024-11-13",
+              "case_type": "Chapter 11",
+              "jurisdiction": "United States Bankruptcy Court for the Southern District of Texas"
+            }
+          },
+          {
+            "name": "United States Bankruptcy Court for the Southern District of Texas",
+            "type": "location",
+            "attributes": {
+              "role": "bankruptcy court"
+            }
+          },
+          {
+            "name": "Kurtzman Carson Consultants, LLC d/b/a Verita Global",
+            "type": "company",
+            "attributes": {
+              "role": "claims, balloting, and noticing agent",
+              "also_known_as": "Verita Global"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "description": "Bankruptcy case commenced by Vroom, Inc. under chapter 11"
+            }
+          },
+          {
+            "name": "Prepackaged Plan of Reorganization for Vroom, Inc. under Chapter 11 of the Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "also_known_as": "Plan",
+              "date": "2024-11-12"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "mentioned_as": "defined below"
+            }
+          },
+          {
+            "name": "https://www.veritaglobal.net/vrm",
+            "type": "other",
+            "attributes": {
+              "description": "website hosting plan and related documents"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Chapter 11 bankruptcy filing",
+          "petition date",
+          "prepackaged reorganization plan",
+          "bankruptcy court proceedings",
+          "claims and solicitation agent",
+          "case documents website"
+        ],
+        "sentiment": "negative",
+        "summary": "Vroom, Inc. filed for Chapter 11 bankruptcy on November 13, 2024 in the Southern District of Texas and submitted a prepackaged reorganization plan, with related case documents made available through Verita Global's website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_51",
+      "text": "A combined hearing to consider approval of the Disclosure Statement and any objections thereto and to consider\nconfirmation of the Plan and any objection thereto will be held before the Honorable [\u00a0\u2022\u00a0], United States Bankruptcy Judge, in Courtroom [\u00a0\u2022\u00a0] of the United States Bankruptcy Court for the Southern District of Texas,\n515 Rusk Street, Houston, TX 77002, on [January 8], 2024 at [\u00a0\u2022\u00a0] _.m. (Prevailing Central Time) or as soon thereafter as counsel may be heard (the \u201c Combined Hearing \u201d). The Combined Hearing may be adjourned\nfrom time to time without further notice other than an announcement of the adjourned date or dates in open court or the filing of a notice or hearing agenda in the Chapter 11 Case, which would be available on the Solicitation Agent\u2019s website at\nhttps://www.veritaglobal.net/vrm (the \u201c Case Website \u201d). The Plan may be modified, if necessary, subject to section 1127 of the Bankruptcy Code, prior to, during, or as a result of the Combined Hearing, without further notice\nto parties in interest.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Honorable [\u2022]",
+            "type": "person",
+            "attributes": {
+              "role": "United States Bankruptcy Judge"
+            }
+          },
+          {
+            "name": "United States Bankruptcy Court for the Southern District of Texas",
+            "type": "location",
+            "attributes": {
+              "courtroom": "Courtroom [\u2022]",
+              "address": "515 Rusk Street, Houston, TX 77002"
+            }
+          },
+          {
+            "name": "Houston",
+            "type": "location",
+            "attributes": {
+              "state": "TX",
+              "postal_code": "77002"
+            }
+          },
+          {
+            "name": "Solicitation Agent",
+            "type": "other",
+            "attributes": {
+              "website": "https://www.veritaglobal.net/vrm"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "case_website": "https://www.veritaglobal.net/vrm"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "combined hearing",
+          "disclosure statement approval",
+          "plan confirmation",
+          "bankruptcy proceedings",
+          "hearing adjournment",
+          "plan modification",
+          "Chapter 11 case"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section announces a combined bankruptcy hearing to consider approval of the Disclosure Statement and confirmation of the Plan, provides the hearing location and date, and notes that the hearing may be adjourned or the Plan modified without further notice."
+      }
+    },
+    {
+      "chunk_id": "prose_p_103",
+      "text": "known, unknown, foreseen or unforeseen, existing or hereafter arising, contingent or non-contingent, matured or unmatured, suspected or unsuspected, liquidated or unliquidated, disputed or\nundisputed, secured or unsecured, assertable directly or derivatively (including any alter ego theories), whether arising before, on, or after the Petition Date, in contract or in tort, in law or in equity or pursuant to any other theory of law\n(including under any state or federal securities laws). For the avoidance of doubt, Causes of Action also include: (a)\u00a0any right of setoff, counterclaim or recoupment and any claim for breach of contract or for breach of duties imposed by law\nor in equity; (b)\u00a0the right to object to Claims or Equity Interests; (c)\u00a0any claim pursuant to section 362 or chapter 5 of the Bankruptcy Code; (d)\u00a0any claim or defense including fraud, mistake, duress and usury and any other defenses\nset forth in section 558 of the Bankruptcy Code; (e)\u00a0any state law fraudulent transfer claim; and (f)\u00a0any Avoidance Actions.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Causes of Action",
+            "type": "other",
+            "attributes": {
+              "description": "Broadly defined to include known and unknown claims, rights, defenses, and actions arising before, on, or after the Petition Date, including contract, tort, equity, securities law, setoff, counterclaim, recoupment, objections to claims or equity interests, bankruptcy code claims, defenses under section 558, state law fraudulent transfer claims, and avoidance actions."
+            }
+          },
+          {
+            "name": "Petition Date",
+            "type": "other",
+            "attributes": {
+              "description": "Reference date used to describe when claims or actions may arise."
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "description": "Referenced legal framework including sections 362, 558, and chapter 5."
+            }
+          },
+          {
+            "name": "Claims",
+            "type": "other",
+            "attributes": {
+              "description": "Referenced as objects to which there may be a right to object."
+            }
+          },
+          {
+            "name": "Equity Interests",
+            "type": "other",
+            "attributes": {
+              "description": "Referenced as objects to which there may be a right to object."
+            }
+          },
+          {
+            "name": "Avoidance Actions",
+            "type": "other",
+            "attributes": {
+              "description": "Included within the definition of Causes of Action."
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of causes of action",
+          "bankruptcy claims and defenses",
+          "setoff, counterclaim, and recoupment",
+          "fraudulent transfer claims",
+          "avoidance actions",
+          "objections to claims and equity interests"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section broadly defines Causes of Action to include virtually all claims, rights, defenses, and legal theories, whether known or unknown and arising before, on, or after the Petition Date, including bankruptcy-related claims, fraudulent transfer claims, and avoidance actions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_84",
+      "text": "Any monetary defaults under each Executory Contract and Unexpired Lease to be assumed\npursuant to the Plan shall be satisfied, pursuant to section 365(b)(1) of the Bankruptcy Code, by payment of the default amount in Cash on the Effective Date or on such other terms as the parties to such Executory Contracts or Unexpired Leases may\notherwise agree. In the event of a dispute regarding: (a)\u00a0the amount of any Cure Claim; (b)\u00a0the ability of the Reorganized Debtor to provide \u201cadequate assurance of future performance\u201d (within the meaning of section 365 of the\nBankruptcy Code), if applicable, under the Executory Contract or the Unexpired Lease to be assumed; or (c)\u00a0any other matter pertaining to assumption, the Cure Claims shall be paid following the entry of a Final Order resolving the dispute and\napproving the assumption of such Executory Contracts or Unexpired Leases; provided , that after the Confirmation Date, the Debtor or the Reorganized Debtor, as applicable, may settle any dispute regarding the amount of any Cure Claim without\nany further notice to or action, order or approval of the Bankruptcy Court.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Executory Contract",
+            "type": "other",
+            "attributes": {
+              "context": "Contract to be assumed pursuant to the Plan"
+            }
+          },
+          {
+            "name": "Unexpired Lease",
+            "type": "other",
+            "attributes": {
+              "context": "Lease to be assumed pursuant to the Plan"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "reference": "Section 365(b)(1) and Section 365"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "context": "Entity responsible for providing adequate assurance of future performance, if applicable"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "context": "May settle disputes regarding Cure Claims after the Confirmation Date"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "context": "May issue Final Order resolving disputes and approving assumption"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "default amount",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "Effective Date or as otherwise agreed"
+          },
+          {
+            "figure": "Cure Claim",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "upon resolution of dispute / assumption"
+          }
+        ],
+        "key_topics": [
+          "assumption of executory contracts and unexpired leases",
+          "cure payments",
+          "default amounts",
+          "adequate assurance of future performance",
+          "dispute resolution",
+          "bankruptcy plan confirmation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that monetary defaults under assumed executory contracts and unexpired leases must be cured in cash on the Effective Date or on agreed terms, and that disputed cure claims or assumption issues are resolved by final court order before payment, with post-confirmation settlement allowed without further court action."
+      }
+    },
+    {
+      "chunk_id": "prose_p_80",
+      "text": "To the extent any provision in any Executory Contract or Unexpired Lease assumed or assumed\nand assigned (as applicable) pursuant to the Plan or any prior order of the Bankruptcy Court (including, without limitation, any \u201cchange of control\u201d provision) prohibits, restricts or conditions, or purports to prohibit, restrict or\ncondition, or is modified, breached or terminated, or deemed modified, breached or terminated by, (a)\u00a0the commencement of the Chapter 11 Case or the insolvency or financial condition of the Debtor at any time before the closing of the\nChapter\u00a011 Case, (b)\u00a0the Debtor\u2019s or the Reorganized Debtor\u2019s assumption or assumption and assignment (as applicable) of such Executory Contract or Unexpired Lease or (c)\u00a0the Confirmation or Consummation of the Plan, then\nsuch provision shall be deemed modified such that the transactions contemplated by the Plan shall not entitle the non-Debtor party thereto to modify or terminate such Executory Contract or Unexpired Lease or to exercise any other default-related\nrights or remedies with respect thereto, and any required consent under any such contract or lease shall be deemed satisfied by the Confirmation of the Plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Executory Contract",
+            "type": "other",
+            "attributes": {
+              "context": "Contract assumed or assumed and assigned under the Plan or prior Bankruptcy Court order"
+            }
+          },
+          {
+            "name": "Unexpired Lease",
+            "type": "other",
+            "attributes": {
+              "context": "Lease assumed or assumed and assigned under the Plan or prior Bankruptcy Court order"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "context": "Bankruptcy proceeding referenced in the Plan"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "context": "Party subject to the Chapter 11 Case"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "context": "Entity after confirmation/consummation of the Plan"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "context": "Court issuing orders related to assumption and assignment"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "Chapter 11 reorganization plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "bankruptcy",
+          "Chapter 11",
+          "assumption of contracts",
+          "assumption and assignment of leases",
+          "change of control provisions",
+          "default-related rights",
+          "consent deemed satisfied",
+          "confirmation and consummation of plan"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides that certain contract or lease provisions, including change-of-control clauses, are deemed modified so they cannot be used to block assumption, assignment, or the Plan\u2019s transactions, and any required consent is deemed satisfied upon confirmation of the Plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_119",
+      "text": "\u201c Released Parties \u201d means collectively: (a)\u00a0the Debtor; (b)\u00a0the Reorganized Debtor; (c)\u00a0the Debtor\u2019s current and\nformer officers, directors, and managers; (d)\u00a0the Consenting Stakeholders; (e)\u00a0the Unsecured Notes Indenture Trustee; and (f)\u00a0with respect to each of the foregoing Entities in clauses (a)\u00a0through (e), such Entity and its current\nand former Affiliates, and such Entities\u2019 and their current and former Affiliates\u2019 current and former directors, managers, officers, equity holders (regardless of whether such interests are held directly or indirectly), interest holders,\npredecessors, participants, successors, and assigns, subsidiaries, affiliates, managed accounts or funds, and each of their respective current and former equity holders, officers, directors, managers, principals, shareholders, members, management\ncompanies, fund advisors, employees, agents, advisory board members, financial advisors, partners, attorneys, accountants, investment bankers, underwriters of any securities issued by the Debtor, consultants, representatives, and other\nprofessionals; provided, that any Entity that would otherwise be a \u201cReleased Party\u201d that votes to reject the Plan, objects to the Plan, or objects to or opts out of the Third-Party Release contained in the Plan, shall not be a\n\u201cReleased Party.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "included in Released Parties"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "included in Released Parties"
+            }
+          },
+          {
+            "name": "Debtor's current and former officers, directors, and managers",
+            "type": "other",
+            "attributes": {
+              "role": "included in Released Parties"
+            }
+          },
+          {
+            "name": "Consenting Stakeholders",
+            "type": "other",
+            "attributes": {
+              "role": "included in Released Parties"
+            }
+          },
+          {
+            "name": "Unsecured Notes Indenture Trustee",
+            "type": "other",
+            "attributes": {
+              "role": "included in Released Parties"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Released Parties definition",
+          "bankruptcy plan release provisions",
+          "third-party release opt-out",
+          "excluded parties"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the term \"Released Parties\" to include the Debtor, Reorganized Debtor, certain officers and managers, Consenting Stakeholders, the Unsecured Notes Indenture Trustee, and related affiliates and professionals, but excludes any such entity that votes to reject the Plan, objects to the Plan, or opts out of the Third-Party Release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_120",
+      "text": "\u201c Releasing Parties \u201d means collectively: (a)\u00a0the Released Parties; (b)\u00a0all Holders of Claims\nand Equity Interests that vote to accept the Plan; (c)\u00a0all Holders of Claims and Equity Interests that abstain from voting on the Plan and who do not affirmatively opt out of the releases provided by the Plan by checking the box on the\napplicable form indicating that they opt not to grant the releases provided in the Plan; (d)\u00a0all Holders of Claims and Equity Interests that (i)\u00a0vote to reject the Plan or (ii)\u00a0are presumed to accept the Plan and who do not\naffirmatively opt out of the releases provided by the Plan by checking the box on the applicable form indicating that they opt not to grant the releases provided in the Plan in accordance with the procedures set forth in the Solicitation Procedures\nOrder; and (e)\u00a0with respect to the Debtor, the Reorganized Debtor, and each of the foregoing Entities in clauses (a)\u00a0through (d), such Entity and its current and former Affiliates, and such Entities\u2019 and their current and former\nAffiliates\u2019 current and former directors, managers, officers, equity holders (regardless of whether such interests are held directly or indirectly), interest holders, predecessors, successors, and assigns, subsidiaries, affiliates, managed\naccounts or funds, and each of their respective current and former equity holders, officers, directors, managers, principals, shareholders, members, management companies, fund advisors, employees, agents, advisory board members, financial advisors,\npartners, attorneys, accountants, investment bankers, underwriters of any securities issued by the Debtor, consultants, representatives, and other professionals, each in their capacity as such collectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Releasing Parties",
+            "type": "other",
+            "attributes": {
+              "definition": "Collective term including Released Parties, certain Holders of Claims and Equity Interests, the Debtor, the Reorganized Debtor, and related affiliates and representatives as described in clauses (a) through (e)."
+            }
+          },
+          {
+            "name": "Released Parties",
+            "type": "other",
+            "attributes": {
+              "role": "Included within Releasing Parties"
+            }
+          },
+          {
+            "name": "Holders of Claims and Equity Interests",
+            "type": "other",
+            "attributes": {
+              "role": "Includes parties that vote to accept, abstain without opting out, reject, or are presumed to accept the Plan and do not opt out"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "Referenced bankruptcy plan governing releases and voting"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "Referenced entity subject to releases"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "company",
+            "attributes": {
+              "role": "Referenced post-reorganization entity subject to releases"
+            }
+          },
+          {
+            "name": "Solicitation Procedures Order",
+            "type": "other",
+            "attributes": {
+              "role": "Referenced order governing solicitation and opt-out procedures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definition of Releasing Parties",
+          "bankruptcy plan releases",
+          "opt-out procedures",
+          "voting on the Plan",
+          "affiliates and related persons included in releases"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines 'Releasing Parties' broadly to include released parties, certain claim and equity holders based on their voting or opt-out status, and extensive related affiliates, representatives, and professionals of the Debtor and Reorganized Debtor."
+      }
+    },
+    {
+      "chunk_id": "prose_p_151",
+      "text": "NO PERSON OR ENTITY MAY COMMENCE OR PURSUE A\nCLAIM OR CAUSE OF ACTION, AS APPLICABLE, OF ANY KIND AGAINST THE DEBTOR, THE REORGANIZED DEBTOR, THE EXCULPATED PARTY, OR THE RELEASED PARTIES, AS APPLICABLE, THAT RELATES TO OR IS REASONABLY LIKELY TO RELATE TO ANY ACT OR OMISSION IN CONNECTION\nWITH, RELATING TO, OR ARISING OUT OF A CLAIM OR CAUSE OF ACTION, AS APPLICABLE, SUBJECT TO ARTICLE X.B , ARTICLE X.C , ARTICLE X.D , ARTICLE X.E , AND ARTICLE\u00a0X.F OF THE PLAN, WITHOUT THE BANKRUPTCY COURT\n(A)\u00a0FIRST DETERMINING, AFTER NOTICE AND A HEARING, THAT SUCH CLAIM OR CAUSE OF ACTION, AS APPLICABLE, REPRESENTS A COLORABLE CLAIM OF ANY KIND, AND (B)\u00a0SPECIFICALLY AUTHORIZING SUCH PERSON OR ENTITY TO BRING SUCH CLAIM OR CAUSE OF ACTION,\nAS APPLICABLE, AGAINST THE DEBTOR, THE REORGANIZED DEBTOR, THE EXCULPATED PARTY, OR ANY RELEASED PARTY, AS APPLICABLE. AT THE HEARING FOR THE BANKRUPTCY COURT TO DETERMINE WHETHER SUCH CLAIM OR CAUSE OF ACTION REPRESENTS A COLORABLE CLAIM OF ANY\nKIND, THE BANKRUPTCY COURT MAY, OR SHALL IF THE DEBTOR, THE REORGANIZED DEBTOR, THE EXCULPATED PARTY, ANY RELEASED PARTY, OR OTHER PARTY IN INTEREST REQUESTS BY MOTION (ORAL MOTION BEING SUFFICIENT), DIRECT THAT SUCH PERSON OR ENTITY SEEKING TO\nCOMMENCE OR PURSUE SUCH CLAIM OR CAUSE OF ACTION FILE A PROPOSED COMPLAINT WITH THE BANKRUPTCY COURT EMBODYING SUCH CLAIM OR CAUSE OF ACTION, SUCH COMPLAINT SATISFYING THE APPLICABLE RULES OF FEDERAL PROCEDURE, INCLUDING, BUT NOT LIMITED TO, RULE 8\nAND RULE 9 (AS APPLICABLE), WHICH THE BANKRUPTCY COURT SHALL ASSESS BEFORE MAKING A DETERMINATION. FOR THE AVOIDANCE OF DOUBT, ANY PARTY THAT OBTAINS SUCH DETERMINATION AND AUTHORIZATION AND SUBSEQUENTLY WISHES TO AMEND THE AUTHORIZED COMPLAINT OR\nPETITION TO ADD ANY CLAIMS OR CAUSES OF ACTION NOT EXPLICITLY INCLUDED IN THE AUTHORIZED COMPLAINT OR PETITION MUST OBTAIN AUTHORIZATION FROM THE BANKRUPTCY COURT BEFORE FILING ANY SUCH AMENDMENT IN THE COURT WHERE SUCH COMPLAINT OR PETITION IS\nPENDING. THE BANKRUPTCY COURT RESERVES JURISDICTION TO ADJUDICATE ANY SUCH CLAIMS TO THE MAXIMUM EXTENT PROVIDED BY THE LAW.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party protected from claims"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party protected from claims"
+            }
+          },
+          {
+            "name": "Exculpated Party",
+            "type": "other",
+            "attributes": {
+              "role": "party protected from claims"
+            }
+          },
+          {
+            "name": "Released Parties",
+            "type": "other",
+            "attributes": {
+              "role": "party protected from claims"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court with authorization and jurisdiction over claims"
+            }
+          },
+          {
+            "name": "Article X.B, Article X.C, Article X.D, Article X.E, and Article X.F of the Plan",
+            "type": "other",
+            "attributes": {
+              "role": "referenced plan provisions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "claims authorization",
+          "bankruptcy court approval",
+          "colorable claim standard",
+          "complaint filing requirements",
+          "amendment restrictions",
+          "jurisdiction reservation",
+          "releases and exculpation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section restricts parties from bringing claims against the debtor, reorganized debtor, exculpated party, or released parties unless the bankruptcy court first finds the claim colorable and specifically authorizes it after notice and a hearing. It also requires court approval before amending authorized claims and reserves jurisdiction to adjudicate such matters."
+      }
+    },
+    {
+      "chunk_id": "prose_p_129",
+      "text": "AS OF THE EFFECTIVE DATE, EXCEPT FOR THE RIGHTS THAT REMAIN IN EFFECT FROM AND AFTER THE EFFECTIVE DATE TO ENFORCE THE PLAN AND THE OBLIGATIONS CONTEMPLATED\nBY THE PLAN AND THE RESTRUCTURING DOCUMENTS, OR AS OTHERWISE PROVIDED IN ANY ORDER OF THE BANKRUPTCY COURT, ON AND AFTER THE EFFECTIVE DATE, THE RELEASED PARTIES WILL BE DEEMED CONCLUSIVELY, ABSOLUTELY, UNCONDITIONALLY, IRREVOCABLY, AND FOREVER\nRELEASED, TO THE MAXIMUM EXTENT PERMITTED BY LAW, BY THE DEBTOR, THE REORGANIZED DEBTOR, AND THE ESTATE, IN EACH CASE ON BEHALF OF THEMSELVES AND THEIR RESPECTIVE SUCCESSORS, ASSIGNS, AND REPRESENTATIVES AND ANY AND ALL OTHER PERSONS THAT MAY\nPURPORT TO ASSERT ANY CAUSES OF ACTION DERIVATIVELY, BY OR THROUGH THE FOREGOING PERSONS, FROM ANY AND ALL CLAIMS AND CAUSES OF ACTION (INCLUDING ANY DERIVATIVE CLAIMS, ASSERTED OR ASSERTABLE ON BEHALF OF THE DEBTOR, THE REORGANIZED DEBTOR, OR THE\nESTATE), WHETHER LIQUIDATED OR UNLIQUIDATED, FIXED OR CONTINGENT, MATURED OR UNMATURED, KNOWN OR UNKNOWN, FORESEEN OR UNFORESEEN, ASSERTED OR UNASSERTED, ACCRUED OR UNACCRUED, EXISTING OR HEREINAFTER ARISING, WHETHER IN LAW OR EQUITY, WHETHER\nSOUNDING IN TORT OR CONTRACT, WHETHER ARISING UNDER FEDERAL OR STATE STATUTORY OR COMMON LAW, OR ANY OTHER APPLICABLE INTERNATIONAL, FOREIGN, OR DOMESTIC LAW, RULE, STATUTE, REGULATION, TREATY, RIGHT, DUTY, REQUIREMENT OR OTHERWISE, THAT THE DEBTOR,\nTHE REORGANIZED DEBTOR, THE ESTATE, OR THEIR AFFILIATES WOULD HAVE BEEN LEGALLY ENTITLED TO ASSERT IN THEIR OWN RIGHT (WHETHER INDIVIDUALLY OR COLLECTIVELY) OR ON BEHALF OF THE HOLDER OF ANY CLAIM OR EQUITY INTEREST OR OTHER PERSON (COLLECTIVELY,\nTHE \u201c DEBTOR RELEASED CLAIMS \u201d), BASED ON OR RELATING TO, OR IN ANY MANNER ARISING FROM, IN WHOLE OR IN PART, (A)\u00a0THE DEBTOR, THE DEBTOR\u2019S CAPITAL STRUCTURE, THE REORGANIZED DEBTOR, THE ESTATE, THE CHAPTER 11\nCASE (INCLUDING THE FILING THEREOF), THE DISCLOSURE STATEMENT, THEE PLAN (INCLUDING THE PLAN SUPPLEMENT), THE RESTRUCTURING SUPPORT AGREEMENT (AND ANY ANNEXES, EXHIBITS, AND TERM SHEETS ATTACHED THERETO), AND THE UNSECURED NOTES AND UNSECURED NOTES\nDOCUMENTS, (B)\u00a0THE SUBJECT MATTER OF, OR THE TRANSACTIONS OR EVENTS GIVING RISE TO, ANY CLAIM",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "released party / releasing party",
+              "context": "Chapter 11 plan and restructuring"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "released party / releasing party",
+              "context": "Post-effective-date entity"
+            }
+          },
+          {
+            "name": "Estate",
+            "type": "other",
+            "attributes": {
+              "role": "released party / releasing party",
+              "context": "Bankruptcy estate"
+            }
+          },
+          {
+            "name": "Bankruptcy Court",
+            "type": "other",
+            "attributes": {
+              "role": "court",
+              "context": "May issue orders affecting the release"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy proceeding"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "plan-related document"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan"
+            }
+          },
+          {
+            "name": "Plan Supplement",
+            "type": "other",
+            "attributes": {
+              "role": "supplement to plan"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring agreement"
+            }
+          },
+          {
+            "name": "Unsecured Notes",
+            "type": "other",
+            "attributes": {
+              "role": "debt instrument"
+            }
+          },
+          {
+            "name": "Unsecured Notes Documents",
+            "type": "other",
+            "attributes": {
+              "role": "related debt documents"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "release of claims",
+          "bankruptcy plan effectiveness",
+          "debtor releases",
+          "reorganized debtor",
+          "chapter 11 restructuring",
+          "claims and causes of action waiver",
+          "plan-related documents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides a broad post-effective-date release of claims in favor of the released parties, covering the debtor, reorganized debtor, and estate, subject to the plan, restructuring documents, and any bankruptcy court order."
+      }
+    },
+    {
+      "chunk_id": "prose_p_133",
+      "text": "OR EQUITY INTEREST THAT IS TREATED IN THE PLAN, (C)\u00a0THE BUSINESS OR CONTRACTUAL ARRANGEMENTS BETWEEN THE DEBTOR AND ANY RELEASED PARTIES, (D)\u00a0THE NEGOTIATION, FORMULATION OR PREPARATION\nOF THE DISCLOSURE STATEMENT, THE PLAN (INCLUDING THE PLAN SUPPLEMENT), THE RESTRUCTURING SUPPORT AGREEMENT (AND ANY ANNEXES, EXHIBITS, AND TERM SHEETS ATTACHED THERETO), THE NEW WARRANTS DOCUMENTS, THE PLAN SECURITIES AND ANY RELATED DOCUMENTATION,\nTHE NEW GOVERNANCE DOCUMENTS, AND ANY OTHER RESTRUCTURING DOCUMENTS, OR RELATED AGREEMENTS, INSTRUMENTS OR OTHER DOCUMENTS, (E)\u00a0THE RESTRUCTURING OF CLAIMS OR EQUITY INTERESTS PRIOR TO OR DURING THE CHAPTER 11 CASE, (F)\u00a0THE PURCHASE, SALE,\nOR RESCISSION OF THE PURCHASE OR SALE OF ANY EQUITY INTEREST OR PLAN SECURITIES OF THE DEBTOR OR THE REORGANIZED DEBTOR, (G)\u00a0THE CONFIRMATION OR CONSUMMATION OF THE PLAN OR THE SOLICITATION OF VOTES ON THE PLAN, AND/OR (H)\u00a0ANY OTHER ACT OR\nOMISSION; PROVIDED , THAT THE FOREGOING \u201c DEBTOR RELEASE \u201d SHALL NOT OPERATE TO WAIVE OR RELEASE, AND THE \u201cDEBTOR RELEASED CLAIMS\u201d SHALL NOT INCLUDE, ANY CAUSE OF ACTION OF THE DEBTOR OR ITS\nESTATE: (1)\u00a0AGAINST A RELEASED PARTY ARISING FROM ANY OBLIGATIONS OWED TO THE DEBTOR PURSUANT TO AN EXECUTORY CONTRACT OR UNEXPIRED LEASE THAT IS NOT OTHERWISE REJECTED BY THE DEBTOR PURSUANT TO SECTION\u00a0365 OF THE BANKRUPTCY CODE BEFORE,\nAFTER, OR AS OF THE EFFECTIVE DATE; (2)\u00a0EXPRESSLY SET FORTH IN AND PRESERVED BY THE PLAN OR RELATED DOCUMENTS; (3)\u00a0THAT IS OF A COMMERCIAL NATURE AND ARISING IN THE ORDINARY COURSE OF BUSINESS, SUCH AS ACCOUNTS RECEIVABLE AND ACCOUNTS\nPAYABLE ON ACCOUNT OF GOODS AND SERVICES BEING PERFORMED; (4)\u00a0AGAINST A HOLDER OF A DISPUTED CLAIM TO THE EXTENT NECESSARY TO ADMINISTER AND RESOLVE SUCH DISPUTED CLAIM SOLELY IN ACCORDANCE WITH THE PLAN; OR (5)\u00a0ARISING FROM AN ACT OR\nOMISSION THAT IS JUDICIALLY DETERMINED BY A FINAL ORDER TO HAVE CONSTITUTED ACTUAL FRAUD, GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR CRIMINAL CONDUCT. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE FOREGOING, THE \u201cDEBTOR RELEASE\u201d SET FORTH\nABOVE DOES NOT RELEASE ANY POST-EFFECTIVE DATE OBLIGATIONS OF ANY ENTITY UNDER THE PLAN OR ANY DOCUMENT, INSTRUMENT OR AGREEMENT EXECUTED IN CONNECTION WITH THE PLAN WITH RESPECT TO THE DEBTOR, THE REORGANIZED DEBTOR, OR THE ESTATE.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "party to the plan and debtor release",
+              "context": "Referenced as the entity whose claims, equity interests, and obligations are addressed in the release provisions"
+            }
+          },
+          {
+            "name": "Released Parties",
+            "type": "other",
+            "attributes": {
+              "role": "released persons/entities under the debtor release",
+              "context": "Parties covered by the release, subject to stated carve-outs"
+            }
+          },
+          {
+            "name": "Estate",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy estate",
+              "context": "Claims of the debtor or its estate are addressed in the release limitations"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy proceeding",
+              "context": "Referenced as the restructuring context"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "role": "statutory framework",
+              "context": "Section 365 is referenced regarding executory contracts and unexpired leases"
+            }
+          },
+          {
+            "name": "Effective Date",
+            "type": "other",
+            "attributes": {
+              "role": "plan effective date",
+              "context": "Used as a cutoff for certain obligations and claims"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "reorganization plan",
+              "context": "Includes the Plan Supplement and governs releases and restructuring documents"
+            }
+          },
+          {
+            "name": "Plan Supplement",
+            "type": "other",
+            "attributes": {
+              "role": "supplement to the plan",
+              "context": "Referenced as part of the plan-related documents"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "plan disclosure document",
+              "context": "Referenced in connection with negotiation and preparation"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring agreement",
+              "context": "Includes annexes, exhibits, and term sheets"
+            }
+          },
+          {
+            "name": "New Warrants Documents",
+            "type": "other",
+            "attributes": {
+              "role": "transaction documents",
+              "context": "Referenced as related restructuring documents"
+            }
+          },
+          {
+            "name": "Plan Securities",
+            "type": "other",
+            "attributes": {
+              "role": "securities issued under the plan",
+              "context": "Referenced in connection with purchase, sale, or rescission"
+            }
+          },
+          {
+            "name": "New Governance Documents",
+            "type": "other",
+            "attributes": {
+              "role": "governance documents",
+              "context": "Referenced as related restructuring documents"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "post-reorganization entity",
+              "context": "Referenced in relation to post-effective date obligations"
+            }
+          },
+          {
+            "name": "Section 365",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy code provision",
+              "context": "Relates to rejection of executory contracts and unexpired leases"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Debtor release",
+          "Bankruptcy reorganization",
+          "Plan-related documents",
+          "Claims and equity interest releases",
+          "Carve-outs and exceptions to release",
+          "Executory contracts and unexpired leases",
+          "Post-effective date obligations",
+          "Chapter 11 proceedings"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes a broad debtor release in a Chapter 11 plan, covering claims related to the restructuring process and related documents, while carving out specific exceptions such as certain contract obligations, preserved claims, ordinary-course commercial claims, disputed claim administration, and conduct involving fraud or misconduct."
+      }
+    },
+    {
+      "chunk_id": "prose_p_145",
+      "text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, AND WITHOUT AFFECTING OR LIMITING THE RELEASES SET FORTH IN ARTICLE X.B OF THE PLAN, EFFECTIVE AS\nOF THE EFFECTIVE DATE, THE EXCULPATED PARTY SHALL NEITHER HAVE NOR INCUR ANY LIABILITY TO ANY PERSON OR ENTITY FOR ANY CLAIMS, CAUSES OF ACTION OR FOR ANY ACT TAKEN OR OMITTED TO BE TAKEN ON OR AFTER THE PETITION DATE AND PRIOR TO OR ON THE\nEFFECTIVE DATE IN CONNECTION WITH OR ARISING OUT OF: (A)\u00a0THE ADMINISTRATION OF THE CHAPTER\u00a011 CASE, COMMENCEMENT OF THE CHAPTER 11 CASE, PURSUIT OF CONFIRMATION AND CONSUMMATION OF THE PLAN, MAKING DISTRIBUTIONS, THE DISCLOSURE STATEMENT,\nTHE RESTRUCTURING TRANSACTIONS, THE NEW WARRANTS DOCUMENTS, OR THE SOLICITATION OF VOTES FOR, OR CONFIRMATION OF, THE PLAN; (B)\u00a0THE OCCURRENCE OF THE EFFECTIVE DATE; (C)\u00a0THE ADMINISTRATION OF THE PLAN OR THE PROPERTY TO BE DISTRIBUTED\nUNDER THE PLAN; (D)\u00a0THE ISSUANCE OF SECURITIES UNDER OR IN CONNECTION WITH THE PLAN; (E)\u00a0THE PURCHASE, SALE, OR RESCISSION OF THE PURCHASE OR SALE OF ANY ASSET OR SECURITY OF THE DEBTOR; OR (F)\u00a0THE TRANSACTIONS IN FURTHERANCE OF ANY\nOF THE FOREGOING; PROVIDED , THAT NONE OF THE FOREGOING PROVISIONS SHALL OPERATE TO WAIVE OR RELEASE (X)\u00a0ANY CLAIMS OR CAUSES OF ACTION ARISING OUT OF OR RELATED TO ANY ACT OR OMISSION OF THE EXCULPATED PARTY THAT\nCONSTITUTES INTENTIONAL FRAUD, CRIMINAL CONDUCT, OR WILLFUL MISCONDUCT, AS DETERMINED BY A FINAL ORDER, AND (Y)\u00a0THE EXCULPATED PARTY\u2019S RIGHTS AND OBLIGATIONS UNDER THE PLAN, THE RESTRUCTURING DOCUMENTS, AND THE COMBINED ORDER, BUT IN ALL\nRESPECTS SUCH PERSONS WILL BE ENTITLED TO REASONABLY RELY UPON THE ADVICE OF COUNSEL WITH RESPECT TO THEIR DUTIES AND RESPONSIBILITIES PURSUANT TO THE PLAN. THE EXCULPATED PARTY HAS ACTED IN COMPLIANCE WITH THE APPLICABLE PROVISIONS OF THE\nBANKRUPTCY CODE WITH REGARD TO THE SOLICITATION OF VOTES ON THE PLAN AND, THEREFORE, ARE NOT, AND WILL NOT BE, LIABLE AT ANY TIME FOR THE VIOLATION OF ANY APPLICABLE LAW, RULE, OR REGULATION GOVERNING THE SOLICITATION OF ACCEPTANCES OR REJECTIONS OF\nTHE PLAN OR DISTRIBUTIONS MADE PURSUANT TO THE PLAN. THE EXCULPATION WILL BE IN ADDITION TO, AND NOT IN LIMITATION OF, ALL OTHER RELEASES, INDEMNITIES, EXCULPATIONS, AND ANY OTHER APPLICABLE LAW OR RULES PROTECTING SUCH EXCULPATED PARTY FROM\nLIABILITY.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Exculpated Party",
+            "type": "other",
+            "attributes": {
+              "role": "Protected party under the Chapter 11 Plan",
+              "liability_scope": "No liability for specified acts or omissions occurring on or after the petition date and on or before the effective date, subject to exceptions",
+              "exceptions": "Intentional fraud, criminal conduct, or willful misconduct as determined by a final order; rights and obligations under the Plan, Restructuring Documents, and Combined Order"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "context": "Bankruptcy proceeding referenced in the Plan"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "context": "Chapter 11 reorganization plan"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "context": "Document related to the Plan solicitation and confirmation process"
+            }
+          },
+          {
+            "name": "New Warrants Documents",
+            "type": "other",
+            "attributes": {
+              "context": "Transaction/document set referenced in the Plan"
+            }
+          },
+          {
+            "name": "Restructuring Transactions",
+            "type": "other",
+            "attributes": {
+              "context": "Transactions implemented in connection with the Plan"
+            }
+          },
+          {
+            "name": "Restructuring Documents",
+            "type": "other",
+            "attributes": {
+              "context": "Documents governing the restructuring"
+            }
+          },
+          {
+            "name": "Combined Order",
+            "type": "other",
+            "attributes": {
+              "context": "Court order referenced in the Plan"
+            }
+          },
+          {
+            "name": "Bankruptcy Code",
+            "type": "other",
+            "attributes": {
+              "context": "Applicable bankruptcy law governing solicitation and distributions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "exculpation",
+          "liability limitation",
+          "Chapter 11 bankruptcy",
+          "plan confirmation and consummation",
+          "solicitation of votes",
+          "restructuring transactions",
+          "legal releases and exceptions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides broad exculpation for the exculpated party from liability related to the Chapter 11 case, plan administration, restructuring transactions, and related actions, while preserving exceptions for intentional fraud, criminal conduct, willful misconduct, and obligations under the plan and related documents."
+      }
+    },
+    {
+      "chunk_id": "prose_p_139",
+      "text": "MAXIMUM EXTENT PERMITTED BY LAW, BY THE RELEASING PARTIES, IN EACH CASE FROM ANY AND ALL CLAIMS AND CAUSES OF ACTION WHATSOEVER (INCLUDING ANY DERIVATIVE CLAIMS, ASSERTED OR ASSERTABLE ON BEHALF\nOF THE DEBTOR, THE REORGANIZED DEBTOR, OR ITS ESTATE), WHETHER LIQUIDATED OR UNLIQUIDATED, FIXED OR CONTINGENT, MATURED OR UNMATURED, KNOWN OR UNKNOWN, FORESEEN OR UNFORESEEN, ASSERTED OR UNASSERTED, ACCRUED OR UNACCRUED, EXISTING OR HEREINAFTER\nARISING, WHETHER IN LAW OR EQUITY, WHETHER SOUNDING IN TORT OR CONTRACT, WHETHER ARISING UNDER FEDERAL OR STATE STATUTORY OR COMMON LAW, OR ANY OTHER APPLICABLE INTERNATIONAL, FOREIGN, OR DOMESTIC LAW, RULE, STATUTE, REGULATION, TREATY, RIGHT, DUTY,\nREQUIREMENT OR OTHERWISE, THAT SUCH HOLDERS OR THEIR ESTATES, AFFILIATES, HEIRS, EXECUTORS, ADMINISTRATORS, SUCCESSORS, ASSIGNS, MANAGERS, ACCOUNTANTS, ATTORNEYS, REPRESENTATIVES, CONSULTANTS, AGENTS, AND ANY OTHER PERSONS CLAIMING UNDER OR THROUGH\nTHEM WOULD HAVE BEEN LEGALLY ENTITLED TO ASSERT IN THEIR OWN RIGHT (WHETHER INDIVIDUALLY OR COLLECTIVELY) OR ON BEHALF OF THE HOLDER OF ANY CLAIM OR EQUITY INTEREST OR OTHER PERSON (COLLECTIVELY, THE \u201c THIRD-PARTY RELEASED\nCLAIMS \u201d), BASED ON OR RELATING TO, OR IN ANY MANNER ARISING FROM, IN WHOLE OR IN PART, (A)\u00a0THE DEBTOR, THE DEBTOR\u2019S CAPITAL STRUCTURE, THE REORGANIZED DEBTOR, THE ESTATE, THE CHAPTER 11 CASE (INCLUDING THE FILING THEREOF),\nTHE DISCLOSURE STATEMENT, THE PLAN (INCLUDING THE PLAN SUPPLEMENT), THE RESTRUCTURING SUPPORT AGREEMENT (AND ANY ANNEXES, EXHIBITS, AND TERM SHEETS ATTACHED THERETO), THE UNSECURED NOTES AND UNSECURED NOTES DOCUMENTS, (B)\u00a0THE SUBJECT MATTER OF,\nOR THE TRANSACTIONS OR EVENTS GIVING RISE TO, ANY CLAIM OR EQUITY INTEREST THAT IS TREATED IN THE PLAN, (C)\u00a0THE BUSINESS OR CONTRACTUAL ARRANGEMENTS BETWEEN THE DEBTOR AND ANY RELEASED PARTIES, (D)\u00a0THE NEGOTIATION, FORMULATION OR\nPREPARATION OF THE DISCLOSURE STATEMENT, THE PLAN (INCLUDING THE PLAN SUPPLEMENT), THE RESTRUCTURING SUPPORT AGREEMENT (AND ANY ANNEXES, EXHIBITS, AND TERM SHEETS ATTACHED THERETO), THE NEW WARRANTS DOCUMENTS, THE PLAN SECURITIES AND ANY RELATED\nDOCUMENTATION, THE NEW GOVERNANCE DOCUMENTS, AND ANY OTHER RESTRUCTURING DOCUMENTS, OR RELATED AGREEMENTS, INSTRUMENTS OR OTHER DOCUMENTS, (E)\u00a0THE RESTRUCTURING OF CLAIMS OR EQUITY INTERESTS PRIOR TO OR DURING THE CHAPTER 11 CASE, (F)\u00a0THE\nPURCHASE, SALE, OR RESCISSION OF THE PURCHASE OR SALE OF ANY EQUITY INTEREST OR PLAN SECURITIES OF THE DEBTOR OR THE REORGANIZED DEBTOR, (G)\u00a0THE CONFIRMATION OR CONSUMMATION OF THE PLAN OR THE SOLICITATION OF VOTES ON THE PLAN, AND/OR\n(H)\u00a0ANY OTHER ACT OR OMISSION; PROVIDED , THAT THE FOREGOING THIRD-PARTY RELEASE SHALL NOT OPERATE TO WAIVE OR RELEASE, AND THE \u201cTHIRD-PARTY RELEASED CLAIMS\u201d SHALL NOT INCLUDE, ANY CAUSE OF ACTION OF ANY RELEASING\nPARTY: (1)\u00a0AGAINST A RELEASED",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Releasing Parties",
+            "type": "other",
+            "attributes": {
+              "role": "parties granting releases"
+            }
+          },
+          {
+            "name": "Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy debtor"
+            }
+          },
+          {
+            "name": "Reorganized Debtor",
+            "type": "other",
+            "attributes": {
+              "role": "post-reorganization entity"
+            }
+          },
+          {
+            "name": "Estate",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy estate"
+            }
+          },
+          {
+            "name": "Chapter 11 Case",
+            "type": "other",
+            "attributes": {
+              "role": "bankruptcy proceeding"
+            }
+          },
+          {
+            "name": "Disclosure Statement",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring disclosure document"
+            }
+          },
+          {
+            "name": "Plan",
+            "type": "other",
+            "attributes": {
+              "role": "chapter 11 reorganization plan"
+            }
+          },
+          {
+            "name": "Restructuring Support Agreement",
+            "type": "other",
+            "attributes": {
+              "role": "restructuring agreement"
+            }
+          },
+          {
+            "name": "Unsecured Notes",
+            "type": "other",
+            "attributes": {
+              "role": "debt securities"
+            }
+          },
+          {
+            "name": "Third-Party Released Claims",
+            "type": "other",
+            "attributes": {
+              "role": "defined term for released claims"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "third-party release",
+          "bankruptcy claims waiver",
+          "chapter 11 restructuring",
+          "release of derivative claims",
+          "broad claim and cause-of-action waiver",
+          "exceptions to release"
+        ],
+        "sentiment": "negative",
+        "summary": "The section describes a broad third-party release in a Chapter 11 restructuring, waiving a wide range of claims and causes of action related to the debtor, the plan, the restructuring process, and related transactions, while noting limited exceptions."
+      }
+    }
+  ],
   "guidance_sections": [],
   "extraction_metadata": {
     "model": "gpt-5.4-mini",
     "source_file": "data\\raw\\VRM_2024_Q3.html",
     "validation": {
-      "overall_confidence": 0.5,
+      "overall_confidence": 0.675,
       "table_confidence": 0.5,
-      "prose_confidence": 0.0,
+      "prose_confidence": 0.85,
       "guidance_confidence": 0.0,
       "issues": []
     }

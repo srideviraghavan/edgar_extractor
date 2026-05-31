@@ -20,11 +20,6 @@ pip install -e .
 
 ### Running Extraction
 
-Extract data from a single filing:
-```bash
-python main.py data/raw/filing.html
-```
-
 Extract data from all filings in a directory:
 ```bash
 python main.py data/raw

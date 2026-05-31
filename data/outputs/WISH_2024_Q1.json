@@ -9,39 +9,106 @@
       "headers": [
         "",
         "Three Months Ended",
-        "",
-        "",
-        "",
-        ""
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
       ],
       "rows": [
         {
           "": "",
-          "Three Months Ended": "March 31,"
+          "Three Months Ended": "March 31,",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
           "": "",
-          "Three Months Ended": "2024"
+          "Three Months Ended": "2024",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2023",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "YoY%",
+          "col_8": ""
         },
         {
-          "": "$",
-          "Three Months Ended": "$"
+          "": "Core marketplace revenue",
+          "Three Months Ended": "$",
+          "col_2": "11",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "28",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(61",
+          "col_11": ")%"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "ProductBoost revenue",
+          "Three Months Ended": "",
+          "col_2": "3",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "8",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(63",
+          "col_11": ")%"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Marketplace revenue",
+          "Three Months Ended": "",
+          "col_2": "14",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "36",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(61",
+          "col_11": ")%"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Logistics revenue",
+          "Three Months Ended": "",
+          "col_2": "22",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "60",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(63",
+          "col_11": ")%"
         },
         {
-          "": "$",
-          "Three Months Ended": "$"
+          "": "Revenue",
+          "Three Months Ended": "$",
+          "col_2": "36",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "96",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(63",
+          "col_11": ")%"
         }
       ],
       "confidence": 0.5,
@@ -52,24 +119,46 @@
       "headers": [
         "",
         "Three Months Ended",
-        ""
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
       ],
       "rows": [
         {
           "": "",
-          "Three Months Ended": "March 31,"
+          "Three Months Ended": "March 31,",
+          "col_2": ""
         },
         {
           "": "",
-          "Three Months Ended": "2024"
+          "Three Months Ended": "2024",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2023",
+          "col_5": ""
         },
         {
-          "": "(59",
-          "Three Months Ended": "$"
+          "": "Net loss",
+          "Three Months Ended": "$",
+          "col_2": "(59",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(89",
+          "col_7": ")"
         },
         {
-          "": "(164",
-          "Three Months Ended": ""
+          "": "% of Revenue",
+          "Three Months Ended": "",
+          "col_2": "(164",
+          "col_3": ")%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(93",
+          "col_7": ")%"
         }
       ],
       "confidence": 0.5,
@@ -79,138 +168,278 @@
       "table_id": "table_2",
       "headers": [
         "",
-        "",
+        "col_1",
         "As of March 31,",
-        "",
-        "",
+        "col_3",
+        "col_4",
         "As of December 31,",
-        ""
+        "col_6",
+        "col_7",
+        "col_8"
       ],
       "rows": [
         {
           "": "",
+          "col_1": "",
           "As of March 31,": "2024",
-          "As of December 31,": "2023"
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "2023",
+          "col_6": ""
         },
         {
-          "": "",
+          "": "Assets",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": ""
         },
         {
-          "": "",
+          "": "Current assets:",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": ""
         },
         {
-          "": "$",
+          "": "Cash and cash equivalents",
+          "col_1": "",
           "As of March 31,": "$",
-          "As of December 31,": ""
+          "col_3": "250",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "$",
+          "col_7": "238",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Marketable securities",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "55",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "144",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Funds receivable",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "8",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "7",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Prepaid expenses and other current assets",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "18",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "21",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Total current assets",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "331",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "410",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Property and equipment, net",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "3",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "4",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Right-of-use assets",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "5",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "5",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Other assets",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "3",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "4",
+          "col_8": ""
         },
         {
-          "": "$",
+          "": "Total assets",
+          "col_1": "",
           "As of March 31,": "$",
-          "As of December 31,": ""
+          "col_3": "342",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "$",
+          "col_7": "423",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Liabilities and Stockholders\u2019 Equity",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": ""
         },
         {
-          "": "",
+          "": "Current liabilities:",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": ""
         },
         {
-          "": "$",
+          "": "Accounts payable",
+          "col_1": "",
           "As of March 31,": "$",
-          "As of December 31,": ""
+          "col_3": "17",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "$",
+          "col_7": "30",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Merchants payable",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "66",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "74",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Refunds liability",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "2",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "2",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Accrued liabilities",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "79",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "90",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Total current liabilities",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "164",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "196",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Lease liabilities, non-current",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "4",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "6",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Other liabilities",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "10",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "4",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Total liabilities",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "178",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "206",
+          "col_8": ""
         },
         {
-          "": "",
+          "": "Stockholders\u2019 equity",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "164",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "",
+          "col_7": "217",
+          "col_8": ""
         },
         {
-          "": "$",
+          "": "Total liabilities and stockholders\u2019 equity",
+          "col_1": "",
           "As of March 31,": "$",
-          "As of December 31,": ""
+          "col_3": "342",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": "$",
+          "col_7": "423",
+          "col_8": ""
         },
         {
           "": "",
+          "col_1": "",
           "As of March 31,": "",
-          "As of December 31,": ""
+          "col_3": "",
+          "col_4": "",
+          "As of December 31,": "",
+          "col_6": ""
         }
       ],
       "confidence": 0.5,
@@ -221,84 +450,190 @@
       "headers": [
         "",
         "Three Months Ended",
-        ""
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
       ],
       "rows": [
         {
           "": "",
-          "Three Months Ended": "March 31,"
+          "Three Months Ended": "March 31,",
+          "col_2": ""
         },
         {
           "": "",
-          "Three Months Ended": "2024"
+          "Three Months Ended": "2024",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2023",
+          "col_5": ""
         },
         {
-          "": "36",
-          "Three Months Ended": "$"
+          "": "Revenue",
+          "Three Months Ended": "$",
+          "col_2": "36",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "96",
+          "col_7": ""
         },
         {
-          "": "30",
-          "Three Months Ended": ""
+          "": "Cost of revenue(1)",
+          "Three Months Ended": "",
+          "col_2": "30",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "76",
+          "col_7": ""
         },
         {
-          "": "6",
-          "Three Months Ended": ""
+          "": "Gross profit",
+          "Three Months Ended": "",
+          "col_2": "6",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "20",
+          "col_7": ""
+        },
+        {
+          "": "Operating expenses:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Sales and marketing(1)",
+          "Three Months Ended": "",
+          "col_2": "15",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "37",
+          "col_7": ""
+        },
+        {
+          "": "Product development(1)",
+          "Three Months Ended": "",
+          "col_2": "22",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "51",
+          "col_7": ""
+        },
+        {
+          "": "General and administrative(1)",
+          "Three Months Ended": "",
+          "col_2": "22",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "25",
+          "col_7": ""
+        },
+        {
+          "": "Total operating expenses",
+          "Three Months Ended": "",
+          "col_2": "59",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "113",
+          "col_7": ""
+        },
+        {
+          "": "Loss from operations",
+          "Three Months Ended": "",
+          "col_2": "(53",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(93",
+          "col_7": ")"
+        },
+        {
+          "": "Other income, net:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Interest and other income, net",
+          "Three Months Ended": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "4",
+          "col_7": ""
+        },
+        {
+          "": "Loss before provision for income taxes",
+          "Three Months Ended": "",
+          "col_2": "(53",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(89",
+          "col_7": ")"
+        },
+        {
+          "": "Provision for income taxes",
+          "Three Months Ended": "",
+          "col_2": "6",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Net loss",
+          "Three Months Ended": "",
+          "col_2": "(59",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(89",
+          "col_7": ")"
+        },
+        {
+          "": "Net loss per share, basic and diluted",
+          "Three Months Ended": "$",
+          "col_2": "(2.43",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(3.83",
+          "col_7": ")"
+        },
+        {
+          "": "Weighted-average shares used in computing net loss per share, basic and diluted",
+          "Three Months Ended": "",
+          "col_2": "24,315",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "23,246",
+          "col_7": ""
         },
         {
           "": "",
-          "Three Months Ended": ""
-        },
-        {
-          "": "15",
-          "Three Months Ended": ""
-        },
-        {
-          "": "22",
-          "Three Months Ended": ""
-        },
-        {
-          "": "22",
-          "Three Months Ended": ""
-        },
-        {
-          "": "59",
-          "Three Months Ended": ""
-        },
-        {
-          "": "(53",
-          "Three Months Ended": ""
-        },
-        {
-          "": "",
-          "Three Months Ended": ""
-        },
-        {
-          "": "\u2014",
-          "Three Months Ended": ""
-        },
-        {
-          "": "(53",
-          "Three Months Ended": ""
-        },
-        {
-          "": "6",
-          "Three Months Ended": ""
-        },
-        {
-          "": "(59",
-          "Three Months Ended": ""
-        },
-        {
-          "": "(2.43",
-          "Three Months Ended": "$"
-        },
-        {
-          "": "24,315",
-          "Three Months Ended": ""
-        },
-        {
-          "": "",
-          "Three Months Ended": ""
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         }
       ],
       "confidence": 0.5,
@@ -308,42 +643,94 @@
       "table_id": "table_4",
       "headers": [
         "",
-        "",
+        "col_1",
         "Three Months Ended",
-        ""
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
       ],
       "rows": [
         {
           "": "",
-          "Three Months Ended": "March 31,"
+          "col_1": "",
+          "Three Months Ended": "March 31,",
+          "col_3": ""
         },
         {
           "": "",
-          "Three Months Ended": "2024"
+          "col_1": "",
+          "Three Months Ended": "2024",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2023",
+          "col_6": ""
         },
         {
-          "": "\u2014",
-          "Three Months Ended": "$"
+          "": "Cost of revenue",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "1",
+          "col_8": ""
         },
         {
-          "": "1",
-          "Three Months Ended": ""
+          "": "Sales and marketing",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "1",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1",
+          "col_8": ""
         },
         {
-          "": "5",
-          "Three Months Ended": ""
+          "": "Product development",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "5",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "16",
+          "col_8": ""
         },
         {
-          "": "3",
-          "Three Months Ended": ""
+          "": "General and administrative",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "3",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "8",
+          "col_8": ""
         },
         {
-          "": "9",
-          "Three Months Ended": "$"
+          "": "Total stock-based compensation",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "9",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "26",
+          "col_8": ""
         },
         {
           "": "",
-          "Three Months Ended": ""
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         }
       ],
       "confidence": 0.5,
@@ -354,156 +741,360 @@
       "headers": [
         "",
         "Three Months Ended",
-        ""
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
       ],
       "rows": [
         {
           "": "",
-          "Three Months Ended": "March 31,"
+          "Three Months Ended": "March 31,",
+          "col_2": ""
         },
         {
           "": "",
-          "Three Months Ended": "2024"
+          "Three Months Ended": "2024",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2023",
+          "col_5": ""
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Cash flows from operating activities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "(59",
-          "Three Months Ended": "$"
+          "": "Net loss",
+          "Three Months Ended": "$",
+          "col_2": "(59",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(89",
+          "col_7": ")"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Adjustments to reconcile net loss to net cash used in operating activities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "1",
-          "Three Months Ended": ""
+          "": "Depreciation and amortization",
+          "Three Months Ended": "",
+          "col_2": "1",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1",
+          "col_7": ""
         },
         {
-          "": "1",
-          "Three Months Ended": ""
+          "": "Noncash lease expense",
+          "Three Months Ended": "",
+          "col_2": "1",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1",
+          "col_7": ""
         },
         {
-          "": "9",
-          "Three Months Ended": ""
+          "": "Stock-based compensation expense",
+          "Three Months Ended": "",
+          "col_2": "9",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "26",
+          "col_7": ""
         },
         {
-          "": "(1",
-          "Three Months Ended": ""
+          "": "Other",
+          "Three Months Ended": "",
+          "col_2": "(1",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(4",
+          "col_7": ")"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Changes in operating assets and liabilities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "(1",
-          "Three Months Ended": ""
+          "": "Funds receivable",
+          "Three Months Ended": "",
+          "col_2": "(1",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9",
+          "col_7": ""
         },
         {
-          "": "3",
-          "Three Months Ended": ""
+          "": "Prepaid expenses, other current and noncurrent assets",
+          "Three Months Ended": "",
+          "col_2": "3",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "5",
+          "col_7": ""
         },
         {
-          "": "(13",
-          "Three Months Ended": ""
+          "": "Accounts payable",
+          "Three Months Ended": "",
+          "col_2": "(13",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(13",
+          "col_7": ")"
         },
         {
-          "": "(9",
-          "Three Months Ended": ""
+          "": "Merchants payable",
+          "Three Months Ended": "",
+          "col_2": "(9",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(10",
+          "col_7": ")"
         },
         {
-          "": "(10",
-          "Three Months Ended": ""
+          "": "Accrued and refund liabilities",
+          "Three Months Ended": "",
+          "col_2": "(10",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(15",
+          "col_7": ")"
         },
         {
-          "": "(2",
-          "Three Months Ended": ""
+          "": "Lease liabilities",
+          "Three Months Ended": "",
+          "col_2": "(2",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(2",
+          "col_7": ")"
         },
         {
-          "": "6",
-          "Three Months Ended": ""
+          "": "Other current and noncurrent liabilities",
+          "Three Months Ended": "",
+          "col_2": "6",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1",
+          "col_7": ")"
         },
         {
-          "": "(75",
-          "Three Months Ended": ""
+          "": "Net cash used in operating activities",
+          "Three Months Ended": "",
+          "col_2": "(75",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(92",
+          "col_7": ")"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Cash flows from investing activities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "\u2014",
-          "Three Months Ended": ""
+          "": "Purchases of marketable securities",
+          "Three Months Ended": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(125",
+          "col_7": ")"
         },
         {
-          "": "90",
-          "Three Months Ended": ""
+          "": "Maturities of marketable securities",
+          "Three Months Ended": "",
+          "col_2": "90",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "85",
+          "col_7": ""
         },
         {
-          "": "90",
-          "Three Months Ended": ""
+          "": "Net cash provided by (used in) investing activities",
+          "Three Months Ended": "",
+          "col_2": "90",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(40",
+          "col_7": ")"
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Cash flows from financing activities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "(1",
-          "Three Months Ended": ""
+          "": "Payments of taxes related to RSU settlement",
+          "Three Months Ended": "",
+          "col_2": "(1",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(3",
+          "col_7": ")"
         },
         {
-          "": "(1",
-          "Three Months Ended": ""
+          "": "Net cash used in financing activities",
+          "Three Months Ended": "",
+          "col_2": "(1",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(3",
+          "col_7": ")"
         },
         {
-          "": "(2",
-          "Three Months Ended": ""
+          "": "Foreign currency effects on cash, cash equivalents and restricted cash",
+          "Three Months Ended": "",
+          "col_2": "(2",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1",
+          "col_7": ""
         },
         {
-          "": "12",
-          "Three Months Ended": ""
+          "": "Net decrease in cash, cash equivalents and restricted cash",
+          "Three Months Ended": "",
+          "col_2": "12",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(134",
+          "col_7": ")"
         },
         {
-          "": "238",
-          "Three Months Ended": ""
+          "": "Cash, cash equivalents and restricted cash at beginning of period",
+          "Three Months Ended": "",
+          "col_2": "238",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "513",
+          "col_7": ""
         },
         {
-          "": "250",
-          "Three Months Ended": "$"
+          "": "Cash, cash equivalents and restricted cash at end of period",
+          "Three Months Ended": "$",
+          "col_2": "250",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "379",
+          "col_7": ""
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Reconciliation of cash, cash equivalents, and restricted cash to the condensed consolidated balance sheets:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "250",
-          "Three Months Ended": "$"
+          "": "Cash and cash equivalents",
+          "Three Months Ended": "$",
+          "col_2": "250",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "371",
+          "col_7": ""
         },
         {
-          "": "\u2014",
-          "Three Months Ended": ""
+          "": "Restricted cash included in prepaid and other current assets in the condensed consolidated balance sheets",
+          "Three Months Ended": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "8",
+          "col_7": ""
         },
         {
-          "": "250",
-          "Three Months Ended": "$"
+          "": "Total cash, cash equivalents and restricted cash",
+          "Three Months Ended": "$",
+          "col_2": "250",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "379",
+          "col_7": ""
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Supplemental cash flow disclosures:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "1",
-          "Three Months Ended": "$"
+          "": "Cash paid for income taxes, net of refunds",
+          "Three Months Ended": "$",
+          "col_2": "1",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "": "",
-          "Three Months Ended": ""
+          "": "Supplemental noncash investing activities:",
+          "Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
         },
         {
-          "": "\u2014",
-          "Three Months Ended": "$"
+          "": "Purchase of property and equipment included in accounts payable",
+          "Three Months Ended": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "2",
+          "col_7": ""
         }
       ],
       "confidence": 0.5,
@@ -512,9 +1103,9 @@
   ],
   "prose_chunks": [
     {
-      "chunk_id": "prose_1",
-      "text": "May 08, 2024 16:10 ET| Source:ContextLogic Inc.FollowContextLogic Inc.",
-      "section_header": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results",
+      "chunk_id": "prose_p_23",
+      "text": "ContextLogic Inc. Consolidated Statements of Cash Flows (in millions) (unaudited)",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
         "entities": [
@@ -522,21 +1113,452 @@
             "name": "ContextLogic Inc.",
             "type": "company",
             "attributes": {
-              "section_header": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results",
-              "date": "2024-05-08",
-              "time": "16:10 ET",
-              "source": "ContextLogic Inc."
+              "statement": "Consolidated Statements of Cash Flows",
+              "unit": "millions",
+              "status": "unaudited"
             }
           }
         ],
         "financial_figures": [],
         "key_topics": [
-          "first-quarter 2024 financial results",
-          "earnings release",
-          "company announcement"
+          "consolidated statements of cash flows",
+          "unaudited financial statement",
+          "ContextLogic Inc."
         ],
         "sentiment": "neutral",
-        "summary": "ContextLogic Inc. issued a press release on May 8, 2024 announcing its first-quarter 2024 financial results."
+        "summary": "The section identifies ContextLogic Inc.'s unaudited consolidated statements of cash flows presented in millions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_11",
+      "text": "The following tables include unaudited GAAP financial highlights for the periods presented:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "unaudited GAAP financial highlights",
+          "periods presented"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces unaudited GAAP financial highlights presented in tables, but does not include any specific financial figures or named entities."
+      }
+    },
+    {
+      "chunk_id": "prose_p_21",
+      "text": "ContextLogic Inc. Consolidated Statements of Operations (in millions, except per share data) (unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic Inc.",
+            "type": "company",
+            "attributes": {
+              "statement": "Consolidated Statements of Operations",
+              "unit": "in millions",
+              "per_share_data": "included",
+              "status": "unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "consolidated statements of operations",
+          "unaudited financial statement",
+          "per share data",
+          "millions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies ContextLogic Inc.'s unaudited consolidated statements of operations, presented in millions and including per-share data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_15",
+      "text": "Due to the sale of operating assets and liabilities in the Asset Sale, ContextLogic has discontinued providing guidance.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic",
+            "type": "company",
+            "attributes": {
+              "event": "discontinued providing guidance",
+              "reason": "sale of operating assets and liabilities in the Asset Sale"
+            }
+          },
+          {
+            "name": "Asset Sale",
+            "type": "other",
+            "attributes": {
+              "description": "sale of operating assets and liabilities"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "asset sale",
+          "operating assets and liabilities",
+          "guidance discontinued"
+        ],
+        "sentiment": "negative",
+        "summary": "ContextLogic discontinued providing guidance because it sold its operating assets and liabilities in the Asset Sale."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1",
+      "text": "OAKLAND, Calif., May  08, 2024  (GLOBE NEWSWIRE) -- ContextLogic Inc. (Nasdaq: WISH) (\u201cContextLogic,\u201d the \u201cCompany,\u201d \u201cwe\u201d or \u201cour\u201d) today reported its financial results for the quarter ended March 31, 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "OAKLAND, Calif.",
+            "type": "location",
+            "attributes": {
+              "city": "Oakland",
+              "state": "California",
+              "country": "United States"
+            }
+          },
+          {
+            "name": "ContextLogic Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "WISH",
+              "exchange": "Nasdaq",
+              "aliases": "ContextLogic, the Company, we, our"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "financial results",
+          "quarterly reporting",
+          "quarter ended March 31, 2024"
+        ],
+        "sentiment": "neutral",
+        "summary": "ContextLogic Inc. announced that it reported its financial results for the quarter ended March 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_17",
+      "text": "For more information on ContextLogic, please visit ir.contextlogicinc.com. Please note, that in light of the sale of the Wish platform in the Asset Sale, ContextLogic expects to begin trading under a new Nasdaq ticker symbol, \u201cLOGC,\u201d within 30 days of April 19, 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic",
+            "type": "company",
+            "attributes": {
+              "website": "ir.contextlogicinc.com",
+              "new_nasdaq_ticker_symbol": "LOGC",
+              "expected_trading_change_timing": "within 30 days of April 19, 2024",
+              "context": "expects to begin trading under a new Nasdaq ticker symbol following the sale of the Wish platform in the Asset Sale"
+            }
+          },
+          {
+            "name": "Wish platform",
+            "type": "other",
+            "attributes": {
+              "status": "sold in the Asset Sale"
+            }
+          },
+          {
+            "name": "Nasdaq",
+            "type": "other",
+            "attributes": {
+              "role": "stock exchange"
+            }
+          },
+          {
+            "name": "April 19, 2024",
+            "type": "other",
+            "attributes": {
+              "role": "reference date"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "company website",
+          "ticker symbol change",
+          "sale of Wish platform",
+          "Nasdaq listing"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section directs readers to ContextLogic's investor relations website and states that, after the sale of the Wish platform, the company expects to begin trading on Nasdaq under the new ticker symbol LOGC within 30 days of April 19, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "As a result of Asset Sale, the Company had approximately $161 million in cash, cash equivalents and marketable securities (consisting of government securities) immediately following the closing of that transaction (\u201cPost-Closing Cash\u201d), as well as the NOLs and other tax attributes described above.\u00a0 As required by the Asset Purchase Agreement, the Buyer assumed substantially all of our liabilities at closing.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "post_closing_cash": "approximately $161 million",
+              "assets": "cash, cash equivalents and marketable securities",
+              "marketable_securities_composition": "government securities",
+              "tax_attributes": "NOLs and other tax attributes"
+            }
+          },
+          {
+            "name": "Buyer",
+            "type": "company",
+            "attributes": {
+              "assumed_liabilities": "substantially all liabilities at closing"
+            }
+          },
+          {
+            "name": "Asset Sale",
+            "type": "other",
+            "attributes": {
+              "event": "transaction resulting in post-closing cash"
+            }
+          },
+          {
+            "name": "Asset Purchase Agreement",
+            "type": "other",
+            "attributes": {
+              "requirement": "Buyer assumed substantially all liabilities at closing"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "161000000",
+            "type": "assets",
+            "currency": "USD",
+            "period": "immediately following closing"
+          }
+        ],
+        "key_topics": [
+          "asset sale",
+          "post-closing cash",
+          "marketable securities",
+          "net operating losses",
+          "tax attributes",
+          "liability assumption"
+        ],
+        "sentiment": "neutral",
+        "summary": "Following the asset sale, the Company held approximately $161 million in cash, cash equivalents, and marketable securities, and the Buyer assumed substantially all liabilities under the Asset Purchase Agreement."
+      }
+    },
+    {
+      "chunk_id": "prose_p_3",
+      "text": "Prior to the April\u202f19,\u202f2024 closing of the Asset Sale described below, ContextLogic owned and operated the Wish platform, a mobile ecommerce platform.\u00a0 As a result of the Asset Sale, ContextLogic no longer owns the Wish platform or any of the related operating assets.\u00a0 Since the Asset Sale was not completed until after the end of the first quarter, the financial results described below do not reflect the impact of the Asset Sale or our post-closing operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic",
+            "type": "company",
+            "attributes": {
+              "role": "former owner/operator of Wish platform",
+              "transaction": "Asset Sale",
+              "closing_date": "2024-04-19"
+            }
+          },
+          {
+            "name": "Wish platform",
+            "type": "other",
+            "attributes": {
+              "description": "mobile ecommerce platform",
+              "status_after_sale": "no longer owned by ContextLogic"
+            }
+          },
+          {
+            "name": "Asset Sale",
+            "type": "other",
+            "attributes": {
+              "type": "asset sale",
+              "effect": "ContextLogic no longer owns Wish platform or related operating assets"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Asset Sale",
+          "Wish platform",
+          "ownership transfer",
+          "post-closing operations",
+          "first quarter financial results"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that before the April 19, 2024 closing of the Asset Sale, ContextLogic owned and operated the Wish platform. After the sale, ContextLogic no longer owns the platform or related operating assets, and the reported first-quarter financial results do not include the impact of the sale or post-closing operations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_8",
+      "text": "\u201cWe are very pleased to have completed the previously announced sale of the Wish ecommerce platform to Qoo10.\u00a0 On behalf of the entire ContextLogic team, I would like to thank our stockholders for their support of this value-maximizing transaction,\u201d said Rishi Bajaj, Chief Executive Officer and Chairman of the Board.\u00a0 \u201cLooking ahead, our reconstituted Board and management team will focus on identifying and executing strategic opportunities for the benefit of ContextLogic and its stockholders.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Wish",
+            "type": "company",
+            "attributes": {
+              "description": "ecommerce platform sold to Qoo10"
+            }
+          },
+          {
+            "name": "Qoo10",
+            "type": "company",
+            "attributes": {
+              "description": "acquirer of the Wish ecommerce platform"
+            }
+          },
+          {
+            "name": "ContextLogic",
+            "type": "company",
+            "attributes": {
+              "description": "company referenced in the statement"
+            }
+          },
+          {
+            "name": "Rishi Bajaj",
+            "type": "person",
+            "attributes": {
+              "title": "Chief Executive Officer and Chairman of the Board"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "sale of Wish ecommerce platform",
+          "transaction completion",
+          "stockholder support",
+          "board reconstitution",
+          "strategic opportunities"
+        ],
+        "sentiment": "positive",
+        "summary": "The company announced the completion of the previously disclosed sale of the Wish ecommerce platform to Qoo10 and expressed appreciation to stockholders, while noting that the reconstituted board and management will pursue strategic opportunities going forward."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "Following the completion of the Asset Sale, ContextLogic has exited the operation of our e-commerce business and other historical operations.\u00a0 However, we do not currently intend to liquidate.\u00a0We have begun to review strategic opportunities for the use of our Post-Closing Cash.\u00a0 We will develop a process and procedures for evaluating alternatives for the use of our Post-Closing Cash, and reviewing, identifying and executing strategic opportunities for the benefit of ContextLogic and its stockholders. Those alternatives are currently expected to include using the Post-Closing Cash to fund, at least in part, the acquisition of assets that will potentially allow the Company to utilize the NOLs and certain other tax attributes.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic",
+            "type": "company",
+            "attributes": {
+              "status": "has exited operation of e-commerce business and other historical operations",
+              "liquidation_intent": "does not currently intend to liquidate",
+              "cash_reference": "Post-Closing Cash",
+              "tax_attributes": "NOLs and certain other tax attributes"
+            }
+          },
+          {
+            "name": "Asset Sale",
+            "type": "other",
+            "attributes": {
+              "description": "transaction completed prior to the described strategic review"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "asset sale completion",
+          "business exit",
+          "liquidation decision",
+          "post-closing cash",
+          "strategic alternatives",
+          "acquisition of assets",
+          "net operating losses (NOLs)",
+          "tax attributes"
+        ],
+        "sentiment": "neutral",
+        "summary": "After completing the Asset Sale, ContextLogic exited its e-commerce and other historical operations and does not currently plan to liquidate. The company is reviewing strategic uses for its post-closing cash, including potential acquisitions that could help utilize its NOLs and other tax attributes."
+      }
+    },
+    {
+      "chunk_id": "prose_p_6",
+      "text": "As previously disclosed, on April\u202f19,\u202f2024, we completed the sale of substantially all of our assets to Qube Network Pte. Ltd. (the \u201cBuyer\u201d), an affiliate of Qoo10 Inc., a Delaware corporation (\u201cQoo10 Delaware\u201d), other than (A)\u202four federal income tax net operating loss carryforwards (\"NOLs\") and certain of our other tax attributes, (B)\u202four marketable securities and (C)\u202fcertain of our cash and cash equivalents (the \u201cAsset Sale\u201d) pursuant to the terms of the Asset Purchase Agreement, dated February\u202f10,\u202f2024, by and among us, Qoo10 Delaware and, for certain specified purposes, Qoo10 Pte.\u202fLtd., a Singapore private limited company and the parent of both Qoo10 Delaware and the Buyer (as amended or modified, the \u201cAsset Purchase Agreement\u201d).",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Qube Network Pte. Ltd.",
+            "type": "company",
+            "attributes": {
+              "role": "Buyer",
+              "relationship": "affiliate of Qoo10 Inc."
+            }
+          },
+          {
+            "name": "Qoo10 Inc.",
+            "type": "company",
+            "attributes": {
+              "jurisdiction": "Delaware",
+              "role": "affiliate parent company"
+            }
+          },
+          {
+            "name": "Qoo10 Delaware",
+            "type": "company",
+            "attributes": {
+              "jurisdiction": "Delaware",
+              "role": "party to Asset Purchase Agreement"
+            }
+          },
+          {
+            "name": "Qoo10 Pte. Ltd.",
+            "type": "company",
+            "attributes": {
+              "jurisdiction": "Singapore",
+              "role": "parent of Qoo10 Delaware and the Buyer"
+            }
+          },
+          {
+            "name": "Asset Purchase Agreement",
+            "type": "other",
+            "attributes": {
+              "date": "2024-02-10",
+              "description": "Agreement governing the asset sale"
+            }
+          },
+          {
+            "name": "Asset Sale",
+            "type": "other",
+            "attributes": {
+              "date": "2024-04-19",
+              "description": "Sale of substantially all assets"
+            }
+          },
+          {
+            "name": "NOLs",
+            "type": "other",
+            "attributes": {
+              "description": "federal income tax net operating loss carryforwards"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "asset sale",
+          "asset purchase agreement",
+          "sale of substantially all assets",
+          "excluded assets",
+          "tax attributes",
+          "net operating loss carryforwards"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company completed the sale of substantially all of its assets to Qube Network Pte. Ltd. on April 19, 2024, under an Asset Purchase Agreement dated February 10, 2024, while retaining certain tax attributes, marketable securities, and some cash and cash equivalents."
       }
     }
   ],

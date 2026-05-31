@@ -38,134 +38,385 @@
     {
       "table_id": "table_1",
       "headers": [
-        "WEAVE COMMUNICATIONS, INC"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
       ],
       "rows": [
         {
-          "WEAVE COMMUNICATIONS, INC": "CONDENSED CONSOLIDATED BALANCE SHEETS"
+          "": "CONDENSED CONSOLIDATED BALANCE SHEETS"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "(unaudited, in thousands, except share and per share data)"
+          "": "(unaudited, in thousands, except share and per share data)"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "December 31, 2024"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "ASSETS"
+          "": "ASSETS",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Current assets:"
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cash and cash equivalents"
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "54,959",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "51,596",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Short-term investments"
+          "": "Short-term investments",
+          "col_1": "",
+          "col_2": "26,761",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "47,534",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accounts receivable, net"
+          "": "Accounts receivable, net",
+          "col_1": "",
+          "col_2": "4,347",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,743",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Deferred contract costs, net"
+          "": "Deferred contract costs, net",
+          "col_1": "",
+          "col_2": "13,309",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "11,568",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Prepaid expenses and other current assets"
+          "": "Prepaid expenses and other current assets",
+          "col_1": "",
+          "col_2": "5,618",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "6,298",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Total current assets"
+          "": "Total current assets",
+          "col_1": "",
+          "col_2": "104,994",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "120,739",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-current assets:"
+          "": "Non-current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Property and equipment, net"
+          "": "Property and equipment, net",
+          "col_1": "",
+          "col_2": "9,212",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "8,443",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Operating lease right-of-use assets"
+          "": "Operating lease right-of-use assets",
+          "col_1": "",
+          "col_2": "33,779",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "37,516",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Finance lease right-of-use assets"
+          "": "Finance lease right-of-use assets",
+          "col_1": "",
+          "col_2": "10,490",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "10,650",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Deferred contract costs, net, less current portion"
+          "": "Deferred contract costs, net, less current portion",
+          "col_1": "",
+          "col_2": "11,163",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,487",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Intangible assets, net"
+          "": "Intangible assets, net",
+          "col_1": "",
+          "col_2": "7,134",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Goodwill"
+          "": "Goodwill",
+          "col_1": "",
+          "col_2": "29,465",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Other non-current assets"
+          "": "Other non-current assets",
+          "col_1": "",
+          "col_2": "1,731",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2,091",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "TOTAL ASSETS"
+          "": "TOTAL ASSETS",
+          "col_1": "$",
+          "col_2": "207,968",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "188,926",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "LIABILITIES AND STOCKHOLDERS' EQUITY"
+          "": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Current liabilities:"
+          "": "Current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accounts payable"
+          "": "Accounts payable",
+          "col_1": "$",
+          "col_2": "7,262",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "8,276",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accrued and other current liabilities"
+          "": "Accrued and other current liabilities",
+          "col_1": "",
+          "col_2": "27,919",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "17,638",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Deferred revenue"
+          "": "Deferred revenue",
+          "col_1": "",
+          "col_2": "38,051",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "39,987",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Current portion of operating lease liabilities"
+          "": "Current portion of operating lease liabilities",
+          "col_1": "",
+          "col_2": "4,658",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "4,119",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Current portion of finance lease liabilities"
+          "": "Current portion of finance lease liabilities",
+          "col_1": "",
+          "col_2": "6,706",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "6,600",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Total current liabilities"
+          "": "Total current liabilities",
+          "col_1": "",
+          "col_2": "84,596",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "76,620",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-current liabilities:"
+          "": "Non-current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Other long-term liabilities"
+          "": "Other long-term liabilities",
+          "col_1": "",
+          "col_2": "200",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Operating lease liabilities, less current portion"
+          "": "Operating lease liabilities, less current portion",
+          "col_1": "",
+          "col_2": "34,554",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "38,961",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Finance lease liabilities, less current portion"
+          "": "Finance lease liabilities, less current portion",
+          "col_1": "",
+          "col_2": "6,234",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "6,377",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Total liabilities"
+          "": "Total liabilities",
+          "col_1": "",
+          "col_2": "125,584",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "121,958",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stockholders' equity:"
+          "": "Stockholders' equity:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Preferred stock, $0.00001 par value per share; 10,000,000 shares authorized, zero shares issued and outstanding as of December 31, 2025 and December 31, 2024"
+          "": "Preferred stock, $0.00001 par value per share; 10,000,000 shares authorized, zero shares issued and outstanding as of December 31, 2025 and December 31, 2024",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Common stock, $0.00001 par value per share; 500,000,000 shares authorized as of December 31, 2025 and December 31, 2024; 78,353,381 and 73,225,253 shares issued and outstanding as of December 31, 2025 and December 31, 2024, respectively"
+          "": "Common stock, $0.00001 par value per share; 500,000,000 shares authorized as of December 31, 2025 and December 31, 2024; 78,353,381 and 73,225,253 shares issued and outstanding as of December 31, 2025 and December 31, 2024, respectively",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Additional paid-in capital"
+          "": "Additional paid-in capital",
+          "col_1": "",
+          "col_2": "401,576",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "358,549",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accumulated deficit"
+          "": "Accumulated deficit",
+          "col_1": "",
+          "col_2": "(319,065",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(291,013",
+          "col_7": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accumulated other comprehensive loss"
+          "": "Accumulated other comprehensive loss",
+          "col_1": "",
+          "col_2": "(127",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(568",
+          "col_7": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Total stockholders' equity"
+          "": "Total stockholders' equity",
+          "col_1": "",
+          "col_2": "82,384",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "66,968",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY"
+          "": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+          "col_1": "$",
+          "col_2": "207,968",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "188,926",
+          "col_7": ""
         }
       ],
       "confidence": 0.5,
@@ -174,77 +425,367 @@
     {
       "table_id": "table_2",
       "headers": [
-        "WEAVE COMMUNICATIONS, INC"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "WEAVE COMMUNICATIONS, INC": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS"
+          "": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "(unaudited, in thousands, except share and per share data)"
+          "": "(unaudited, in thousands, except share and per share data)"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Revenue"
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "63,403",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "54,169",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "239,024",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "204,314",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cost of revenue"
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "17,333",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "15,125",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "66,716",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "58,432",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross profit"
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "46,070",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "39,044",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "172,308",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "145,882",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Operating expenses:"
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Sales and marketing"
+          "": "Sales and marketing",
+          "col_1": "",
+          "col_2": "27,528",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "21,934",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "102,703",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "84,612",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Research and development"
+          "": "Research and development",
+          "col_1": "",
+          "col_2": "8,200",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "10,760",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "44,462",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "40,231",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "General and administrative"
+          "": "General and administrative",
+          "col_1": "",
+          "col_2": "12,502",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "13,723",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "55,753",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "52,452",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Total operating expenses"
+          "": "Total operating expenses",
+          "col_1": "",
+          "col_2": "48,230",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "46,417",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "202,918",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "177,295",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Loss from operations"
+          "": "Loss from operations",
+          "col_1": "",
+          "col_2": "(2,160",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(7,373",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(30,610",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(31,413",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Other income (expense):"
+          "": "Other income (expense):",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Interest income"
+          "": "Interest income",
+          "col_1": "",
+          "col_2": "466",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "479",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,811",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,851",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Interest expense"
+          "": "Interest expense",
+          "col_1": "",
+          "col_2": "(400",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(400",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,700",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(1,523",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Other income, net"
+          "": "Other income, net",
+          "col_1": "",
+          "col_2": "275",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "650",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,523",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2,928",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Loss before income taxes"
+          "": "Loss before income taxes",
+          "col_1": "",
+          "col_2": "(1,819",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(6,644",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(28,976",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(28,157",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Income tax benefit (expense)"
+          "": "Income tax benefit (expense)",
+          "col_1": "",
+          "col_2": "(29",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(67",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "924",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(189",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net loss"
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(1,848",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(6,711",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(28,052",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(28,346",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net loss per share - basic and diluted"
+          "": "Net loss per share - basic and diluted",
+          "col_1": "$",
+          "col_2": "(0.02",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.09",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.37",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.40",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Weighted-average common shares outstanding - basic and diluted"
+          "": "Weighted-average common shares outstanding - basic and diluted",
+          "col_1": "",
+          "col_2": "78,152,478",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "72,858,040",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "76,306,740",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "71,656,892",
+          "col_15": ""
         }
       ],
       "confidence": 0.5,
@@ -253,167 +794,867 @@
     {
       "table_id": "table_3",
       "headers": [
-        "WEAVE COMMUNICATIONS, INC"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "WEAVE COMMUNICATIONS, INC": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS"
+          "": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "(unaudited, in thousands)"
+          "": "(unaudited, in thousands)"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "CASH FLOWS FROM OPERATING ACTIVITIES"
+          "": "CASH FLOWS FROM OPERATING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net loss"
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(1,848",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(6,711",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(28,052",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(28,346",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Adjustments to reconcile net loss to net cash provided by operating activities"
+          "": "Adjustments to reconcile net loss to net cash provided by operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Depreciation and amortization"
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "col_2": "2,988",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2,848",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "11,590",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "11,517",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Amortization of operating right-of-use assets"
+          "": "Amortization of operating right-of-use assets",
+          "col_1": "",
+          "col_2": "1,082",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,002",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "4,041",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "3,951",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Amortization of intangible assets"
+          "": "Amortization of intangible assets",
+          "col_1": "",
+          "col_2": "348",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "866",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Provision for credit losses"
+          "": "Provision for credit losses",
+          "col_1": "",
+          "col_2": "338",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "624",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,112",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,867",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Amortization of deferred contract costs"
+          "": "Amortization of deferred contract costs",
+          "col_1": "",
+          "col_2": "3,892",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,426",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "14,835",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "13,418",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Loss on disposal of assets"
+          "": "Loss on disposal of assets",
+          "col_1": "",
+          "col_2": "8",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "8",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation, net of amount capitalized"
+          "": "Stock-based compensation, net of amount capitalized",
+          "col_1": "",
+          "col_2": "3,972",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,135",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "32,131",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "32,220",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net accretion of discounts on short-term investments"
+          "": "Net accretion of discounts on short-term investments",
+          "col_1": "",
+          "col_2": "(152",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(457",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(902",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(2,134",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Changes in operating assets and liabilities:"
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accounts receivable"
+          "": "Accounts receivable",
+          "col_1": "",
+          "col_2": "(402",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,997",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,609",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(2,099",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Deferred contract costs"
+          "": "Deferred contract costs",
+          "col_1": "",
+          "col_2": "(4,636",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(3,773",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(18,252",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(15,304",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Prepaid expenses and other assets"
+          "": "Prepaid expenses and other assets",
+          "col_1": "",
+          "col_2": "(190",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,292",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,636",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "373",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accounts payable"
+          "": "Accounts payable",
+          "col_1": "",
+          "col_2": "1,553",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "651",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,091",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "3,116",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Accrued liabilities"
+          "": "Accrued liabilities",
+          "col_1": "",
+          "col_2": "678",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,132",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "7,060",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(941",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Operating lease liabilities"
+          "": "Operating lease liabilities",
+          "col_1": "",
+          "col_2": "(1,098",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,007",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(4,172",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(3,970",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Deferred revenue"
+          "": "Deferred revenue",
+          "col_1": "",
+          "col_2": "(288",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(637",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,661",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "480",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net cash provided by operating activities"
+          "": "Net cash provided by operating activities",
+          "col_1": "",
+          "col_2": "6,245",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "6,674",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "17,540",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "14,149",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "CASH FLOWS FROM INVESTING ACTIVITIES"
+          "": "CASH FLOWS FROM INVESTING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Maturities of short-term investments"
+          "": "Maturities of short-term investments",
+          "col_1": "",
+          "col_2": "10,600",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "10,693",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "58,456",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "66,438",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Purchases of short-term investments"
+          "": "Purchases of short-term investments",
+          "col_1": "",
+          "col_2": "(21,312",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(10,755",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(36,767",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(53,771",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Purchases of property and equipment"
+          "": "Purchases of property and equipment",
+          "col_1": "",
+          "col_2": "(1,122",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(383",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,389",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(2,185",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Capitalized internal-use software costs"
+          "": "Capitalized internal-use software costs",
+          "col_1": "",
+          "col_2": "(726",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(166",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,291",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(1,600",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Business acquisitions, net of cash acquired"
+          "": "Business acquisitions, net of cash acquired",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(23,855",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net cash provided by (used in) investing activities"
+          "": "Net cash provided by (used in) investing activities",
+          "col_1": "",
+          "col_2": "(12,560",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(611",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(6,846",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "8,882",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "CASH FLOWS FROM FINANCING ACTIVITIES"
+          "": "CASH FLOWS FROM FINANCING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Principal payments on finance leases"
+          "": "Principal payments on finance leases",
+          "col_1": "",
+          "col_2": "(1,752",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,775",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,168",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(7,060",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Proceeds from stock option exercises"
+          "": "Proceeds from stock option exercises",
+          "col_1": "",
+          "col_2": "5",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,177",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "754",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,727",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Payments for taxes related to net share settlement of equity awards"
+          "": "Payments for taxes related to net share settlement of equity awards",
+          "col_1": "",
+          "col_2": "(1,373",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(4,972",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,861",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(18,855",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock issuance costs"
+          "": "Stock issuance costs",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(26",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Proceeds from the employee stock purchase plan"
+          "": "Proceeds from the employee stock purchase plan",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,970",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,997",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Net cash used in financing activities"
+          "": "Net cash used in financing activities",
+          "col_1": "",
+          "col_2": "(3,120",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(5,570",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,331",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(22,191",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS"
+          "": "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+          "col_1": "",
+          "col_2": "(9,435",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "493",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "3,363",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "840",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD"
+          "": "CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD",
+          "col_1": "",
+          "col_2": "64,394",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "51,103",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "51,596",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "50,756",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "CASH AND CASH EQUIVALENTS, END OF PERIOD"
+          "": "CASH AND CASH EQUIVALENTS, END OF PERIOD",
+          "col_1": "$",
+          "col_2": "54,959",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "51,596",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "54,959",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "51,596",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:"
+          "": "SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cash paid during the period for interest"
+          "": "Cash paid during the period for interest",
+          "col_1": "$",
+          "col_2": "400",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "400",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "1,700",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "1,523",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cash paid during the period for income taxes"
+          "": "Cash paid during the period for income taxes",
+          "col_1": "$",
+          "col_2": "124",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "67",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "496",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "189",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES:"
+          "": "SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Equipment purchases financed with accounts payable"
+          "": "Equipment purchases financed with accounts payable",
+          "col_1": "$",
+          "col_2": "28",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "28",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "28",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "28",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Finance lease liabilities arising from obtaining finance lease right-of-use assets"
+          "": "Finance lease liabilities arising from obtaining finance lease right-of-use assets",
+          "col_1": "$",
+          "col_2": "1,651",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "2,148",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "7,131",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "7,395",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Operating lease liabilities arising from obtaining operating lease right-of-use assets"
+          "": "Operating lease liabilities arising from obtaining operating lease right-of-use assets",
+          "col_1": "",
+          "col_2": "304",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "304",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "149",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Unrealized gain on short-term investments"
+          "": "Unrealized gain on short-term investments",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(40",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "14",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(21",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation included in capitalized software development costs"
+          "": "Stock-based compensation included in capitalized software development costs",
+          "col_1": "$",
+          "col_2": "115",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "34",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "396",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "34",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Equity issued as consideration in business combinations"
+          "": "Equity issued as consideration in business combinations",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "10,041",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Consideration withheld for indemnification liabilities related to business combinations"
+          "": "Consideration withheld for indemnification liabilities related to business combinations",
+          "col_1": "$",
+          "col_2": "1,789",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "1,789",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "\u2014",
+          "col_15": ""
         }
       ],
       "confidence": 0.5,
@@ -422,74 +1663,325 @@
     {
       "table_id": "table_4",
       "headers": [
-        "WEAVE COMMUNICATIONS, INC"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "WEAVE COMMUNICATIONS, INC": "DISAGGREGATED REVENUE AND COST OF REVENUE"
+          "": "DISAGGREGATED REVENUE AND COST OF REVENUE"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "(unaudited, in thousands)"
+          "": "(unaudited, in thousands)"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Subscription and payment processing:"
+          "": "Subscription and payment processing:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Revenue"
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "60,589",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "52,126",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "228,769",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "196,106",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cost of revenue"
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "(13,007",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(11,403",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(50,583",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(43,567",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross profit"
+          "": "Gross profit",
+          "col_1": "$",
+          "col_2": "47,582",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "40,723",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "178,186",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "152,539",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross margin"
+          "": "Gross margin",
+          "col_1": "",
+          "col_2": "78.5",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "78.1",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "77.9",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "77.8",
+          "col_15": "%"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Onboarding:"
+          "": "Onboarding:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Revenue"
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "921",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "799",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "3,463",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "3,547",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cost of revenue"
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "(2,451",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,923",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(8,757",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(7,793",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross profit"
+          "": "Gross profit",
+          "col_1": "$",
+          "col_2": "(1,530",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(1,124",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(5,294",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(4,246",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross margin"
+          "": "Gross margin",
+          "col_1": "",
+          "col_2": "(166.1",
+          "col_3": ")%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(140.7",
+          "col_7": ")%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(152.9",
+          "col_11": ")%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(119.7",
+          "col_15": ")%"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Phone Hardware:"
+          "": "Phone Hardware:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Revenue"
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "1,893",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "1,244",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "6,792",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "4,661",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Cost of revenue"
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "(1,875",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,799",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,376",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(7,072",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross profit"
+          "": "Gross profit",
+          "col_1": "$",
+          "col_2": "18",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(555",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(584",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(2,411",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross margin"
+          "": "Gross margin",
+          "col_1": "",
+          "col_2": "1.0",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(44.6",
+          "col_7": ")%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(8.6",
+          "col_11": ")%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(51.7",
+          "col_15": ")%"
         }
       ],
       "confidence": 0.5,
@@ -498,145 +1990,507 @@
     {
       "table_id": "table_5",
       "headers": [
-        "WEAVE COMMUNICATIONS, INC",
-        ""
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "WEAVE COMMUNICATIONS, INC": "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES",
-          "": ""
+          "": "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES",
+          "col_1": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "(unaudited, in thousands, except share and per share data)",
-          "": ""
+          "": "(unaudited, in thousands, except share and per share data)",
+          "col_1": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "The following tables reconcile the specific items excluded from GAAP in the calculation of non-GAAP financial measures for the periods indicated below.",
-          "": ""
+          "": "The following tables reconcile the specific items excluded from GAAP in the calculation of non-GAAP financial measures for the periods indicated below.",
+          "col_1": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP gross profit",
-          "": ""
+          "": "Non-GAAP gross profit",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": "Three Months Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,",
+          "col_4": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Gross profit",
-          "": "$"
+          "": "Gross profit",
+          "col_1": "$",
+          "col_2": "46,070",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "39,044",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "172,308",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "145,882",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "194",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "294",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "894",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Amortization of acquisition-related intangibles",
-          "": ""
+          "": "Amortization of acquisition-related intangibles",
+          "col_1": "",
+          "col_2": "215",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "535",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP gross profit",
-          "": "$"
+          "": "Non-GAAP gross profit",
+          "col_1": "$",
+          "col_2": "46,479",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "39,338",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "173,737",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "146,896",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "GAAP gross margin",
-          "": ""
+          "": "GAAP gross margin",
+          "col_1": "",
+          "col_2": "72.7",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "72.1",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "72.1",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "71.4",
+          "col_15": "%"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP gross margin",
-          "": ""
+          "": "Non-GAAP gross margin",
+          "col_1": "",
+          "col_2": "73.3",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "72.6",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "72.7",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "71.9",
+          "col_15": "%"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP operating expenses",
-          "": ""
+          "": "Non-GAAP operating expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": "Three Months Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,",
+          "col_4": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Sales and marketing",
-          "": "$"
+          "": "Sales and marketing",
+          "col_1": "$",
+          "col_2": "27,528",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "21,934",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "102,703",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "84,612",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "(1,735",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,977",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,510",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(6,582",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Amortization of acquisition-related intangibles",
-          "": ""
+          "": "Amortization of acquisition-related intangibles",
+          "col_1": "",
+          "col_2": "(133",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(331",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "(16",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(16",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "\u2014",
+          "col_14": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP sales and marketing",
-          "": "$"
+          "": "Non-GAAP sales and marketing",
+          "col_1": "$",
+          "col_2": "25,644",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "19,957",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "94,846",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "78,030",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Research and development",
-          "": "$"
+          "": "Research and development",
+          "col_1": "$",
+          "col_2": "8,200",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "10,760",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "44,462",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "40,231",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "736",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(2,450",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(8,806",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(8,374",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "(19",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(116",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP research and development",
-          "": "$"
+          "": "Non-GAAP research and development",
+          "col_1": "$",
+          "col_2": "8,917",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "8,310",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "35,540",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "31,857",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "General and administrative",
-          "": "$"
+          "": "General and administrative",
+          "col_1": "$",
+          "col_2": "12,502",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "13,723",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "55,753",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "52,452",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "(2,779",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(4,414",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(14,921",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(16,250",
+          "col_15": ")"
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "(106",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,564",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "WEAVE COMMUNICATIONS, INC": "Non-GAAP general and administrative",
-          "": "$"
+          "": "Non-GAAP general and administrative",
+          "col_1": "$",
+          "col_2": "9,617",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "9,309",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "39,268",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "36,202",
+          "col_15": ""
         }
       ],
       "confidence": 0.5,
@@ -645,139 +2499,501 @@
     {
       "table_id": "table_6",
       "headers": [
-        "Non-GAAP income from operations",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "Non-GAAP income from operations": "",
-          "": "Year Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Loss from operations",
-          "": ")"
+          "": "Loss from operations",
+          "col_1": "$",
+          "col_2": "(2,160",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(7,373",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(30,610",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(31,413",
+          "col_15": ")"
         },
         {
-          "Non-GAAP income from operations": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "3,972",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,135",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "32,131",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "32,220",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "141",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,696",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Amortization of acquisition-related intangibles",
-          "": ""
+          "": "Amortization of acquisition-related intangibles",
+          "col_1": "",
+          "col_2": "348",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "866",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP income from operations",
-          "": ""
+          "": "Non-GAAP income from operations",
+          "col_1": "$",
+          "col_2": "2,301",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "1,762",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "4,083",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "807",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "GAAP loss from operations margin",
-          "": ")%"
+          "": "GAAP loss from operations margin",
+          "col_1": "",
+          "col_2": "(3.4",
+          "col_3": ")%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(13.6",
+          "col_7": ")%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(12.8",
+          "col_11": ")%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(15.4",
+          "col_15": ")%"
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP income from operations margin",
-          "": "%"
+          "": "Non-GAAP income from operations margin",
+          "col_1": "",
+          "col_2": "3.6",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3.3",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1.7",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "0.4",
+          "col_15": "%"
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP net income",
-          "": ""
+          "": "Non-GAAP net income",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "",
-          "": "Year Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Net loss",
-          "": ")"
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(1,848",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(6,711",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(28,052",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(28,346",
+          "col_15": ")"
         },
         {
-          "Non-GAAP income from operations": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "3,972",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,135",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "32,131",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "32,220",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "141",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,696",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Amortization of acquisition-related intangibles",
-          "": ""
+          "": "Amortization of acquisition-related intangibles",
+          "col_1": "",
+          "col_2": "348",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "866",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP net income",
-          "": ""
+          "": "Non-GAAP net income",
+          "col_1": "$",
+          "col_2": "2,613",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "2,424",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "6,641",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "3,874",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "GAAP net loss margin",
-          "": ")%"
+          "": "GAAP net loss margin",
+          "col_1": "",
+          "col_2": "(2.9",
+          "col_3": ")%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(12.4",
+          "col_7": ")%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(11.7",
+          "col_11": ")%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(13.9",
+          "col_15": ")%"
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP net income margin",
-          "": "%"
+          "": "Non-GAAP net income margin",
+          "col_1": "",
+          "col_2": "4.1",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "4.5",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2.8",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1.9",
+          "col_15": "%"
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "GAAP net loss per share - basic and diluted",
-          "": ")"
+          "": "GAAP net loss per share - basic and diluted",
+          "col_1": "$",
+          "col_2": "(0.02",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.09",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.37",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.40",
+          "col_15": ")"
         },
         {
-          "Non-GAAP income from operations": "GAAP weighted-average common shares outstanding - basic and diluted",
-          "": ""
+          "": "GAAP weighted-average common shares outstanding - basic and diluted",
+          "col_1": "",
+          "col_2": "78,152,478",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "72,858,040",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "76,306,740",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "71,656,892",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP net income per share - basic",
-          "": ""
+          "": "Non-GAAP net income per share - basic",
+          "col_1": "$",
+          "col_2": "0.03",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.03",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.09",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.05",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP weighted-average common shares outstanding - basic",
-          "": ""
+          "": "Non-GAAP weighted-average common shares outstanding - basic",
+          "col_1": "",
+          "col_2": "78,152,478",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "72,858,040",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "76,306,740",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "71,656,892",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP net income per share - diluted",
-          "": ""
+          "": "Non-GAAP net income per share - diluted",
+          "col_1": "$",
+          "col_2": "0.03",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.03",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.08",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.05",
+          "col_15": ""
         },
         {
-          "Non-GAAP income from operations": "Non-GAAP weighted-average common shares outstanding - diluted",
-          "": ""
+          "": "Non-GAAP weighted-average common shares outstanding - diluted",
+          "col_1": "",
+          "col_2": "83,111,638",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "76,863,082",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "81,084,282",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "75,558,697",
+          "col_15": ""
         }
       ],
       "confidence": 0.5,
@@ -786,109 +3002,377 @@
     {
       "table_id": "table_7",
       "headers": [
-        "Free Cash Flow",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
       ],
       "rows": [
         {
-          "Free Cash Flow": "",
-          "": "Year Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "Free Cash Flow": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Net cash provided by operating activities",
-          "": ""
+          "": "Net cash provided by operating activities",
+          "col_1": "$",
+          "col_2": "6,245",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "6,674",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "17,540",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "14,149",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Less: Purchases of property and equipment",
-          "": ")"
+          "": "Less: Purchases of property and equipment",
+          "col_1": "",
+          "col_2": "(1,122",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(383",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,389",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(2,185",
+          "col_15": ")"
         },
         {
-          "Free Cash Flow": "Less: Capitalized internal-use software costs",
-          "": ")"
+          "": "Less: Capitalized internal-use software costs",
+          "col_1": "",
+          "col_2": "(726",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(166",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,291",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(1,600",
+          "col_15": ")"
         },
         {
-          "Free Cash Flow": "Free cash flow",
-          "": ""
+          "": "Free cash flow",
+          "col_1": "$",
+          "col_2": "4,397",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "6,125",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "12,860",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "10,364",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Free Cash Flow": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Free Cash Flow": "Adjusted EBITDA",
-          "": ""
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
         },
         {
-          "Free Cash Flow": "",
-          "": "Year Ended December 31,"
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Year Ended December 31,"
         },
         {
-          "Free Cash Flow": "",
-          "": ""
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Net loss",
-          "": ")"
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(1,848",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(6,711",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(28,052",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(28,346",
+          "col_15": ")"
         },
         {
-          "Free Cash Flow": "Interest expense",
-          "": ""
+          "": "Interest expense",
+          "col_1": "",
+          "col_2": "400",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "400",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,700",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,523",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Income tax expense (benefit)",
-          "": ""
+          "": "Income tax expense (benefit)",
+          "col_1": "",
+          "col_2": "29",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "67",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(924",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "189",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Interest income",
-          "": ")"
+          "": "Interest income",
+          "col_1": "",
+          "col_2": "(466",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(479",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,811",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(1,851",
+          "col_15": ")"
         },
         {
-          "Free Cash Flow": "Other income net",
-          "": ")"
+          "": "Other income net",
+          "col_1": "",
+          "col_2": "(275",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(650",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(1,523",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(2,928",
+          "col_15": ")"
         },
         {
-          "Free Cash Flow": "Depreciation",
-          "": ""
+          "": "Depreciation",
+          "col_1": "",
+          "col_2": "525",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "487",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2,071",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2,189",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Amortization",
-          "": ""
+          "": "Amortization",
+          "col_1": "",
+          "col_2": "496",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "392",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,901",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,541",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Stock-based compensation",
-          "": ""
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "3,972",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,135",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "32,131",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "32,220",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Amortization of acquisition-related intangibles",
-          "": ""
+          "": "Amortization of acquisition-related intangibles",
+          "col_1": "",
+          "col_2": "348",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "866",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Acquisition transaction costs1",
-          "": ""
+          "": "Acquisition transaction costs1",
+          "col_1": "",
+          "col_2": "141",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,696",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "Adjusted EBITDA",
-          "": ""
+          "": "Adjusted EBITDA",
+          "col_1": "$",
+          "col_2": "3,322",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "2,641",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "8,055",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "4,537",
+          "col_15": ""
         },
         {
-          "Free Cash Flow": "___________________________"
+          "": "___________________________"
         },
         {
-          "Free Cash Flow": "1Represents expenses incurred with third parties as part of the Company\u2019s acquisition activity, including due diligence, closing, and post-closing integration activities."
+          "": "1Represents expenses incurred with third parties as part of the Company\u2019s acquisition activity, including due diligence, closing, and post-closing integration activities."
         }
       ],
       "confidence": 0.5,
@@ -897,200 +3381,1141 @@
   ],
   "prose_chunks": [
     {
-      "chunk_id": "prose_18",
-      "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
-      "section_header": "Strictly Necessary Cookies",
+      "chunk_id": "prose_p_31",
+      "text": "Non-GAAP net income, non-GAAP net income margin and non-GAAP net income per share",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
-        "entities": [
-          {
-            "name": "Strictly Necessary Cookies",
-            "type": "other",
-            "attributes": {
-              "description": "Cookies necessary for the website to function",
-              "can_be_switched_off": "false",
-              "stores_personally_identifiable_information": "false",
-              "browser_controls": "can be blocked or alerted about by the user"
-            }
-          }
-        ],
+        "entities": [],
         "financial_figures": [],
         "key_topics": [
-          "website functionality",
-          "cookie consent",
-          "browser settings",
-          "privacy preferences",
-          "personal data"
+          "non-GAAP net income",
+          "non-GAAP net income margin",
+          "non-GAAP net income per share"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that strictly necessary cookies are required for website functionality, are set in response to user actions, can be managed through browser settings, and do not store personally identifiable information."
+        "summary": "The section header indicates discussion of non-GAAP net income, non-GAAP net income margin, and non-GAAP net income per share, but provides no numerical data or additional context."
       }
     },
     {
-      "chunk_id": "prose_19",
-      "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
-      "section_header": "Functional Cookies",
+      "chunk_id": "prose_p_1273",
+      "text": "Finance lease liabilities arising from obtaining finance lease right-of-use assets",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
-        "entities": [
-          {
-            "name": "website",
-            "type": "other",
-            "attributes": {
-              "role": "service platform"
-            }
-          },
-          {
-            "name": "third party providers",
-            "type": "other",
-            "attributes": {
-              "role": "external service providers"
-            }
-          }
-        ],
+        "entities": [],
         "financial_figures": [],
         "key_topics": [
-          "functional cookies",
-          "enhanced functionality",
-          "personalisation",
-          "third-party services",
-          "website functionality"
+          "finance lease liabilities",
+          "right-of-use assets",
+          "lease accounting"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that functional cookies are used to improve website functionality and personalization, and that disabling them may cause some services to not work properly."
+        "summary": "The section refers to finance lease liabilities arising from obtaining finance lease right-of-use assets, but provides no specific amounts or additional details."
       }
     },
     {
-      "chunk_id": "prose_20",
-      "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
-      "section_header": "Performance Cookies",
+      "chunk_id": "prose_p_1289",
+      "text": "Operating lease liabilities arising from obtaining operating lease right-of-use assets",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
-        "entities": [
+        "entities": [],
+        "financial_figures": [
           {
-            "name": "site",
-            "type": "other",
-            "attributes": {
-              "description": "Website whose performance is measured using cookies"
-            }
-          },
-          {
-            "name": "cookies",
-            "type": "other",
-            "attributes": {
-              "category": "performance cookies",
-              "purpose": "count visits and traffic sources, measure and improve site performance"
-            }
+            "figure": "operating lease liabilities",
+            "type": "liabilities",
+            "currency": "other",
+            "period": "not specified"
           }
         ],
-        "financial_figures": [],
         "key_topics": [
-          "performance cookies",
-          "website analytics",
-          "traffic measurement",
-          "anonymous aggregated data",
-          "site performance monitoring"
+          "operating lease liabilities",
+          "right-of-use assets",
+          "lease accounting"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that performance cookies are used to track visits and traffic sources, analyze popular pages and visitor movement, and monitor and improve website performance using aggregated, anonymous data."
+        "summary": "The section refers to operating lease liabilities arising from obtaining operating lease right-of-use assets."
       }
     },
     {
-      "chunk_id": "prose_21",
-      "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
-      "section_header": "Targeting Cookies",
+      "chunk_id": "prose_p_2756",
+      "text": "Media Contact Natalie House Senior Director of Content & Communications pr@getweave.com",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
         "entities": [
           {
-            "name": "our site",
-            "type": "other",
+            "name": "Natalie House",
+            "type": "person",
             "attributes": {
-              "role": "website"
+              "title": "Senior Director of Content & Communications",
+              "email": "pr@getweave.com"
             }
           },
           {
-            "name": "advertising partners",
+            "name": "Weave",
             "type": "company",
             "attributes": {
-              "role": "ad partners",
-              "function": "set targeting cookies and show relevant adverts"
-            }
-          },
-          {
-            "name": "browser",
-            "type": "other",
-            "attributes": {
-              "role": "device identifier"
-            }
-          },
-          {
-            "name": "internet device",
-            "type": "other",
-            "attributes": {
-              "role": "device identifier"
+              "email_domain": "getweave.com"
             }
           }
         ],
         "financial_figures": [],
         "key_topics": [
-          "targeting cookies",
-          "advertising partners",
-          "personalized advertising",
-          "browser/device identification",
-          "cookie consent"
+          "media contact",
+          "communications",
+          "public relations"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that targeting cookies may be set by advertising partners to build interest profiles and display relevant ads on other sites. It notes that these cookies do not store directly personal information and that disabling them may result in less targeted advertising."
+        "summary": "The section provides media contact information for Natalie House, Senior Director of Content & Communications at Weave, including a PR email address."
       }
     },
     {
-      "chunk_id": "prose_22",
-      "text": "These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.",
-      "section_header": "Social Media Cookies",
+      "chunk_id": "prose_p_1353",
+      "text": "Consideration withheld for indemnification liabilities related to business combinations",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "consideration withheld",
+          "indemnification liabilities",
+          "business combinations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section refers to consideration withheld in connection with indemnification liabilities arising from business combinations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_37",
+      "text": "Non-GAAP income (loss) from operations and non-GAAP income (loss) from operations margin",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP income (loss) from operations",
+          "non-GAAP operating margin"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section header indicates discussion of non-GAAP income (loss) from operations and non-GAAP income (loss) from operations margin, but no specific figures or additional details are provided."
+      }
+    },
+    {
+      "chunk_id": "prose_p_25",
+      "text": "The company will host a conference call and webcast for analysts and investors on Thursday, February 19, 2026, beginning at 4:30 p.m. EST.",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
         "entities": [
           {
-            "name": "social media services",
-            "type": "other",
+            "name": "company",
+            "type": "company",
             "attributes": {
-              "role": "cookie provider",
-              "purpose": "enable content sharing and tracking across sites"
-            }
-          },
-          {
-            "name": "site",
-            "type": "other",
-            "attributes": {
-              "role": "website where cookies are used"
-            }
-          },
-          {
-            "name": "friends and networks",
-            "type": "other",
-            "attributes": {
-              "role": "sharing audience"
-            }
-          },
-          {
-            "name": "other websites",
-            "type": "other",
-            "attributes": {
-              "role": "sites visited after tracking"
+              "event": "conference call and webcast",
+              "audience": "analysts and investors",
+              "date": "Thursday, February 19, 2026",
+              "time": "4:30 p.m. EST"
             }
           }
         ],
         "financial_figures": [],
         "key_topics": [
-          "social media cookies",
-          "browser tracking",
-          "user profiling",
-          "content sharing tools",
-          "cross-site behavior tracking"
+          "conference call",
+          "webcast",
+          "analysts",
+          "investors",
+          "earnings event"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company announced a conference call and webcast for analysts and investors on Thursday, February 19, 2026 at 4:30 p.m. EST."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "The company expects to achieve the following financial results for the three months ending March 31, 2026 and the full year ending December 31, 2026:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "the company",
+            "type": "company",
+            "attributes": {
+              "role": "expects to achieve financial results",
+              "periods": "three months ending March 31, 2026; full year ending December 31, 2026"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "financial results guidance",
+          "forecast period",
+          "quarterly outlook",
+          "annual outlook"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states that it expects to achieve financial results for the three months ending March 31, 2026 and for the full year ending December 31, 2026."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1627",
+      "text": "The following tables reconcile the specific items excluded from GAAP in the calculation of non-GAAP financial measures for the periods indicated below.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "excluded items"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the following tables reconcile specific items excluded from GAAP in the calculation of non-GAAP financial measures for the periods indicated."
+      }
+    },
+    {
+      "chunk_id": "prose_p_283",
+      "text": "Preferred stock, $0.00001 par value per share; 10,000,000 shares authorized, zero shares issued and outstanding as of December 31, 2025 and December 31, 2024",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Preferred stock",
+            "type": "other",
+            "attributes": {
+              "par_value_per_share": "$0.00001",
+              "shares_authorized": "10,000,000",
+              "shares_issued_and_outstanding_as_of_2025-12-31": "0",
+              "shares_issued_and_outstanding_as_of_2024-12-31": "0"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0",
+            "type": "other",
+            "currency": "USD",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "preferred stock",
+          "authorized shares",
+          "par value",
+          "shares outstanding"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the company\u2019s preferred stock has a $0.00001 par value per share, 10,000,000 shares are authorized, and no preferred shares were issued or outstanding as of December 31, 2025 and December 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_26",
+      "text": "The live audio webcast and a webcast replay of the conference call can be accessed from the investor relations page of Weave\u2019s website at investors.getweave.com.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Weave",
+            "type": "company",
+            "attributes": {
+              "website": "investors.getweave.com",
+              "context": "Investor relations page provides access to live audio webcast and webcast replay of the conference call"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call webcast",
+          "webcast replay",
+          "investor relations",
+          "company website"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the live audio webcast and replay of the conference call are available on Weave\u2019s investor relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_2752",
+      "text": "1 Represents expenses incurred with third parties as part of the Company\u2019s acquisition activity, including due diligence, closing, and post-closing integration activities.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Refers to the reporting entity mentioned in the note"
+            }
+          },
+          {
+            "name": "third parties",
+            "type": "other",
+            "attributes": {
+              "context": "External parties involved in acquisition-related expenses"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "acquisition activity",
+          "due diligence",
+          "closing costs",
+          "post-closing integration",
+          "third-party expenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the referenced expenses are incurred with third parties in connection with the Company\u2019s acquisition activity, including due diligence, closing, and post-closing integration."
+      }
+    },
+    {
+      "chunk_id": "prose_p_291",
+      "text": "Common stock, $0.00001 par value per share; 500,000,000 shares authorized as of December 31, 2025 and December 31, 2024; 78,353,381 and 73,225,253 shares issued and outstanding as of December 31, 2025 and December 31, 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Common stock",
+            "type": "other",
+            "attributes": {
+              "par_value_per_share": "$0.00001",
+              "shares_authorized_as_of_2025-12-31": "500000000",
+              "shares_authorized_as_of_2024-12-31": "500000000",
+              "shares_issued_as_of_2025-12-31": "78353381",
+              "shares_outstanding_as_of_2025-12-31": "78353381",
+              "shares_issued_as_of_2024-12-31": "73225253",
+              "shares_outstanding_as_of_2024-12-31": "73225253"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "500000000",
+            "type": "other",
+            "currency": "USD",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "78353381",
+            "type": "other",
+            "currency": "USD",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "73225253",
+            "type": "other",
+            "currency": "USD",
+            "period": "as of December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "common stock",
+          "par value",
+          "authorized shares",
+          "issued shares",
+          "outstanding shares"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section discloses common stock terms, including a $0.00001 par value per share, 500,000,000 authorized shares, and the number of issued and outstanding shares as of December 31, 2025 and December 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_50",
+      "text": "Number of customer locations disclosed above includes the impact of the acquisition of TrueLark in May 2025. Dollar-based net retention rate and dollar-based gross retention rate exclude the impact of the acquisition of TrueLark as the relevant inputs to the calculation require trailing twelve months of data to calculate.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "TrueLark",
+            "type": "company",
+            "attributes": {
+              "event": "acquisition",
+              "acquisition_date": "May 2025"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "acquisition impact",
+          "customer locations",
+          "dollar-based net retention rate",
+          "dollar-based gross retention rate",
+          "trailing twelve months data"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the disclosed number of customer locations includes the impact of the May 2025 acquisition of TrueLark, while dollar-based net and gross retention rates exclude that acquisition because the calculations require trailing twelve months of data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1",
+      "text": "LEHI, Utah--( BUSINESS WIRE )-- Weave Communications, Inc. (\u201cWeave\u201d) (NYSE: WEAV), a leading vertical SaaS platform that delivers AI-powered patient engagement and payment solutions for small and medium-sized healthcare practices, today announced its financial results for the fourth quarter and full year ended December 31, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "LEHI, Utah",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "Weave Communications, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "WEAV",
+              "exchange": "NYSE",
+              "description": "vertical SaaS platform",
+              "products": "AI-powered patient engagement and payment solutions",
+              "customer_segment": "small and medium-sized healthcare practices"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "financial results",
+          "fourth quarter",
+          "full year",
+          "AI-powered patient engagement",
+          "payment solutions",
+          "healthcare SaaS"
+        ],
+        "sentiment": "neutral",
+        "summary": "Weave Communications announced that it will report financial results for the fourth quarter and full year ended December 31, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_34",
+      "text": "We define non-GAAP gross profit as GAAP gross profit adjusted to exclude stock-based compensation expense and amortization of acquisition-related intangible assets. Although we exclude the amortization of acquisition-related intangible assets from the non-GAAP measure, management believes it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation. Non-GAAP gross margin is defined as non-GAAP gross profit as a percentage of revenue.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "GAAP gross profit",
+            "type": "other",
+            "attributes": {
+              "definition": "Gross profit under GAAP"
+            }
+          },
+          {
+            "name": "non-GAAP gross profit",
+            "type": "other",
+            "attributes": {
+              "definition": "GAAP gross profit adjusted to exclude stock-based compensation expense and amortization of acquisition-related intangible assets"
+            }
+          },
+          {
+            "name": "non-GAAP gross margin",
+            "type": "other",
+            "attributes": {
+              "definition": "Non-GAAP gross profit as a percentage of revenue"
+            }
+          },
+          {
+            "name": "stock-based compensation expense",
+            "type": "other",
+            "attributes": {
+              "treatment": "excluded from non-GAAP gross profit"
+            }
+          },
+          {
+            "name": "amortization of acquisition-related intangible assets",
+            "type": "other",
+            "attributes": {
+              "treatment": "excluded from non-GAAP gross profit",
+              "context": "Recorded as part of purchase accounting and contributes to revenue generation"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP gross profit",
+          "non-GAAP gross margin",
+          "stock-based compensation",
+          "amortization of acquisition-related intangible assets",
+          "purchase accounting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines non-GAAP gross profit as GAAP gross profit excluding stock-based compensation expense and amortization of acquisition-related intangible assets, and defines non-GAAP gross margin as non-GAAP gross profit divided by revenue."
+      }
+    },
+    {
+      "chunk_id": "prose_p_56",
+      "text": "Weave uses the investor relations page on our website (investors.getweave.com), blog posts on our website, press releases, public conference calls, webcasts, our X (Twitter) feed (@getweave), our Facebook page, and our LinkedIn page as the means of complying with our disclosure obligations under Regulation FD. We encourage investors, the media, and others to follow the channels listed above, in addition to following Weave\u2019s press releases, SEC filings, and public conference calls and webcasts, and to review the information disclosed through such channels.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Weave",
+            "type": "company",
+            "attributes": {
+              "investor_relations_website": "investors.getweave.com",
+              "x_twitter_handle": "@getweave",
+              "disclosure_obligations": "Regulation FD",
+              "communication_channels": "investor relations page, blog posts, press releases, public conference calls, webcasts, X (Twitter), Facebook, LinkedIn"
+            }
+          },
+          {
+            "name": "SEC",
+            "type": "other",
+            "attributes": {
+              "role": "regulatory filing source"
+            }
+          },
+          {
+            "name": "Facebook",
+            "type": "other",
+            "attributes": {
+              "role": "social media channel"
+            }
+          },
+          {
+            "name": "LinkedIn",
+            "type": "other",
+            "attributes": {
+              "role": "social media channel"
+            }
+          },
+          {
+            "name": "X (Twitter)",
+            "type": "other",
+            "attributes": {
+              "role": "social media channel"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Regulation FD",
+          "investor relations",
+          "disclosure channels",
+          "press releases",
+          "SEC filings",
+          "conference calls",
+          "webcasts",
+          "social media communication"
+        ],
+        "sentiment": "neutral",
+        "summary": "Weave states that it uses its investor relations website, blog, press releases, conference calls, webcasts, and social media accounts to meet its Regulation FD disclosure obligations and encourages stakeholders to follow these channels."
+      }
+    },
+    {
+      "chunk_id": "prose_p_42",
+      "text": "We define free cash flow as net cash provided by operating activities, less purchases of property and equipment and capitalized internal-use software costs. We believe that free cash flow is a useful indicator of liquidity that provides useful information to management and investors, even if negative, as it provides information about the amount of cash consumed by our combined operating and investing activities. For example, as free cash flow has in the past been negative, we have needed to access cash reserves or other sources of capital for these investments.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "free cash flow",
+            "type": "other",
+            "attributes": {
+              "definition": "net cash provided by operating activities less purchases of property and equipment and capitalized internal-use software costs",
+              "purpose": "indicator of liquidity",
+              "note": "can be negative"
+            }
+          },
+          {
+            "name": "management",
+            "type": "other",
+            "attributes": {}
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "free cash flow definition",
+          "liquidity",
+          "operating cash flow",
+          "capital expenditures",
+          "capitalized software costs",
+          "cash consumption"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines free cash flow as operating cash flow minus purchases of property and equipment and capitalized internal-use software costs, and explains that it is used as a liquidity measure even when negative."
+      }
+    },
+    {
+      "chunk_id": "prose_p_38",
+      "text": "We define non-GAAP income from operations as GAAP loss from operations less stock-based compensation expense, acquisition transaction costs, if any, and amortization of acquisition-related intangible assets. Although we exclude the amortization of acquisition-related intangible assets from the non-GAAP measure, management believes it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation. Non-GAAP income from operations margin is defined as non-GAAP income from operations as a percentage of revenue.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "non-GAAP income from operations",
+            "type": "other",
+            "attributes": {
+              "definition": "GAAP loss from operations less stock-based compensation expense, acquisition transaction costs, if any, and amortization of acquisition-related intangible assets"
+            }
+          },
+          {
+            "name": "non-GAAP income from operations margin",
+            "type": "other",
+            "attributes": {
+              "definition": "non-GAAP income from operations as a percentage of revenue"
+            }
+          },
+          {
+            "name": "stock-based compensation expense",
+            "type": "other",
+            "attributes": {
+              "treatment": "excluded from non-GAAP income from operations"
+            }
+          },
+          {
+            "name": "acquisition transaction costs",
+            "type": "other",
+            "attributes": {
+              "treatment": "excluded from non-GAAP income from operations if any"
+            }
+          },
+          {
+            "name": "amortization of acquisition-related intangible assets",
+            "type": "other",
+            "attributes": {
+              "treatment": "excluded from non-GAAP income from operations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "income from operations",
+          "stock-based compensation",
+          "acquisition transaction costs",
+          "amortization of acquisition-related intangible assets",
+          "margin definition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines non-GAAP income from operations and its margin, explaining that certain expenses related to stock compensation, acquisitions, and intangible asset amortization are excluded from the measure."
+      }
+    },
+    {
+      "chunk_id": "prose_p_2",
+      "text": "\u201cWeave delivered another strong quarter in Q4, with 17% year-over-year revenue growth, accompanied by record gross margins and operating income,\u201d said Brett White, CEO of Weave. \u201cAs our agentic workflows expand, Weave evolves from a product practices use to an always-on teammate they rely on. We reduce administrative burden, improve conversion and collections, and free staff to focus on high-value patient care. Weave is defining the intelligent front office in healthcare, building a durable, scalable business, and delivering on our commitments. We are excited about the long-term value we are creating for both our customers and our shareholders.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Weave",
+            "type": "company",
+            "attributes": {
+              "role": "company mentioned in earnings commentary",
+              "business_focus": "intelligent front office in healthcare"
+            }
+          },
+          {
+            "name": "Brett White",
+            "type": "person",
+            "attributes": {
+              "role": "CEO of Weave"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "17%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "Q4 year-over-year"
+          }
+        ],
+        "key_topics": [
+          "revenue growth",
+          "gross margins",
+          "operating income",
+          "agentic workflows",
+          "healthcare software",
+          "administrative burden reduction",
+          "conversion and collections",
+          "patient care",
+          "shareholder value"
+        ],
+        "sentiment": "positive",
+        "summary": "Weave reported a strong Q4 with 17% year-over-year revenue growth and record gross margins and operating income, while highlighting expansion of its agentic workflows and long-term value creation in healthcare."
+      }
+    },
+    {
+      "chunk_id": "prose_p_36",
+      "text": "We define non-GAAP operating expenses, in the aggregate or its individual components (i.e., sales and marketing, research and development or general and administrative), as the applicable GAAP operating expenses adjusted to exclude the applicable stock-based compensation expense, acquisition transaction costs, if any, and amortization of acquisition-related intangible assets. Although we exclude the amortization of acquisition-related intangible assets from the non-GAAP measure, management believes it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "non-GAAP operating expenses",
+            "type": "other",
+            "attributes": {
+              "definition": "GAAP operating expenses adjusted to exclude stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets",
+              "components": "sales and marketing, research and development, general and administrative"
+            }
+          },
+          {
+            "name": "GAAP operating expenses",
+            "type": "other",
+            "attributes": {
+              "role": "base measure adjusted to derive non-GAAP operating expenses"
+            }
+          },
+          {
+            "name": "stock-based compensation expense",
+            "type": "other",
+            "attributes": {
+              "excluded_from": "non-GAAP operating expenses"
+            }
+          },
+          {
+            "name": "acquisition transaction costs",
+            "type": "other",
+            "attributes": {
+              "excluded_from": "non-GAAP operating expenses",
+              "conditional": "if any"
+            }
+          },
+          {
+            "name": "amortization of acquisition-related intangible assets",
+            "type": "other",
+            "attributes": {
+              "excluded_from": "non-GAAP operating expenses",
+              "note": "recorded as part of purchase accounting and contributes to revenue generation"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP operating expenses",
+          "GAAP to non-GAAP reconciliation",
+          "stock-based compensation",
+          "acquisition transaction costs",
+          "amortization of acquisition-related intangible assets",
+          "purchase accounting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines non-GAAP operating expenses as GAAP operating expenses adjusted to exclude stock-based compensation, acquisition transaction costs, and amortization of acquisition-related intangible assets, and explains why the intangible amortization is still considered important for investors to understand."
+      }
+    },
+    {
+      "chunk_id": "prose_p_47",
+      "text": "For retention rate calculations, we use adjusted monthly revenue (\u201cAMR\u201d), which is calculated for each location as the sum of (i) the subscription component of revenue for each month and (ii) the average of the trailing three-month recurring payments revenue. To calculate our NRR, we first identify the cohort of locations (the \u201cBase Locations\u201d) that were active in a particular month (the \u201cBase Month\u201d). We then divide AMR for the Base Locations in the same month of the subsequent year by AMR in the Base Month to derive a monthly NRR. We derive our annual NRR as of any date by taking a weighted average of the monthly net retention rates over the trailing twelve months before such date.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "AMR",
+            "type": "other",
+            "attributes": {
+              "full_name": "adjusted monthly revenue",
+              "calculation": "sum of the subscription component of revenue for each month and the average of the trailing three-month recurring payments revenue"
+            }
+          },
+          {
+            "name": "NRR",
+            "type": "other",
+            "attributes": {
+              "full_name": "net retention rate",
+              "calculation": "AMR for Base Locations in the same month of the subsequent year divided by AMR in the Base Month; annual NRR is a weighted average of monthly net retention rates over the trailing twelve months"
+            }
+          },
+          {
+            "name": "Base Locations",
+            "type": "location",
+            "attributes": {
+              "definition": "cohort of locations active in a particular month"
+            }
+          },
+          {
+            "name": "Base Month",
+            "type": "other",
+            "attributes": {
+              "definition": "the particular month in which the Base Locations were active"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "adjusted monthly revenue",
+          "net retention rate",
+          "retention rate calculation",
+          "cohort analysis",
+          "monthly recurring revenue"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains how adjusted monthly revenue (AMR) is calculated and how monthly and annual net retention rate (NRR) are derived using Base Locations and trailing twelve-month weighted averages."
+      }
+    },
+    {
+      "chunk_id": "prose_p_32",
+      "text": "We define non-GAAP net income as GAAP net loss adjusted to exclude stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets, and non-GAAP net income margin as non-GAAP net income as a percentage of revenue. Acquisition transaction costs include legal and any accounting professional services costs incurred as a result of our acquisition during the applicable period. Although we exclude the amortization of acquisition-related intangible assets from the non-GAAP measure, management believes it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation. Non-GAAP net income per share is calculated as non-GAAP net income divided by the diluted weighted average shares outstanding.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "GAAP net loss",
+            "type": "other",
+            "attributes": {
+              "role": "starting point for non-GAAP net income calculation"
+            }
+          },
+          {
+            "name": "non-GAAP net income",
+            "type": "other",
+            "attributes": {
+              "definition": "GAAP net loss adjusted to exclude stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets"
+            }
+          },
+          {
+            "name": "non-GAAP net income margin",
+            "type": "other",
+            "attributes": {
+              "definition": "non-GAAP net income as a percentage of revenue"
+            }
+          },
+          {
+            "name": "acquisition transaction costs",
+            "type": "other",
+            "attributes": {
+              "includes": "legal and accounting professional services costs incurred as a result of acquisition during the applicable period"
+            }
+          },
+          {
+            "name": "acquisition-related intangible assets",
+            "type": "other",
+            "attributes": {
+              "accounting_treatment": "recorded as part of purchase accounting",
+              "business_effect": "contribute to revenue generation"
+            }
+          },
+          {
+            "name": "non-GAAP net income per share",
+            "type": "other",
+            "attributes": {
+              "calculation": "non-GAAP net income divided by diluted weighted average shares outstanding"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP net income definition",
+          "non-GAAP net income margin",
+          "stock-based compensation exclusion",
+          "acquisition transaction costs",
+          "amortization of acquisition-related intangible assets",
+          "non-GAAP net income per share calculation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines the company's non-GAAP net income and related margin and per-share metrics, explaining that certain acquisition-related and stock-based compensation expenses are excluded and noting the rationale for excluding amortization of acquisition-related intangible assets."
+      }
+    },
+    {
+      "chunk_id": "prose_p_49",
+      "text": "To calculate our GRR, we first identify the Base Locations that were under subscription in the Base Month. We then calculate the effect of reductions in revenue from customer location terminations by measuring the amount of AMR in the Base Month for Base Locations still under subscription twelve months subsequent to the Base Month (the \u201cRemaining AMR\u201d). We then divide the Remaining AMR for the Base Locations by AMR in the Base Month for the Base Locations to derive a monthly gross retention rate. We calculate GRR as of any date by taking a weighted average of the monthly gross retention rates over the trailing twelve months prior to such date. GRR reflects the effect of customer locations that terminate their subscriptions, but does not reflect changes in revenue due to revenue expansion, revenue contraction, or the addition of new customer locations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "GRR",
+            "type": "other",
+            "attributes": {
+              "full_name": "gross retention rate",
+              "calculation": "Weighted average of monthly gross retention rates over the trailing twelve months prior to a date",
+              "formula": "Remaining AMR for Base Locations / AMR in the Base Month for Base Locations",
+              "purpose": "Measures retention of revenue from customer locations that remain subscribed"
+            }
+          },
+          {
+            "name": "Base Locations",
+            "type": "other",
+            "attributes": {
+              "definition": "Locations under subscription in the Base Month"
+            }
+          },
+          {
+            "name": "Base Month",
+            "type": "other",
+            "attributes": {
+              "definition": "The month used as the starting point for GRR calculation"
+            }
+          },
+          {
+            "name": "AMR",
+            "type": "other",
+            "attributes": {
+              "full_name": "annualized monthly recurring revenue",
+              "used_in": "GRR calculation"
+            }
+          },
+          {
+            "name": "Remaining AMR",
+            "type": "other",
+            "attributes": {
+              "definition": "AMR in the Base Month for Base Locations still under subscription twelve months subsequent to the Base Month"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "gross retention rate",
+          "revenue retention",
+          "subscription revenue",
+          "customer location terminations",
+          "AMR calculation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains how GRR is calculated using Base Locations, Base Month AMR, and Remaining AMR, then averaged over the trailing twelve months. It also clarifies that GRR captures revenue lost from terminated customer locations but excludes revenue expansion, contraction, and new locations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_28",
+      "text": "Weave is a leading AI-powered patient communications and engagement platform purpose-built for small and medium-sized healthcare practices. Operating at the center of patient interactions, Weave brings together AI agent and staff conversations across voice and text into unified, intelligent workflows that power the entire patient journey. Authorized integrations with practice management systems enable Weave to power critical practice operations, such as scheduling, verification of insurance eligibility, and collecting payments. By embedding AI directly into practice workflows, Weave reduces administrative burden and delivers real-time insights that help practices run smarter and grow with confidence. Serving nearly 40,000 customer locations, Weave was named a 2026 Best Software Awards winner for healthcare software products by G2. To learn more, visit investors.getweave.com.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Weave",
+            "type": "company",
+            "attributes": {
+              "description": "AI-powered patient communications and engagement platform",
+              "focus": "small and medium-sized healthcare practices",
+              "capabilities": "unified voice and text workflows, scheduling, insurance eligibility verification, payment collection, real-time insights",
+              "customer_locations": "nearly 40,000",
+              "award": "2026 Best Software Awards winner for healthcare software products by G2",
+              "website": "investors.getweave.com"
+            }
+          },
+          {
+            "name": "G2",
+            "type": "company",
+            "attributes": {
+              "role": "awarding organization"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "40000",
+            "type": "other",
+            "currency": "other",
+            "period": null
+          }
+        ],
+        "key_topics": [
+          "AI-powered healthcare software",
+          "patient communications",
+          "patient engagement",
+          "practice management integrations",
+          "workflow automation",
+          "scheduling",
+          "insurance eligibility verification",
+          "payment collection",
+          "customer locations",
+          "software award"
+        ],
+        "sentiment": "positive",
+        "summary": "Weave is presented as an AI-powered patient communications platform for healthcare practices, highlighting its integrated workflows, practice management capabilities, broad customer base, and recognition by G2."
+      }
+    },
+    {
+      "chunk_id": "prose_p_23",
+      "text": "Non-GAAP income (loss) from operations excludes estimates for, among other things, stock-based compensation expense, acquisition transaction costs (as described further below), and amortization of acquisition-related intangible assets. A reconciliation of this non-GAAP financial guidance measure to a corresponding GAAP financial guidance measure is not available on a forward-looking basis because we do not provide guidance on GAAP income (loss) from operations and are not able to present the various reconciling cash and non-cash items between GAAP loss from operations and non-GAAP income (loss) from operations without unreasonable effort. In particular, stock-based compensation expense is impacted by our future hiring and retention needs, as well as the future fair market value of our common stock, all of which are difficult to predict and are subject to change. The actual amount of these expenses during 2026 will have a significant impact on our future GAAP financial results.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "company",
+            "type": "company",
+            "attributes": {
+              "mentions": "Uses non-GAAP income (loss) from operations guidance and discusses inability to reconcile it to GAAP on a forward-looking basis.",
+              "period_mentioned": "2026"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP income (loss) from operations",
+          "GAAP reconciliation",
+          "stock-based compensation expense",
+          "acquisition transaction costs",
+          "amortization of acquisition-related intangible assets",
+          "forward-looking guidance limitations",
+          "future hiring and retention needs",
+          "future fair market value of common stock"
         ],
         "sentiment": "negative",
-        "summary": "The section explains that social media cookies enable sharing content but can track browsing across sites, build interest profiles, and affect the content and messages users see on other websites."
+        "summary": "The section explains that non-GAAP income (loss) from operations excludes stock-based compensation, acquisition-related costs, and amortization of intangible assets, and that a forward-looking GAAP reconciliation is not provided due to uncertainty and unreasonable effort. It also notes that stock-based compensation expense in 2026 could significantly affect future GAAP results."
+      }
+    },
+    {
+      "chunk_id": "prose_p_40",
+      "text": "We define EBITDA as earnings before interest expense, interest income, other income/expense, income tax benefit (expense), depreciation, and amortization. Our depreciation adjustment includes depreciation on operating fixed assets and we do not adjust for amortization of finance lease right-of-use assets on phone hardware provided to our customers. Our amortization adjustment includes the amortization of capitalized costs from both internal-use software development and cloud computing arrangements. We further adjust EBITDA to exclude stock-based compensation expense, a non-cash item, acquisition transaction costs, which we believe are not reflective of ongoing results of operations in the period incurred and not directly related to the operation of our business, and amortization of acquisition-related intangible assets. Although we exclude the amortization of acquisition-related intangible assets from the non-GAAP measure, management believes it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation. We believe that Adjusted EBITDA provides management and investors consistency and comparability with our past financial performance and facilitates period-to-period comparisons of operations. Additionally, management uses Adjusted EBITDA to measure our financial and operational performance and prepare our budgets.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "EBITDA adjusted to exclude stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets",
+              "purpose": "Used by management and investors for consistency, comparability, performance measurement, and budgeting"
+            }
+          },
+          {
+            "name": "EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "Earnings before interest expense, interest income, other income/expense, income tax benefit (expense), depreciation, and amortization"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "EBITDA definition",
+          "Adjusted EBITDA",
+          "stock-based compensation",
+          "acquisition transaction costs",
+          "amortization of acquisition-related intangible assets",
+          "non-GAAP financial measures",
+          "management performance metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines EBITDA and Adjusted EBITDA, describing the specific items excluded from the non-GAAP measure and explaining that management uses Adjusted EBITDA for performance measurement, comparability, and budgeting."
+      }
+    },
+    {
+      "chunk_id": "prose_p_44",
+      "text": "The foregoing non-GAAP financial measures have limitations as analytical tools and should not be considered in isolation or as substitutes for financial information presented under U.S. GAAP. There are a number of limitations related to the use of non-GAAP financial measures versus comparable financial measures determined under U.S. GAAP. For example, the non-GAAP financial information presented above may be determined or calculated differently by other companies and may not be directly comparable to that of other companies. In addition, free cash flow does not reflect our future contractual commitments and the total increase or decrease of our cash balance for a given period. Further, Adjusted EBITDA excludes some costs, namely, non-cash stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets. Therefore, Adjusted EBITDA does not reflect the non-cash impact of stock-based compensation expense or working capital needs that will continue for the foreseeable future. All of these limitations could reduce the usefulness of these non-GAAP financial measures as analytical tools. Investors are encouraged to review the related U.S. GAAP financial measures and the reconciliations of these non-GAAP financial measures to their most directly comparable U.S. GAAP financial measures and to no rely on any single financial measure to evaluate our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. GAAP",
+            "type": "other",
+            "attributes": {
+              "description": "Generally Accepted Accounting Principles used as the comparable financial reporting framework"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure excluding non-cash stock-based compensation expense, acquisition transaction costs, and amortization of acquisition-related intangible assets"
+            }
+          },
+          {
+            "name": "free cash flow",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure that does not reflect future contractual commitments or total cash balance changes"
+            }
+          },
+          {
+            "name": "stock-based compensation expense",
+            "type": "other",
+            "attributes": {
+              "description": "Non-cash expense excluded from Adjusted EBITDA"
+            }
+          },
+          {
+            "name": "acquisition transaction costs",
+            "type": "other",
+            "attributes": {
+              "description": "Costs excluded from Adjusted EBITDA"
+            }
+          },
+          {
+            "name": "amortization of acquisition-related intangible assets",
+            "type": "other",
+            "attributes": {
+              "description": "Expense excluded from Adjusted EBITDA"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "U.S. GAAP comparability",
+          "Adjusted EBITDA limitations",
+          "free cash flow limitations",
+          "stock-based compensation",
+          "acquisition-related costs",
+          "investor caution"
+        ],
+        "sentiment": "negative",
+        "summary": "The section explains that the company\u2019s non-GAAP financial measures, including Adjusted EBITDA and free cash flow, have important limitations and should not be used in isolation. It notes that these measures may not be comparable across companies and exclude certain costs and cash flow effects, so investors should review the related U.S. GAAP measures and reconciliations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_30",
+      "text": "In this press release, Weave has provided financial information that has not been prepared in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d). We disclose the following historical non-GAAP financial measures in this press release: non-GAAP net income, non-GAAP net income margin, non-GAAP net income per share, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP income from operations margin, Adjusted EBITDA and free cash flow. We use these non-GAAP financial measures internally to analyze our financial results and evaluate our ongoing operational performance. We believe that these non-GAAP financial measures provide an additional tool for investors to use in understanding and evaluating ongoing operating results and trends in the same manner as our management and board of directors. Our use of these non-GAAP financial measures has limitations as an analytical tool, and you should not consider them in isolation or as a substitute for analysis of our financial results as reported under GAAP. Because of these and other limitations, you should consider these non-GAAP financial measures along with other GAAP-based financial performance measures, including various cash flow metrics, operating loss, net loss, and our GAAP financial results. We have provided a reconciliation of these non-GAAP financial measures to their most directly comparable GAAP measures in the tables included in this press release, and investors are encouraged to review the reconciliation.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Weave",
+            "type": "company",
+            "attributes": {
+              "role": "issuer",
+              "mentioned_in": "press release",
+              "reports_non_gaap_measures": "true"
+            }
+          },
+          {
+            "name": "GAAP",
+            "type": "other",
+            "attributes": {
+              "full_name": "generally accepted accounting principles in the United States",
+              "context": "accounting standard"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "category": "non-GAAP financial measure"
+            }
+          },
+          {
+            "name": "free cash flow",
+            "type": "other",
+            "attributes": {
+              "category": "non-GAAP financial measure"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "financial performance analysis",
+          "investor disclosure",
+          "Adjusted EBITDA",
+          "free cash flow"
+        ],
+        "sentiment": "neutral",
+        "summary": "Weave states that it presents several historical non-GAAP financial measures in the press release, explains that these measures are used internally and may help investors evaluate performance, and notes their limitations versus GAAP measures. The company says reconciliations to comparable GAAP measures are included in the release."
       }
     }
   ],

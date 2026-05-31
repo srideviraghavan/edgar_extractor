@@ -7,44 +7,57 @@
     {
       "table_id": "table_0",
       "headers": [
-        "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)"
+        "",
+        "col_1"
       ],
       "rows": [
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": ""
+          "": "",
+          "col_1": ""
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": ""
+          "": "",
+          "col_1": "Year EndedDecember 31,"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": ""
+          "": "",
+          "col_1": "2025"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "GAAP net income (loss)"
+          "": "GAAP net income (loss)",
+          "col_1": "$(32,994)"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Stock-based compensation"
+          "": "Stock-based compensation",
+          "col_1": "47,646"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Depreciation and amortization"
+          "": "Depreciation and amortization",
+          "col_1": "12,462"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Interest expense"
+          "": "Interest expense",
+          "col_1": "29,629"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Other (income) expense, net"
+          "": "Other (income) expense, net",
+          "col_1": "(18,369)"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Income tax expense (benefit)"
+          "": "Income tax expense (benefit)",
+          "col_1": "2,376"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Adjusted EBITDA"
+          "": "Adjusted EBITDA",
+          "col_1": "$ 40,750"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Net income (loss) margin"
+          "": "Net income (loss) margin",
+          "col_1": "(7)%"
         },
         {
-          "RECONCILIATION OF GAAP NET INCOME (LOSS) TO ADJUSTED EBITDA\n\n(UNAUDITED)(in thousands, except net income (loss) margin and Adjusted EBITDA margin data)": "Adjusted EBITDA margin"
+          "": "Adjusted EBITDA margin",
+          "col_1": "9%"
         }
       ],
       "confidence": 0.5,
@@ -69,195 +82,528 @@
   ],
   "prose_chunks": [
     {
-      "chunk_id": "prose_18",
-      "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
-      "section_header": "Strictly Necessary Cookies",
+      "chunk_id": "prose_p_15",
+      "text": "This release includes certain non-GAAP financial measures, including Adjusted EBITDA and Adjusted EBITDA margin.",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
-        "entities": [
-          {
-            "name": "Strictly Necessary Cookies",
-            "type": "other",
-            "attributes": {
-              "description": "Cookies necessary for the website to function",
-              "can_be_switched_off": "false",
-              "set_in_response_to_user_actions": "true",
-              "examples": "setting privacy preferences, logging in, filling in forms",
-              "stores_personally_identifiable_information": "false"
-            }
-          }
-        ],
+        "entities": [],
         "financial_figures": [],
         "key_topics": [
-          "cookies",
-          "website functionality",
-          "privacy preferences",
-          "browser settings",
-          "personal data"
+          "non-GAAP financial measures",
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that strictly necessary cookies are required for website functionality, are triggered by user actions, may be blocked or alerted by browser settings, and do not store personally identifiable information."
+        "summary": "The section states that the release includes non-GAAP financial measures, specifically Adjusted EBITDA and Adjusted EBITDA margin."
       }
     },
     {
-      "chunk_id": "prose_19",
-      "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
-      "section_header": "Functional Cookies",
+      "chunk_id": "prose_p_47",
+      "text": "1 Based on job seeker app ratings, during the period of January 2017 to January 2026 from AppFollow for ZipRecruiter, Glassdoor, Indeed, LinkedIn, and Monster.",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
         "entities": [
           {
-            "name": "website",
-            "type": "other",
-            "attributes": {
-              "role": "provides enhanced functionality and personalisation"
-            }
-          },
-          {
-            "name": "third party providers",
-            "type": "other",
-            "attributes": {
-              "role": "services added to the website pages"
-            }
-          }
-        ],
-        "financial_figures": [],
-        "key_topics": [
-          "functional cookies",
-          "website functionality",
-          "personalisation",
-          "third-party services",
-          "cookie consent"
-        ],
-        "sentiment": "neutral",
-        "summary": "The section explains that functional cookies improve website functionality and personalization, may be set by the website or third-party providers, and that disabling them may cause some services to not work properly."
-      }
-    },
-    {
-      "chunk_id": "prose_20",
-      "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
-      "section_header": "Performance Cookies",
-      "confidence": 0.85,
-      "extracted_data": {
-        "entities": [
-          {
-            "name": "site",
-            "type": "other",
-            "attributes": {
-              "context": "website being measured for performance",
-              "cookie_type": "performance cookies"
-            }
-          },
-          {
-            "name": "visitors",
-            "type": "other",
-            "attributes": {
-              "context": "users whose movement and visits are tracked in aggregated, anonymous form"
-            }
-          }
-        ],
-        "financial_figures": [],
-        "key_topics": [
-          "performance cookies",
-          "website analytics",
-          "traffic sources",
-          "page popularity",
-          "anonymous aggregated data",
-          "site performance monitoring"
-        ],
-        "sentiment": "neutral",
-        "summary": "The section explains that performance cookies are used to count visits and traffic sources, analyze page popularity and visitor movement, and monitor and improve website performance using aggregated, anonymous data."
-      }
-    },
-    {
-      "chunk_id": "prose_21",
-      "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
-      "section_header": "Targeting Cookies",
-      "confidence": 0.85,
-      "extracted_data": {
-        "entities": [
-          {
-            "name": "our site",
-            "type": "other",
-            "attributes": {
-              "context": "website using targeting cookies"
-            }
-          },
-          {
-            "name": "advertising partners",
+            "name": "AppFollow",
             "type": "company",
             "attributes": {
-              "role": "set cookies and show relevant adverts"
+              "role": "data source"
             }
           },
           {
-            "name": "cookies",
-            "type": "other",
+            "name": "ZipRecruiter",
+            "type": "company",
             "attributes": {
-              "category": "targeting cookies"
+              "context": "job seeker app ratings"
             }
           },
           {
-            "name": "browser",
-            "type": "other",
+            "name": "Glassdoor",
+            "type": "company",
             "attributes": {
-              "identifier": "uniquely identifying browser"
+              "context": "job seeker app ratings"
             }
           },
           {
-            "name": "internet device",
-            "type": "other",
+            "name": "Indeed",
+            "type": "company",
             "attributes": {
-              "identifier": "uniquely identifying device"
+              "context": "job seeker app ratings"
+            }
+          },
+          {
+            "name": "LinkedIn",
+            "type": "company",
+            "attributes": {
+              "context": "job seeker app ratings"
+            }
+          },
+          {
+            "name": "Monster",
+            "type": "company",
+            "attributes": {
+              "context": "job seeker app ratings"
             }
           }
         ],
         "financial_figures": [],
         "key_topics": [
-          "targeting cookies",
-          "advertising partners",
-          "interest profiling",
-          "personalized advertising",
-          "browser and device identification",
-          "cookie consent"
+          "job seeker app ratings",
+          "AppFollow data",
+          "comparison period January 2017 to January 2026"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that targeting cookies may be set by advertising partners to build interest profiles and display relevant ads on other sites, using browser and device identifiers rather than directly personal information."
+        "summary": "The section references job seeker app ratings from AppFollow for ZipRecruiter, Glassdoor, Indeed, LinkedIn, and Monster over the period January 2017 to January 2026."
       }
     },
     {
-      "chunk_id": "prose_22",
-      "text": "These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.",
-      "section_header": "Social Media Cookies",
+      "chunk_id": "prose_p_8",
+      "text": "Tim Yarbrough, Chief Financial Officer, announced he will be leaving the company to pursue another opportunity. David Travers will assume the role of interim Chief Financial Officer, effective Thursday, February 26th.",
+      "section_header": null,
       "confidence": 0.85,
       "extracted_data": {
         "entities": [
           {
-            "name": "social media services",
-            "type": "other",
+            "name": "Tim Yarbrough",
+            "type": "person",
             "attributes": {
-              "role": "cookie provider",
-              "function": "enable content sharing and tracking across sites"
+              "role": "Chief Financial Officer",
+              "status": "leaving company",
+              "reason": "to pursue another opportunity"
             }
           },
           {
-            "name": "site",
-            "type": "other",
+            "name": "David Travers",
+            "type": "person",
             "attributes": {
-              "role": "website"
+              "role": "interim Chief Financial Officer",
+              "effective_date": "Thursday, February 26th"
             }
           }
         ],
         "financial_figures": [],
         "key_topics": [
-          "social media cookies",
-          "tracking across websites",
-          "content sharing tools",
-          "user profiling",
-          "cookie consent"
+          "executive departure",
+          "interim CFO appointment",
+          "leadership transition"
         ],
         "sentiment": "neutral",
-        "summary": "The section explains that social media cookies enable sharing content through social platforms, can track browsing across other sites, and may affect the content and messages users see on other websites if the cookies are not allowed."
+        "summary": "Tim Yarbrough is leaving his role as Chief Financial Officer to pursue another opportunity, and David Travers will serve as interim Chief Financial Officer effective Thursday, February 26th."
+      }
+    },
+    {
+      "chunk_id": "prose_p_16",
+      "text": "We define Adjusted EBITDA as our net income (loss) before interest expense, other income (expense), net, income tax expense (benefit) and depreciation and amortization, adjusted to eliminate stock-based compensation expense. Adjusted EBITDA margin represents Adjusted EBITDA as a percentage of revenue for the same period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "Net income (loss) before interest expense, other income (expense), net, income tax expense (benefit), depreciation and amortization, adjusted to eliminate stock-based compensation expense",
+              "margin_definition": "Adjusted EBITDA as a percentage of revenue for the same period"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin",
+          "non-GAAP financial measure",
+          "stock-based compensation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Adjusted EBITDA and Adjusted EBITDA margin as a percentage of revenue, describing the adjustments made to net income for non-operating items, taxes, depreciation and amortization, and stock-based compensation."
+      }
+    },
+    {
+      "chunk_id": "prose_p_5",
+      "text": "SANTA MONICA, Calif.--( BUSINESS WIRE )-- ZipRecruiter \u00ae (NYSE: ZIP), a leading online employment marketplace, today announced financial results for the quarter and full year ended December 31, 2025. ZipRecruiter\u2019s complete fourth quarter and full year 2025 results, financial guidance, and management commentary can be found by accessing ZipRecruiter\u2019s shareholder letter on the quarterly results page of the Investor Relations website at investors.ziprecruiter.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "SANTA MONICA, Calif.",
+            "type": "location",
+            "attributes": {
+              "role": "dateline location"
+            }
+          },
+          {
+            "name": "ZipRecruiter",
+            "type": "company",
+            "attributes": {
+              "ticker": "NYSE: ZIP",
+              "description": "leading online employment marketplace",
+              "website": "investors.ziprecruiter.com"
+            }
+          },
+          {
+            "name": "Business Wire",
+            "type": "other",
+            "attributes": {
+              "role": "newswire"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "quarterly financial results",
+          "full-year financial results",
+          "financial guidance",
+          "shareholder letter",
+          "investor relations"
+        ],
+        "sentiment": "neutral",
+        "summary": "ZipRecruiter announced that it will report its fourth quarter and full year 2025 financial results, along with financial guidance and management commentary, via its shareholder letter on the investor relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_46",
+      "text": "ZipRecruiter\u00ae (NYSE:ZIP) is a leading online employment marketplace that actively connects people to their next great opportunity. ZipRecruiter\u2019s powerful matching technology improves the job search experience for job seekers and helps businesses of all sizes find and hire the right candidates quickly. ZipRecruiter has been the #1 rated job search app on iOS & Android for the past nine years 1 and is rated the #1 job site by G2. 2 For more information, visit www.ziprecruiter.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ZipRecruiter",
+            "type": "company",
+            "attributes": {
+              "ticker": "ZIP",
+              "exchange": "NYSE",
+              "description": "online employment marketplace",
+              "website": "www.ziprecruiter.com",
+              "rankings": "#1 rated job search app on iOS & Android for the past nine years; #1 job site by G2"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "online employment marketplace",
+          "job search technology",
+          "candidate matching",
+          "recruitment",
+          "app rankings",
+          "brand recognition"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes ZipRecruiter as a leading online employment marketplace with strong matching technology, highlighting its top app and job site rankings and directing readers to its website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_18",
+      "text": "Adjusted EBITDA and Adjusted EBITDA margin should not be considered in isolation, as an alternative to, or superior to net income (loss), revenue, cash flows or other measures derived in accordance with GAAP. These non-GAAP measures are frequently used by analysts, investors and other interested parties to evaluate companies in our industry. Management believes that the presentation of non-GAAP financial measures is an appropriate measure of operating performance because they eliminate the impact of some expenses that do not relate directly to the performance of our underlying business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure used to evaluate operating performance"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA margin",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure used to evaluate operating performance"
+            }
+          },
+          {
+            "name": "GAAP",
+            "type": "other",
+            "attributes": {
+              "description": "Generally Accepted Accounting Principles"
+            }
+          },
+          {
+            "name": "Management",
+            "type": "other",
+            "attributes": {
+              "description": "States that presentation of non-GAAP financial measures is appropriate"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin",
+          "GAAP comparison",
+          "operating performance"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP measures that should not be viewed in isolation and are used to evaluate operating performance by excluding certain expenses not directly tied to the underlying business."
+      }
+    },
+    {
+      "chunk_id": "prose_p_17",
+      "text": "Management and our board of directors use these non-GAAP financial measures as supplemental measures of our performance because they assist us in comparing our operating performance on a consistent basis, as they remove the impact of some items not directly resulting from our core operations. We also use these non-GAAP financial measures for planning purposes, including the preparation of our internal annual operating budget and financial projections, to evaluate the performance and effectiveness of our strategic initiatives and to evaluate our capacity for capital expenditures to expand our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Management",
+            "type": "other",
+            "attributes": {
+              "role": "uses non-GAAP financial measures for performance comparison and planning"
+            }
+          },
+          {
+            "name": "board of directors",
+            "type": "other",
+            "attributes": {
+              "role": "uses non-GAAP financial measures for performance comparison and planning"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "purpose": "supplemental performance measures, planning, budgeting, projections, strategic initiative evaluation, capital expenditure capacity assessment"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "performance evaluation",
+          "internal budgeting",
+          "financial projections",
+          "strategic initiatives",
+          "capital expenditures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that management and the board use non-GAAP financial measures as supplemental tools to compare operating performance, support budgeting and projections, assess strategic initiatives, and evaluate capital expenditure capacity."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "\u201cOn behalf of the Board and the entire ZipRecruiter team, I want to thank Tim for his many years of dedicated service and the meaningful contributions he has made to our company. He has helped ZipRecruiter maintain financial strength through a challenging hiring environment, and we wish him continued success in his next opportunity,\u201d said Siegel. \u201cWe are pleased that Dave Travers will be stepping into the role of interim Chief Financial Officer. Dave previously served as Chief Financial Officer at ZipRecruiter and brings deep familiarity with our financial operations. We have also initiated a comprehensive search to identify our next Chief Financial Officer.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ZipRecruiter",
+            "type": "company",
+            "attributes": {
+              "mentioned_role": "company",
+              "context": "employer"
+            }
+          },
+          {
+            "name": "Tim",
+            "type": "person",
+            "attributes": {
+              "role": "former Chief Financial Officer",
+              "status": "departing",
+              "context": "thanked for dedicated service and contributions"
+            }
+          },
+          {
+            "name": "Siegel",
+            "type": "person",
+            "attributes": {
+              "role": "speaker",
+              "context": "made the statement on behalf of the Board and ZipRecruiter team"
+            }
+          },
+          {
+            "name": "Dave Travers",
+            "type": "person",
+            "attributes": {
+              "role": "interim Chief Financial Officer",
+              "previous_role": "Chief Financial Officer at ZipRecruiter"
+            }
+          },
+          {
+            "name": "Board",
+            "type": "other",
+            "attributes": {
+              "context": "ZipRecruiter Board"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executive transition",
+          "chief financial officer",
+          "interim appointment",
+          "leadership change",
+          "financial operations",
+          "search for new CFO"
+        ],
+        "sentiment": "positive",
+        "summary": "ZipRecruiter thanked departing CFO Tim for his service, announced that Dave Travers will serve as interim CFO, and said it has begun a search for a permanent Chief Financial Officer."
+      }
+    },
+    {
+      "chunk_id": "prose_p_11",
+      "text": "ZipRecruiter will host a conference call today, February 25, at 2:00 p.m. Pacific Time to discuss its financial results. A live webcast of the call can be accessed from ZipRecruiter\u2019s Investor Relations website at investors.ziprecruiter.com . An archived version will be available on the website two hours after the completion of the call. Investors and analysts can participate in the conference call by dialing +1 (888) 440-4199, or +1 (646) 960-0818 for callers outside the United States and use the Conference ID 9351892. To listen to the telephonic replay, available until Wednesday, March 4, 2026, please dial +1 (800) 770-2030 or +1 (609) 800-9909 for callers outside the United States and use the Conference ID 9351892.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ZipRecruiter",
+            "type": "company",
+            "attributes": {
+              "event": "conference call",
+              "purpose": "discuss financial results",
+              "date": "February 25",
+              "time": "2:00 p.m. Pacific Time",
+              "website": "investors.ziprecruiter.com",
+              "conference_id": "9351892",
+              "replay_available_until": "Wednesday, March 4, 2026"
+            }
+          },
+          {
+            "name": "ZipRecruiter\u2019s Investor Relations website",
+            "type": "other",
+            "attributes": {
+              "url": "investors.ziprecruiter.com"
+            }
+          },
+          {
+            "name": "Pacific Time",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "United States",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call",
+          "financial results",
+          "webcast",
+          "investor relations",
+          "telephonic replay"
+        ],
+        "sentiment": "neutral",
+        "summary": "ZipRecruiter announced a conference call on February 25 at 2:00 p.m. Pacific Time to discuss financial results, with a live webcast, archived replay, and telephonic replay available through its Investor Relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_6",
+      "text": "\u201cZipRecruiter maintained its momentum to close 2025 despite a soft hiring market, achieving year-over-year revenue growth in the fourth quarter and exceeding its Adjusted EBITDA expectations for the full year. This performance is a testament to ZipRecruiter\u2019s execution in a weaker labor market,\u201d said Ian Siegel, CEO of ZipRecruiter. \u201cWe are entering 2026 with an even stronger product portfolio, with recently launched 'Be Seen First' and improved AI-powered solutions that increase candidate engagement. As we navigate 2026, we are maintaining a disciplined cost structure while investing in the next generation of hiring technology. We remain confident that ZipRecruiter is well-positioned to define the future of recruiting in the AI era and capture growth as labor market conditions normalize.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ZipRecruiter",
+            "type": "company",
+            "attributes": {
+              "description": "Recruiting and hiring technology company",
+              "mentioned_performance": "Maintained momentum into 2025, achieved year-over-year revenue growth in Q4, and exceeded full-year Adjusted EBITDA expectations"
+            }
+          },
+          {
+            "name": "Ian Siegel",
+            "type": "person",
+            "attributes": {
+              "role": "CEO of ZipRecruiter"
+            }
+          },
+          {
+            "name": "Be Seen First",
+            "type": "other",
+            "attributes": {
+              "description": "Recently launched product feature"
+            }
+          },
+          {
+            "name": "AI-powered solutions",
+            "type": "other",
+            "attributes": {
+              "description": "Improved solutions intended to increase candidate engagement"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "year-over-year revenue growth",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter 2025"
+          },
+          {
+            "figure": "exceeded Adjusted EBITDA expectations",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2025"
+          }
+        ],
+        "key_topics": [
+          "revenue growth",
+          "Adjusted EBITDA",
+          "soft hiring market",
+          "product launches",
+          "AI in recruiting",
+          "cost discipline",
+          "labor market normalization"
+        ],
+        "sentiment": "positive",
+        "summary": "ZipRecruiter reported strong fourth-quarter 2025 revenue growth and full-year Adjusted EBITDA outperformance despite a weak hiring market, while highlighting new AI-driven products and a disciplined cost structure heading into 2026."
+      }
+    },
+    {
+      "chunk_id": "prose_p_19",
+      "text": "These non-GAAP financial measures should not be construed as an inference that our future results will be unaffected by unusual or other items. Additionally, Adjusted EBITDA and Adjusted EBITDA margin are not intended to be a measure of free cash flow for management\u2019s discretionary use, as they do not reflect our tax payments and certain other cash costs that may recur in the future, including, among other things, cash requirements for costs to replace assets being depreciated and amortized. Management compensates for these limitations by relying on our GAAP results in addition to using Adjusted EBITDA and Adjusted EBITDA margin as supplemental measures of our performance. Our measures of Adjusted EBITDA and Adjusted EBITDA margin used herein are not necessarily comparable to similarly titled captions of other companies due to different methods of calculation.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure used as a supplemental measure of performance",
+              "limitations": "Does not reflect tax payments, certain other cash costs, or cash requirements for replacing depreciated and amortized assets",
+              "comparability": "May not be comparable to similarly titled measures used by other companies"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA margin",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure used as a supplemental measure of performance",
+              "limitations": "Does not reflect tax payments, certain other cash costs, or cash requirements for replacing depreciated and amortized assets",
+              "comparability": "May not be comparable to similarly titled measures used by other companies"
+            }
+          },
+          {
+            "name": "GAAP results",
+            "type": "other",
+            "attributes": {
+              "description": "Primary accounting results relied upon by management alongside non-GAAP measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin",
+          "limitations of performance metrics",
+          "GAAP results",
+          "comparability across companies"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Adjusted EBITDA and Adjusted EBITDA margin are supplemental non-GAAP measures with important limitations, are not proxies for free cash flow, and may not be comparable across companies."
       }
     }
   ],

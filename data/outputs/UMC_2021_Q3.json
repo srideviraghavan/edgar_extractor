@@ -7,38 +7,126 @@
     {
       "table_id": "table_0",
       "headers": [
-        "Operating Results"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
       ],
       "rows": [
         {
-          "Operating Results": "(Amount: NT$ million)"
+          "": "(Amount: NT$ million)",
+          "col_1": "",
+          "col_2": "3Q21",
+          "col_3": "",
+          "col_4": "2Q21",
+          "col_5": "QoQ %change",
+          "col_6": "",
+          "col_7": "3Q20",
+          "col_8": "YoY %change"
         },
         {
-          "Operating Results": "Operating Revenues"
+          "": "Operating Revenues",
+          "col_1": "",
+          "col_2": "55,907",
+          "col_3": "",
+          "col_4": "50,908",
+          "col_5": "9.8",
+          "col_6": "",
+          "col_7": "44,870",
+          "col_8": "24.6"
         },
         {
-          "Operating Results": "Gross Profit"
+          "": "Gross Profit",
+          "col_1": "",
+          "col_2": "20,544",
+          "col_3": "",
+          "col_4": "15,908",
+          "col_5": "29.1",
+          "col_6": "",
+          "col_7": "9,769",
+          "col_8": "110.3"
         },
         {
-          "Operating Results": "Operating Expenses"
+          "": "Operating Expenses",
+          "col_1": "",
+          "col_2": "(6,636)",
+          "col_3": "",
+          "col_4": "(6,201)",
+          "col_5": "7.0",
+          "col_6": "",
+          "col_7": "(5,508)",
+          "col_8": "20.5"
         },
         {
-          "Operating Results": "Net Other Operating Income and Expenses"
+          "": "Net Other Operating Income and Expenses",
+          "col_1": "",
+          "col_2": "1,227",
+          "col_3": "",
+          "col_4": "1,606",
+          "col_5": "(23.6)",
+          "col_6": "",
+          "col_7": "2,872",
+          "col_8": "(57.3)"
         },
         {
-          "Operating Results": "Operating Income"
+          "": "Operating Income",
+          "col_1": "",
+          "col_2": "15,135",
+          "col_3": "",
+          "col_4": "11,313",
+          "col_5": "33.8",
+          "col_6": "",
+          "col_7": "7,133",
+          "col_8": "112.2"
         },
         {
-          "Operating Results": "Net Non-Operating Income and Expenses"
+          "": "Net Non-Operating Income and Expenses",
+          "col_1": "",
+          "col_2": "4,317",
+          "col_3": "",
+          "col_4": "1,881",
+          "col_5": "129.5",
+          "col_6": "",
+          "col_7": "2,074",
+          "col_8": "108.2"
         },
         {
-          "Operating Results": "Net Income Attributable to Shareholders of the Parent"
+          "": "Net Income Attributable to Shareholders of the Parent",
+          "col_1": "",
+          "col_2": "17,460",
+          "col_3": "",
+          "col_4": "11,943",
+          "col_5": "46.2",
+          "col_6": "",
+          "col_7": "9,106",
+          "col_8": "91.7"
         },
         {
-          "Operating Results": "EPS (NT$ per share)"
+          "": "EPS (NT$ per share)",
+          "col_1": "",
+          "col_2": "1.43",
+          "col_3": "",
+          "col_4": "0.98",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.75",
+          "col_8": ""
         },
         {
-          "Operating Results": "(US$ per ADS)"
+          "": "(US$ per ADS)",
+          "col_1": "",
+          "col_2": "0.257",
+          "col_3": "",
+          "col_4": "0.176",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.135",
+          "col_8": ""
         }
       ],
       "confidence": 0.5,
@@ -47,50 +135,170 @@
     {
       "table_id": "table_1",
       "headers": [
-        "COGS & Expenses"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
       ],
       "rows": [
         {
-          "COGS & Expenses": "(Amount: NT$ million)"
+          "": "(Amount: NT$ million)",
+          "col_1": "",
+          "col_2": "3Q21",
+          "col_3": "",
+          "col_4": "2Q21",
+          "col_5": "QoQ %change",
+          "col_6": "",
+          "col_7": "3Q20",
+          "col_8": "YoY %change"
         },
         {
-          "COGS & Expenses": "Operating Revenues"
+          "": "Operating Revenues",
+          "col_1": "",
+          "col_2": "55,907",
+          "col_3": "",
+          "col_4": "50,908",
+          "col_5": "9.8",
+          "col_6": "",
+          "col_7": "44,870",
+          "col_8": "24.6"
         },
         {
-          "COGS & Expenses": "COGS"
+          "": "COGS",
+          "col_1": "",
+          "col_2": "(35,363)",
+          "col_3": "",
+          "col_4": "(35,000)",
+          "col_5": "1.0",
+          "col_6": "",
+          "col_7": "(35,101)",
+          "col_8": "0.7"
         },
         {
-          "COGS & Expenses": "Depreciation"
+          "": "Depreciation",
+          "col_1": "",
+          "col_2": "(9,900)",
+          "col_3": "",
+          "col_4": "(10,187)",
+          "col_5": "(2.8)",
+          "col_6": "",
+          "col_7": "(10,911)",
+          "col_8": "(9.3)"
         },
         {
-          "COGS & Expenses": "Other Mfg. Costs"
+          "": "Other Mfg. Costs",
+          "col_1": "",
+          "col_2": "(25,463)",
+          "col_3": "",
+          "col_4": "(24,813)",
+          "col_5": "2.6",
+          "col_6": "",
+          "col_7": "(24,190)",
+          "col_8": "5.3"
         },
         {
-          "COGS & Expenses": "Gross Profit"
+          "": "Gross Profit",
+          "col_1": "",
+          "col_2": "20,544",
+          "col_3": "",
+          "col_4": "15,908",
+          "col_5": "29.1",
+          "col_6": "",
+          "col_7": "9,769",
+          "col_8": "110.3"
         },
         {
-          "COGS & Expenses": "Gross Margin (%)"
+          "": "Gross Margin (%)",
+          "col_1": "",
+          "col_2": "36.8%",
+          "col_3": "",
+          "col_4": "31.3%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "21.8%",
+          "col_8": ""
         },
         {
-          "COGS & Expenses": "Operating Expenses"
+          "": "Operating Expenses",
+          "col_1": "",
+          "col_2": "(6,636)",
+          "col_3": "",
+          "col_4": "(6,201)",
+          "col_5": "7.0",
+          "col_6": "",
+          "col_7": "(5,508)",
+          "col_8": "20.5"
         },
         {
-          "COGS & Expenses": "G&A"
+          "": "G&A",
+          "col_1": "",
+          "col_2": "(2,119)",
+          "col_3": "",
+          "col_4": "(1,901)",
+          "col_5": "11.5",
+          "col_6": "",
+          "col_7": "(1,614)",
+          "col_8": "31.2"
         },
         {
-          "COGS & Expenses": "Sales & Marketing"
+          "": "Sales & Marketing",
+          "col_1": "",
+          "col_2": "(1,212)",
+          "col_3": "",
+          "col_4": "(1,131)",
+          "col_5": "7.2",
+          "col_6": "",
+          "col_7": "(1,009)",
+          "col_8": "20.1"
         },
         {
-          "COGS & Expenses": "R&D"
+          "": "R&D",
+          "col_1": "",
+          "col_2": "(3,303)",
+          "col_3": "",
+          "col_4": "(3,168)",
+          "col_5": "4.3",
+          "col_6": "",
+          "col_7": "(3,314)",
+          "col_8": "(0.3)"
         },
         {
-          "COGS & Expenses": "Expected Credit Impairment Gain (Loss)"
+          "": "Expected Credit Impairment Gain (Loss)",
+          "col_1": "",
+          "col_2": "(2)",
+          "col_3": "",
+          "col_4": "(1)",
+          "col_5": "46.7",
+          "col_6": "",
+          "col_7": "429",
+          "col_8": "-"
         },
         {
-          "COGS & Expenses": "Net Other Operating Income & Expenses"
+          "": "Net Other Operating Income & Expenses",
+          "col_1": "",
+          "col_2": "1,227",
+          "col_3": "",
+          "col_4": "1,606",
+          "col_5": "(23.6)",
+          "col_6": "",
+          "col_7": "2,872",
+          "col_8": "(57.3)"
         },
         {
-          "COGS & Expenses": "Operating Income"
+          "": "Operating Income",
+          "col_1": "",
+          "col_2": "15,135",
+          "col_3": "",
+          "col_4": "11,313",
+          "col_5": "33.8",
+          "col_6": "",
+          "col_7": "7,133",
+          "col_8": "112.2"
         }
       ],
       "confidence": 0.5,
@@ -99,26 +307,68 @@
     {
       "table_id": "table_2",
       "headers": [
-        "Non-Operating Income and Expenses"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
       ],
       "rows": [
         {
-          "Non-Operating Income and Expenses": "(Amount: NT$ million)"
+          "": "(Amount: NT$ million)",
+          "col_1": "",
+          "col_2": "3Q21",
+          "col_3": "",
+          "col_4": "2Q21",
+          "col_5": "",
+          "col_6": "3Q20"
         },
         {
-          "Non-Operating Income and Expenses": "Non-Operating Income and Expenses"
+          "": "Non-Operating Income and Expenses",
+          "col_1": "",
+          "col_2": "4,317",
+          "col_3": "",
+          "col_4": "1,881",
+          "col_5": "",
+          "col_6": "2,074"
         },
         {
-          "Non-Operating Income and Expenses": "Net Interest Income and Expenses"
+          "": "Net Interest Income and Expenses",
+          "col_1": "",
+          "col_2": "(367)",
+          "col_3": "",
+          "col_4": "(310)",
+          "col_5": "",
+          "col_6": "(314)"
         },
         {
-          "Non-Operating Income and Expenses": "Net Investment Gain and Loss"
+          "": "Net Investment Gain and Loss",
+          "col_1": "",
+          "col_2": "4,534",
+          "col_3": "",
+          "col_4": "2,276",
+          "col_5": "",
+          "col_6": "3,944"
         },
         {
-          "Non-Operating Income and Expenses": "Exchange Gain and Loss"
+          "": "Exchange Gain and Loss",
+          "col_1": "",
+          "col_2": "164",
+          "col_3": "",
+          "col_4": "(84)",
+          "col_5": "",
+          "col_6": "259"
         },
         {
-          "Non-Operating Income and Expenses": "Other Gain and Loss"
+          "": "Other Gain and Loss",
+          "col_1": "",
+          "col_2": "(14)",
+          "col_3": "",
+          "col_4": "(1)",
+          "col_5": "",
+          "col_6": "(1,815)"
         }
       ],
       "confidence": 0.5,
@@ -127,77 +377,125 @@
     {
       "table_id": "table_3",
       "headers": [
-        "Cash Flow Summary"
+        "",
+        "col_1",
+        "col_2"
       ],
       "rows": [
         {
-          "Cash Flow Summary": "(Amount: NT$ million)"
+          "": "(Amount: NT$ million)",
+          "col_1": "For the 3-MonthPeriod EndedSep. 30, 2021",
+          "col_2": "For the 3-MonthPeriod EndedJun. 30, 2021"
         },
         {
-          "Cash Flow Summary": "Cash Flow from Operating Activities"
+          "": "Cash Flow from Operating Activities",
+          "col_1": "22,125",
+          "col_2": "23,123"
         },
         {
-          "Cash Flow Summary": "Net income before tax"
+          "": "Net income before tax",
+          "col_1": "19,452",
+          "col_2": "13,194"
         },
         {
-          "Cash Flow Summary": "Depreciation & Amortization"
+          "": "Depreciation & Amortization",
+          "col_1": "11,754",
+          "col_2": "11,671"
         },
         {
-          "Cash Flow Summary": "Share of profit of associates and joint ventures"
+          "": "Share of profit of associates and joint ventures",
+          "col_1": "(3,356)",
+          "col_2": "(881)"
         },
         {
-          "Cash Flow Summary": "Income tax paid"
+          "": "Income tax paid",
+          "col_1": "(1,365)",
+          "col_2": "(300)"
         },
         {
-          "Cash Flow Summary": "Changes in working capital & others"
+          "": "Changes in working capital & others",
+          "col_1": "(4,360)",
+          "col_2": "(561)"
         },
         {
-          "Cash Flow Summary": "Cash Flow from Investing Activities"
+          "": "Cash Flow from Investing Activities",
+          "col_1": "(23,222)",
+          "col_2": "(18,482)"
         },
         {
-          "Cash Flow Summary": "Acquisition of PP&E"
+          "": "Acquisition of PP&E",
+          "col_1": "(17,457)",
+          "col_2": "(8,520)"
         },
         {
-          "Cash Flow Summary": "Acquisition of intangible assets"
+          "": "Acquisition of intangible assets",
+          "col_1": "(371)",
+          "col_2": "(835)"
         },
         {
-          "Cash Flow Summary": "Increase in other financial assets"
+          "": "Increase in other financial assets",
+          "col_1": "(5,677)",
+          "col_2": "(10,893)"
         },
         {
-          "Cash Flow Summary": "Others"
+          "": "Others",
+          "col_1": "283",
+          "col_2": "1,766"
         },
         {
-          "Cash Flow Summary": "Cash Flow from Financing Activities"
+          "": "Cash Flow from Financing Activities",
+          "col_1": "(9,694)",
+          "col_2": "13,238"
         },
         {
-          "Cash Flow Summary": "Bank loans"
+          "": "Bank loans",
+          "col_1": "(4,510)",
+          "col_2": "(1,384)"
         },
         {
-          "Cash Flow Summary": "Bonds Issued"
+          "": "Bonds Issued",
+          "col_1": "11,161",
+          "col_2": "9,600"
         },
         {
-          "Cash Flow Summary": "Redemption of bonds"
+          "": "Redemption of bonds",
+          "col_1": "-",
+          "col_2": "(2,000)"
         },
         {
-          "Cash Flow Summary": "Increase in deposits-in"
+          "": "Increase in deposits-in",
+          "col_1": "3,738",
+          "col_2": "7,205"
         },
         {
-          "Cash Flow Summary": "Cash dividends"
+          "": "Cash dividends",
+          "col_1": "(19,870)",
+          "col_2": "-"
         },
         {
-          "Cash Flow Summary": "Others"
+          "": "Others",
+          "col_1": "(213)",
+          "col_2": "(183)"
         },
         {
-          "Cash Flow Summary": "Effect of Exchange Rate"
+          "": "Effect of Exchange Rate",
+          "col_1": "(104)",
+          "col_2": "(1,164)"
         },
         {
-          "Cash Flow Summary": "Net Cash Flow"
+          "": "Net Cash Flow",
+          "col_1": "(10,895)",
+          "col_2": "16,715"
         },
         {
-          "Cash Flow Summary": "Beginning balance"
+          "": "Beginning balance",
+          "col_1": "124,000",
+          "col_2": "107,285"
         },
         {
-          "Cash Flow Summary": "Ending balance"
+          "": "Ending balance",
+          "col_1": "113,105",
+          "col_2": "124,000"
         }
       ],
       "confidence": 0.5,
@@ -206,29 +504,53 @@
     {
       "table_id": "table_4",
       "headers": [
-        "Current Assets"
+        "",
+        "col_1",
+        "col_2",
+        "col_3"
       ],
       "rows": [
         {
-          "Current Assets": "(Amount: NT$ billion)"
+          "": "(Amount: NT$ billion)",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "3Q20"
         },
         {
-          "Current Assets": "Cash and Cash Equivalents"
+          "": "Cash and Cash Equivalents",
+          "col_1": "113.11",
+          "col_2": "124.00",
+          "col_3": "98.84"
         },
         {
-          "Current Assets": "Notes & Accounts Receivable"
+          "": "Notes & Accounts Receivable",
+          "col_1": "32.99",
+          "col_2": "30.11",
+          "col_3": "26.96"
         },
         {
-          "Current Assets": "Days Sales Outstanding"
+          "": "Days Sales Outstanding",
+          "col_1": "51",
+          "col_2": "53",
+          "col_3": "55"
         },
         {
-          "Current Assets": "Inventories, net"
+          "": "Inventories, net",
+          "col_1": "23.15",
+          "col_2": "22.44",
+          "col_3": "22.86"
         },
         {
-          "Current Assets": "Days of Inventory"
+          "": "Days of Inventory",
+          "col_1": "59",
+          "col_2": "58",
+          "col_3": "60"
         },
         {
-          "Current Assets": "Total Current Assets"
+          "": "Total Current Assets",
+          "col_1": "211.60",
+          "col_2": "207.83",
+          "col_3": "163.48"
         }
       ],
       "confidence": 0.5,
@@ -237,41 +559,77 @@
     {
       "table_id": "table_5",
       "headers": [
-        "Liabilities"
+        "",
+        "col_1",
+        "col_2",
+        "col_3"
       ],
       "rows": [
         {
-          "Liabilities": "(Amount: NT$ billion)"
+          "": "(Amount: NT$ billion)",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "3Q20"
         },
         {
-          "Liabilities": "Total Current Liabilities"
+          "": "Total Current Liabilities",
+          "col_1": "84.55",
+          "col_2": "85.00",
+          "col_3": "59.15"
         },
         {
-          "Liabilities": "Notes & Accounts Payable"
+          "": "Notes & Accounts Payable",
+          "col_1": "8.26",
+          "col_2": "8.42",
+          "col_3": "7.70"
         },
         {
-          "Liabilities": "Short-Term Credit / Bonds"
+          "": "Short-Term Credit / Bonds",
+          "col_1": "24.26",
+          "col_2": "19.65",
+          "col_3": "16.40"
         },
         {
-          "Liabilities": "Payables on Equipment"
+          "": "Payables on Equipment",
+          "col_1": "6.72",
+          "col_2": "6.67",
+          "col_3": "7.38"
         },
         {
-          "Liabilities": "Dividends Payable"
+          "": "Dividends Payable",
+          "col_1": "-",
+          "col_2": "19.88",
+          "col_3": "-"
         },
         {
-          "Liabilities": "Other"
+          "": "Other",
+          "col_1": "45.31",
+          "col_2": "30.38",
+          "col_3": "27.67"
         },
         {
-          "Liabilities": "Long-Term Credit / Bonds"
+          "": "Long-Term Credit / Bonds",
+          "col_1": "51.09",
+          "col_2": "50.97",
+          "col_3": "49.46"
         },
         {
-          "Liabilities": "Long-Term Investment Liabilities"
+          "": "Long-Term Investment Liabilities",
+          "col_1": "8.14",
+          "col_2": "20.61",
+          "col_3": "20.14"
         },
         {
-          "Liabilities": "Total Liabilities"
+          "": "Total Liabilities",
+          "col_1": "171.19",
+          "col_2": "181.49",
+          "col_3": "147.33"
         },
         {
-          "Liabilities": "Debt to Equity"
+          "": "Debt to Equity",
+          "col_1": "66%",
+          "col_2": "76%",
+          "col_3": "67%"
         }
       ],
       "confidence": 0.5,
@@ -280,23 +638,53 @@
     {
       "table_id": "table_6",
       "headers": [
-        "Revenue Breakdown by Region"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Revenue Breakdown by Region": "Region"
+          "": "Region",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Revenue Breakdown by Region": "North America"
+          "": "North America",
+          "col_1": "22%",
+          "col_2": "22%",
+          "col_3": "23%",
+          "col_4": "29%",
+          "col_5": "30%"
         },
         {
-          "Revenue Breakdown by Region": "Asia Pacific"
+          "": "Asia Pacific",
+          "col_1": "65%",
+          "col_2": "63%",
+          "col_3": "63%",
+          "col_4": "61%",
+          "col_5": "57%"
         },
         {
-          "Revenue Breakdown by Region": "Europe"
+          "": "Europe",
+          "col_1": "7%",
+          "col_2": "8%",
+          "col_3": "8%",
+          "col_4": "5%",
+          "col_5": "6%"
         },
         {
-          "Revenue Breakdown by Region": "Japan"
+          "": "Japan",
+          "col_1": "6%",
+          "col_2": "7%",
+          "col_3": "6%",
+          "col_4": "5%",
+          "col_5": "7%"
         }
       ],
       "confidence": 0.5,
@@ -305,38 +693,93 @@
     {
       "table_id": "table_7",
       "headers": [
-        "Revenue Breakdown by Geometry"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Revenue Breakdown by Geometry": "Geometry"
+          "": "Geometry",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Revenue Breakdown by Geometry": "14nm and below"
+          "": "14nm and below",
+          "col_1": "0%",
+          "col_2": "0%",
+          "col_3": "0%",
+          "col_4": "0%",
+          "col_5": "0%"
         },
         {
-          "Revenue Breakdown by Geometry": "14nm<x<=28nm"
+          "": "14nm<x<=28nm",
+          "col_1": "19%",
+          "col_2": "20%",
+          "col_3": "20%",
+          "col_4": "18%",
+          "col_5": "14%"
         },
         {
-          "Revenue Breakdown by Geometry": "28nm<x<=40nm"
+          "": "28nm<x<=40nm",
+          "col_1": "18%",
+          "col_2": "18%",
+          "col_3": "20%",
+          "col_4": "22%",
+          "col_5": "23%"
         },
         {
-          "Revenue Breakdown by Geometry": "40nm<x<=65nm"
+          "": "40nm<x<=65nm",
+          "col_1": "19%",
+          "col_2": "19%",
+          "col_3": "18%",
+          "col_4": "18%",
+          "col_5": "19%"
         },
         {
-          "Revenue Breakdown by Geometry": "65nm<x<=90nm"
+          "": "65nm<x<=90nm",
+          "col_1": "8%",
+          "col_2": "9%",
+          "col_3": "8%",
+          "col_4": "8%",
+          "col_5": "10%"
         },
         {
-          "Revenue Breakdown by Geometry": "90nm<x<=0.13um"
+          "": "90nm<x<=0.13um",
+          "col_1": "12%",
+          "col_2": "11%",
+          "col_3": "11%",
+          "col_4": "11%",
+          "col_5": "11%"
         },
         {
-          "Revenue Breakdown by Geometry": "0.13um<x<=0.18um"
+          "": "0.13um<x<=0.18um",
+          "col_1": "13%",
+          "col_2": "13%",
+          "col_3": "13%",
+          "col_4": "13%",
+          "col_5": "13%"
         },
         {
-          "Revenue Breakdown by Geometry": "0.18um<x<=0.35um"
+          "": "0.18um<x<=0.35um",
+          "col_1": "8%",
+          "col_2": "8%",
+          "col_3": "8%",
+          "col_4": "8%",
+          "col_5": "8%"
         },
         {
-          "Revenue Breakdown by Geometry": "0.5um and above"
+          "": "0.5um and above",
+          "col_1": "3%",
+          "col_2": "2%",
+          "col_3": "2%",
+          "col_4": "2%",
+          "col_5": "2%"
         }
       ],
       "confidence": 0.5,
@@ -345,17 +788,37 @@
     {
       "table_id": "table_8",
       "headers": [
-        "Revenue Breakdown by Customer Type"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Revenue Breakdown by Customer Type": "Customer Type"
+          "": "Customer Type",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Revenue Breakdown by Customer Type": "Fabless"
+          "": "Fabless",
+          "col_1": "86%",
+          "col_2": "84%",
+          "col_3": "86%",
+          "col_4": "87%",
+          "col_5": "88%"
         },
         {
-          "Revenue Breakdown by Customer Type": "IDM"
+          "": "IDM",
+          "col_1": "14%",
+          "col_2": "16%",
+          "col_3": "14%",
+          "col_4": "13%",
+          "col_5": "12%"
         }
       ],
       "confidence": 0.5,
@@ -364,23 +827,53 @@
     {
       "table_id": "table_9",
       "headers": [
-        "Revenue Breakdown by Application(1)"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Revenue Breakdown by Application(1)": "Application"
+          "": "Application",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Revenue Breakdown by Application(1)": "Computer"
+          "": "Computer",
+          "col_1": "17%",
+          "col_2": "17%",
+          "col_3": "16%",
+          "col_4": "16%",
+          "col_5": "13%"
         },
         {
-          "Revenue Breakdown by Application(1)": "Communication"
+          "": "Communication",
+          "col_1": "46%",
+          "col_2": "47%",
+          "col_3": "46%",
+          "col_4": "49%",
+          "col_5": "54%"
         },
         {
-          "Revenue Breakdown by Application(1)": "Consumer"
+          "": "Consumer",
+          "col_1": "27%",
+          "col_2": "26%",
+          "col_3": "27%",
+          "col_4": "25%",
+          "col_5": "24%"
         },
         {
-          "Revenue Breakdown by Application(1)": "Others"
+          "": "Others",
+          "col_1": "10%",
+          "col_2": "10%",
+          "col_3": "11%",
+          "col_4": "10%",
+          "col_5": "9%"
         }
       ],
       "confidence": 0.5,
@@ -389,29 +882,59 @@
     {
       "table_id": "table_11",
       "headers": [
-        "Wafer Shipments"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Wafer Shipments": ""
+          "": "",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Wafer Shipments": "Wafer Shipments(8\u201d K equivalents)"
+          "": "Wafer Shipments(8\u201d K equivalents)",
+          "col_1": "2,503",
+          "col_2": "2,440",
+          "col_3": "2,372",
+          "col_4": "2,293",
+          "col_5": "2,254"
         },
         {
-          "Wafer Shipments": ""
+          "": ""
         },
         {
-          "Wafer Shipments": "Quarterly Capacity Utilization Rate"
+          "": "Quarterly Capacity Utilization Rate"
         },
         {
-          "Wafer Shipments": ""
+          "": "",
+          "col_1": "3Q21",
+          "col_2": "2Q21",
+          "col_3": "1Q21",
+          "col_4": "4Q20",
+          "col_5": "3Q20"
         },
         {
-          "Wafer Shipments": "Utilization Rate"
+          "": "Utilization Rate",
+          "col_1": "100%+",
+          "col_2": "100%+",
+          "col_3": "100%",
+          "col_4": "99%",
+          "col_5": "97%"
         },
         {
-          "Wafer Shipments": "Total Capacity(8\u201d K equivalents)"
+          "": "Total Capacity(8\u201d K equivalents)",
+          "col_1": "2,383",
+          "col_2": "2,370",
+          "col_3": "2,280",
+          "col_4": "2,311",
+          "col_5": "2,308"
         }
       ],
       "confidence": 0.5,
@@ -420,85 +943,240 @@
     {
       "table_id": "table_12",
       "headers": [
-        "Annual Capacity inthousands of wafers",
         "",
-        "Quarterly Capacity inthousands of wafers"
+        "col_1",
+        "Quarterly Capacity inthousands of wafers",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12"
       ],
       "rows": [
         {
-          "Annual Capacity inthousands of wafers": "FAB",
-          "": "Geometry(um)",
-          "Quarterly Capacity inthousands of wafers": "2020"
+          "": "FAB",
+          "col_1": "Geometry(um)",
+          "Quarterly Capacity inthousands of wafers": "2020",
+          "col_3": "2019",
+          "col_4": "2018",
+          "col_5": "2017",
+          "col_6": "",
+          "col_7": "FAB",
+          "col_8": "4Q21E",
+          "col_9": "3Q21",
+          "col_10": "2Q21",
+          "col_11": "1Q21"
         },
         {
-          "Annual Capacity inthousands of wafers": "WTK",
-          "": "6\"",
-          "Quarterly Capacity inthousands of wafers": "3.5 \u2013 0.45"
+          "": "WTK",
+          "col_1": "6\"",
+          "Quarterly Capacity inthousands of wafers": "3.5 \u2013 0.45",
+          "col_3": "371",
+          "col_4": "370",
+          "col_5": "396",
+          "col_6": "422",
+          "col_7": "",
+          "col_8": "WTK",
+          "col_9": "81",
+          "col_10": "80",
+          "col_11": "84",
+          "col_12": "84"
         },
         {
-          "Annual Capacity inthousands of wafers": "8A",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.25"
+          "": "8A",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.25",
+          "col_3": "802",
+          "col_4": "825",
+          "col_5": "825",
+          "col_6": "825",
+          "col_7": "",
+          "col_8": "8A",
+          "col_9": "190",
+          "col_10": "190",
+          "col_11": "190",
+          "col_12": "186"
         },
         {
-          "Annual Capacity inthousands of wafers": "8C",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.35 \u2013 0.11"
+          "": "8C",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.35 \u2013 0.11",
+          "col_3": "452",
+          "col_4": "436",
+          "col_5": "383",
+          "col_6": "357",
+          "col_7": "",
+          "col_8": "8C",
+          "col_9": "115",
+          "col_10": "115",
+          "col_11": "115",
+          "col_12": "113"
         },
         {
-          "Annual Capacity inthousands of wafers": "8D",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.09"
+          "": "8D",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.09",
+          "col_3": "371",
+          "col_4": "359",
+          "col_5": "347",
+          "col_6": "341",
+          "col_7": "",
+          "col_8": "8D",
+          "col_9": "95",
+          "col_10": "95",
+          "col_11": "95",
+          "col_12": "94"
         },
         {
-          "Annual Capacity inthousands of wafers": "8E",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.15"
+          "": "8E",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.15",
+          "col_3": "449",
+          "col_4": "426",
+          "col_5": "418",
+          "col_6": "418",
+          "col_7": "",
+          "col_8": "8E",
+          "col_9": "115",
+          "col_10": "115",
+          "col_11": "115",
+          "col_12": "113"
         },
         {
-          "Annual Capacity inthousands of wafers": "8F",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11"
+          "": "8F",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11",
+          "col_3": "485",
+          "col_4": "434",
+          "col_5": "431",
+          "col_6": "417",
+          "col_7": "",
+          "col_8": "8F",
+          "col_9": "137",
+          "col_10": "137",
+          "col_11": "122",
+          "col_12": "120"
         },
         {
-          "Annual Capacity inthousands of wafers": "8S",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11"
+          "": "8S",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11",
+          "col_3": "373",
+          "col_4": "372",
+          "col_5": "372",
+          "col_6": "347",
+          "col_7": "",
+          "col_8": "8S",
+          "col_9": "102",
+          "col_10": "102",
+          "col_11": "102",
+          "col_12": "101"
         },
         {
-          "Annual Capacity inthousands of wafers": "8N",
-          "": "8\"",
-          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.11"
+          "": "8N",
+          "col_1": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.11",
+          "col_3": "917",
+          "col_4": "831",
+          "col_5": "771",
+          "col_6": "753",
+          "col_7": "",
+          "col_8": "8N",
+          "col_9": "232",
+          "col_10": "230",
+          "col_11": "230",
+          "col_12": "226"
         },
         {
-          "Annual Capacity inthousands of wafers": "12A",
-          "": "12\"",
-          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.014"
+          "": "12A",
+          "col_1": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.014",
+          "col_3": "1044",
+          "col_4": "997",
+          "col_5": "997",
+          "col_6": "970",
+          "col_7": "",
+          "col_8": "12A",
+          "col_9": "271",
+          "col_10": "271",
+          "col_11": "271",
+          "col_12": "257"
         },
         {
-          "Annual Capacity inthousands of wafers": "12i",
-          "": "12\"",
-          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.040"
+          "": "12i",
+          "col_1": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.040",
+          "col_3": "628",
+          "col_4": "595",
+          "col_5": "555",
+          "col_6": "537",
+          "col_7": "",
+          "col_8": "12i",
+          "col_9": "164",
+          "col_10": "160",
+          "col_11": "160",
+          "col_12": "157"
         },
         {
-          "Annual Capacity inthousands of wafers": "12X",
-          "": "12\"",
-          "Quarterly Capacity inthousands of wafers": "0.040 \u2013 0.028"
+          "": "12X",
+          "col_1": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.040 \u2013 0.028",
+          "col_3": "217",
+          "col_4": "203",
+          "col_5": "183",
+          "col_6": "97",
+          "col_7": "",
+          "col_8": "12X",
+          "col_9": "78",
+          "col_10": "74",
+          "col_11": "74",
+          "col_12": "59"
         },
         {
-          "Annual Capacity inthousands of wafers": "12M",
-          "": "12\"",
-          "Quarterly Capacity inthousands of wafers": "0.090 \u2013 0.040"
+          "": "12M",
+          "col_1": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.090 \u2013 0.040",
+          "col_3": "391",
+          "col_4": "98",
+          "col_5": "-",
+          "col_6": "-",
+          "col_7": "",
+          "col_8": "12M",
+          "col_9": "104",
+          "col_10": "98",
+          "col_11": "98",
+          "col_12": "96"
         },
         {
-          "Annual Capacity inthousands of wafers": "Total(1)",
-          "": "9,188",
-          "Quarterly Capacity inthousands of wafers": "8,148"
+          "": "Total(1)",
+          "col_1": "9,188",
+          "Quarterly Capacity inthousands of wafers": "8,148",
+          "col_3": "7,673",
+          "col_4": "7,304",
+          "col_5": "",
+          "col_6": "Total",
+          "col_7": "2,419",
+          "col_8": "2,383",
+          "col_9": "2,370",
+          "col_10": "2,280"
         },
         {
-          "Annual Capacity inthousands of wafers": "YoY Growth Rate",
-          "": "13%",
-          "Quarterly Capacity inthousands of wafers": "6%"
+          "": "YoY Growth Rate",
+          "col_1": "13%",
+          "Quarterly Capacity inthousands of wafers": "6%",
+          "col_3": "5%",
+          "col_4": "5%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         }
       ],
       "confidence": 0.5,
@@ -507,14 +1185,29 @@
     {
       "table_id": "table_14",
       "headers": [
-        "Capital Expenditure by Year- in US$ billion"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
       ],
       "rows": [
         {
-          "Capital Expenditure by Year- in US$ billion": "Year"
+          "": "Year",
+          "col_1": "2020",
+          "col_2": "2019",
+          "col_3": "2018",
+          "col_4": "2017",
+          "col_5": "2016"
         },
         {
-          "Capital Expenditure by Year- in US$ billion": "CAPEX"
+          "": "CAPEX",
+          "col_1": "$ 1.0",
+          "col_2": "$ 0.6",
+          "col_3": "$ 0.7",
+          "col_4": "$ 1.4",
+          "col_5": "$ 2.8"
         }
       ],
       "confidence": 0.5,
@@ -523,14 +1216,20 @@
     {
       "table_id": "table_15",
       "headers": [
-        "2021 CAPEX Plan"
+        "",
+        "col_1",
+        "col_2"
       ],
       "rows": [
         {
-          "2021 CAPEX Plan": "8\""
+          "": "8\"",
+          "col_1": "12\"",
+          "col_2": "Total"
         },
         {
-          "2021 CAPEX Plan": "15%"
+          "": "15%",
+          "col_1": "85%",
+          "col_2": "US$2.3 billion"
         }
       ],
       "confidence": 0.5,
@@ -539,14 +1238,14 @@
     {
       "table_id": "table_16",
       "headers": [
-        "Sep 3, 2021",
         "",
+        "col_1",
         "UMC and Chipbond to Establish Strategic Cooperation Through the Exchange of New Share Issuance"
       ],
       "rows": [
         {
-          "Sep 3, 2021": "Jun 1, 2021",
-          "": "",
+          "": "Jun 1, 2021",
+          "col_1": "",
           "UMC and Chipbond to Establish Strategic Cooperation Through the Exchange of New Share Issuance": "UMC Pledges Net Zero Carbon Emissions by 2050"
         }
       ],
@@ -556,29 +1255,41 @@
     {
       "table_id": "table_17",
       "headers": [
-        "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)"
+        "",
+        "col_1",
+        "col_2"
       ],
       "rows": [
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": ""
+          "": ""
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Dial-in numbers and Access Codes:"
+          "": "Dial-in numbers and Access Codes:"
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "USA Toll Free:"
+          "": "USA Toll Free:",
+          "col_1": "1-866 836-0101",
+          "col_2": ""
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Taiwan Number:"
+          "": "Taiwan Number:",
+          "col_1": "02-2192-8016",
+          "col_2": ""
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Other Areas:"
+          "": "Other Areas:",
+          "col_1": "+886-2-2192-8016",
+          "col_2": ""
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": ""
+          "": "",
+          "col_1": "",
+          "col_2": ""
         },
         {
-          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Access Code:"
+          "": "Access Code:",
+          "col_1": "UMC",
+          "col_2": ""
         }
       ],
       "confidence": 0.5,
@@ -587,155 +1298,623 @@
     {
       "table_id": "table_18",
       "headers": [
-        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10"
       ],
       "rows": [
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Balance Sheet"
+          "": "Consolidated Condensed Balance Sheet"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "As of September 30, 2021"
+          "": "As of September 30, 2021",
+          "col_1": "",
+          "col_2": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+          "": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)",
+          "col_1": "",
+          "col_2": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "September 30, 2021",
+          "col_3": "",
+          "col_4": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "US$",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "NT$",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Assets"
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current assets"
+          "": "Current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents"
+          "": "Cash and cash equivalents",
+          "col_1": "",
+          "col_2": "4,063",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "113,105",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "26.4%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Notes & Accounts receivable, net"
+          "": "Notes & Accounts receivable, net",
+          "col_1": "",
+          "col_2": "1,185",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "32,986",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "7.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Inventories, net"
+          "": "Inventories, net",
+          "col_1": "",
+          "col_2": "832",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "23,150",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "5.4%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other current assets"
+          "": "Other current assets",
+          "col_1": "",
+          "col_2": "1,521",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "42,363",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "9.8%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total current assets"
+          "": "Total current assets",
+          "col_1": "",
+          "col_2": "7,601",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "211,604",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "49.3%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-current assets"
+          "": "Non-current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Funds and investments"
+          "": "Funds and investments",
+          "col_1": "",
+          "col_2": "2,256",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "62,817",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "14.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Property, plant and equipment"
+          "": "Property, plant and equipment",
+          "col_1": "",
+          "col_2": "4,515",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "125,702",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "29.3%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Right-of-use assets"
+          "": "Right-of-use assets",
+          "col_1": "",
+          "col_2": "260",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "7,239",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other non-current assets"
+          "": "Other non-current assets",
+          "col_1": "",
+          "col_2": "770",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "21,431",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "5.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total non-current assets"
+          "": "Total non-current assets",
+          "col_1": "",
+          "col_2": "7,801",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "217,189",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "50.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total assets"
+          "": "Total assets",
+          "col_1": "",
+          "col_2": "15,402",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "428,793",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "100.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Liabilities"
+          "": "Liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current liabilities"
+          "": "Current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Short-term loans"
+          "": "Short-term loans",
+          "col_1": "",
+          "col_2": "77",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2,135",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "0.5%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Payables"
+          "": "Payables",
+          "col_1": "",
+          "col_2": "1,322",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "36,800",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "8.6%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current portion of long-term liabilities"
+          "": "Current portion of long-term liabilities",
+          "col_1": "",
+          "col_2": "795",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "22,128",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "5.2%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other current liabilities"
+          "": "Other current liabilities",
+          "col_1": "",
+          "col_2": "843",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "23,482",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "5.4%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total current liabilities"
+          "": "Total current liabilities",
+          "col_1": "",
+          "col_2": "3,037",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "84,545",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "19.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-current liabilities"
+          "": "Non-current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Bonds payable"
+          "": "Bonds payable",
+          "col_1": "",
+          "col_2": "721",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "20,083",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "4.7%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Long-term loans"
+          "": "Long-term loans",
+          "col_1": "",
+          "col_2": "1,114",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "31,006",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "7.2%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Lease liabilities, noncurrent"
+          "": "Lease liabilities, noncurrent",
+          "col_1": "",
+          "col_2": "166",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "4,622",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1.1%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other non-current liabilities"
+          "": "Other non-current liabilities",
+          "col_1": "",
+          "col_2": "1,111",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "30,933",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "7.2%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total non-current liabilities"
+          "": "Total non-current liabilities",
+          "col_1": "",
+          "col_2": "3,112",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "86,644",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "20.2%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total liabilities"
+          "": "Total liabilities",
+          "col_1": "",
+          "col_2": "6,149",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "171,189",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "39.9%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Equity"
+          "": "Equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Equity attributable to the parent company"
+          "": "Equity attributable to the parent company",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Capital"
+          "": "Capital",
+          "col_1": "",
+          "col_2": "4,462",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "124,233",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "29.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Additional paid-in capital"
+          "": "Additional paid-in capital",
+          "col_1": "",
+          "col_2": "1,555",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "43,293",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "10.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Retained earnings and other components of equity"
+          "": "Retained earnings and other components of equity",
+          "col_1": "",
+          "col_2": "3,234",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "90,043",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "21.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Treasury stock"
+          "": "Treasury stock",
+          "col_1": "",
+          "col_2": "(4)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(120)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(0.0%)",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total equity attributable to the parent company"
+          "": "Total equity attributable to the parent company",
+          "col_1": "",
+          "col_2": "9,247",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "257,449",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "60.0%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+          "": "Non-controlling interests",
+          "col_1": "",
+          "col_2": "6",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "155",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "0.1%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total equity"
+          "": "Total equity",
+          "col_1": "",
+          "col_2": "9,253",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "257,604",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "60.1%",
+          "col_9": "",
+          "col_10": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total liabilities and equity"
+          "": "Total liabilities and equity",
+          "col_1": "",
+          "col_2": "15,402",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "428,793",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "100.0%",
+          "col_9": "",
+          "col_10": ""
         }
       ],
       "confidence": 0.5,
@@ -744,149 +1923,1400 @@
     {
       "table_id": "table_20",
       "headers": [
-        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25",
+        "col_26",
+        "col_27",
+        "col_28",
+        "col_29"
       ],
       "rows": [
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statements of Comprehensive Income"
+          "": "Consolidated Condensed Statements of Comprehensive Income"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+          "": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Except Per Share and Per ADS Data"
+          "": "Except Per Share and Per ADS Data"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "Year over Year Comparison",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "Quarter over Quarter Comparison"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "Three-Month Period Ended",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "Three-Month Period Ended",
+          "col_9": "",
+          "col_10": "",
+          "col_11": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "September 30, 2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "September 30, 2020",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "Chg.",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "September 30, 2021",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "June 30, 2021",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "Chg."
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "US$",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "NT$",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "US$",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "NT$",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "US$",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "NT$",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "US$",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "NT$",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating revenues"
+          "": "Operating revenues",
+          "col_1": "",
+          "col_2": "2,008",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "55,907",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1,612",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "44,870",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "24.6%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "2,008",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "55,907",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "1,829",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "50,908",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "9.8%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating costs"
+          "": "Operating costs",
+          "col_1": "",
+          "col_2": "(1,270)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(35,363)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(1,261)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(35,101)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "0.7%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(1,270)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(35,363)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(1,258)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(35,000)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "1.0%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Gross profit"
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "738",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "20,544",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "351",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,769",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "110.3%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "738",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "20,544",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "571",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "15,908",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "29.1%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "36.8%",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "36.8%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "21.8%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "21.8%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "36.8%",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "36.8%",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "31.3%",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "31.3%",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating expenses"
+          "": "Operating expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Sales and marketing expenses"
+          "": "- Sales and marketing expenses",
+          "col_1": "",
+          "col_2": "(44)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,212)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(36)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,009)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "20.1%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(44)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(1,212)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(41)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(1,131)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "7.2%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- General and administrative expenses"
+          "": "- General and administrative expenses",
+          "col_1": "",
+          "col_2": "(75)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,119)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(58)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,614)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "31.2%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(75)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(2,119)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(68)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(1,901)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "11.5%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Research and development expenses"
+          "": "- Research and development expenses",
+          "col_1": "",
+          "col_2": "(119)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(3,303)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(119)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(3,314)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(0.3%)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(119)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(3,303)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(114)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(3,168)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "4.3%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Expected credit impairment gain (loss)"
+          "": "- Expected credit impairment gain (loss)",
+          "col_1": "",
+          "col_2": "(0)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "15",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "429",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "-",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(0)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(2)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(0)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(1)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "46.7%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Subtotal"
+          "": "Subtotal",
+          "col_1": "",
+          "col_2": "(238)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(6,636)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(198)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(5,508)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "20.5%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(238)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(6,636)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(223)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(6,201)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "7.0%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net other operating income and expenses"
+          "": "Net other operating income and expenses",
+          "col_1": "",
+          "col_2": "44",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1,227",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "103",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,872",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(57.3%)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "44",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "1,227",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "58",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "1,606",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "(23.6%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating income"
+          "": "Operating income",
+          "col_1": "",
+          "col_2": "544",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "15,135",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "256",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "7,133",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "112.2%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "544",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "15,135",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "406",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "11,313",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "33.8%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "27.1%",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "27.1%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "15.9%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "15.9%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "27.1%",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "27.1%",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "22.2%",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "22.2%",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net non-operating income and expenses"
+          "": "Net non-operating income and expenses",
+          "col_1": "",
+          "col_2": "155",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "4,317",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "75",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,074",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "108.2%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "155",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "4,317",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "68",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "1,881",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "129.5%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income from continuing operationsbefore income tax"
+          "": "Income from continuing operationsbefore income tax",
+          "col_1": "",
+          "col_2": "699",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "19,452",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "331",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,207",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "111.3%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "699",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "19,452",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "474",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "13,194",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "47.4%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "34.8%",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "34.8%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "20.5%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "20.5%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "34.8%",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "34.8%",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "25.9%",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "25.9%",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax expenses"
+          "": "Income tax expenses",
+          "col_1": "",
+          "col_2": "(76)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,100)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(7)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(197)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "966.1%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(76)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(2,100)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(48)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(1,327)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "58.2%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income"
+          "": "Net income",
+          "col_1": "",
+          "col_2": "623",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,352",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "324",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,010",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "92.6%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "623",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "17,352",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "426",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "11,867",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "46.2%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "31.0%",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "31.0%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "20.1%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "20.1%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "31.0%",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "31.0%",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "23.3%",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "23.3%",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other comprehensive income (loss)"
+          "": "Other comprehensive income (loss)",
+          "col_1": "",
+          "col_2": "(13)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(370)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "50",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,390",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "-",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(13)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(370)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(69)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(1,935)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "(80.9%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total comprehensive income (loss)"
+          "": "Total comprehensive income (loss)",
+          "col_1": "",
+          "col_2": "610",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "16,982",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "374",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "10,400",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "63.3%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "610",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "16,982",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "357",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "9,932",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "71.0%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income attributable to:"
+          "": "Net income attributable to:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+          "": "Shareholders of the parent",
+          "col_1": "",
+          "col_2": "627",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,460",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "327",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,106",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "91.7%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "627",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "17,460",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "429",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "11,943",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "46.2%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+          "": "Non-controlling interests",
+          "col_1": "",
+          "col_2": "(4)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(108)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(3)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(96)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "12.0%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(4)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(108)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(3)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(76)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "41.6%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Comprehensive income (loss) attributable to:"
+          "": "Comprehensive income (loss) attributable to:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+          "": "Shareholders of the parent",
+          "col_1": "",
+          "col_2": "614",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,090",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "377",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "10,497",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "62.8%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "614",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "17,090",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "359",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "10,008",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "70.8%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+          "": "Non-controlling interests",
+          "col_1": "",
+          "col_2": "(4)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(108)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(3)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(97)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "12.0%",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(4)",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "(108)",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "(2)",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "(76)",
+          "col_27": "",
+          "col_28": "",
+          "col_29": "41.6%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per share-basic"
+          "": "Earnings per share-basic",
+          "col_1": "",
+          "col_2": "0.051",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1.43",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "0.027",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0.75",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "0.051",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "1.43",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "0.035",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "0.98",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per ADS(2)"
+          "": "Earnings per ADS(2)",
+          "col_1": "",
+          "col_2": "0.257",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "7.15",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "0.135",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "3.75",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "0.257",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "7.15",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "0.176",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "4.90",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Weighted average number of shares"
+          "": "Weighted average number of shares",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "outstanding (in millions)"
+          "": "outstanding (in millions)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "12,206",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "12,108",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": "12,206",
+          "col_21": "",
+          "col_22": "",
+          "col_23": "",
+          "col_24": "",
+          "col_25": "",
+          "col_26": "12,206",
+          "col_27": "",
+          "col_28": "",
+          "col_29": ""
         }
       ],
       "confidence": 0.5,
@@ -895,14 +3325,14 @@
     {
       "table_id": "table_21",
       "headers": [
-        "Notes:"
+        ""
       ],
       "rows": [
         {
-          "Notes:": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
+          "": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
         },
         {
-          "Notes:": "(2) 1 ADS equals 5 common shares."
+          "": "(2) 1 ADS equals 5 common shares."
         }
       ],
       "confidence": 0.5,
@@ -911,140 +3341,829 @@
     {
       "table_id": "table_22",
       "headers": [
-        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
       ],
       "rows": [
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statements of Comprehensive Income"
+          "": "Consolidated Condensed Statements of Comprehensive Income"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+          "": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Except Per Share and Per ADS Data"
+          "": "Except Per Share and Per ADS Data"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "For the Three-Month Period Ended",
+          "col_3": "",
+          "col_4": "For the Nine-Month Period Ended"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "September 30, 2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "September 30, 2021"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "US$",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "NT$",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "US$",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "NT$",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating revenues"
+          "": "Operating revenues",
+          "col_1": "",
+          "col_2": "2,008",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "55,907",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "100.0%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "5,528",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "153,911",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "100.0%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating costs"
+          "": "Operating costs",
+          "col_1": "",
+          "col_2": "(1,270)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(35,363)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(63.2%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(3,770)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(104,965)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(68.2%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Gross profit"
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "738",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "20,544",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "36.8%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,758",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "48,946",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "31.8%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating expenses"
+          "": "Operating expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Sales and marketing expenses"
+          "": "- Sales and marketing expenses",
+          "col_1": "",
+          "col_2": "(44)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,212)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(2.2%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(123)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(3,432)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(2.2%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- General and administrative expenses"
+          "": "- General and administrative expenses",
+          "col_1": "",
+          "col_2": "(75)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,119)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(3.8%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(209)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(5,825)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(3.8%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Research and development expenses"
+          "": "- Research and development expenses",
+          "col_1": "",
+          "col_2": "(119)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(3,303)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(5.9%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(342)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(9,521)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(6.2%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Expected credit impairment gain (loss)"
+          "": "- Expected credit impairment gain (loss)",
+          "col_1": "",
+          "col_2": "(0)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(0.0%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "9",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "0.0%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Subtotal"
+          "": "Subtotal",
+          "col_1": "",
+          "col_2": "(238)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(6,636)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(11.9%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(674)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(18,769)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(12.2%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net other operating income and expenses"
+          "": "Net other operating income and expenses",
+          "col_1": "",
+          "col_2": "44",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1,227",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2.2%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "140",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "3,893",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "2.5%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating income"
+          "": "Operating income",
+          "col_1": "",
+          "col_2": "544",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "15,135",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "27.1%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,224",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "34,070",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "22.1%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net non-operating income and expenses"
+          "": "Net non-operating income and expenses",
+          "col_1": "",
+          "col_2": "155",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "4,317",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "7.7%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "343",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "9,559",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "6.3%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income from continuing operationsbefore income tax"
+          "": "Income from continuing operationsbefore income tax",
+          "col_1": "",
+          "col_2": "699",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "19,452",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "34.8%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,567",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "43,629",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "28.4%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax expense"
+          "": "Income tax expense",
+          "col_1": "",
+          "col_2": "(76)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,100)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(3.8%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(162)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(4,522)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(3.0%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income"
+          "": "Net income",
+          "col_1": "",
+          "col_2": "623",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,352",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "31.0%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,405",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "39,107",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "25.4%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other comprehensive income (loss)"
+          "": "Other comprehensive income (loss)",
+          "col_1": "",
+          "col_2": "(13)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(370)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(0.6%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "45",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "1,251",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "0.8%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total comprehensive income (loss)"
+          "": "Total comprehensive income (loss)",
+          "col_1": "",
+          "col_2": "610",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "16,982",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "30.4%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,450",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "40,358",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "26.2%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income attributable to:"
+          "": "Net income attributable to:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+          "": "Shareholders of the parent",
+          "col_1": "",
+          "col_2": "627",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,460",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "31.2%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,431",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "39,831",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "25.9%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+          "": "Non-controlling interests",
+          "col_1": "",
+          "col_2": "(4)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(108)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(0.2%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(26)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(724)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(0.5%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Comprehensive income (loss) attributable to:"
+          "": "Comprehensive income (loss) attributable to:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+          "": "Shareholders of the parent",
+          "col_1": "",
+          "col_2": "614",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "17,090",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "30.6%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,476",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "41,082",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "26.7%"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+          "": "Non-controlling interests",
+          "col_1": "",
+          "col_2": "(4)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(108)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(0.2%)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(26)",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(724)",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "(0.5%)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per share-basic"
+          "": "Earnings per share-basic",
+          "col_1": "",
+          "col_2": "0.051",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1.43",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0.117",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "3.26",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per ADS(2)"
+          "": "Earnings per ADS(2)",
+          "col_1": "",
+          "col_2": "0.257",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "7.15",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0.585",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "16.30",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Weighted average number of sharesoutstanding (in millions)"
+          "": "Weighted average number of sharesoutstanding (in millions)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "12,206",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "12,206",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
         }
       ],
       "confidence": 0.5,
@@ -1053,14 +4172,14 @@
     {
       "table_id": "table_23",
       "headers": [
-        "Notes:"
+        ""
       ],
       "rows": [
         {
-          "Notes:": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
+          "": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
         },
         {
-          "Notes:": "(2) 1 ADS equals 5 common shares."
+          "": "(2) 1 ADS equals 5 common shares."
         }
       ],
       "confidence": 0.5,
@@ -1069,119 +4188,329 @@
     {
       "table_id": "table_24",
       "headers": [
-        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
       ],
       "rows": [
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statement of Cash Flows"
+          "": "Consolidated Condensed Statement of Cash Flows"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "For The Nine-Month Period Ended September 30, 2021"
+          "": "For The Nine-Month Period Ended September 30, 2021"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+          "": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "US$",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "NT$",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from operating activities :"
+          "": "Cash flows from operating activities :",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income before tax"
+          "": "Net income before tax",
+          "col_1": "",
+          "col_2": "1,567",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "43,629",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Depreciation & Amortization"
+          "": "Depreciation & Amortization",
+          "col_1": "",
+          "col_2": "1,266",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "35,258",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Share of profit of associates and joint ventures"
+          "": "Share of profit of associates and joint ventures",
+          "col_1": "",
+          "col_2": "(216)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(6,004)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax paid"
+          "": "Income tax paid",
+          "col_1": "",
+          "col_2": "(62)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,715)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Changes in working capital & others"
+          "": "Changes in working capital & others",
+          "col_1": "",
+          "col_2": "(273)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(7,638)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash provided by operating activities"
+          "": "Net cash provided by operating activities",
+          "col_1": "",
+          "col_2": "2,282",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "63,530",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from investing activities :"
+          "": "Cash flows from investing activities :",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Acquisition of property, plant and equipment"
+          "": "Acquisition of property, plant and equipment",
+          "col_1": "",
+          "col_2": "(1,197)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(33,328)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Acquisition of intangible assets"
+          "": "Acquisition of intangible assets",
+          "col_1": "",
+          "col_2": "(66)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,825)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Increase in other financial assets"
+          "": "Increase in other financial assets",
+          "col_1": "",
+          "col_2": "(595)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(16,578)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Others"
+          "": "Others",
+          "col_1": "",
+          "col_2": "104",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2,906",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash used in investing activities"
+          "": "Net cash used in investing activities",
+          "col_1": "",
+          "col_2": "(1,754)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(48,825)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from financing activities :"
+          "": "Cash flows from financing activities :",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Decrease in short-term loans"
+          "": "Decrease in short-term loans",
+          "col_1": "",
+          "col_2": "(314)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(8,750)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Proceeds from bonds issued"
+          "": "Proceeds from bonds issued",
+          "col_1": "",
+          "col_2": "746",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "20,761",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Redemption of bonds"
+          "": "Redemption of bonds",
+          "col_1": "",
+          "col_2": "(72)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,000)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Proceeds from long-term loans"
+          "": "Proceeds from long-term loans",
+          "col_1": "",
+          "col_2": "524",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "14,591",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Repayments of long-term loans"
+          "": "Repayments of long-term loans",
+          "col_1": "",
+          "col_2": "(336)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(9,367)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Increase in guarantee deposits"
+          "": "Increase in guarantee deposits",
+          "col_1": "",
+          "col_2": "407",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "11,324",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash dividends"
+          "": "Cash dividends",
+          "col_1": "",
+          "col_2": "(714)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(19,870)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Others"
+          "": "Others",
+          "col_1": "",
+          "col_2": "(21)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(565)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash provided by financing activities"
+          "": "Net cash provided by financing activities",
+          "col_1": "",
+          "col_2": "220",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "6,124",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Effect of exchange rate changes on cash and cash equivalents"
+          "": "Effect of exchange rate changes on cash and cash equivalents",
+          "col_1": "",
+          "col_2": "(63)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,772)",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net increase in cash and cash equivalents"
+          "": "Net increase in cash and cash equivalents",
+          "col_1": "",
+          "col_2": "685",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "19,057",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents at beginning of period"
+          "": "Cash and cash equivalents at beginning of period",
+          "col_1": "",
+          "col_2": "3,378",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "94,048",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
         },
         {
-          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents at end of period"
+          "": "Cash and cash equivalents at end of period",
+          "col_1": "",
+          "col_2": "4,063",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "113,105",
+          "col_6": ""
         }
       ],
       "confidence": 0.5,
@@ -1190,20 +4519,20 @@
     {
       "table_id": "table_26",
       "headers": [
-        "________________________"
+        ""
       ],
       "rows": [
         {
-          "________________________": "1Unless otherwise stated, all financial figures discussed in this announcement are prepared in accordance with TIFRSs recognized by Financial Supervisory Commission in the ROC, which is different from IFRSs issued by the International Accounting Standards Board. They represent comparisons among the three-month period ending September 30, 2021, the three-month period ending June 30, 2021, and the equivalent three-month period that ended September 30, 2020. For all 3Q21 results, New Taiwan Dollar (NT$) amounts have been converted into U.S. Dollars at the September 30, 2021 exchange rate of NT$ 27.84 per U.S. Dollar."
+          "": "1Unless otherwise stated, all financial figures discussed in this announcement are prepared in accordance with TIFRSs recognized by Financial Supervisory Commission in the ROC, which is different from IFRSs issued by the International Accounting Standards Board. They represent comparisons among the three-month period ending September 30, 2021, the three-month period ending June 30, 2021, and the equivalent three-month period that ended September 30, 2020. For all 3Q21 results, New Taiwan Dollar (NT$) amounts have been converted into U.S. Dollars at the September 30, 2021 exchange rate of NT$ 27.84 per U.S. Dollar."
         },
         {
-          "________________________": "2Revenue in this section represents wafer sales"
+          "": "2Revenue in this section represents wafer sales"
         },
         {
-          "________________________": "3Utilization Rate = Quarterly Wafer Out / Quarterly Capacity"
+          "": "3Utilization Rate = Quarterly Wafer Out / Quarterly Capacity"
         },
         {
-          "________________________": "4Estimated capacity numbers are based oncalculated maximum outputrather thandesigned capacity. The actual capacity numbers may differ depending upon equipment delivery schedules, pace of migration to more advanced process technologies, and other factors affecting production ramp-up."
+          "": "4Estimated capacity numbers are based oncalculated maximum outputrather thandesigned capacity. The actual capacity numbers may differ depending upon equipment delivery schedules, pace of migration to more advanced process technologies, and other factors affecting production ramp-up."
         }
       ],
       "confidence": 0.5,
@@ -1249,12 +4578,11 @@
         ],
         "financial_figures": [],
         "key_topics": [
-          "Investor relations",
-          "Contact information",
-          "Company communications"
+          "Investor Relations",
+          "Contact Information"
         ],
         "sentiment": "neutral",
-        "summary": "The section lists investor relations contact details for UMC, including Michael Lin and David Wong with phone numbers and email addresses."
+        "summary": "The section provides investor relations contact details for UMC, including names, phone number, extension, and email addresses."
       }
     },
     {
@@ -1300,7 +4628,7 @@
           "Company Contacts"
         ],
         "sentiment": "neutral",
-        "summary": "The section provides investor relations contact information for UMC, including names, phone number, and email addresses."
+        "summary": "The section lists investor relations contact information for UMC, including names, phone number, and email addresses."
       }
     }
   ],
