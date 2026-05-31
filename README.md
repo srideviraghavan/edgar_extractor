@@ -18,9 +18,38 @@ pip install -e .
 
 ## Usage
 
+### Running Extraction
+
+Extract data from a single filing:
 ```bash
 python main.py data/raw/filing.html
 ```
+
+Extract data from all filings in a directory:
+```bash
+python main.py data/raw
+```
+
+Outputs are saved to `data/outputs/` as JSON files.
+
+### Running Evaluation
+
+First, build golden reference files (if not already present):
+```bash
+python eval/build_golden.py
+```
+
+Then evaluate extraction outputs against golden files:
+```bash
+python eval/run_eval.py data/outputs
+```
+
+The evaluation compares outputs against golden files in `data/golden/` and reports:
+- Fact F1 score
+- Required metric recall
+- Table extraction status
+- Guidance extraction status
+- Structure match score
 
 ## Configuration
 

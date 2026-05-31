@@ -1,0 +1,21 @@
+{
+  "filing_id": "TRIP_2025_Q4",
+  "ticker": "TRIP",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Tripadvisor, Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 371.5,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": false,
+  "min_tables": 2,
+  "tags": [
+    "decimal_millions"
+  ]
+}

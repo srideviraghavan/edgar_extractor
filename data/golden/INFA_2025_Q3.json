@@ -1,0 +1,25 @@
+{
+  "filing_id": "INFA_2025_Q3",
+  "ticker": "INFA",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q3",
+  "company_name": "Informatica Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 439161,
+      "required": true
+    },
+    "net_income": {
+      "value": 3998,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 8,
+  "tags": [
+    "large_tables"
+  ]
+}

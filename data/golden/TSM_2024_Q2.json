@@ -1,0 +1,26 @@
+{
+  "filing_id": "TSM_2024_Q2",
+  "ticker": "TSM",
+  "fiscal_year": 2024,
+  "fiscal_quarter": "Q2",
+  "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+  "currency": "TWD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "net_income": {
+      "value": 247661438,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": 9.56,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 50,
+  "tags": [
+    "very_large_filing",
+    "scale_thousands"
+  ]
+}

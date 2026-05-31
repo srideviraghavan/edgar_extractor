@@ -1,0 +1,17 @@
+{
+  "filing_id": "VRM_2024_Q3",
+  "ticker": "VRM",
+  "fiscal_year": 2024,
+  "fiscal_quarter": "Q3",
+  "company_name": "Vroom, Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {},
+  "segments": [],
+  "has_guidance": false,
+  "min_tables": 5,
+  "tags": [
+    "bankruptcy_filing",
+    "not_earnings_release"
+  ]
+}

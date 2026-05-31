@@ -1,0 +1,21 @@
+{
+  "filing_id": "WISH_2024_Q1",
+  "ticker": "WISH",
+  "fiscal_year": 2024,
+  "fiscal_quarter": "Q1",
+  "company_name": "ContextLogic Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "net_income": {
+      "value": -59,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": false,
+  "min_tables": 4,
+  "tags": [
+    "short_filing"
+  ]
+}

@@ -1,0 +1,4265 @@
+{
+  "filing_id": "COHU_2025_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "COHU, INC.17087 VIA DEL CAMPOSAN DIEGO, CA 92127FAX (858) 848-8185PHONE (858) 858-8100www.cohu.com"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20"
+      ],
+      "rows": [
+        {
+          "": "(in millions, except per share amounts)",
+          "col_1": "",
+          "col_2": "Q4 FY2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "Q3 FY2025",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "Q4 FY2024",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "12Months2025",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "12Months2024",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": ""
+        },
+        {
+          "": "Net sales",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "122.2",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "126.2",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "94.1",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "453.0",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "$",
+          "col_19": "401.8",
+          "col_20": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "(22.5",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(4.1",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(21.4",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(74.3",
+          "col_16": ")",
+          "col_17": "",
+          "col_18": "$",
+          "col_19": "(69.8",
+          "col_20": ")"
+        },
+        {
+          "": "Net loss per share",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "(0.48",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(0.09",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(0.46",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(1.59",
+          "col_16": ")",
+          "col_17": "",
+          "col_18": "$",
+          "col_19": "(1.49",
+          "col_20": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20"
+      ],
+      "rows": [
+        {
+          "": "(in millions, except per share amounts)",
+          "col_1": "",
+          "col_2": "Q4 FY2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "Q3 FY2025",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "Q4 FY2024",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "12Months2025",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "12Months2024",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "",
+          "col_18": "",
+          "col_19": "",
+          "col_20": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "(7.2",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(2.8",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(7.1",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(10.1",
+          "col_16": ")",
+          "col_17": "",
+          "col_18": "$",
+          "col_19": "(10.9",
+          "col_20": ")"
+        },
+        {
+          "": "Net loss per share",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "(0.15",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(0.06",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(0.15",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(0.22",
+          "col_16": ")",
+          "col_17": "",
+          "col_18": "$",
+          "col_19": "(0.23",
+          "col_20": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "Three Months Ended(1)",
+        "col_3",
+        "col_4",
+        "Twelve Months Ended(1)",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "December 27,",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "December 28,",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "December 27,",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "December 28,",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "2025(2)",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "2024",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2025(2)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2024",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Net sales",
+          "col_1": "",
+          "Three Months Ended(1)": "$",
+          "col_3": "122,230",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "$",
+          "col_7": "94,122",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "452,956",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "401,779",
+          "col_16": ""
+        },
+        {
+          "": "Cost and expenses:",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Cost of sales (excluding amortization)",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "73,301",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "54,656",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "259,337",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "221,485",
+          "col_16": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "23,419",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "20,795",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "92,213",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "84,797",
+          "col_16": ""
+        },
+        {
+          "": "Selling, general and administrative",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "31,921",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "30,540",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "123,566",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "128,037",
+          "col_16": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "7,284",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "9,753",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "37,466",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "39,087",
+          "col_16": ""
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "1,796",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "5",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "10,143",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "41",
+          "col_16": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "137,721",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "115,749",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "522,725",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "473,447",
+          "col_16": ""
+        },
+        {
+          "": "Loss from operations",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "(15,491",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "(21,627",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(69,769",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(71,668",
+          "col_16": ")"
+        },
+        {
+          "": "Other (expense) income:",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "(1,620",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "(99",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(2,054",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(618",
+          "col_16": ")"
+        },
+        {
+          "": "Interest income",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "3,706",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "2,325",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "8,040",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "9,976",
+          "col_16": ""
+        },
+        {
+          "": "Foreign transaction gain (loss)",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "(232",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "98",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(783",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(2,395",
+          "col_16": ")"
+        },
+        {
+          "": "Pension curtailment gain (loss)",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "(158",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,159",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "-",
+          "col_16": ""
+        },
+        {
+          "": "Loss on extinguishment of debt",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "-",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "-",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(241",
+          "col_16": ")"
+        },
+        {
+          "": "Loss from operations before taxes",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "(13,795",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "(19,303",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(62,407",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(64,946",
+          "col_16": ")"
+        },
+        {
+          "": "Income tax provision",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "8,693",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "2,055",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "11,866",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "4,872",
+          "col_16": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "",
+          "Three Months Ended(1)": "$",
+          "col_3": "(22,488",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "$",
+          "col_7": "(21,358",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(74,273",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(69,818",
+          "col_16": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Loss per share:",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Basic:",
+          "col_1": "",
+          "Three Months Ended(1)": "$",
+          "col_3": "(0.48",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "$",
+          "col_7": "(0.46",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(1.59",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(1.49",
+          "col_16": ")"
+        },
+        {
+          "": "Diluted:",
+          "col_1": "",
+          "Three Months Ended(1)": "$",
+          "col_3": "(0.48",
+          "col_4": ")",
+          "Twelve Months Ended(1)": "",
+          "col_6": "$",
+          "col_7": "(0.46",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(1.59",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "(1.49",
+          "col_16": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Weighted average shares used in computing loss per share:(3)",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "46,838",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "46,719",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "46,723",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "46,908",
+          "col_16": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "",
+          "Three Months Ended(1)": "",
+          "col_3": "46,838",
+          "col_4": "",
+          "Twelve Months Ended(1)": "",
+          "col_6": "",
+          "col_7": "46,719",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "46,723",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "46,908",
+          "col_16": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_11",
+      "headers": [
+        "",
+        "col_1",
+        "December 27,",
+        "col_3",
+        "col_4",
+        "December 30,",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "December 27,": "2025",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "2024",
+          "col_6": ""
+        },
+        {
+          "": "Assets:",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Cash and investments(1)",
+          "col_1": "",
+          "December 27,": "$",
+          "col_3": "483,981",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "$",
+          "col_7": "262,092",
+          "col_8": ""
+        },
+        {
+          "": "Accounts receivable",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "108,754",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "91,619",
+          "col_8": ""
+        },
+        {
+          "": "Inventories",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "129,006",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "141,861",
+          "col_8": ""
+        },
+        {
+          "": "Other current assets",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "28,249",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "38,735",
+          "col_8": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "749,990",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "534,307",
+          "col_8": ""
+        },
+        {
+          "": "Property, plant & equipment, net",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "76,987",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "74,786",
+          "col_8": ""
+        },
+        {
+          "": "Goodwill",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "283,027",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "234,639",
+          "col_8": ""
+        },
+        {
+          "": "Intangible assets, net",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "79,272",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "110,717",
+          "col_8": ""
+        },
+        {
+          "": "Operating lease right of use assets",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "29,271",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "13,908",
+          "col_8": ""
+        },
+        {
+          "": "Other assets",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "24,435",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "31,058",
+          "col_8": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "",
+          "December 27,": "$",
+          "col_3": "1,242,982",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "$",
+          "col_7": "999,415",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Liabilities & Stockholders\u2019Equity:",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Short-term borrowings",
+          "col_1": "",
+          "December 27,": "$",
+          "col_3": "9,807",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "$",
+          "col_7": "633",
+          "col_8": ""
+        },
+        {
+          "": "Current installments of long-term debt",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "1,244",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "1,115",
+          "col_8": ""
+        },
+        {
+          "": "Deferred profit",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "8,626",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "3,589",
+          "col_8": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "89,401",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "79,847",
+          "col_8": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "109,078",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "85,184",
+          "col_8": ""
+        },
+        {
+          "": "Long-term debt",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "285,026",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "7,052",
+          "col_8": ""
+        },
+        {
+          "": "Non-current operating lease liabilities",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "31,693",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "9,893",
+          "col_8": ""
+        },
+        {
+          "": "Other noncurrent liabilities",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "31,646",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "40,395",
+          "col_8": ""
+        },
+        {
+          "": "Cohu stockholders\u2019 equity",
+          "col_1": "",
+          "December 27,": "",
+          "col_3": "785,539",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "",
+          "col_7": "856,891",
+          "col_8": ""
+        },
+        {
+          "": "Total liabilities & stockholders\u2019 equity",
+          "col_1": "",
+          "December 27,": "$",
+          "col_3": "1,242,982",
+          "col_4": "",
+          "December 30,": "",
+          "col_6": "$",
+          "col_7": "999,415",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_13",
+      "headers": [
+        "",
+        "col_1",
+        "Three Months Ended",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "December 27,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "September 27,",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "December 28,",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2024",
+          "col_9": ""
+        },
+        {
+          "": "Loss from operations - GAAP basis (a)",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(15,491",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(9,716",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(21,627",
+          "col_12": ")"
+        },
+        {
+          "": "Non-GAAP adjustments:",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Share-based compensation included in (b):",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Cost of sales (COS)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "332",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "341",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "290",
+          "col_12": ""
+        },
+        {
+          "": "Research and development (R&D)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "1,367",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,356",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "966",
+          "col_12": ""
+        },
+        {
+          "": "Selling, general and administrative (SG&A)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "3,779",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,962",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "4,025",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "5,478",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "5,659",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "5,281",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets (c)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "7,284",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "10,249",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,753",
+          "col_12": ""
+        },
+        {
+          "": "Restructuring charges related to inventory adjustments in COS (d)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "480",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(28",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(429",
+          "col_12": ")"
+        },
+        {
+          "": "Restructuring charges (d)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "1,796",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "509",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "5",
+          "col_12": ""
+        },
+        {
+          "": "Manufacturing transition and severance costs included in (e):",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "COS",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "91",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "81",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9",
+          "col_12": ""
+        },
+        {
+          "": "R&D",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "-",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "22",
+          "col_12": ""
+        },
+        {
+          "": "SG&A",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "42",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "105",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "133",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "81",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "136",
+          "col_12": ""
+        },
+        {
+          "": "Impairment charge included in SG&A (f)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(403",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(46",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "-",
+          "col_12": ""
+        },
+        {
+          "": "Adjustments to indemnification receivable included in SG&A (g)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(123",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "506",
+          "col_12": ""
+        },
+        {
+          "": "Duplicate facility costs included in SG&A (h)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "799",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,000",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "-",
+          "col_12": ""
+        },
+        {
+          "": "Acquisition and financing costs included in SG&A (i)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "104",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "407",
+          "col_12": ""
+        },
+        {
+          "": "Income (loss) from operations - non-GAAP basis (j)",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "57",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "7,710",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(5,968",
+          "col_12": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Net loss - GAAP basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(22,488",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(4,101",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(21,358",
+          "col_12": ")"
+        },
+        {
+          "": "Non-GAAP adjustments (as scheduled above)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "15,548",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,426",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "15,659",
+          "col_12": ""
+        },
+        {
+          "": "Tax effect of non-GAAP adjustments (k)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(414",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(15,372",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,377",
+          "col_12": ")"
+        },
+        {
+          "": "Pension curtailment adjustment (l)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "158",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(787",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "-",
+          "col_12": ""
+        },
+        {
+          "": "Net loss - non-GAAP basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(7,196",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(2,834",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(7,076",
+          "col_12": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP net loss per share - diluted",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(0.48",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(0.09",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(0.46",
+          "col_12": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Non-GAAP net loss per share - diluted (m)",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(0.15",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(0.06",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(0.15",
+          "col_12": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_27",
+      "headers": [
+        "",
+        "col_1",
+        "Twelve Months Ended",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "December 27,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "December 28,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2024",
+          "col_6": ""
+        },
+        {
+          "": "Loss from operations - GAAP basis (a)",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(69,769",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(71,668",
+          "col_8": ")"
+        },
+        {
+          "": "Non-GAAP adjustments:",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Share-based compensation included in (b):",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Cost of sales (COS)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "1,396",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,049",
+          "col_8": ""
+        },
+        {
+          "": "Research and development (R&D)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "5,456",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,566",
+          "col_8": ""
+        },
+        {
+          "": "Selling, general and administrative (SG&A)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "16,190",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "16,125",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "23,042",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "20,740",
+          "col_8": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets (c)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "37,466",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "39,087",
+          "col_8": ""
+        },
+        {
+          "": "Restructuring charges related to inventory adjustments in COS (d)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "745",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(465",
+          "col_8": ")"
+        },
+        {
+          "": "Restructuring charges (d)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "10,143",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "41",
+          "col_8": ""
+        },
+        {
+          "": "Manufacturing transition and severance costs included in (e):",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "COS",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "334",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "11",
+          "col_8": ""
+        },
+        {
+          "": "R&D",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "-",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "142",
+          "col_8": ""
+        },
+        {
+          "": "SG&A",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "185",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,334",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "519",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,487",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Impairment charge included in SG&A (f)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(449",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "903",
+          "col_8": ""
+        },
+        {
+          "": "Adjustments to indemnification receivable included in SG&A (g)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(123",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "506",
+          "col_8": ""
+        },
+        {
+          "": "Duplicate facility costs included in SG&A (h)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "1,799",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": ""
+        },
+        {
+          "": "Acquisition and financing costs included in SG&A (i)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "457",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "582",
+          "col_8": ""
+        },
+        {
+          "": "Depreciation of PP&E step-up included in SG&A (j)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "-",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "36",
+          "col_8": ""
+        },
+        {
+          "": "Adjustment to contingent consideration included in SG&A (k)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(1,700",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": ""
+        },
+        {
+          "": "Income (loss) from operations - non-GAAP basis (l)",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "2,130",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(6,751",
+          "col_8": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Net loss - GAAP basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(74,273",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(69,818",
+          "col_8": ")"
+        },
+        {
+          "": "Non-GAAP adjustments (as scheduled above)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "71,899",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "64,917",
+          "col_8": ""
+        },
+        {
+          "": "Tax effect of non-GAAP adjustments (m)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(5,553",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(5,954",
+          "col_8": ")"
+        },
+        {
+          "": "Pension curtailment adjustment (n)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(2,159",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": ""
+        },
+        {
+          "": "Net loss - non-GAAP basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(10,086",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(10,855",
+          "col_8": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP net loss per share - diluted",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(1.59",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(1.49",
+          "col_8": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP loss per share - diluted (o)",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(0.22",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(0.23",
+          "col_8": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_43",
+      "headers": [
+        "",
+        "col_1",
+        "Three Months Ended",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "December 27,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "September 27,",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "December 28,",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2024",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Gross Profit Reconciliation",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Gross profit - GAAP basis (excluding amortization)(1)",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "48,929",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "55,264",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "39,466",
+          "col_12": ""
+        },
+        {
+          "": "Non-GAAP adjustments to cost of sales (as scheduled above)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "903",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "394",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(130",
+          "col_12": ")"
+        },
+        {
+          "": "Gross profit - Non-GAAP basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "49,832",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "55,658",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "39,336",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "As a percentage of net sales:",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP gross profit",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "40.0",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "43.8",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "41.9",
+          "col_12": "%"
+        },
+        {
+          "": "Non-GAAP gross profit",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "40.8",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "44.1",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "41.8",
+          "col_12": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Adjusted EBITDA Reconciliation",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Net income - GAAP Basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "(22,488",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(4,101",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(21,358",
+          "col_12": ")"
+        },
+        {
+          "": "Income tax provision",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "8,693",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(3,714",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,055",
+          "col_12": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "1,620",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "110",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "99",
+          "col_12": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(3,706",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,335",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(2,325",
+          "col_12": ")"
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "7,284",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "10,249",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,753",
+          "col_12": ""
+        },
+        {
+          "": "Depreciation",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "3,266",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,344",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "3,196",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of cloud-based software implementation costs(2)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "709",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "709",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "709",
+          "col_12": ""
+        },
+        {
+          "": "Pension curtailment (gain) loss",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "158",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(787",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "-",
+          "col_12": ""
+        },
+        {
+          "": "Other non-GAAP adjustments (as scheduled above)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "8,264",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "7,177",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "5,906",
+          "col_12": ""
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "3,800",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "11,652",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(1,965",
+          "col_12": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "As a percentage of net sales:",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Net income - GAAP Basis",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(18.4",
+          "col_4": ")%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(3.2",
+          "col_8": ")%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(22.7",
+          "col_12": ")%"
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "3.1",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "9.2",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(2.1",
+          "col_12": ")%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Operating Expense Reconciliation",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Operating Expense - GAAP basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "64,420",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "64,980",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "61,093",
+          "col_12": ""
+        },
+        {
+          "": "Non-GAAP adjustments to operating expenses (as scheduled above)",
+          "col_1": "",
+          "Three Months Ended": "",
+          "col_3": "(14,645",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(17,032",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(15,789",
+          "col_12": ")"
+        },
+        {
+          "": "Operating Expenses - Non-GAAP basis",
+          "col_1": "",
+          "Three Months Ended": "$",
+          "col_3": "49,775",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "47,948",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "45,304",
+          "col_12": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_44",
+      "headers": [
+        "",
+        "Excludes amortization of purchased intangibles of $4,916, $7,873 and $7,483 for the three months ending December 27, 2025, September 27, 2025, and December 28, 2024, respectively."
+      ],
+      "rows": [
+        {
+          "": "(2)",
+          "Excludes amortization of purchased intangibles of $4,916, $7,873 and $7,483 for the three months ending December 27, 2025, September 27, 2025, and December 28, 2024, respectively.": "Represents amortization of capitalized implementation costs related to cloud-based software arrangements that are included within SG&A."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_45",
+      "headers": [
+        "",
+        "col_1",
+        "Twelve Months Ended",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "December 27,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "December 28,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2024",
+          "col_6": ""
+        },
+        {
+          "": "Gross Profit Reconciliation",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Gross profit - GAAP basis (excluding amortization)(1)",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "193,619",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "180,294",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP adjustments to cost of sales (as scheduled above)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "2,475",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "595",
+          "col_8": ""
+        },
+        {
+          "": "Gross profit - Non-GAAP basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "196,094",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "180,889",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "As a percentage of net sales:",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP gross profit",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "42.7",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "44.9",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP gross profit",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "43.3",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "45.0",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Adjusted EBITDA Reconciliation",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Net loss - GAAP Basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "(74,273",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(69,818",
+          "col_8": ")"
+        },
+        {
+          "": "Income tax provision",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "11,866",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "4,872",
+          "col_8": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "2,054",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "618",
+          "col_8": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(8,040",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(9,976",
+          "col_8": ")"
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "37,466",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "39,087",
+          "col_8": ""
+        },
+        {
+          "": "Depreciation",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "13,219",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "13,400",
+          "col_8": ""
+        },
+        {
+          "": "Amortization of cloud-based software implementation costs(2)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "2,836",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,836",
+          "col_8": ""
+        },
+        {
+          "": "Pension curtailment gain",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(2,159",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "-",
+          "col_8": ""
+        },
+        {
+          "": "Loss on extinguishment of debt",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "-",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "241",
+          "col_8": ""
+        },
+        {
+          "": "Other non-GAAP adjustments (as scheduled above)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "34,433",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "25,794",
+          "col_8": ""
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "17,402",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "7,054",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "As a percentage of net sales:",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Net loss - GAAP Basis",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(16.4",
+          "col_4": ")%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(17.4",
+          "col_8": ")%"
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "3.8",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1.8",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Operating Expense Reconciliation",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Operating Expense - GAAP basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "263,388",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "251,962",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP adjustments to operating expenses (as scheduled above)",
+          "col_1": "",
+          "Twelve Months Ended": "",
+          "col_3": "(69,424",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(64,322",
+          "col_8": ")"
+        },
+        {
+          "": "Operating Expenses - Non-GAAP basis",
+          "col_1": "",
+          "Twelve Months Ended": "$",
+          "col_3": "193,964",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "187,640",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_46",
+      "headers": [
+        "",
+        "Excludes amortization of purchased intangibles of $28,087 and $30,009 for the twelve months ending December 27, 2025, and December 28, 2024, respectively."
+      ],
+      "rows": [
+        {
+          "": "(2)",
+          "Excludes amortization of purchased intangibles of $28,087 and $30,009 for the twelve months ending December 27, 2025, and December 28, 2024, respectively.": "Represents amortization of capitalized implementation costs related to cloud-based software arrangements that are included within SG&A."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_22",
+      "text": "Fourth quarter recurring revenue grew 4% quarter-over-quarter and 25% year-over-year",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "4%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "fourth quarter quarter-over-quarter"
+          },
+          {
+            "figure": "25%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "fourth quarter year-over-year"
+          }
+        ],
+        "key_topics": [
+          "recurring revenue",
+          "quarter-over-quarter growth",
+          "year-over-year growth",
+          "fourth quarter"
+        ],
+        "sentiment": "positive",
+        "summary": "Fourth quarter recurring revenue increased 4% sequentially and 25% compared with the prior year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_193",
+      "text": "Supplemental Reconciliation of GAAP Results to Non-GAAP Financial Measures (Unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Supplemental Reconciliation of GAAP Results to Non-GAAP Financial Measures",
+            "type": "other",
+            "attributes": {
+              "unaudited": "true",
+              "section_type": "financial reconciliation"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to non-GAAP reconciliation",
+          "unaudited financial measures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section indicates that it contains an unaudited supplemental reconciliation of GAAP results to non-GAAP financial measures, but no specific financial figures are provided in the excerpt."
+      }
+    },
+    {
+      "chunk_id": "prose_p_69",
+      "text": "Cohu expects first quarter 2026 sales to be in a range of $122\u00a0million +/- $7\u00a0million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "event": "expects first quarter 2026 sales guidance"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "122000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter 2026"
+          },
+          {
+            "figure": "7000000",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter 2026"
+          }
+        ],
+        "key_topics": [
+          "sales guidance",
+          "first quarter 2026",
+          "revenue outlook"
+        ],
+        "sentiment": "neutral",
+        "summary": "Cohu provided first quarter 2026 sales guidance of $122 million, plus or minus $7 million."
+      }
+    },
+    {
+      "chunk_id": "prose_p_254",
+      "text": "All periods presented were calculated using the number of GAAP diluted shares outstanding.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP diluted shares outstanding",
+          "calculation methodology",
+          "period presentation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that all periods presented were calculated using the number of GAAP diluted shares outstanding."
+      }
+    },
+    {
+      "chunk_id": "prose_p_315",
+      "text": "To eliminate fair value adjustment to contingent consideration related to the acquisition of Tignis.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Tignis",
+            "type": "company",
+            "attributes": {
+              "context": "acquisition target",
+              "mentioned_in": "fair value adjustment to contingent consideration"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "fair value adjustment",
+          "contingent consideration",
+          "acquisition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that a fair value adjustment related to contingent consideration for the acquisition of Tignis was eliminated."
+      }
+    },
+    {
+      "chunk_id": "prose_p_313",
+      "text": "To eliminate the property, plant & equipment step-up depreciation accelerated related to acquisitions.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "property, plant & equipment",
+          "step-up depreciation",
+          "acquisitions",
+          "elimination adjustment"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes eliminating accelerated depreciation related to property, plant & equipment step-ups from acquisitions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_244",
+      "text": "To eliminate duplicative facility-related expenses incurred during the build-out of certain new Cohu locations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "context": "new locations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "facility-related expenses",
+          "build-out",
+          "duplicate expenses",
+          "new locations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that duplicative facility-related expenses were incurred during the build-out of certain new Cohu locations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_232",
+      "text": "To eliminate compensation expense for employee stock options, stock units and our employee stock purchase plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "compensation expense",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "employee stock options",
+          "stock units",
+          "employee stock purchase plan",
+          "compensation expense elimination"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that compensation expense related to employee stock options, stock units, and the employee stock purchase plan is being eliminated."
+      }
+    },
+    {
+      "chunk_id": "prose_p_97",
+      "text": "For press releases and other information of interest to investors, please visit Cohu\u2019s website at www.cohu.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "website": "www.cohu.com"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "investor information",
+          "press releases",
+          "company website"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section directs investors to Cohu\u2019s website for press releases and other information of interest."
+      }
+    },
+    {
+      "chunk_id": "prose_p_250",
+      "text": "To adjust the provision for income taxes related to the adjustments described above based on applicable tax rates.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "income taxes",
+          "tax provision adjustment",
+          "applicable tax rates"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes adjusting the provision for income taxes based on the related adjustments and applicable tax rates."
+      }
+    },
+    {
+      "chunk_id": "prose_p_242",
+      "text": "To eliminate the impact of the change in an uncertain tax position liability and related indemnification receivable.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "uncertain tax position liability",
+            "type": "other",
+            "attributes": {
+              "context": "liability"
+            }
+          },
+          {
+            "name": "indemnification receivable",
+            "type": "other",
+            "attributes": {
+              "context": "receivable"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "uncertain tax position liability",
+          "indemnification receivable",
+          "elimination of impact"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the impact of changes in an uncertain tax position liability and related indemnification receivable was eliminated."
+      }
+    },
+    {
+      "chunk_id": "prose_p_365",
+      "text": "Represents amortization of capitalized implementation costs related to cloud-based software arrangements that are included within SG&A.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "amortization of capitalized implementation costs",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "amortization",
+          "capitalized implementation costs",
+          "cloud-based software arrangements",
+          "SG&A"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes amortization expense related to capitalized implementation costs for cloud-based software arrangements, included in SG&A."
+      }
+    },
+    {
+      "chunk_id": "prose_p_144",
+      "text": "The three- and twelve-month periods ended December 27, 2025, and December 28,\u00a02024, were both comprised of 13 weeks and 52 weeks, respectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "December 27, 2025",
+            "type": "other",
+            "attributes": {
+              "period": "three- and twelve-month periods ended"
+            }
+          },
+          {
+            "name": "December 28, 2024",
+            "type": "other",
+            "attributes": {
+              "period": "three- and twelve-month periods ended"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "13",
+            "type": "other",
+            "currency": "other",
+            "period": "three-month period ended December 27, 2025 and December 28, 2024"
+          },
+          {
+            "figure": "52",
+            "type": "other",
+            "currency": "other",
+            "period": "twelve-month period ended December 27, 2025 and December 28, 2024"
+          }
+        ],
+        "key_topics": [
+          "reporting periods",
+          "weeks in fiscal periods",
+          "comparative periods"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the three-month and twelve-month periods ended December 27, 2025, and December 28, 2024, each consisted of 13 weeks and 52 weeks, respectively."
+      }
+    },
+    {
+      "chunk_id": "prose_p_147",
+      "text": "On January 7, 2025, the Company completed the acquisition of Tignis, Inc. and the results of Tignis\u2019\u00a0operations have been included since that date.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "role": "acquirer"
+            }
+          },
+          {
+            "name": "Tignis, Inc.",
+            "type": "company",
+            "attributes": {
+              "role": "acquired company",
+              "acquisition_date": "2025-01-07"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "acquisition",
+          "business combination",
+          "consolidation of operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company completed the acquisition of Tignis, Inc. on January 7, 2025, and began including Tignis\u2019 operations from that date."
+      }
+    },
+    {
+      "chunk_id": "prose_p_252",
+      "text": "To eliminate the pension curtailment adjustment recognized associated with headcount reductions made as part of the 2025 Strategic Restructuring plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "2025 Strategic Restructuring plan",
+            "type": "other",
+            "attributes": {
+              "description": "Strategic restructuring plan involving headcount reductions"
+            }
+          },
+          {
+            "name": "pension curtailment adjustment",
+            "type": "other",
+            "attributes": {
+              "description": "Adjustment recognized in connection with pension accounting"
+            }
+          },
+          {
+            "name": "headcount reductions",
+            "type": "other",
+            "attributes": {
+              "description": "Workforce reductions made as part of the restructuring plan"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "pension curtailment adjustment",
+          "headcount reductions",
+          "strategic restructuring",
+          "workforce reduction"
+        ],
+        "sentiment": "negative",
+        "summary": "The section describes eliminating a pension curtailment adjustment associated with headcount reductions under the 2025 Strategic Restructuring plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_321",
+      "text": "To eliminate the pension curtailment adjustments recognized associated with headcount reductions made as part of the 2025 Strategic Restructuring plan.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "2025 Strategic Restructuring plan",
+            "type": "other",
+            "attributes": {
+              "description": "Plan involving headcount reductions"
+            }
+          },
+          {
+            "name": "pension curtailment adjustments",
+            "type": "other",
+            "attributes": {
+              "description": "Adjustments recognized in connection with headcount reductions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "pension curtailment adjustments",
+          "headcount reductions",
+          "strategic restructuring"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes eliminating pension curtailment adjustments associated with headcount reductions under the 2025 Strategic Restructuring plan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_399",
+      "text": "Excludes amortization of purchased intangibles of $28,087 and $30,009 for the twelve months ending December 27, 2025, and December 28, 2024, respectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "28087",
+            "type": "expense",
+            "currency": "USD",
+            "period": "twelve months ending December 27, 2025"
+          },
+          {
+            "figure": "30009",
+            "type": "expense",
+            "currency": "USD",
+            "period": "twelve months ending December 28, 2024"
+          }
+        ],
+        "key_topics": [
+          "amortization of purchased intangibles",
+          "excluded expenses",
+          "comparative fiscal periods"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that amortization of purchased intangibles is excluded, amounting to $28,087 for the twelve months ending December 27, 2025 and $30,009 for the twelve months ending December 28, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_246",
+      "text": "To eliminate certain professional service fees and other direct incremental expenses incurred in connection with acquisitions and the issuance of convertible notes.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "unknown",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "professional service fees",
+          "direct incremental expenses",
+          "acquisitions",
+          "issuance of convertible notes"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes eliminating certain professional service fees and other direct incremental expenses related to acquisitions and the issuance of convertible notes."
+      }
+    },
+    {
+      "chunk_id": "prose_p_26",
+      "text": "The Company also reported non-GAAP results, with fourth quarter 2025 loss of $7.2\u00a0million or $0.15\u00a0per share and loss of $10.1\u00a0million or $0.22\u00a0per share for full year 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "reported_metric": "non-GAAP results",
+              "periods": "fourth quarter 2025; full year 2025"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "-7.2 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter 2025"
+          },
+          {
+            "figure": "-0.15",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter 2025 per share"
+          },
+          {
+            "figure": "-10.1 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2025"
+          },
+          {
+            "figure": "-0.22",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2025 per share"
+          }
+        ],
+        "key_topics": [
+          "non-GAAP results",
+          "quarterly loss",
+          "full-year loss",
+          "earnings per share"
+        ],
+        "sentiment": "negative",
+        "summary": "The Company reported non-GAAP losses of $7.2 million, or $0.15 per share, for the fourth quarter of 2025 and $10.1 million, or $0.22 per share, for full year 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_363",
+      "text": "Excludes amortization of purchased intangibles of $4,916, $7,873 and $7,483 for the three months ending December 27, 2025, September 27, 2025, and December 28, 2024, respectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": 4916,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ending December 27, 2025"
+          },
+          {
+            "figure": 7873,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ending September 27, 2025"
+          },
+          {
+            "figure": 7483,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ending December 28, 2024"
+          }
+        ],
+        "key_topics": [
+          "amortization of purchased intangibles",
+          "non-GAAP adjustment"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that amortization of purchased intangibles is excluded, with amounts of $4,916, $7,873, and $7,483 for the three months ending December 27, 2025, September 27, 2025, and December 28, 2024, respectively."
+      }
+    },
+    {
+      "chunk_id": "prose_p_240",
+      "text": "To eliminate the impacts of the Company\u2019s investment in Fraes\u2011und Technologiezentrum GmbH Frasdorf, including the 2024 impairment charge and the subsequent gain recognized upon its sale in 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Fraes-und Technologiezentrum GmbH Frasdorf",
+            "type": "company",
+            "attributes": {
+              "relationship": "investment target",
+              "event": "sold in 2025"
+            }
+          },
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "relationship": "investor"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2024",
+            "type": "other",
+            "currency": "other",
+            "period": "2024"
+          },
+          {
+            "figure": "2025",
+            "type": "other",
+            "currency": "other",
+            "period": "2025"
+          }
+        ],
+        "key_topics": [
+          "investment impact elimination",
+          "impairment charge",
+          "gain on sale",
+          "investment in Fraes-und Technologiezentrum GmbH Frasdorf"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes eliminating the effects of the Company's investment in Fraes-und Technologiezentrum GmbH Frasdorf, including a 2024 impairment charge and a gain recognized when the investment was sold in 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_150",
+      "text": "For both the three- and twelve-month periods ended December 27,\u00a02025, and December 28,\u00a02024, potentially dilutive securities were excluded from the per share computations due to their antidilutive effect.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "December 27, 2025",
+            "type": "other",
+            "attributes": {
+              "role": "period_end_date"
+            }
+          },
+          {
+            "name": "December 28, 2024",
+            "type": "other",
+            "attributes": {
+              "role": "period_end_date"
+            }
+          },
+          {
+            "name": "potentially dilutive securities",
+            "type": "other",
+            "attributes": {
+              "role": "financial_instrument",
+              "treatment": "excluded from per share computations due to antidilutive effect"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings per share",
+          "antidilutive securities",
+          "diluted share computation",
+          "three-month period",
+          "twelve-month period"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that potentially dilutive securities were excluded from per share computations for both the three- and twelve-month periods ended December 27, 2025 and December 28, 2024 because they were antidilutive."
+      }
+    },
+    {
+      "chunk_id": "prose_p_76",
+      "text": "To participate via telephone and join the call live, please register in advance at https://register-conf.media-server.com/register/BI04e278675daf4424a7d54548401241d5 to receive the dial-in number along with a unique PIN number that can be used to access the call.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "https://register-conf.media-server.com/register/BI04e278675daf4424a7d54548401241d5",
+            "type": "other",
+            "attributes": {
+              "description": "registration URL for telephone participation",
+              "purpose": "receive dial-in number and unique PIN"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "telephone participation",
+          "conference call registration",
+          "dial-in number",
+          "PIN number"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section instructs participants to register in advance online to join the call by telephone and receive a dial-in number and unique PIN."
+      }
+    },
+    {
+      "chunk_id": "prose_p_74",
+      "text": "The Company will host a live conference call and webcast with slides to discuss fourth quarter 2025 results at 1:30\u00a0p.m. Pacific Time/4:30\u00a0p.m. Eastern Time on February 12, 2026. Interested parties may listen live via webcast on Cohu\u2019s investor relations website at https://edge.media-server.com/mmc/p/72a3rqim .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "event": "live conference call and webcast with slides",
+              "purpose": "discuss fourth quarter 2025 results",
+              "date": "February 12, 2026",
+              "time": "1:30 p.m. Pacific Time / 4:30 p.m. Eastern Time"
+            }
+          },
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "role": "investor relations website host",
+              "webcast_url": "https://edge.media-server.com/mmc/p/72a3rqim"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings conference call",
+          "webcast",
+          "fourth quarter 2025 results",
+          "investor relations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company announced a live conference call and webcast with slides to discuss fourth quarter 2025 results on February 12, 2026, with live access available through Cohu\u2019s investor relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_80",
+      "text": "Cohu, Inc. (NASDAQ: COHU) is a global supplier delivering test, automation, inspection & metrology products, software analytics solutions and services to the semiconductor industry. Cohu\u2019s differentiated and broad product portfolio enables optimized yield and productivity, accelerating customers\u2019 manufacturing time-to-market. Additional information can be found at www.cohu.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "COHU",
+              "exchange": "NASDAQ",
+              "website": "www.cohu.com",
+              "industry": "semiconductor",
+              "description": "Global supplier of test, automation, inspection & metrology products, software analytics solutions and services"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "semiconductor equipment",
+          "test and automation products",
+          "inspection and metrology",
+          "software analytics solutions",
+          "manufacturing productivity"
+        ],
+        "sentiment": "positive",
+        "summary": "Cohu, Inc. is a global supplier of semiconductor test, automation, inspection and metrology products, along with software analytics solutions and services, focused on improving yield, productivity, and time-to-market."
+      }
+    },
+    {
+      "chunk_id": "prose_p_189",
+      "text": "On January 7, 2025, the Company made a cash payment of $34.8\u00a0million, net of cash received, to acquire Tignis, Inc. and on September 29, 2025, the Company issued $287.5 million of 1.50% Convertible Senior Notes due 2031, including the full $27.5 million over\u2011allotment option. Net proceeds totaled approximately $246.7 million after debt\u2011issuance costs and capped\u2011call transactions.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "acquired": "Tignis, Inc.",
+              "acquisition_date": "2025-01-07",
+              "notes": "Made a cash payment to acquire Tignis, Inc."
+            }
+          },
+          {
+            "name": "Tignis, Inc.",
+            "type": "company",
+            "attributes": {
+              "transaction": "acquired by Company",
+              "acquisition_date": "2025-01-07"
+            }
+          },
+          {
+            "name": "1.50% Convertible Senior Notes due 2031",
+            "type": "other",
+            "attributes": {
+              "issued_by": "Company",
+              "issue_date": "2025-09-29",
+              "maturity": "2031",
+              "coupon": "1.50%",
+              "includes_over_allotment_option": "yes"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "34.8 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "2025-01-07"
+          },
+          {
+            "figure": "287.5 million",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "2025-09-29"
+          },
+          {
+            "figure": "27.5 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "2025-09-29"
+          },
+          {
+            "figure": "246.7 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "2025-09-29"
+          }
+        ],
+        "key_topics": [
+          "acquisition",
+          "convertible senior notes issuance",
+          "net proceeds",
+          "debt issuance costs",
+          "capped-call transactions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company acquired Tignis, Inc. for $34.8 million in cash and later issued $287.5 million of 1.50% Convertible Senior Notes due 2031, generating approximately $246.7 million in net proceeds after costs and capped-call transactions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_24",
+      "text": "SAN DIEGO, Calif., February 12, 2026 \u2013 Cohu, Inc. (NASDAQ: COHU), a global supplier of equipment and services optimizing semiconductor manufacturing yield and productivity, today reported fiscal 2025 fourth quarter net sales of $122.2\u00a0million and GAAP loss of $22.5\u00a0million or $0.48\u00a0per share. Net sales for full year 2025 were $453.0\u00a0million with GAAP loss of $74.3\u00a0million or $1.59\u00a0per share.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "NASDAQ: COHU",
+              "description": "global supplier of equipment and services optimizing semiconductor manufacturing yield and productivity"
+            }
+          },
+          {
+            "name": "San Diego, Calif.",
+            "type": "location",
+            "attributes": {
+              "date": "February 12, 2026"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "122.2 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fiscal 2025 fourth quarter"
+          },
+          {
+            "figure": "22.5 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fiscal 2025 fourth quarter"
+          },
+          {
+            "figure": "0.48",
+            "type": "other",
+            "currency": "USD",
+            "period": "fiscal 2025 fourth quarter"
+          },
+          {
+            "figure": "453.0 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "full year 2025"
+          },
+          {
+            "figure": "74.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2025"
+          },
+          {
+            "figure": "1.59",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2025"
+          }
+        ],
+        "key_topics": [
+          "earnings report",
+          "quarterly net sales",
+          "full-year net sales",
+          "GAAP loss",
+          "semiconductor equipment"
+        ],
+        "sentiment": "negative",
+        "summary": "Cohu reported fiscal 2025 fourth-quarter net sales of $122.2 million and a GAAP loss of $22.5 million, with full-year 2025 net sales of $453.0 million and a GAAP loss of $74.3 million."
+      }
+    },
+    {
+      "chunk_id": "prose_p_65",
+      "text": "Total cash and investments at the end of fourth quarter 2025 were $484.0\u00a0million. On September 29, 2025, the Company issued $287.5 million of 1.50% Convertible Senior Notes due 2031, including the full $27.5 million over\u2011allotment option. Net proceeds totaled approximately $246.7 million after debt\u2011issuance costs and capped\u2011call transactions. Cohu did not repurchase any shares of its common stock during fourth quarter 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "common_stock_repurchases_during_fourth_quarter_2025": "none",
+              "convertible_senior_notes_issued": "1.50% Convertible Senior Notes due 2031",
+              "issuance_date": "2025-09-29"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "484.0 million",
+            "type": "assets",
+            "currency": "USD",
+            "period": "end of fourth quarter 2025"
+          },
+          {
+            "figure": "287.5 million",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "September 29, 2025"
+          },
+          {
+            "figure": "27.5 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "September 29, 2025"
+          },
+          {
+            "figure": "246.7 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "after debt-issuance costs and capped-call transactions"
+          }
+        ],
+        "key_topics": [
+          "cash and investments",
+          "convertible senior notes issuance",
+          "over-allotment option",
+          "net proceeds",
+          "share repurchases"
+        ],
+        "sentiment": "neutral",
+        "summary": "Cohu reported $484.0 million in cash and investments at the end of fourth quarter 2025, issued $287.5 million of convertible senior notes due 2031 on September 29, 2025, and received net proceeds of approximately $246.7 million. The company did not repurchase any common stock during the quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_p_67",
+      "text": "\u201cCohu delivered Q4 revenue of $122 million, up 30% year over year, supported by improving market fundamentals with estimated test cell utilization increasing to 76% in December. Fourth quarter recurring revenue is up 25% year-over-year driven by strong demand across services, interface solutions, and handler-related spares business,\u201d said Cohu President and CEO Luis M\u00fcller. \u201cDesign\u2011win momentum remains robust, spanning automotive ADAS, power devices, computing AI, and HBM inspection metrology solutions.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "quarter": "Q4",
+              "business_context": "test equipment and related services",
+              "recurring_revenue_growth": "25% year-over-year",
+              "test_cell_utilization": "76% in December"
+            }
+          },
+          {
+            "name": "Luis M\u00fcller",
+            "type": "person",
+            "attributes": {
+              "title": "President and CEO",
+              "company": "Cohu"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "122 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "Q4"
+          },
+          {
+            "figure": "30%",
+            "type": "other",
+            "currency": "other",
+            "period": "year over year"
+          },
+          {
+            "figure": "76%",
+            "type": "other",
+            "currency": "other",
+            "period": "December"
+          },
+          {
+            "figure": "25%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "year over year"
+          }
+        ],
+        "key_topics": [
+          "Q4 revenue growth",
+          "recurring revenue growth",
+          "test cell utilization improvement",
+          "strong demand across services and spares",
+          "design-win momentum",
+          "automotive ADAS",
+          "power devices",
+          "computing AI",
+          "HBM inspection metrology solutions"
+        ],
+        "sentiment": "positive",
+        "summary": "Cohu reported Q4 revenue of $122 million, up 30% year over year, with improving test cell utilization and 25% growth in recurring revenue driven by strong demand across multiple business areas. Management also highlighted robust design-win momentum across several end markets."
+      }
+    },
+    {
+      "chunk_id": "prose_p_86",
+      "text": "These non-GAAP measures are not meant as a substitute for GAAP, but are included solely for informational and comparative purposes. The Company\u2019s management believes that this information can assist investors in evaluating the Company\u2019s operational trends, financial performance, and cash generating capacity. Management uses non-GAAP measures for a variety of reasons, including to make operational decisions, to determine executive compensation in part, to forecast future operational results, and for comparison to our annual operating plan. However, the non-GAAP financial measures should not be regarded as a replacement for (or superior to) corresponding, similarly captioned, GAAP measures.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "role": "issuer referenced in non-GAAP discussion",
+              "management_usage": "uses non-GAAP measures for operational decisions, executive compensation, forecasting, and comparison to annual operating plan"
+            }
+          },
+          {
+            "name": "management",
+            "type": "other",
+            "attributes": {
+              "role": "company management",
+              "belief": "non-GAAP information assists investors in evaluating operational trends, financial performance, and cash generating capacity"
+            }
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {
+              "role": "audience for the non-GAAP information"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP measures",
+          "GAAP reconciliation",
+          "investor information",
+          "operational trends",
+          "financial performance",
+          "cash generating capacity",
+          "executive compensation",
+          "forecasting",
+          "annual operating plan"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that non-GAAP measures are provided for informational and comparative purposes, help investors assess performance and cash generation, and are used by management for operational and planning decisions, but are not a substitute for GAAP measures."
+      }
+    },
+    {
+      "chunk_id": "prose_p_84",
+      "text": "Included within this press release and accompanying materials are non-GAAP financial measures, including non-GAAP Gross Margin/Profit, Net loss and Loss (adjusted earnings) per share, Operating income (loss), Operating Expense, effective tax rate, net cash per share and Adjusted EBITDA that supplement the Company\u2019s Condensed Consolidated Statements of Operations prepared under generally accepted accounting principles (GAAP). These non-GAAP financial measures adjust the Company\u2019s actual results prepared under GAAP to exclude charges and the related income tax effect for: share-based compensation, the amortization of purchased intangible assets, restructuring costs, manufacturing transition and severance costs, impairments, change in indemnification receivable, duplicate facility costs, acquisition and transaction related costs and associated professional fees, depreciation of purchase accounting adjustments to property, plant and equipment, fair value adjustment to contingent consideration, pension curtailment adjustments, amortization of cloud-based software implementation costs (Adjusted EBITDA only ) and loss on extinguishment of debt (Adjusted EBITDA only ). Reconciliations of GAAP to non-GAAP amounts for the periods presented herein are provided in schedules accompanying this release and should be considered together with the Condensed Consolidated Statements of Operations. With respect to any forward-looking non-GAAP figures, we are unable to provide without unreasonable efforts, at this time, a GAAP to non-GAAP reconciliation of any forward-looking figures due to their inherent uncertainty.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Issuer of the press release",
+              "reporting_framework": "GAAP and non-GAAP financial measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "Adjusted EBITDA",
+          "share-based compensation",
+          "amortization of purchased intangible assets",
+          "restructuring costs",
+          "manufacturing transition and severance costs",
+          "impairments",
+          "acquisition and transaction related costs",
+          "forward-looking non-GAAP figures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the company presents several non-GAAP financial measures alongside GAAP results and lists the types of charges excluded from those measures. It also notes that reconciliations are provided in accompanying schedules and that forward-looking non-GAAP reconciliations cannot be provided without unreasonable effort due to uncertainty."
+      }
+    },
+    {
+      "chunk_id": "prose_p_228",
+      "text": "Management believes the presentation of these non-GAAP financial measures, when taken together with the corresponding GAAP financial measures, provides meaningful supplemental information regarding the Company\u2019s operating performance. Our management uses these non-GAAP financial measures in assessing the Company's operating results, as well as when planning, forecasting and analyzing future periods and these non-GAAP measures allow investors to evaluate the Company\u2019s financial performance using some of the same measures as management. Management views share-based compensation as an expense that is unrelated to the Company\u2019s operational performance as it does not require cash payments and can vary in amount from period to period and the elimination of amortization charges provides better comparability of pre- and post-acquisition operating results and to results of businesses utilizing internally developed intangible assets. Management initiated certain restructuring and manufacturing transition activities including employee headcount reductions and other organizational changes to align our business strategies and improve our cost structure. Restructuring and manufacturing transition costs have been excluded because such expense is not used by management to assess the core profitability of Cohu\u2019s business operations. Impairment charges have been excluded as these amounts are infrequent and are unrelated to the operational performance of Cohu. Management believes the change in an uncertain tax position liability and related indemnification receivable is better reflected within income tax expense rather than SG&A. Duplicate facility costs have been excluded to provide investors a clearer view of ongoing operational performance by removing temporary expenses that do not reflect the Company\u2019s ongoing operations. Acquisition costs, certain professional service costs related to convertible notes, and fair value adjustments to contingent consideration have been excluded by management, as they are not related to the core operating activities of the Company and can vary significantly from period to period. Excluding this data provides investors with a basis to compare Cohu\u2019s performance against the performance of other companies without this variability. However, the non-GAAP financial measures should not be regarded as a replacement for (or superior to) corresponding, similarly captioned, GAAP measures. The presentation of non-GAAP financial measures above may not be comparable to similarly titled measures reported by other companies and investors should be careful when comparing our non-GAAP financial measures to those of other companies.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "role": "company referenced in non-GAAP discussion",
+              "context": "Management explains why certain expenses and adjustments are excluded from non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "management",
+            "type": "other",
+            "attributes": {
+              "role": "preparer and user of non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "share-based compensation",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "restructuring and manufacturing transition costs",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "impairment charges",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "uncertain tax position liability",
+            "type": "other",
+            "attributes": {
+              "role": "tax-related item discussed in relation to SG&A and income tax expense"
+            }
+          },
+          {
+            "name": "indemnification receivable",
+            "type": "other",
+            "attributes": {
+              "role": "related to uncertain tax position liability"
+            }
+          },
+          {
+            "name": "duplicate facility costs",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "acquisition costs",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "professional service costs related to convertible notes",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          },
+          {
+            "name": "fair value adjustments to contingent consideration",
+            "type": "other",
+            "attributes": {
+              "role": "excluded non-GAAP adjustment"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP vs non-GAAP comparison",
+          "share-based compensation exclusion",
+          "restructuring and manufacturing transition costs",
+          "impairment charges",
+          "uncertain tax position liability",
+          "duplicate facility costs",
+          "acquisition-related costs",
+          "convertible notes professional service costs",
+          "contingent consideration fair value adjustments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains management\u2019s rationale for presenting non-GAAP financial measures and excluding various items such as share-based compensation, restructuring costs, impairment charges, duplicate facility costs, acquisition costs, and other non-core or volatile expenses to better reflect operating performance and improve comparability."
+      }
+    },
+    {
+      "chunk_id": "prose_p_293",
+      "text": "Management believes the presentation of these non-GAAP financial measures, when taken together with the corresponding GAAP financial measures, provides meaningful supplemental information regarding the Company\u2019s operating performance. Our management uses these non-GAAP financial measures in assessing the Company's operating results, as well as when planning, forecasting and analyzing future periods and these non-GAAP measures allow investors to evaluate the Company\u2019s financial performance using some of the same measures as management. Management views share-based compensation as an expense that is unrelated to the Company\u2019s operational performance as it does not require cash payments and can vary in amount from period to period and the elimination of amortization charges provides better comparability of pre- and post-acquisition operating results and to results of businesses utilizing internally developed intangible assets. Management initiated certain restructuring and manufacturing transition activities including employee headcount reductions and other organizational changes to align our business strategies and improve our cost structure. Restructuring and manufacturing transition costs have been excluded because such expense is not used by Management to assess the core profitability of Cohu\u2019s business operations. Impairment charges have been excluded as these amounts are infrequent and are unrelated to the operational performance of Cohu. Impairment charges have been excluded as these amounts are infrequent and are unrelated to the operational performance of\u00a0Cohu. Management believes the change in an uncertain tax position liability and related indemnification receivable is better reflected within income tax expense rather than SG&A. PP&E step-up costs have been excluded by management as they are unrelated to the core operating activities of the Company. Duplicate facility costs have been excluded to provide investors a clearer view of ongoing operational performance by removing temporary\u00a0expenses that do not reflect the Company\u2019s ongoing operations. Acquisition costs, certain professional service costs related to convertible notes, and fair value adjustments to contingent consideration have been excluded by management as they are not indicative of core operating performance. Excluding this data provides investors with a basis to compare Cohu\u2019s performance against the performance of other companies without this variability. However, the non-GAAP financial measures should not be regarded as a replacement for (or superior to) corresponding, similarly captioned, GAAP measures. The presentation of non-GAAP financial measures above may not be comparable to similarly titled measures reported by other companies and investors should be careful when comparing our non-GAAP financial measures to those of other companies.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cohu",
+            "type": "company",
+            "attributes": {
+              "role": "company referenced in non-GAAP discussion",
+              "context": "Management explains exclusions from non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "Management",
+            "type": "other",
+            "attributes": {
+              "role": "decision-maker using non-GAAP measures",
+              "context": "Describes rationale for excluding certain items from non-GAAP results"
+            }
+          },
+          {
+            "name": "GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "role": "benchmark accounting measures",
+              "context": "Used alongside non-GAAP measures for comparison"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "role": "supplemental performance measures",
+              "context": "Presented to provide additional operating performance insight"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "share-based compensation",
+          "amortization charges",
+          "restructuring costs",
+          "manufacturing transition costs",
+          "impairment charges",
+          "uncertain tax position liability",
+          "PP&E step-up costs",
+          "duplicate facility costs",
+          "acquisition costs",
+          "convertible notes professional service costs",
+          "contingent consideration fair value adjustments",
+          "operating performance comparability"
+        ],
+        "sentiment": "neutral",
+        "summary": "Management explains that several items are excluded from non-GAAP results to better reflect core operating performance and improve comparability, including share-based compensation, amortization, restructuring and transition costs, impairment charges, tax-related adjustments, PP&E step-up costs, duplicate facility costs, acquisition-related costs, convertible note professional service costs, and contingent consideration fair value adjustments."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\COHU_2025_Q4.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

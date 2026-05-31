@@ -1,0 +1,7296 @@
+{
+  "filing_id": "MXL_2025_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "Fiscal Year 2025 Financial Highlights",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "Net revenue was $467.6 million, up 30% over fiscal year 2024.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "GAAP gross margin was 56.8%, up from 54.0% in the prior year, and non-GAAP gross margin was 59.3%, down from 59.7% the prior year.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "GAAP operating expenses were $392.7 million, or 84% of net revenue, compared to $418.1 million or 116% of net revenue in fiscal 2024, and non-GAAP operating expenses were $233.7 million, or 50% of net revenue, compared to $283.7 million or 79% of net revenue in the prior year.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "GAAP loss from operations was 27% of net revenue, compared to GAAP loss from operations of 62% in fiscal 2024, and non-GAAP income from operations was 9% of net revenue, compared to non-GAAP loss from operations of 19% in the prior year.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "Net cash flow provided by operations of $19.6 million, compared to net cash flow used in operations of $45.3 million in fiscal 2024.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "\u2022",
+          "col_1": "GAAP diluted loss per share was $1.58 compared to GAAP diluted loss per share of $2.93 in the prior year, while non-GAAP diluted earnings per share was $0.31 compared to non-GAAP diluted loss per share of $0.90 in fiscal 2024.",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "September 30, 2025",
+          "col_4": "",
+          "col_5": "December 31, 2024"
+        },
+        {
+          "": "Net revenue",
+          "col_1": "$",
+          "col_2": "136,436",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "126,459",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "92,167",
+          "col_11": ""
+        },
+        {
+          "": "Cost of net revenue",
+          "col_1": "57,879",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "54,558",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "40,919",
+          "col_8": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "78,557",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "71,901",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "51,248",
+          "col_8": ""
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "51,691",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "54,252",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "51,278",
+          "col_8": ""
+        },
+        {
+          "": "Selling, general and administrative",
+          "col_1": "41,956",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "47,674",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "38,087",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Restructuring charges (credits)",
+          "col_1": "(198)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "11,264",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,056",
+          "col_8": ""
+        },
+        {
+          "": "Total operating expenses",
+          "col_1": "93,449",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "113,190",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "92,421",
+          "col_8": ""
+        },
+        {
+          "": "Loss from operations",
+          "col_1": "(14,892)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(41,289)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(41,173)",
+          "col_8": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "835",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "874",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,040",
+          "col_8": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "(2,391)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,649)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,802)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Other income (expense), net",
+          "col_1": "(1,355)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(324)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,113",
+          "col_8": ""
+        },
+        {
+          "": "Total other income (expense), net",
+          "col_1": "(2,911)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,099)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "351",
+          "col_8": ""
+        },
+        {
+          "": "Loss before income taxes",
+          "col_1": "(17,803)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(43,388)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(40,822)",
+          "col_8": ""
+        },
+        {
+          "": "Income tax provision (benefit)",
+          "col_1": "(2,906)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,097",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,016",
+          "col_8": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(14,897)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(45,485)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(57,838)",
+          "col_11": ""
+        },
+        {
+          "": "Net loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "$",
+          "col_2": "(0.17)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.52)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.68)",
+          "col_11": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "$",
+          "col_2": "(0.17)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.52)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.68)",
+          "col_11": ""
+        },
+        {
+          "": "Shares used to compute net loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "87,243",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "87,186",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "84,485",
+          "col_8": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "87,243",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "87,186",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "84,485",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "Twelve Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "December 31, 2025",
+          "col_7": "",
+          "col_8": "December 31, 2024"
+        },
+        {
+          "": "Net revenue",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "467,641",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "360,528",
+          "col_12": ""
+        },
+        {
+          "": "Cost of net revenue",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "201,827",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "165,746",
+          "col_10": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "265,814",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "194,782",
+          "col_10": ""
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "208,599",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "225,189",
+          "col_10": ""
+        },
+        {
+          "": "Selling, general and administrative",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "159,580",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "138,329",
+          "col_10": ""
+        },
+        {
+          "": "Impairment losses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "1,237",
+          "col_10": ""
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "24,525",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "53,379",
+          "col_10": ""
+        },
+        {
+          "": "Total operating expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "392,704",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "418,134",
+          "col_10": ""
+        },
+        {
+          "": "Loss from operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(126,890)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "(223,352)",
+          "col_10": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,385",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "6,386",
+          "col_10": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(10,056)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "(10,874)",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Other income (expense), net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(7,333)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "(10,877)",
+          "col_10": ""
+        },
+        {
+          "": "Total other income (expense), net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(14,004)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "(15,365)",
+          "col_10": ""
+        },
+        {
+          "": "Loss before income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(140,894)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "(238,717)",
+          "col_10": ""
+        },
+        {
+          "": "Income tax provision (benefit)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(4,213)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "6,481",
+          "col_10": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(136,681)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(245,198)",
+          "col_12": ""
+        },
+        {
+          "": "Net loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(1.58)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(2.93)",
+          "col_12": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(1.58)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(2.93)",
+          "col_12": ""
+        },
+        {
+          "": "Shares used to compute net loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "86,588",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "83,600",
+          "col_10": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "86,588",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "83,600",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "September 30, 2025",
+          "col_4": "",
+          "col_5": "December 31, 2024"
+        },
+        {
+          "": "Operating Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(14,897)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(45,485)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(57,838)",
+          "col_11": ""
+        },
+        {
+          "": "Adjustments to reconcile net loss to cash provided by (used in) operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Amortization and depreciation",
+          "col_1": "10,788",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "10,838",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "11,714",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Impairment of other assets",
+          "col_1": "700",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Amortization of debt issuance costs and accretion of discount on debt and leases",
+          "col_1": "451",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "477",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "548",
+          "col_8": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "19,593",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "21,511",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "18,813",
+          "col_8": ""
+        },
+        {
+          "": "Deferred income taxes",
+          "col_1": "(2,515)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "275",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "13,884",
+          "col_8": ""
+        },
+        {
+          "": "Loss on disposal of property and equipment",
+          "col_1": "86",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "261",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Impairment of leased right-of-use assets",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,140",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Gain on extinguishment of lease liabilities",
+          "col_1": "(521)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "(Gain) loss on foreign currency and other",
+          "col_1": "487",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "211",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,226)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Excess tax (benefits) deficiencies on stock-based awards",
+          "col_1": "(492)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,931",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "262",
+          "col_8": ""
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Accounts receivable, net",
+          "col_1": "6,812",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "52,884",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(37,534)",
+          "col_8": ""
+        },
+        {
+          "": "Inventory",
+          "col_1": "8,225",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(298)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "5,720",
+          "col_8": ""
+        },
+        {
+          "": "Prepaid expenses and other assets",
+          "col_1": "(17,527)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,173",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "6,742",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Accounts payable, accrued expenses and other current liabilities",
+          "col_1": "3,062",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(40,139)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,448",
+          "col_8": ""
+        },
+        {
+          "": "Accrued compensation",
+          "col_1": "7,866",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "15,047",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,092)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Accrued price protection liability",
+          "col_1": "(7,346)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(5,681)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,071)",
+          "col_8": ""
+        },
+        {
+          "": "Lease liabilities",
+          "col_1": "(2,792)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,928)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,889)",
+          "col_8": ""
+        },
+        {
+          "": "Other long-term liabilities",
+          "col_1": "(1,574)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "47",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,458)",
+          "col_8": ""
+        },
+        {
+          "": "Net cash provided by (used in) operating activities",
+          "col_1": "10,406",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "10,124",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(27,838)",
+          "col_8": ""
+        },
+        {
+          "": "Investing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Purchases of property and equipment",
+          "col_1": "(3,708)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(5,729)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,193)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Purchases of intangible assets",
+          "col_1": "22",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,012)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(805)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Net cash used in investing activities",
+          "col_1": "(3,686)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(6,741)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,998)",
+          "col_8": ""
+        },
+        {
+          "": "Financing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Net proceeds from issuance of common stock",
+          "col_1": "1,391",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "27",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,512",
+          "col_8": ""
+        },
+        {
+          "": "Minimum tax withholding paid on behalf of employees for restricted stock units",
+          "col_1": "(4)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(12)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,091)",
+          "col_8": ""
+        },
+        {
+          "": "Repurchase of common stock",
+          "col_1": "(20,000)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "Net cash provided by (used in) financing activities",
+          "col_1": "(18,613)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "15",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,421",
+          "col_8": ""
+        },
+        {
+          "": "Effect of exchange rate changes on cash, cash equivalents and restricted cash",
+          "col_1": "42",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(388)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(474)",
+          "col_8": ""
+        },
+        {
+          "": "Increase (decrease) in cash, cash equivalents and restricted cash",
+          "col_1": "(11,851)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3,010",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(29,889)",
+          "col_8": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at beginning of period",
+          "col_1": "113,263",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "110,253",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "149,492",
+          "col_8": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at end of period",
+          "col_1": "$",
+          "col_2": "101,412",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "113,263",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "119,603",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "Twelve Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "December 31, 2025",
+          "col_6": "",
+          "col_7": "December 31, 2024"
+        },
+        {
+          "": "Operating Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(136,681)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(245,198)",
+          "col_11": ""
+        },
+        {
+          "": "Adjustments to reconcile net loss to cash provided by (used in) operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Amortization and depreciation",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "43,992",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "54,140",
+          "col_9": ""
+        },
+        {
+          "": "Impairment of intangible assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1,237",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Impairment of investments and other assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "700",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "14,000",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Amortization of debt issuance costs and accretion of discount on debt and leases",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1,929",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2,538",
+          "col_9": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "77,128",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "66,021",
+          "col_9": ""
+        },
+        {
+          "": "Deferred income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(8,595)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "826",
+          "col_9": ""
+        },
+        {
+          "": "Loss on disposal of property and equipment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1,247",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1,068",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Impairment of leased right-of-use assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "427",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "5,555",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Gain on extinguishment of lease liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(521)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(555)",
+          "col_9": ""
+        },
+        {
+          "": "Gain (loss) on foreign currency and other",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "6,159",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(1,253)",
+          "col_9": ""
+        },
+        {
+          "": "Excess tax deficiencies on stock-based awards",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "3,713",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "3,250",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Accounts receivable, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "39,342",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "85,155",
+          "col_9": ""
+        },
+        {
+          "": "Inventory",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "12,239",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "9,565",
+          "col_9": ""
+        },
+        {
+          "": "Prepaid expenses and other assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(11,874)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(1,873)",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Accounts payable, accrued expenses and other current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(12,484)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(4,569)",
+          "col_9": ""
+        },
+        {
+          "": "Accrued compensation",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "34,762",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "919",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Accrued price protection liability",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(16,908)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(28,283)",
+          "col_9": ""
+        },
+        {
+          "": "Lease liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(11,497)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(10,695)",
+          "col_9": ""
+        },
+        {
+          "": "Other long-term liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(3,459)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2,857",
+          "col_9": ""
+        },
+        {
+          "": "Net cash provided by (used in) operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "19,619",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(45,295)",
+          "col_9": ""
+        },
+        {
+          "": "Investing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Purchases of property and equipment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(12,598)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(17,680)",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Purchases of intangible assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(7,197)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(5,766)",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net cash used in investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(19,795)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(23,446)",
+          "col_9": ""
+        },
+        {
+          "": "Financing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net proceeds from issuance of common stock",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "3,558",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "4,091",
+          "col_9": ""
+        },
+        {
+          "": "Minimum tax withholding paid on behalf of employees for restricted stock units",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(2,217)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(2,805)",
+          "col_9": ""
+        },
+        {
+          "": "Repurchase of common stock",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(20,000)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": ""
+        },
+        {
+          "": "Net cash provided by (used in) financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(18,659)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "1,286",
+          "col_9": ""
+        },
+        {
+          "": "Effect of exchange rate changes on cash, cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "644",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(1,298)",
+          "col_9": ""
+        },
+        {
+          "": "Decrease in cash, cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(18,191)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(68,753)",
+          "col_9": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at beginning of period",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "119,603",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "188,356",
+          "col_9": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at end of period",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "101,412",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "119,603",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "September 30, 2025",
+          "col_4": "",
+          "col_5": "December 31, 2024"
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "72,806",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "111,859",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "118,575",
+          "col_11": ""
+        },
+        {
+          "": "Short-term restricted cash",
+          "col_1": "1,419",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,380",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,003",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Accounts receivable, net",
+          "col_1": "46,122",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "52,934",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "85,464",
+          "col_8": ""
+        },
+        {
+          "": "Inventory",
+          "col_1": "78,104",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "86,329",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "90,343",
+          "col_8": ""
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "col_1": "50,390",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "31,630",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "28,057",
+          "col_8": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "248,841",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "284,132",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "323,442",
+          "col_8": ""
+        },
+        {
+          "": "Long-term restricted cash",
+          "col_1": "27,187",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "24",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "25",
+          "col_8": ""
+        },
+        {
+          "": "Property and equipment, net",
+          "col_1": "48,873",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "50,865",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "59,300",
+          "col_8": ""
+        },
+        {
+          "": "Leased right-of-use assets",
+          "col_1": "15,506",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "14,624",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "18,184",
+          "col_8": ""
+        },
+        {
+          "": "Intangible assets, net",
+          "col_1": "48,892",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "52,066",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "55,008",
+          "col_8": ""
+        },
+        {
+          "": "Goodwill",
+          "col_1": "318,588",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "318,588",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "318,588",
+          "col_8": ""
+        },
+        {
+          "": "Deferred tax assets",
+          "col_1": "77,268",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "74,764",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "68,662",
+          "col_8": ""
+        },
+        {
+          "": "Other long-term assets",
+          "col_1": "11,241",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "13,070",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "21,430",
+          "col_8": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "$",
+          "col_2": "796,396",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "808,133",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "864,639",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Liabilities and stockholders\u2019 equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Current liabilities",
+          "col_1": "$",
+          "col_2": "186,020",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "183,551",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "182,284",
+          "col_11": ""
+        },
+        {
+          "": "Long-term lease liabilities",
+          "col_1": "12,313",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "12,133",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "16,952",
+          "col_8": ""
+        },
+        {
+          "": "Long-term debt",
+          "col_1": "123,618",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "123,461",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "122,996",
+          "col_8": ""
+        },
+        {
+          "": "Other long-term liabilities",
+          "col_1": "22,550",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "24,261",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "26,124",
+          "col_8": ""
+        },
+        {
+          "": "Stockholders\u2019 equity",
+          "col_1": "451,895",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "464,727",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "516,283",
+          "col_8": ""
+        },
+        {
+          "": "Total liabilities and stockholders\u2019 equity",
+          "col_1": "$",
+          "col_2": "796,396",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "808,133",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "864,639",
+          "col_11": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "September 30, 2025",
+          "col_4": "",
+          "col_5": "December 31, 2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP gross profit",
+          "col_1": "$",
+          "col_2": "78,557",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "71,901",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "51,248",
+          "col_11": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "121",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "164",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "186",
+          "col_8": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "84",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "136",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "8",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "2,583",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,582",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,990",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP gross profit",
+          "col_1": "81,345",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "74,783",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "54,432",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP R&D expenses",
+          "col_1": "51,691",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "54,252",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "51,278",
+          "col_8": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(9,443)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(9,750)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(10,862)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(5,148)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(7,361)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(743)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP R&D expenses",
+          "col_1": "37,100",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "37,141",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "39,673",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP SG&A expenses",
+          "col_1": "41,956",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "47,674",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "38,087",
+          "col_8": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(10,030)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(11,597)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(7,766)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(3,512)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(3,750)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(811)",
+          "col_8": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "(206)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(350)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(592)",
+          "col_8": ""
+        },
+        {
+          "": "Acquisition and integration costs",
+          "col_1": "(6,093)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(9,572)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(7,261)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP SG&A expenses",
+          "col_1": "22,115",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "22,405",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "21,657",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP restructuring expenses (credits)",
+          "col_1": "(198)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "11,264",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,056",
+          "col_8": ""
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "198",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(11,264)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(3,056)",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP restructuring expenses",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP loss from operations",
+          "col_1": "(14,892)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(41,289)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(41,173)",
+          "col_8": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "37,022",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "56,526",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "34,275",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP income (loss) from operations",
+          "col_1": "22,130",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "15,237",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(6,898)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP interest and other income (expense), net",
+          "col_1": "(2,911)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,099)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "351",
+          "col_8": ""
+        },
+        {
+          "": "Non-recurring interest and other income (expense), net",
+          "col_1": "146",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "298",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "326",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP interest and other income (expense), net",
+          "col_1": "(2,765)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,801)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "677",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP loss before income taxes",
+          "col_1": "(17,803)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(43,388)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(40,822)",
+          "col_8": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "37,168",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "56,824",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "34,601",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP income (loss) before income taxes",
+          "col_1": "19,365",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "13,436",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(6,221)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP income tax provision (benefit)",
+          "col_1": "(2,906)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,097",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,016",
+          "col_8": ""
+        },
+        {
+          "": "Adjustment for non-cash tax benefits/expenses",
+          "col_1": "4,906",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(797)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(16,016)",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP income tax provision",
+          "col_1": "2,000",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,300",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,000",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP net loss",
+          "col_1": "(14,897)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(45,485)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(57,838)",
+          "col_8": ""
+        },
+        {
+          "": "Total non-GAAP adjustments before income taxes",
+          "col_1": "37,168",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "56,824",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "34,601",
+          "col_8": ""
+        },
+        {
+          "": "Less: total tax adjustments",
+          "col_1": "4,906",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(797)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(16,016)",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP net income (loss)",
+          "col_1": "$",
+          "col_2": "17,365",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "12,136",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(7,221)",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Shares used in computing GAAP and non-GAAP basic net income (loss) per share",
+          "col_1": "87,243",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "87,186",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "84,485",
+          "col_8": ""
+        },
+        {
+          "": "Shares used in computing GAAP diluted net loss per share",
+          "col_1": "87,243",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "87,186",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "84,485",
+          "col_8": ""
+        },
+        {
+          "": "Dilutive common stock equivalents",
+          "col_1": "3,399",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "671",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "Shares used in computing non-GAAP diluted net income (loss) per share",
+          "col_1": "90,642",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "87,857",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "84,485",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP basic net income (loss) per share",
+          "col_1": "$",
+          "col_2": "0.20",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.14",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.09)",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP diluted net income (loss) per share",
+          "col_1": "$",
+          "col_2": "0.19",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.14",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.09)",
+          "col_11": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_8",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "Twelve Months Ended",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "December 31, 2024",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP gross profit",
+          "col_1": "$",
+          "col_2": "265,814",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "194,782",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "722",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "621",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "331",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "24",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "10,329",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "19,798",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP gross profit",
+          "col_1": "277,196",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "215,225",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP R&D expenses",
+          "col_1": "208,599",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "225,189",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(41,474)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(38,814)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(20,833)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(3,108)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Research and development funded by others",
+          "col_1": "(1,000)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,000",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP R&D expenses",
+          "col_1": "145,292",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "185,267",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP SG&A expenses",
+          "col_1": "159,580",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "138,329",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(34,933)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(26,586)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(11,546)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,132)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "(1,739)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,366)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Acquisition and integration costs",
+          "col_1": "(22,953)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(8,828)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP SG&A expenses",
+          "col_1": "88,409",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "98,417",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP impairment losses",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,237",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Impairment losses",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,237)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP impairment losses",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP restructuring expenses",
+          "col_1": "24,525",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "53,379",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "(24,525)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(53,379)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP restructuring expenses",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP loss from operations",
+          "col_1": "(126,890)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(223,352)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "170,385",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "154,893",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP income (loss) from operations",
+          "col_1": "43,495",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(68,459)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP interest and other income (expense), net",
+          "col_1": "(14,004)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(15,365)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-recurring interest and other income (expense), net",
+          "col_1": "835",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "12,233",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP interest and other income (expense), net",
+          "col_1": "(13,169)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(3,132)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP loss before income taxes",
+          "col_1": "(140,894)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(238,717)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "171,220",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "167,126",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP income (loss) before income taxes",
+          "col_1": "30,326",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(71,591)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP income tax provision (benefit)",
+          "col_1": "(4,213)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "6,481",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Adjustment for non-cash tax benefits/expenses",
+          "col_1": "7,653",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,481)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Non-GAAP income tax provision",
+          "col_1": "3,440",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "4,000",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "GAAP net loss",
+          "col_1": "(136,681)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(245,198)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Total non-GAAP adjustments before income taxes",
+          "col_1": "171,220",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "167,126",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Less: total tax adjustments",
+          "col_1": "7,653",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,481)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP net income (loss)",
+          "col_1": "$",
+          "col_2": "26,886",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(75,591)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Shares used in computing GAAP and non-GAAP basic net income (loss) per share",
+          "col_1": "86,588",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "83,600",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Shares used in computing GAAP diluted net loss per share",
+          "col_1": "86,588",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "83,600",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Dilutive common stock equivalents",
+          "col_1": "1,300",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Shares used in computing non-GAAP diluted net income (loss) per share",
+          "col_1": "87,888",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "83,600",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": ""
+        },
+        {
+          "": "Non-GAAP basic net income (loss) per share",
+          "col_1": "$",
+          "col_2": "0.31",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.90)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Non-GAAP diluted net income (loss) per share",
+          "col_1": "$",
+          "col_2": "0.31",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.90)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "September 30, 2025",
+          "col_4": "",
+          "col_5": "December 31, 2024"
+        },
+        {
+          "": "GAAP gross margin",
+          "col_1": "57.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "56.9",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "55.6",
+          "col_8": "%"
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "0.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "0.2",
+          "col_8": "%"
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "0.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "1.9",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "2.0",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "3.2",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP gross margin",
+          "col_1": "59.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "59.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "59.1",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP R&D expenses",
+          "col_1": "37.9",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "42.9",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "55.6",
+          "col_8": "%"
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(6.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(7.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(11.8)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(3.8)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(5.8)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(0.8)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP R&D expenses",
+          "col_1": "27.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "29.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "43.0",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP SG&A expenses",
+          "col_1": "30.8",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "37.7",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "41.3",
+          "col_8": "%"
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(7.4)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(9.2)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(8.4)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(2.6)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(3.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(0.9)",
+          "col_8": "%"
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "(0.2)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.3)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(0.6)",
+          "col_8": "%"
+        },
+        {
+          "": "Acquisition and integration costs",
+          "col_1": "(4.5)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(7.6)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(7.9)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Non-GAAP SG&A expenses",
+          "col_1": "16.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "17.7",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "23.5",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP restructuring expenses (credits)",
+          "col_1": "(0.2)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "8.9",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "3.3",
+          "col_8": "%"
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "0.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(8.9)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(3.3)",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP restructuring expenses",
+          "col_1": "\u2014",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP loss from operations",
+          "col_1": "(10.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(32.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(44.7)",
+          "col_8": "%"
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "27.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "44.7",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "37.2",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP income (loss) from operations",
+          "col_1": "16.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "12.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(7.5)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP interest and other income (expense), net",
+          "col_1": "(2.1)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(1.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "0.4",
+          "col_8": "%"
+        },
+        {
+          "": "Non-recurring interest and other income (expense), net",
+          "col_1": "0.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.2",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "0.4",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP interest and other income (expense), net",
+          "col_1": "(2.0)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(1.4)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "0.7",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP loss before income taxes",
+          "col_1": "(13.1)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(34.3)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(44.3)",
+          "col_8": "%"
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "27.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "44.9",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "37.5",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP income (loss) before income taxes",
+          "col_1": "14.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "10.6",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(6.8)",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP income tax provision (benefit)",
+          "col_1": "(2.1)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "1.7",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "18.5",
+          "col_8": "%"
+        },
+        {
+          "": "Adjustment for non-cash tax benefits/expenses",
+          "col_1": "3.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.6)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(17.4)",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP income tax provision",
+          "col_1": "1.5",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "1.0",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "1.1",
+          "col_8": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "GAAP net loss",
+          "col_1": "(10.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(36.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(62.8)",
+          "col_8": "%"
+        },
+        {
+          "": "Total non-GAAP adjustments before income taxes",
+          "col_1": "27.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "44.9",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "37.5",
+          "col_8": "%"
+        },
+        {
+          "": "Less: total tax adjustments",
+          "col_1": "3.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.6)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(17.4)",
+          "col_8": "%"
+        },
+        {
+          "": "Non-GAAP net income (loss)",
+          "col_1": "12.7",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "9.6",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(7.8)",
+          "col_8": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_10",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "Twelve Months Ended",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "December 31, 2024",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP gross margin",
+          "col_1": "56.8",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "54.0",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "0.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.2",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "0.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "2.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "5.5",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Non-GAAP gross margin",
+          "col_1": "59.3",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "59.7",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP R&D expenses",
+          "col_1": "44.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "62.5",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(8.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(10.8)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(4.5)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.9)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Research and development funded by others",
+          "col_1": "(0.2)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.6",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Non-GAAP R&D expenses",
+          "col_1": "31.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "51.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP SG&A expenses",
+          "col_1": "34.1",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "38.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "(7.5)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(7.4)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Performance-based equity",
+          "col_1": "(2.5)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.6)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Amortization of purchased intangible assets",
+          "col_1": "(0.4)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Acquisition and integration costs",
+          "col_1": "(4.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(2.5)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Non-GAAP SG&A expenses",
+          "col_1": "18.9",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "27.3",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP impairment losses",
+          "col_1": "\u2014",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "0.3",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Impairment losses",
+          "col_1": "\u2014",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.3)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP impairment losses",
+          "col_1": "\u2014",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP restructuring expenses",
+          "col_1": "5.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "14.8",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Restructuring charges",
+          "col_1": "(5.2)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(14.8)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP restructuring expenses",
+          "col_1": "\u2014",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP loss from operations",
+          "col_1": "(27.1)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(62.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "36.4",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "43.0",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP income (loss) from operations",
+          "col_1": "9.3",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(19.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP interest and other income (expense), net",
+          "col_1": "(3.0)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(4.3)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-recurring interest and other income (expense), net",
+          "col_1": "0.2",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "3.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP interest and other income (expense), net",
+          "col_1": "(2.8)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.9)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP loss before income taxes",
+          "col_1": "(30.1)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(66.2)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Total non-GAAP adjustments",
+          "col_1": "36.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "46.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP income (loss) before income taxes",
+          "col_1": "6.5",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(19.9)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP income tax provision (benefit)",
+          "col_1": "(0.9)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "1.8",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Adjustment for non-cash tax benefits/expenses",
+          "col_1": "1.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP income tax provision",
+          "col_1": "0.7",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "1.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP net loss",
+          "col_1": "(29.2)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(68.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Total non-GAAP adjustments before income taxes",
+          "col_1": "36.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "46.4",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Less: total tax adjustments",
+          "col_1": "1.6",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(0.7)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Non-GAAP net income (loss)",
+          "col_1": "5.8",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(21.0)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_d_54",
+      "text": "\u2022 GAAP interest and other expense of approximately $2.1 million to $2.7 million;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "2.1 million to 2.7 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "GAAP interest expense",
+          "other expense"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that GAAP interest and other expense is expected to be approximately $2.1 million to $2.7 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_9",
+      "text": "\u2022 Q4 net revenue of $136.4 million, up 8% sequentially and up 48% year over year",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "136.4 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "Q4"
+          }
+        ],
+        "key_topics": [
+          "net revenue",
+          "quarterly performance",
+          "sequential growth",
+          "year-over-year growth"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports Q4 net revenue of $136.4 million, representing 8% sequential growth and 48% year-over-year growth."
+      }
+    },
+    {
+      "chunk_id": "prose_d_55",
+      "text": "\u2022 Non-GAAP interest and other expense of approximately $2.0 million to $2.6 million;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "2.0 million to 2.6 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "Non-GAAP interest expense",
+          "other expense"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that non-GAAP interest and other expense is expected to be approximately $2.0 million to $2.6 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_15",
+      "text": "\u2022 Net revenue was $136.4 million, up 8% sequentially and up 48% from the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "136.4 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current quarter"
+          }
+        ],
+        "key_topics": [
+          "net revenue",
+          "sequential growth",
+          "year-over-year growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Net revenue was $136.4 million, increasing 8% sequentially and 48% compared with the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_57",
+      "text": "\u2022 Basic and diluted share count of approximately 88.0 million and 91.0 million, respectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "88.0 million",
+            "type": "other",
+            "currency": "other",
+            "period": "not specified"
+          },
+          {
+            "figure": "91.0 million",
+            "type": "other",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "basic share count",
+          "diluted share count",
+          "shares outstanding"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports approximate basic and diluted share counts of 88.0 million and 91.0 million, respectively."
+      }
+    },
+    {
+      "chunk_id": "prose_d_187",
+      "text": "UNAUDITED RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES AS A PERCENTAGE OF NET REVENUE",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to non-GAAP reconciliation",
+          "net revenue",
+          "unaudited financial measures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section indicates an unaudited reconciliation of GAAP to non-GAAP financial measures presented as a percentage of net revenue, but provides no specific figures or named entities."
+      }
+    },
+    {
+      "chunk_id": "prose_d_87",
+      "text": "Income tax benefits and expense adjustments are those that do not affect cash income taxes payable.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "income tax benefits",
+          "expense adjustments",
+          "cash income taxes payable"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that income tax benefits and expense adjustments are items that do not affect cash income taxes payable."
+      }
+    },
+    {
+      "chunk_id": "prose_d_16",
+      "text": "\u2022 GAAP gross margin was 57.6%, compared to 56.9% in the prior quarter, and 55.6% in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "57.6%",
+            "type": "other",
+            "currency": "other",
+            "period": "current quarter"
+          },
+          {
+            "figure": "56.9%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "55.6%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "GAAP gross margin",
+          "quarterly comparison",
+          "year-over-year comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "GAAP gross margin improved to 57.6% in the current quarter, up from 56.9% in the prior quarter and 55.6% in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_22",
+      "text": "\u2022 Non-GAAP gross margin was 59.6%, compared to 59.1% in the prior quarter, and 59.1% in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "59.6%",
+            "type": "other",
+            "currency": "other",
+            "period": "current quarter"
+          },
+          {
+            "figure": "59.1%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "59.1%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "Non-GAAP gross margin",
+          "quarterly comparison",
+          "year-over-year comparison"
+        ],
+        "sentiment": "neutral",
+        "summary": "Non-GAAP gross margin was 59.6%, slightly higher than both the prior quarter and the year-ago quarter at 59.1%."
+      }
+    },
+    {
+      "chunk_id": "prose_d_80",
+      "text": "The following are explanations of each type of adjustment that we incorporate into non-GAAP financial measures:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "adjustments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces explanations of the types of adjustments incorporated into non-GAAP financial measures."
+      }
+    },
+    {
+      "chunk_id": "prose_d_56",
+      "text": "\u2022 GAAP income tax provision of $4.0 million and non-GAAP income tax provision of $0.8 million, respectively; and",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "4.0 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          },
+          {
+            "figure": "0.8 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "GAAP income tax provision",
+          "non-GAAP income tax provision"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports GAAP income tax provision of $4.0 million and non-GAAP income tax provision of $0.8 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_96",
+      "text": "MXL is MaxLinear\u2019s registered trademark. Other trademarks appearing herein are the property of their respective owners.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MXL",
+            "type": "other",
+            "attributes": {
+              "description": "registered trademark",
+              "owner": "MaxLinear"
+            }
+          },
+          {
+            "name": "MaxLinear",
+            "type": "company",
+            "attributes": {
+              "description": "owner of the MXL trademark"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "trademarks",
+          "intellectual property",
+          "ownership"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that MXL is MaxLinear\u2019s registered trademark and that other trademarks mentioned belong to their respective owners."
+      }
+    },
+    {
+      "chunk_id": "prose_d_35",
+      "text": "GAAP gross margin was 56.8%, up from 54.0% in the prior year, and non-GAAP gross margin was 59.3%, down from 59.7% the prior year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "56.8%",
+            "type": "other",
+            "currency": "other",
+            "period": "current period"
+          },
+          {
+            "figure": "54.0%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior year"
+          },
+          {
+            "figure": "59.3%",
+            "type": "other",
+            "currency": "other",
+            "period": "current period"
+          },
+          {
+            "figure": "59.7%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior year"
+          }
+        ],
+        "key_topics": [
+          "GAAP gross margin",
+          "non-GAAP gross margin",
+          "year-over-year comparison"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports that GAAP gross margin increased to 56.8% from 54.0% in the prior year, while non-GAAP gross margin decreased to 59.3% from 59.7%."
+      }
+    },
+    {
+      "chunk_id": "prose_d_41",
+      "text": "Net cash flow provided by operations of $19.6 million, compared to net cash flow used in operations of $45.3 million in fiscal 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "19.6 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "current period"
+          },
+          {
+            "figure": "45.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fiscal 2024"
+          }
+        ],
+        "key_topics": [
+          "cash flow from operations",
+          "operating cash flow improvement",
+          "fiscal 2024 comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "Net cash flow from operations was $19.6 million, an improvement compared with net cash flow used in operations of $45.3 million in fiscal 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_d_24",
+      "text": "\u2022 Non-GAAP income from operations was 16% of net revenue, compared to income of 12% in the prior quarter, and loss of 7% in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "16%",
+            "type": "other",
+            "currency": "other",
+            "period": "current quarter"
+          },
+          {
+            "figure": "12%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "-7%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "Non-GAAP income from operations",
+          "net revenue",
+          "quarterly comparison",
+          "year-over-year performance"
+        ],
+        "sentiment": "positive",
+        "summary": "Non-GAAP income from operations improved to 16% of net revenue, up from 12% in the prior quarter and compared with a 7% loss in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_49",
+      "text": "The company expects net revenue in the first quarter of 2026 to be approximately $130 million to $140 million. The Company also estimates the following:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "the company",
+            "type": "company",
+            "attributes": {
+              "role": "reporting entity"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "130000000-140000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2026"
+          }
+        ],
+        "key_topics": [
+          "net revenue guidance",
+          "first quarter 2026",
+          "financial estimates"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company expects net revenue for the first quarter of 2026 to be approximately $130 million to $140 million and indicates additional estimates follow."
+      }
+    },
+    {
+      "chunk_id": "prose_d_25",
+      "text": "\u2022 Non-GAAP diluted earnings per share was $0.19, compared to earnings per share of $0.14 in the prior quarter, and loss per share of $0.09 in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "0.19",
+            "type": "other",
+            "currency": "USD",
+            "period": "current quarter"
+          },
+          {
+            "figure": "0.14",
+            "type": "other",
+            "currency": "USD",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "-0.09",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "non-GAAP diluted earnings per share",
+          "quarterly earnings comparison",
+          "year-over-year performance"
+        ],
+        "sentiment": "positive",
+        "summary": "Non-GAAP diluted earnings per share was $0.19, up from $0.14 in the prior quarter, and compared with a loss per share of $0.09 in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_20",
+      "text": "\u2022 GAAP diluted loss per share was $0.17, compared to diluted loss per share of $0.52 in the prior quarter, and diluted loss per share of $0.68 in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "0.17",
+            "type": "other",
+            "currency": "USD",
+            "period": "current quarter"
+          },
+          {
+            "figure": "0.52",
+            "type": "other",
+            "currency": "USD",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "0.68",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "GAAP diluted loss per share",
+          "quarterly comparison",
+          "year-over-year comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "GAAP diluted loss per share improved to $0.17 in the current quarter, compared with $0.52 in the prior quarter and $0.68 in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_18",
+      "text": "\u2022 GAAP loss from operations was 11% of net revenue, compared to loss from operations of 33% of net revenue in the prior quarter, and loss from operations of 45% of net revenue in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "11%",
+            "type": "other",
+            "currency": "other",
+            "period": "current quarter"
+          },
+          {
+            "figure": "33%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "45%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "GAAP loss from operations",
+          "net revenue",
+          "quarterly comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "GAAP loss from operations improved to 11% of net revenue in the current quarter, compared with 33% in the prior quarter and 45% in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_86",
+      "text": "Other expense includes accretion of discounts on obligations recorded as a result of abandoned leased facilities for which we continue to be obligated to pay but from which we will receive no future benefit.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "abandoned leased facilities",
+            "type": "other",
+            "attributes": {
+              "description": "Leased facilities that were abandoned but for which the company continues to have payment obligations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "other expense",
+          "accretion of discounts",
+          "obligations",
+          "abandoned leased facilities",
+          "no future benefit"
+        ],
+        "sentiment": "negative",
+        "summary": "The section explains that other expense includes accretion of discounts on obligations related to abandoned leased facilities, which the company must still pay for despite receiving no future benefit."
+      }
+    },
+    {
+      "chunk_id": "prose_d_23",
+      "text": "\u2022 Non-GAAP operating expenses were $59.2 million, or 43% of net revenue, compared to $59.5 million or 47% of net revenue in the prior quarter, and $61.3 million or 67% of net revenue in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "59.2 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "current quarter"
+          },
+          {
+            "figure": "43%",
+            "type": "other",
+            "currency": "other",
+            "period": "current quarter"
+          },
+          {
+            "figure": "59.5 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "47%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "61.3 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "year-ago quarter"
+          },
+          {
+            "figure": "67%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "non-GAAP operating expenses",
+          "net revenue",
+          "quarterly comparison"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports non-GAAP operating expenses of $59.2 million, representing 43% of net revenue, compared with $59.5 million (47%) in the prior quarter and $61.3 million (67%) in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_43",
+      "text": "GAAP diluted loss per share was $1.58 compared to GAAP diluted loss per share of $2.93 in the prior year, while non-GAAP diluted earnings per share was $0.31 compared to non-GAAP diluted loss per share of $0.90 in fiscal 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": -1.58,
+            "type": "other",
+            "currency": "USD",
+            "period": "current period"
+          },
+          {
+            "figure": -2.93,
+            "type": "other",
+            "currency": "USD",
+            "period": "prior year"
+          },
+          {
+            "figure": 0.31,
+            "type": "other",
+            "currency": "USD",
+            "period": "current period"
+          },
+          {
+            "figure": -0.9,
+            "type": "other",
+            "currency": "USD",
+            "period": "fiscal 2024"
+          }
+        ],
+        "key_topics": [
+          "GAAP diluted loss per share",
+          "non-GAAP diluted earnings per share",
+          "year-over-year comparison",
+          "earnings performance"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports improved per-share performance versus the prior year, with GAAP diluted loss per share narrowing and non-GAAP diluted earnings per share turning positive."
+      }
+    },
+    {
+      "chunk_id": "prose_d_17",
+      "text": "\u2022 GAAP operating expenses were $93.4 million in the fourth quarter, or 68% of net revenue, compared to $113.2 million in the prior quarter, or 90% of net revenue, and $92.4 million in the year-ago quarter, or 100% of net revenue.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "93.4 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "68%",
+            "type": "other",
+            "currency": "other",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "113.2 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "90%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "92.4 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "year-ago quarter"
+          },
+          {
+            "figure": "100%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "GAAP operating expenses",
+          "quarterly comparison",
+          "net revenue percentage"
+        ],
+        "sentiment": "neutral",
+        "summary": "GAAP operating expenses were $93.4 million in the fourth quarter, down from $113.2 million in the prior quarter and slightly above $92.4 million in the year-ago quarter, with operating expenses as a percentage of net revenue declining to 68%."
+      }
+    },
+    {
+      "chunk_id": "prose_d_39",
+      "text": "GAAP loss from operations was 27% of net revenue, compared to GAAP loss from operations of 62% in fiscal 2024, and non-GAAP income from operations was 9% of net revenue, compared to non-GAAP loss from operations of 19% in the prior year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "27%",
+            "type": "other",
+            "currency": "other",
+            "period": "current fiscal period"
+          },
+          {
+            "figure": "62%",
+            "type": "other",
+            "currency": "other",
+            "period": "fiscal 2024"
+          },
+          {
+            "figure": "9%",
+            "type": "other",
+            "currency": "other",
+            "period": "current fiscal period"
+          },
+          {
+            "figure": "19%",
+            "type": "other",
+            "currency": "other",
+            "period": "prior year"
+          }
+        ],
+        "key_topics": [
+          "GAAP loss from operations",
+          "non-GAAP income from operations",
+          "year-over-year improvement",
+          "operating margin"
+        ],
+        "sentiment": "positive",
+        "summary": "The company showed improved operating performance, with GAAP loss from operations narrowing from 62% of net revenue in fiscal 2024 to 27%, and non-GAAP results improving from a 19% loss to 9% income."
+      }
+    },
+    {
+      "chunk_id": "prose_d_19",
+      "text": "\u2022 Net cash flow provided by operating activities was $10.4 million, compared to net cash flow provided by operating activities of $10.1 million in the prior quarter, and net cash flow used in operating activities of $27.8 million in the year-ago quarter.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "10.4 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "current quarter"
+          },
+          {
+            "figure": "10.1 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "prior quarter"
+          },
+          {
+            "figure": "27.8 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-ago quarter"
+          }
+        ],
+        "key_topics": [
+          "operating cash flow",
+          "quarterly comparison",
+          "year-over-year comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported positive net cash flow from operating activities of $10.4 million, slightly higher than the prior quarter and improved from a negative $27.8 million in the year-ago quarter."
+      }
+    },
+    {
+      "chunk_id": "prose_d_11",
+      "text": "Carlsbad, Calif. \u2013 January\u00a029, 2026 \u2013 MaxLinear, Inc. (Nasdaq: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, today announced financial results for the fourth quarter and fiscal year ended December\u00a031, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Carlsbad, Calif.",
+            "type": "location",
+            "attributes": {
+              "role": "dateline"
+            }
+          },
+          {
+            "name": "January 29, 2026",
+            "type": "other",
+            "attributes": {
+              "role": "announcement date"
+            }
+          },
+          {
+            "name": "MaxLinear, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "MXL",
+              "exchange": "Nasdaq",
+              "description": "provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits"
+            }
+          },
+          {
+            "name": "December 31, 2025",
+            "type": "other",
+            "attributes": {
+              "role": "fiscal year end"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings announcement",
+          "fourth quarter results",
+          "fiscal year results",
+          "integrated circuits",
+          "RF and analog semiconductors"
+        ],
+        "sentiment": "neutral",
+        "summary": "MaxLinear, Inc. announced that it would report financial results for the fourth quarter and fiscal year ended December 31, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_d_85",
+      "text": "Restructuring charges incurred are related to our restructuring plans which eliminate redundancies and primarily include severance and restructuring costs related to impairment of leased right-of-use assets or from exiting certain facilities and cancellation of contracts.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "restructuring charges",
+            "type": "other",
+            "attributes": {
+              "description": "Charges incurred in connection with restructuring plans that eliminate redundancies",
+              "components": "severance, restructuring costs related to impairment of leased right-of-use assets, exiting certain facilities, cancellation of contracts"
+            }
+          },
+          {
+            "name": "leased right-of-use assets",
+            "type": "other",
+            "attributes": {
+              "description": "Assets subject to impairment as part of restructuring"
+            }
+          },
+          {
+            "name": "certain facilities",
+            "type": "other",
+            "attributes": {
+              "description": "Facilities exited as part of restructuring"
+            }
+          },
+          {
+            "name": "contracts",
+            "type": "other",
+            "attributes": {
+              "description": "Contracts canceled as part of restructuring"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "restructuring charges",
+          "severance",
+          "impairment of leased right-of-use assets",
+          "facility exits",
+          "contract cancellations"
+        ],
+        "sentiment": "negative",
+        "summary": "The section describes restructuring charges associated with plans to eliminate redundancies, including severance, asset impairment, facility exits, and contract cancellations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_37",
+      "text": "GAAP operating expenses were $392.7 million, or 84% of net revenue, compared to $418.1 million or 116% of net revenue in fiscal 2024, and non-GAAP operating expenses were $233.7 million, or 50% of net revenue, compared to $283.7 million or 79% of net revenue in the prior year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "392.7 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "current fiscal year"
+          },
+          {
+            "figure": "418.1 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "fiscal 2024"
+          },
+          {
+            "figure": "233.7 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "current fiscal year"
+          },
+          {
+            "figure": "283.7 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "prior year"
+          }
+        ],
+        "key_topics": [
+          "GAAP operating expenses",
+          "non-GAAP operating expenses",
+          "expense reduction",
+          "operating margin as a percentage of net revenue"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports lower GAAP and non-GAAP operating expenses compared with the prior year, both in absolute dollars and as a percentage of net revenue."
+      }
+    },
+    {
+      "chunk_id": "prose_d_83",
+      "text": "Expenses incurred in relation to acquisitions include amortization of purchased intangible assets and acquisition and integration costs primarily consisting of professional and consulting fees, including costs incurred related to the termination of the previously pending (now terminated) merger with Silicon Motion.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "context": "Previously pending merger was terminated"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "not specified",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "acquisition-related expenses",
+          "amortization of purchased intangible assets",
+          "integration costs",
+          "professional and consulting fees",
+          "terminated merger"
+        ],
+        "sentiment": "negative",
+        "summary": "The section describes acquisition-related expenses, including amortization of purchased intangible assets and integration costs such as professional and consulting fees, as well as costs tied to the termination of the previously pending merger with Silicon Motion."
+      }
+    },
+    {
+      "chunk_id": "prose_d_90",
+      "text": "MaxLinear, Inc. (Nasdaq:MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multi-market applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MaxLinear, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "MXL",
+              "exchange": "Nasdaq",
+              "website": "www.maxlinear.com"
+            }
+          },
+          {
+            "name": "Carlsbad, California",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "semiconductor company",
+          "radio frequency integrated circuits",
+          "analog and digital integrated circuits",
+          "mixed-signal integrated circuits",
+          "wireless and wired infrastructure",
+          "industrial applications",
+          "company headquarters"
+        ],
+        "sentiment": "neutral",
+        "summary": "MaxLinear, Inc. is a semiconductor company that provides RF, analog, digital, and mixed-signal integrated circuits for connectivity, infrastructure, and industrial applications. The company is headquartered in Carlsbad, California."
+      }
+    },
+    {
+      "chunk_id": "prose_d_82",
+      "text": "Performance-based equity consists of accruals related to our executive and non-executive bonus programs and have been excluded from our non-GAAP net income or loss for all periods reported. Bonus payments for the 2024 performance periods were settled through the issuance of shares of common stock under our equity incentive plans in February 2025. We currently expect that a substantial portion of bonus awards under our fiscal 2025 program will be settled in common stock in the first quarter of fiscal 2026.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "executive and non-executive bonus programs",
+            "type": "other",
+            "attributes": {
+              "description": "Bonus programs related to performance-based equity accruals"
+            }
+          },
+          {
+            "name": "equity incentive plans",
+            "type": "other",
+            "attributes": {
+              "description": "Plans under which common stock was issued to settle bonus payments"
+            }
+          },
+          {
+            "name": "fiscal 2025 program",
+            "type": "other",
+            "attributes": {
+              "description": "Bonus award program expected to be substantially settled in common stock"
+            }
+          },
+          {
+            "name": "fiscal 2026 first quarter",
+            "type": "other",
+            "attributes": {
+              "description": "Expected settlement period for a substantial portion of bonus awards"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "performance-based equity",
+          "bonus program accruals",
+          "non-GAAP net income exclusion",
+          "settlement in common stock",
+          "equity incentive plans",
+          "future bonus award settlement"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that performance-based equity accruals tied to executive and non-executive bonus programs are excluded from non-GAAP net income or loss. It also notes that 2024 performance-period bonus payments were settled with common stock in February 2025, and that a substantial portion of fiscal 2025 bonus awards is expected to be settled in common stock in the first quarter of fiscal 2026."
+      }
+    },
+    {
+      "chunk_id": "prose_d_81",
+      "text": "Stock-based compensation expense relates to equity incentive awards granted to our employees, directors, and consultants. Our equity incentive plans are important components of our employee incentive compensation arrangements and are reflected as expenses in our GAAP results. Stock-based compensation expense has been and will continue to be a significant recurring expense for MaxLinear. While we include the dilutive impact of equity awards in weighted average shares outstanding, the expense associated with stock-based awards reflects a non-cash charge that we exclude from non-GAAP net income or loss.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MaxLinear",
+            "type": "company",
+            "attributes": {
+              "context": "stock-based compensation expense discussion",
+              "accounting_treatment": "included in GAAP results; excluded from non-GAAP net income or loss"
+            }
+          },
+          {
+            "name": "employees",
+            "type": "other",
+            "attributes": {
+              "role": "recipients of equity incentive awards"
+            }
+          },
+          {
+            "name": "directors",
+            "type": "other",
+            "attributes": {
+              "role": "recipients of equity incentive awards"
+            }
+          },
+          {
+            "name": "consultants",
+            "type": "other",
+            "attributes": {
+              "role": "recipients of equity incentive awards"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "stock-based compensation expense",
+            "type": "expense",
+            "currency": "USD",
+            "period": "ongoing"
+          }
+        ],
+        "key_topics": [
+          "stock-based compensation",
+          "equity incentive awards",
+          "GAAP expenses",
+          "non-GAAP adjustments",
+          "dilution from equity awards",
+          "non-cash charges"
+        ],
+        "sentiment": "negative",
+        "summary": "The section explains that stock-based compensation for equity incentive awards granted to employees, directors, and consultants is a recurring non-cash expense for MaxLinear, included in GAAP results but excluded from non-GAAP net income or loss."
+      }
+    },
+    {
+      "chunk_id": "prose_d_79",
+      "text": "We believe that non-GAAP financial measures can provide useful information to both management and investors by excluding certain non-cash and other one-time expenses that we believe are not indicative of our core operating results. Among other uses, our management uses non-GAAP measures to compare our performance relative to forecasts and strategic plans and to benchmark our performance externally against competitors. In addition, management\u2019s incentive compensation will be determined in part using these non-GAAP measures because we believe non-GAAP measures better reflect our core operating performance.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "management",
+            "type": "other",
+            "attributes": {
+              "role": "uses non-GAAP measures for performance comparison and incentive compensation determination"
+            }
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {
+              "role": "benefit from non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "competitors",
+            "type": "other",
+            "attributes": {
+              "role": "external benchmark for performance comparison"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "core operating performance",
+          "management compensation",
+          "performance benchmarking",
+          "forecast comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "The section explains that non-GAAP financial measures are considered useful because they exclude certain non-cash and one-time expenses, helping management and investors assess core operating performance, compare results to forecasts and competitors, and determine incentive compensation."
+      }
+    },
+    {
+      "chunk_id": "prose_d_84",
+      "text": "Research and development funded by others represents proceeds received under contracts for jointly funded R&D projects to develop technology that may be commercialized into a product in the future. Initially such proceeds may not yet be recognized in GAAP results if, pursuant to contract terms, the Company may be required to repay all or a portion of the funds provided by the other party under certain conditions. Management believes it is not probable that it will trigger such conditions. Once such conditions have been resolved, the proceeds are recognized in GAAP results, and accordingly, reversed from non-GAAP results.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "role": "recipient of jointly funded R&D proceeds",
+              "accounting_treatment": "proceeds may initially be excluded from GAAP results and later recognized when repayment conditions are resolved"
+            }
+          },
+          {
+            "name": "Management",
+            "type": "other",
+            "attributes": {
+              "role": "assesses probability of repayment conditions being triggered"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "research and development funded by others",
+          "jointly funded R&D projects",
+          "GAAP vs non-GAAP recognition",
+          "contingent repayment conditions",
+          "revenue recognition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that proceeds from jointly funded R&D projects may initially be excluded from GAAP results if repayment could be required under certain conditions. Management believes those conditions are unlikely, and once resolved, the proceeds are recognized in GAAP results and reversed from non-GAAP results."
+      }
+    },
+    {
+      "chunk_id": "prose_d_88",
+      "text": "Reconciliations of non-GAAP measures for the historic periods disclosed in this press release appear below. Because of the inherent uncertainty associated with our ability to project future charges, we are also unable to predict their probable significance, particularly related to stock-based compensation and its related tax effects as well as potential impairments, a quantitative reconciliation is not available without unreasonable efforts and accordingly, in reliance on the exception provided by Item 10(e)(1)(i)(B) of Regulation S-K, we have not provided a reconciliation for non-GAAP guidance provided for the first quarter 2026.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Item 10(e)(1)(i)(B) of Regulation S-K",
+            "type": "other",
+            "attributes": {
+              "context": "SEC regulation cited as the basis for not providing a quantitative reconciliation"
+            }
+          },
+          {
+            "name": "first quarter 2026",
+            "type": "other",
+            "attributes": {
+              "context": "Period for which non-GAAP guidance reconciliation was not provided"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP reconciliation",
+          "forward-looking guidance",
+          "stock-based compensation",
+          "tax effects",
+          "potential impairments",
+          "SEC Regulation S-K exception"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that reconciliations for historical non-GAAP measures are provided, but no quantitative reconciliation is available for first quarter 2026 non-GAAP guidance due to uncertainty around future charges, including stock-based compensation, related tax effects, and potential impairments."
+      }
+    },
+    {
+      "chunk_id": "prose_d_60",
+      "text": "MaxLinear will host its fourth quarter financial results conference call today, January\u00a029, 2026 at 1:30 p.m. Pacific Time (4:30 p.m. Eastern Time). To access this call, dial US toll free: 1-877-407-3109 / International: 1-201-493-6798. A live webcast of the conference call will be accessible from the investor relations section of the MaxLinear website at https://investors.maxlinear.com and will be archived and available after the call at https://investors.maxlinear.com until February\u00a012, 2026. A replay of the conference call will also be available until February\u00a012, 2026 by dialing US toll free: 1-877-660-6853 / International: 1-201-612-7415 and Conference ID#: 13757781.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MaxLinear",
+            "type": "company",
+            "attributes": {
+              "event": "fourth quarter financial results conference call",
+              "date": "2026-01-29",
+              "time": "1:30 p.m. Pacific Time / 4:30 p.m. Eastern Time",
+              "webcast_url": "https://investors.maxlinear.com",
+              "archive_available_until": "2026-02-12",
+              "replay_available_until": "2026-02-12",
+              "conference_id": "13757781"
+            }
+          },
+          {
+            "name": "Pacific Time",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "Eastern Time",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call",
+          "fourth quarter financial results",
+          "webcast",
+          "replay information",
+          "investor relations"
+        ],
+        "sentiment": "neutral",
+        "summary": "MaxLinear announced its fourth quarter financial results conference call for January 29, 2026, with dial-in, webcast, archive, and replay details provided."
+      }
+    },
+    {
+      "chunk_id": "prose_d_78",
+      "text": "and (x) non-cash income tax benefits and expenses. Non-GAAP financial measures are not meant to be considered in isolation or as a substitute for the comparable GAAP financial measures. Non-GAAP financial measures are subject to limitations and should be read only in conjunction with the company\u2019s consolidated financial statements prepared in accordance with GAAP. Non-GAAP financial measures do not have any standardized meaning and are therefore unlikely to be comparable to similarly titled measures presented by other companies. We believe that these non-GAAP measures have limitations in that they do not reflect all of the amounts associated with our GAAP results of operations. We compensate for the limitations of non-GAAP financial measures by relying upon GAAP results to gain a complete picture of our performance.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "company",
+            "type": "company",
+            "attributes": {
+              "context": "The section discusses the company's non-GAAP financial measures and GAAP financial statements."
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP financial measures",
+          "financial statement comparability",
+          "limitations of non-GAAP metrics",
+          "non-cash income tax benefits and expenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that non-GAAP financial measures, including non-cash income tax benefits and expenses, have limitations and should not be used alone. It emphasizes that they are not standardized, may not be comparable across companies, and should be considered alongside GAAP financial statements."
+      }
+    },
+    {
+      "chunk_id": "prose_d_46",
+      "text": "\u201cOur fourth quarter and fiscal year results reflect strong sequential and year-over-year growth in our business,\u201d said Kishore Seendripu, PhD, Chairman and CEO. \u201cOur new products gained solid traction in the market, and we are on a strong path for sustained revenue growth and market share expansion in 2026 and 2027. We are executing against a focused strategy that is working and will drive sustained strong growth even as we continue to invest in high\u2011value, multi\u2011year growth markets where performance, power efficiency, and integration matter most. These include data center connectivity, wireless infrastructure, PON broadband access, Wi\u2011Fi 7, Ethernet, and storage accelerator end markets. With solid execution, we also delivered profitability and positive free cash flow ahead of our plan. During the fourth quarter, we repurchased $20 million of our common stock, reflecting our confidence in our sustained growth expectations and market momentum.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Kishore Seendripu",
+            "type": "person",
+            "attributes": {
+              "title": "Chairman and CEO",
+              "degree": "PhD"
+            }
+          },
+          {
+            "name": "common stock",
+            "type": "other",
+            "attributes": {
+              "action": "repurchased"
+            }
+          },
+          {
+            "name": "data center connectivity",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          },
+          {
+            "name": "wireless infrastructure",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          },
+          {
+            "name": "PON broadband access",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          },
+          {
+            "name": "Wi\u2011Fi 7",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          },
+          {
+            "name": "Ethernet",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          },
+          {
+            "name": "storage accelerator end markets",
+            "type": "other",
+            "attributes": {
+              "category": "end market"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 20,
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          }
+        ],
+        "key_topics": [
+          "strong sequential and year-over-year growth",
+          "new product traction",
+          "revenue growth outlook for 2026 and 2027",
+          "market share expansion",
+          "focused growth strategy",
+          "investment in high-value multi-year growth markets",
+          "profitability",
+          "positive free cash flow",
+          "share repurchase"
+        ],
+        "sentiment": "positive",
+        "summary": "The CEO reports strong quarterly and annual performance, solid traction for new products, profitability, positive free cash flow, and a $20 million share repurchase, while highlighting continued investment in growth markets and confidence in sustained revenue growth through 2026 and 2027."
+      }
+    },
+    {
+      "chunk_id": "prose_d_72",
+      "text": "To supplement our unaudited consolidated financial statements presented on a basis consistent with GAAP, we disclose certain non-GAAP financial measures, including, but not limited to, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating expenses as a percentage of net revenue, non-GAAP income (loss) from operations, non-GAAP income (loss) from operations as percentage of revenue, non-GAAP income (loss) before income taxes, non-GAAP interest and other income (expense), non-GAAP income tax provision, non-GAAP net income (loss), non-GAAP basic and diluted earnings (loss) per share, and non-GAAP diluted share count. These supplemental measures exclude the effects of (i)\u00a0stock-based compensation expense; (ii)\u00a0accruals related to our performance-based bonus plan for 2025, which we intend to settle in shares of our common stock; (iii)\u00a0accruals related to our performance-based bonus plan for 2024, which we settled in shares of common stock in February 2025; (iv) amortization of purchased intangible assets; (v) research and development funded by others; (vi) acquisition and integration costs related to our acquisitions, if any, including costs incurred related to the termination of the previously pending (now terminated) merger with Silicon Motion; (vii) impairment losses; (viii) severance and other restructuring charges; (ix) other non-recurring interest and other income (expenses), net, attributable to acquisitions;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "context": "previously pending merger referenced as now terminated"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "stock-based compensation",
+          "performance-based bonus plan",
+          "amortization of purchased intangible assets",
+          "research and development funded by others",
+          "acquisition and integration costs",
+          "impairment losses",
+          "severance and restructuring charges",
+          "non-recurring interest and other income/expenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the company's use of non-GAAP financial measures and lists the types of expenses and items excluded from those measures, including stock-based compensation, bonus accruals, amortization, acquisition-related costs, impairment losses, restructuring charges, and other non-recurring items."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\MXL_2025_Q4.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

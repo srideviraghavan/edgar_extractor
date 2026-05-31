@@ -1,0 +1,26 @@
+{
+  "filing_id": "COHU_2025_Q4",
+  "ticker": "COHU",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Cohu, Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 122.2,
+      "required": true
+    },
+    "net_income": {
+      "value": -22.5,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 10,
+  "tags": [
+    "prose_and_tables",
+    "many_tables"
+  ]
+}

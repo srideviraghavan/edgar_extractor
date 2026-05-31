@@ -1,0 +1,2960 @@
+{
+  "filing_id": "SKLZ_2025_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1"
+      ],
+      "rows": [
+        {
+          "": "1. Adjusted EBITDA is a non-GAAP metric; for a reconciliation of each measure against its most comparable GAAP metric, please see the section titled \u201cUse of Non-GAAP Financial Measures\u201d in this press release."
+        },
+        {
+          "": "2. \u201cPaying Monthly Active Users\u201d or \u201cPMAUs\u201d means the number of end-users who entered into a paid contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period."
+        },
+        {
+          "": "3. \u201cAverage Revenue per PMAU\u201d or \u201cARPPU\u201d means the average revenue in a given month divided by PMAUs in that month, averaged over the period and does not include a deduction for end-user incentives that are included in sales and marketing expense."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
+      ],
+      "rows": [
+        {
+          "": "Consolidated Statements of Operations and Comprehensive Loss"
+        },
+        {
+          "": "(in thousands, except for number of shares and per share amounts)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "\u200b",
+          "col_1": "Three Months Ended\n\nDecember 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended\n\nDecember 31,"
+        },
+        {
+          "": "\u200b",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "30,011",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "17,771",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "104,496",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "92,865",
+          "col_15": ""
+        },
+        {
+          "": "Costs and expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u200b",
+          "col_6": "",
+          "col_7": "\u200b"
+        },
+        {
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "3,511",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,234",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "13,050",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "13,405",
+          "col_15": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "",
+          "col_2": "5,519",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "3,109",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "20,621",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "16,747",
+          "col_15": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "",
+          "col_2": "19,321",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "15,222",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "71,125",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "76,360",
+          "col_15": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "",
+          "col_2": "17,849",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "20,437",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "71,118",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "78,856",
+          "col_15": ""
+        },
+        {
+          "": "Gain from litigation settlement",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,500",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(46,000",
+          "col_15": ")"
+        },
+        {
+          "": "Total costs and expenses",
+          "col_1": "",
+          "col_2": "46,200",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "42,002",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "168,414",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "139,368",
+          "col_15": ""
+        },
+        {
+          "": "Loss from operations",
+          "col_1": "",
+          "col_2": "(16,189",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(24,231",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(63,918",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(46,503",
+          "col_15": ")"
+        },
+        {
+          "": "Interest (expense) income, net",
+          "col_1": "",
+          "col_2": "(1,863",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(390",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(5,815",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "298",
+          "col_15": ""
+        },
+        {
+          "": "Change in fair value of common stock warrant liabilities",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "11",
+          "col_15": ""
+        },
+        {
+          "": "Other income (expense), net",
+          "col_1": "",
+          "col_2": "199",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(452",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(567",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(530",
+          "col_15": ")"
+        },
+        {
+          "": "Loss before income taxes",
+          "col_1": "",
+          "col_2": "(17,853",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(25,073",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(70,300",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(46,724",
+          "col_15": ")"
+        },
+        {
+          "": "Provision for income taxes",
+          "col_1": "",
+          "col_2": "49",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(76",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "108",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "66",
+          "col_15": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(17,902",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(24,997",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(70,408",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(46,790",
+          "col_15": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss per share attributable to common stockholders:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Basic and diluted",
+          "col_1": "$",
+          "col_2": "(1.07",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(1.42",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(4.51",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(2.62",
+          "col_15": ")"
+        },
+        {
+          "": "Weighted average common shares outstanding:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Basic and diluted",
+          "col_1": "",
+          "col_2": "16,683,099",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "17,614,979",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "15,605,220",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "17,845,771",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Other comprehensive loss:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Change in unrealized gain on available-for-sale investments, net of tax",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "\u2014",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "7",
+          "col_15": ""
+        },
+        {
+          "": "Foreign currency translation loss",
+          "col_1": "",
+          "col_2": "(371",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(371",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "\u2014",
+          "col_15": ""
+        },
+        {
+          "": "Total other comprehensive loss",
+          "col_1": "",
+          "col_2": "(371",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(371",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "7",
+          "col_15": ""
+        },
+        {
+          "": "Total comprehensive loss",
+          "col_1": "$",
+          "col_2": "(18,273",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(24,997",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(70,779",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(46,783",
+          "col_15": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
+      ],
+      "rows": [
+        {
+          "": "Consolidated Balance Sheets"
+        },
+        {
+          "": "(in thousands, except for number of shares and par value per share amounts)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "\u200b",
+          "col_1": "December 31,",
+          "col_2": "",
+          "col_3": "December 31,"
+        },
+        {
+          "": "\u200b",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "194,513",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "271,923",
+          "col_7": ""
+        },
+        {
+          "": "Restricted cash",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,000",
+          "col_7": ""
+        },
+        {
+          "": "Accounts receivable, net",
+          "col_1": "",
+          "col_2": "14,412",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "4,890",
+          "col_7": ""
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "col_1": "",
+          "col_2": "7,553",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "17,342",
+          "col_7": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "",
+          "col_2": "216,478",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "303,155",
+          "col_7": ""
+        },
+        {
+          "": "Property and equipment, net",
+          "col_1": "",
+          "col_2": "20,776",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "16,282",
+          "col_7": ""
+        },
+        {
+          "": "Operating lease right-of-use assets, net",
+          "col_1": "",
+          "col_2": "1,082",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "308",
+          "col_7": ""
+        },
+        {
+          "": "Non-marketable equity securities",
+          "col_1": "",
+          "col_2": "52,768",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "52,768",
+          "col_7": ""
+        },
+        {
+          "": "Restricted cash, non-current",
+          "col_1": "",
+          "col_2": "1,000",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,000",
+          "col_7": ""
+        },
+        {
+          "": "Other non-current assets",
+          "col_1": "",
+          "col_2": "1,351",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "755",
+          "col_7": ""
+        },
+        {
+          "": "Total non-current assets",
+          "col_1": "",
+          "col_2": "76,977",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "71,113",
+          "col_7": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "$",
+          "col_2": "293,455",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "374,268",
+          "col_7": ""
+        },
+        {
+          "": "Liabilities and stockholders\u2019 equity",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "$",
+          "col_2": "9,713",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "9,799",
+          "col_7": ""
+        },
+        {
+          "": "Operating lease liabilities, current",
+          "col_1": "",
+          "col_2": "465",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,544",
+          "col_7": ""
+        },
+        {
+          "": "Current portion of long-term debt",
+          "col_1": "",
+          "col_2": "127,589",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "",
+          "col_2": "42,944",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "54,564",
+          "col_7": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "",
+          "col_2": "180,711",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "65,907",
+          "col_7": ""
+        },
+        {
+          "": "Non-current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Operating lease liabilities, non-current",
+          "col_1": "",
+          "col_2": "665",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "9,338",
+          "col_7": ""
+        },
+        {
+          "": "Long-term debt, net",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "125,654",
+          "col_7": ""
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "",
+          "col_2": "259",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "333",
+          "col_7": ""
+        },
+        {
+          "": "Total non-current liabilities",
+          "col_1": "",
+          "col_2": "924",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "135,325",
+          "col_7": ""
+        },
+        {
+          "": "Total liabilities",
+          "col_1": "",
+          "col_2": "181,635",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "201,232",
+          "col_7": ""
+        },
+        {
+          "": "Stockholders\u2019 equity:",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Preferred stock $0.0001 par value; 10 million shares authorized \u2014 no shares issued and outstanding as of December 31, 2025 and 2024, respectively",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Common stock $0.0001 par value; 31.3 million shares authorized; Class A common stock\u2009\u2013\u200925.0 million shares authorized; 19.3 million and 18.7 million shares issued; 12.2 million and 13.3 million shares outstanding as of December 31, 2025 and 2024, respectively; Class B common stock - 6.3 million shares authorized; 3.4 million shares issued and outstanding as of December 31, 2025 and 2024, respectively",
+          "col_1": "",
+          "col_2": "1",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1",
+          "col_7": ""
+        },
+        {
+          "": "Additional paid-in capital",
+          "col_1": "",
+          "col_2": "1,245,462",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,226,642",
+          "col_7": ""
+        },
+        {
+          "": "Accumulated other comprehensive loss",
+          "col_1": "",
+          "col_2": "(371",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Accumulated deficit",
+          "col_1": "",
+          "col_2": "(1,091,666",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,021,258",
+          "col_7": ")"
+        },
+        {
+          "": "Treasury shares, at cost, 7.1 million and 5.4 million shares as of December 31, 2025 and 2024, respectively",
+          "col_1": "",
+          "col_2": "(41,606",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(32,349",
+          "col_7": ")"
+        },
+        {
+          "": "Total stockholders\u2019 equity",
+          "col_1": "",
+          "col_2": "111,820",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "173,036",
+          "col_7": ""
+        },
+        {
+          "": "Total liabilities and stockholders\u2019 equity",
+          "col_1": "$",
+          "col_2": "293,455",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "374,268",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
+      ],
+      "rows": [
+        {
+          "": "Consolidated Statement of Cash Flows"
+        },
+        {
+          "": "(in thousands)"
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "\u200b",
+          "col_1": "Twelve Months Ended\n\nDecember 31,"
+        },
+        {
+          "": "\u200b",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "Operating Activities",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(70,408",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(46,790",
+          "col_7": ")"
+        },
+        {
+          "": "Adjustment to reconcile net loss to net cash used in operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "col_2": "1,381",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,665",
+          "col_7": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "19,580",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "30,015",
+          "col_7": ""
+        },
+        {
+          "": "Accretion of unamortized debt discount and amortization of debt issuance costs",
+          "col_1": "",
+          "col_2": "1,935",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,719",
+          "col_7": ""
+        },
+        {
+          "": "Non-cash lease expense",
+          "col_1": "",
+          "col_2": "306",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Change in fair value of common stock warrant liabilities",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(11",
+          "col_7": ")"
+        },
+        {
+          "": "(Recoveries of) provision for bad debt",
+          "col_1": "",
+          "col_2": "(16",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "221",
+          "col_7": ""
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Accounts receivable",
+          "col_1": "",
+          "col_2": "(9,506",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "831",
+          "col_7": ""
+        },
+        {
+          "": "Prepaid expenses and other assets",
+          "col_1": "",
+          "col_2": "9,193",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(8,683",
+          "col_7": ")"
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "",
+          "col_2": "411",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "7,022",
+          "col_7": ""
+        },
+        {
+          "": "Operating lease liabilities",
+          "col_1": "",
+          "col_2": "(10,369",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(298",
+          "col_7": ")"
+        },
+        {
+          "": "Other accruals and liabilities",
+          "col_1": "",
+          "col_2": "(11,434",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "7,235",
+          "col_7": ""
+        },
+        {
+          "": "Net cash used in operating activities",
+          "col_1": "",
+          "col_2": "(68,927",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(7,074",
+          "col_7": ")"
+        },
+        {
+          "": "Investing Activities",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Purchases of property and equipment",
+          "col_1": "",
+          "col_2": "(1,403",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(668",
+          "col_7": ")"
+        },
+        {
+          "": "Capitalization of software development costs",
+          "col_1": "",
+          "col_2": "(4,734",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,841",
+          "col_7": ")"
+        },
+        {
+          "": "Purchases of marketable securities",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(5",
+          "col_7": ")"
+        },
+        {
+          "": "Proceeds from sales of marketable securities",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "1,137",
+          "col_7": ""
+        },
+        {
+          "": "Net cash used in investing activities",
+          "col_1": "",
+          "col_2": "(6,137",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,377",
+          "col_7": ")"
+        },
+        {
+          "": "Financing Activities",
+          "col_1": "\u200b",
+          "col_2": "",
+          "col_3": "\u200b"
+        },
+        {
+          "": "Principal payments on finance leases obligations",
+          "col_1": "",
+          "col_2": "(462",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(869",
+          "col_7": ")"
+        },
+        {
+          "": "Repurchase of common stock",
+          "col_1": "",
+          "col_2": "(9,257",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(19,349",
+          "col_7": ")"
+        },
+        {
+          "": "Issuance of common stock, net of proceeds from exercise of stock options",
+          "col_1": "",
+          "col_2": "(1,256",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,436",
+          "col_7": ")"
+        },
+        {
+          "": "Net cash used in financing activities",
+          "col_1": "",
+          "col_2": "(10,975",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(21,654",
+          "col_7": ")"
+        },
+        {
+          "": "Effect of exchange rates on cash and cash equivalents",
+          "col_1": "",
+          "col_2": "(371",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": ""
+        },
+        {
+          "": "Net change in cash, cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "(86,410",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(30,105",
+          "col_7": ")"
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash\u2009\u2013\u2009beginning of year",
+          "col_1": "",
+          "col_2": "281,923",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "312,028",
+          "col_7": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash\u2009\u2013\u2009end of year",
+          "col_1": "$",
+          "col_2": "195,513",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "281,923",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
+      ],
+      "rows": [
+        {
+          "": "Reconciliation of GAAP Net Loss to Adjusted EBITDA Loss"
+        },
+        {
+          "": "(in thousands)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "\u200b",
+          "col_1": "Three Months Ended\n\nDecember 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended\n\nDecember 31,"
+        },
+        {
+          "": "\u200b",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(17,902",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(24,997",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(70,408",
+          "col_11": ")",
+          "col_12": "\u200b",
+          "col_13": "$",
+          "col_14": "(46,790",
+          "col_15": ")"
+        },
+        {
+          "": "Interest expense (income), net",
+          "col_1": "",
+          "col_2": "1,863",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "390",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,815",
+          "col_11": "",
+          "col_12": "\u200b",
+          "col_13": "",
+          "col_14": "(298",
+          "col_15": ")"
+        },
+        {
+          "": "Provision (benefit) for income taxes",
+          "col_1": "",
+          "col_2": "49",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(76",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "108",
+          "col_11": "",
+          "col_12": "\u200b",
+          "col_13": "",
+          "col_14": "66",
+          "col_15": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "col_2": "796",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "477",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,381",
+          "col_11": "",
+          "col_12": "\u200b",
+          "col_13": "",
+          "col_14": "1,665",
+          "col_15": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "5,359",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "7,121",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "19,580",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "30,015",
+          "col_15": ""
+        },
+        {
+          "": "Change in fair value of common stock warrant liabilities",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(11",
+          "col_15": ")"
+        },
+        {
+          "": "Gain from litigation settlement(1)",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "\u2014",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(7,500",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(46,000",
+          "col_15": ")"
+        },
+        {
+          "": "Other (income) expense, net",
+          "col_1": "",
+          "col_2": "(199",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "452",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "567",
+          "col_11": "",
+          "col_12": "\u200b",
+          "col_13": "",
+          "col_14": "530",
+          "col_15": ""
+        },
+        {
+          "": "Adjusted EBITDA loss",
+          "col_1": "$",
+          "col_2": "(10,034",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(16,633",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(50,457",
+          "col_11": ")",
+          "col_12": "\u200b",
+          "col_13": "$",
+          "col_14": "(60,823",
+          "col_15": ")"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": ""
+        },
+        {
+          "": "(1) For the twelve months ended December 31, 2025 and 2024, amount includes gain on litigation settlement with AviaGames."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
+      ],
+      "rows": [
+        {
+          "": "Reconciliation of GAAP to Non-GAAP Operating Expenses"
+        },
+        {
+          "": "(in thousands)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "\u200b",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "\u200b",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2024",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "2025",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "2024",
+          "col_15": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "$",
+          "col_2": "5,519",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "3,109",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "20,621",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "16,747",
+          "col_15": ""
+        },
+        {
+          "": "Less: stock-based compensation",
+          "col_1": "",
+          "col_2": "(624",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(190",
+          "col_7": ")",
+          "col_8": "\u200b",
+          "col_9": "",
+          "col_10": "(1,173",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(841",
+          "col_15": ")"
+        },
+        {
+          "": "Non-GAAP research and development",
+          "col_1": "$",
+          "col_2": "4,895",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "2,919",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "19,448",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "15,906",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "$",
+          "col_2": "19,321",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "15,222",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "71,125",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "76,360",
+          "col_15": ""
+        },
+        {
+          "": "Less: stock-based compensation",
+          "col_1": "",
+          "col_2": "(660",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(1,582",
+          "col_7": ")",
+          "col_8": "\u200b",
+          "col_9": "",
+          "col_10": "(3,189",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(6,467",
+          "col_15": ")"
+        },
+        {
+          "": "Non-GAAP sales and marketing",
+          "col_1": "$",
+          "col_2": "18,661",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "13,640",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "67,936",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "69,893",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "$",
+          "col_2": "17,849",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "20,437",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "71,118",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "78,856",
+          "col_15": ""
+        },
+        {
+          "": "Less: stock-based compensation",
+          "col_1": "",
+          "col_2": "(4,075",
+          "col_3": ")",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "(5,346",
+          "col_7": ")",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(15,214",
+          "col_11": ")",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "(22,697",
+          "col_15": ")"
+        },
+        {
+          "": "Non-GAAP general and administrative",
+          "col_1": "$",
+          "col_2": "13,774",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "15,091",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "55,904",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "56,159",
+          "col_15": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15"
+      ],
+      "rows": [
+        {
+          "": "Supplemental Financial Information"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "Three Months Ended\n\nDecember 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended\n\nDecember 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Gross marketplace volume (\u201cGMV\u201d) (000s)(1)",
+          "col_1": "$",
+          "col_2": "139,326",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "127,079",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "541,853",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "608,248",
+          "col_15": ""
+        },
+        {
+          "": "Paying monthly active users (\u201cPMAUs\u201d) (000s)(2)",
+          "col_1": "",
+          "col_2": "141",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "110",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "141",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "118",
+          "col_15": ""
+        },
+        {
+          "": "Monthly active users (\u201cMAUs\u201d) (000s)(3)",
+          "col_1": "",
+          "col_2": "506",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "753",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "658",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "816",
+          "col_15": ""
+        },
+        {
+          "": "Average GMV per PMAU(4)",
+          "col_1": "$",
+          "col_2": "330.3",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "385.1",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "319.8",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "429.6",
+          "col_15": ""
+        },
+        {
+          "": "Average GMV per MAU(5)",
+          "col_1": "$",
+          "col_2": "91.9",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "56.3",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "68.7",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "62.1",
+          "col_15": ""
+        },
+        {
+          "": "Average revenue per PMAU (\u201cARPPU\u201d)(6)",
+          "col_1": "$",
+          "col_2": "71.1",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "53.9",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "61.7",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "66.6",
+          "col_15": ""
+        },
+        {
+          "": "Average revenue per MAU (\u201cARPU\u201d)(7)",
+          "col_1": "$",
+          "col_2": "19.8",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "7.9",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "13.2",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "9.6",
+          "col_15": ""
+        },
+        {
+          "": "PMAU to MAU ratio",
+          "col_1": "",
+          "col_2": "28",
+          "col_3": "%",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "15",
+          "col_7": "%",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "21",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "14",
+          "col_15": "%"
+        },
+        {
+          "": "Average end-user incentives, included as sales and marketing expense, per PMAU(8)",
+          "col_1": "$",
+          "col_2": "18",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "19",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "20",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "26",
+          "col_15": ""
+        },
+        {
+          "": "Average end-user incentives, included as sales and marketing expenses, per MAU(9)",
+          "col_1": "$",
+          "col_2": "5",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "3",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "4",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "4",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": ""
+        },
+        {
+          "": "(1) \u201cGross Marketplace Volume\u201d or \u201cGMV\u201d means the total entry fees paid by users for contests hosted on Skillz\u2019 platform. Total entry fees include entry fees paid by end-users using cash deposits, prior winnings from end-users\u2019 accounts that have not been withdrawn, and end-user incentives used to enter paid entry fee contests."
+        },
+        {
+          "": "(2) \u201cPaying Monthly Active Users\u201d or \u201cPMAUs\u201d means the number of end-users who entered into a paid contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period."
+        },
+        {
+          "": "(3) \u201cMonthly Active Users\u201d or \u201cMAUs\u201d means the number of playing end-users who entered into a paid or free contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period."
+        },
+        {
+          "": "(4) \u201cAverage GMV per PMAU\u201d means the average GMV in a given month divided by PMAUs in that month, averaged over the period."
+        },
+        {
+          "": "(5) \u201cAverage GMV per MAU\u201d means the average GMV in a given month divided by MAUs in that month, averaged over the period."
+        },
+        {
+          "": "(6) \u201cAverage Revenue per PMAU\u201d or \u201cARPPU\u201d means the average revenue in a given month divided by PMAUs in that month, averaged over the period and does not include a deduction for end-user incentives that are included in sales and marketing expense."
+        },
+        {
+          "": "(7) \u201cAverage Revenue per MAU\u201d or \u201cARPU\u201d means the average revenue in a given month divided by MAUs in that month, averaged over the period and does not include a deduction for end-user incentives that are included in sales and marketing expense."
+        },
+        {
+          "": "(8) Amount reflects the average end-user incentives included in sales and marketing expense in a given month divided by PMAUs in that month, averaged over the period."
+        },
+        {
+          "": "(9) Amount reflects the average end-user incentives included in sales and marketing expense in a given month divided by MAUs in that month, averaged over the period."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Skillz Reports 2025 Fourth Quarter and Full Year 2025 Results"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_1412",
+      "text": "Average end-user incentives, included as sales and marketing expenses, per MAU (9)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "Average end-user incentives per MAU",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "end-user incentives",
+          "sales and marketing expenses",
+          "MAU"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section refers to average end-user incentives included in sales and marketing expenses, measured per monthly active user (MAU)."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1396",
+      "text": "Average end-user incentives, included as sales and marketing expense, per PMAU (8)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "end-user incentives",
+            "type": "other",
+            "attributes": {
+              "description": "Included as sales and marketing expense",
+              "unit": "per PMAU"
+            }
+          },
+          {
+            "name": "PMAU",
+            "type": "other",
+            "attributes": {
+              "description": "Likely an operational metric used as a denominator for average end-user incentives"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "sales and marketing expense",
+          "end-user incentives",
+          "PMAU"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section refers to average end-user incentives, which are included in sales and marketing expense and measured per PMAU."
+      }
+    },
+    {
+      "chunk_id": "prose_p_653",
+      "text": "Treasury shares, at cost, 7.1 million and 5.4 million shares as of December 31, 2025 and 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Treasury shares",
+            "type": "other",
+            "attributes": {
+              "measurement_basis": "at cost",
+              "shares_as_of_2025_12_31": "7.1 million",
+              "shares_as_of_2024_12_31": "5.4 million"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "7.1 million",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "5.4 million",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "treasury shares",
+          "share count",
+          "equity"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports treasury shares recorded at cost, totaling 7.1 million shares as of December 31, 2025 and 5.4 million shares as of December 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1432",
+      "text": "(5) \u201cAverage GMV per MAU\u201d means the average GMV in a given month divided by MAUs in that month, averaged over the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Average GMV per MAU",
+            "type": "other",
+            "attributes": {
+              "definition": "The average GMV in a given month divided by MAUs in that month, averaged over the period",
+              "abbreviation_expansion": "GMV = Gross Merchandise Value; MAU = Monthly Active Users"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "metric definition",
+          "gross merchandise value",
+          "monthly active users",
+          "average GMV per MAU"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines 'Average GMV per MAU' as the average monthly GMV divided by MAUs for that month, averaged over the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1071",
+      "text": "(1) For the twelve months ended December 31, 2025 and 2024, amount includes gain on litigation settlement with AviaGames.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "AviaGames",
+            "type": "company",
+            "attributes": {
+              "context": "litigation settlement counterparty"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "litigation settlement",
+          "gain",
+          "twelve months ended December 31, 2025 and 2024"
+        ],
+        "sentiment": "positive",
+        "summary": "The section states that for the twelve months ended December 31, 2025 and 2024, the amount includes a gain from a litigation settlement with AviaGames."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1431",
+      "text": "(4) \u201cAverage GMV per PMAU\u201d means the average GMV in a given month divided by PMAUs in that month, averaged over the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Average GMV per PMAU",
+            "type": "other",
+            "attributes": {
+              "definition": "the average GMV in a given month divided by PMAUs in that month, averaged over the period",
+              "acronym_expansions": {
+                "GMV": "gross merchandise value",
+                "PMAU": "paying monthly active users"
+              }
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "metric definition",
+          "gross merchandise value",
+          "paying monthly active users",
+          "average calculation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Average GMV per PMAU as the average monthly GMV divided by PMAUs for that month, averaged over the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "Skillz will host a live conference call at 4:30 p.m. ET on April 1, 2026. To access the call, please register using the following link:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "event": "live conference call",
+              "time": "4:30 p.m. ET",
+              "date": "April 1, 2026"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call",
+          "event announcement",
+          "registration"
+        ],
+        "sentiment": "neutral",
+        "summary": "Skillz announced a live conference call scheduled for April 1, 2026 at 4:30 p.m. ET and provided registration instructions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_613",
+      "text": "Preferred stock $0.0001 par value; 10 million shares authorized \u2014 no shares issued and outstanding as of December 31, 2025 and 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Preferred stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.0001",
+              "authorized_shares": "10 million",
+              "issued_and_outstanding_as_of_2025_12_31": "0",
+              "issued_and_outstanding_as_of_2024_12_31": "0"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2025"
+          },
+          {
+            "figure": "0",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "preferred stock",
+          "authorized shares",
+          "par value",
+          "no shares issued and outstanding"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company\u2019s preferred stock has a $0.0001 par value, 10 million shares authorized, and no shares issued or outstanding as of December 31, 2025 and 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1436",
+      "text": "(9) Amount reflects the average end-user incentives included in sales and marketing expense in a given month divided by MAUs in that month, averaged over the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "average end-user incentives included in sales and marketing expense divided by MAUs, averaged over the period",
+            "type": "expense",
+            "currency": "other",
+            "period": "given month / over the period"
+          }
+        ],
+        "key_topics": [
+          "end-user incentives",
+          "sales and marketing expense",
+          "MAUs",
+          "average calculation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines a metric as the average end-user incentives included in sales and marketing expense for a month, divided by MAUs in that month, and averaged over the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1435",
+      "text": "(8) Amount reflects the average end-user incentives included in sales and marketing expense in a given month divided by PMAUs in that month, averaged over the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "average end-user incentives included in sales and marketing expense divided by PMAUs, averaged over the period",
+            "type": "expense",
+            "currency": "other",
+            "period": "given month / over the period"
+          }
+        ],
+        "key_topics": [
+          "end-user incentives",
+          "sales and marketing expense",
+          "PMAUs",
+          "monthly average calculation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines a metric calculated as average end-user incentives included in sales and marketing expense for a month, divided by PMAUs in that month, and averaged over the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1429",
+      "text": "(2) \u201cPaying Monthly Active Users\u201d or \u201cPMAUs\u201d means the number of end-users who entered into a paid contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Paying Monthly Active Users (PMAUs)",
+            "type": "other",
+            "attributes": {
+              "definition": "The number of end-users who entered into a paid contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period",
+              "abbreviation": "PMAUs",
+              "measurement_basis": "Average over each month in the period"
+            }
+          },
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "role": "Platform operator"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "user metrics",
+          "paid contests",
+          "monthly active users",
+          "operating definition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Paying Monthly Active Users (PMAUs) as the average monthly number of end-users who entered a paid contest on Skillz\u2019s platform at least once during the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1430",
+      "text": "(3) \u201cMonthly Active Users\u201d or \u201cMAUs\u201d means the number of playing end-users who entered into a paid or free contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Monthly Active Users",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "MAUs",
+              "definition": "the number of playing end-users who entered into a paid or free contest hosted on Skillz\u2019 platform at least once in a month, averaged over each month in the period",
+              "platform": "Skillz"
+            }
+          },
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Monthly Active Users",
+          "MAUs definition",
+          "user engagement",
+          "contest participation",
+          "platform metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Monthly Active Users (MAUs) as the average monthly number of playing end-users who participated in at least one paid or free contest on Skillz\u2019s platform during the period."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1434",
+      "text": "(7) \u201cAverage Revenue per MAU\u201d or \u201cARPU\u201d means the average revenue in a given month divided by MAUs in that month, averaged over the period and does not include a deduction for end-user incentives that are included in sales and marketing expense.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Average Revenue per MAU (ARPU)",
+            "type": "other",
+            "attributes": {
+              "definition": "Average revenue in a given month divided by MAUs in that month, averaged over the period",
+              "excludes": "Deduction for end-user incentives included in sales and marketing expense"
+            }
+          },
+          {
+            "name": "MAUs",
+            "type": "other",
+            "attributes": {
+              "definition": "Monthly active users"
+            }
+          },
+          {
+            "name": "sales and marketing expense",
+            "type": "other",
+            "attributes": {
+              "note": "Includes end-user incentives"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "ARPU definition",
+          "Average revenue per user",
+          "Monthly active users",
+          "Sales and marketing expense",
+          "End-user incentives"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines ARPU as average monthly revenue divided by MAUs, averaged over the period, and states that it excludes deductions for end-user incentives included in sales and marketing expense."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1433",
+      "text": "(6) \u201cAverage Revenue per PMAU\u201d or \u201cARPPU\u201d means the average revenue in a given month divided by PMAUs in that month, averaged over the period and does not include a deduction for end-user incentives that are included in sales and marketing expense.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Average Revenue per PMAU",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "ARPPU",
+              "definition": "average revenue in a given month divided by PMAUs in that month, averaged over the period",
+              "excludes": "deduction for end-user incentives included in sales and marketing expense"
+            }
+          },
+          {
+            "name": "PMAUs",
+            "type": "other",
+            "attributes": {
+              "meaning": "not defined in the provided text"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Average Revenue per PMAU",
+          "ARPPU",
+          "revenue metric definition",
+          "sales and marketing expense",
+          "end-user incentives"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Average Revenue per PMAU (ARPPU) as average monthly revenue divided by PMAUs, averaged over the period, and notes that it excludes deductions for end-user incentives included in sales and marketing expense."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1",
+      "text": "LAS VEGAS--( BUSINESS WIRE )-- Skillz Inc. (NYSE: SKLZ) (\u201cSkillz\u201d or the \u201cCompany\u201d), the leading mobile games platform bringing fair competition to players worldwide, today reported financial results for the fourth quarter and fiscal year ended December 31, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Skillz Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "SKLZ",
+              "exchange": "NYSE",
+              "also_known_as": "Skillz",
+              "description": "leading mobile games platform bringing fair competition to players worldwide"
+            }
+          },
+          {
+            "name": "Las Vegas",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2025-12-31",
+            "type": "other",
+            "currency": "other",
+            "period": "fourth quarter and fiscal year ended December 31, 2025"
+          }
+        ],
+        "key_topics": [
+          "financial results",
+          "fourth quarter",
+          "fiscal year 2025",
+          "mobile gaming platform"
+        ],
+        "sentiment": "neutral",
+        "summary": "Skillz Inc. announced that it reported financial results for the fourth quarter and fiscal year ended December 31, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "After registering, an email will be sent, including dial-in details and a unique conference call access code and PIN required to join the live call. Access to the live audio webcast of the discussion in listen-only mode will also be available at investors.skillz.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "website": "investors.skillz.com",
+              "context": "live audio webcast access"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call registration",
+          "dial-in details",
+          "access code and PIN",
+          "live audio webcast",
+          "listen-only mode"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that after registration, an email will provide dial-in details, a conference call access code, and a PIN needed to join the live call, and that a listen-only live audio webcast will be available on Skillz's investor website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_10",
+      "text": "A replay of the webcast will be archived on the Company\u2019s investor relations website. An audio replay of the conference call will be available through Thursday, April 7, 2026, and can be accessed by dialing (866) 813-9403 (US) or (929) 458-6194 (international) and entering the passcode 575328.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Investor relations website hosts webcast replay",
+              "conference_call_audio_replay_available_through": "Thursday, April 7, 2026"
+            }
+          },
+          {
+            "name": "Investor relations website",
+            "type": "other",
+            "attributes": {
+              "context": "Webcast replay archive location"
+            }
+          },
+          {
+            "name": "April 7, 2026",
+            "type": "other",
+            "attributes": {
+              "context": "End date for audio replay availability"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "webcast replay",
+          "conference call audio replay",
+          "investor relations",
+          "access details",
+          "passcode"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides replay availability details for a company webcast and conference call, including phone numbers, passcode, and the date through which the audio replay will be available."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1428",
+      "text": "(1) \u201cGross Marketplace Volume\u201d or \u201cGMV\u201d means the total entry fees paid by users for contests hosted on Skillz\u2019 platform. Total entry fees include entry fees paid by end-users using cash deposits, prior winnings from end-users\u2019 accounts that have not been withdrawn, and end-user incentives used to enter paid entry fee contests.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Gross Marketplace Volume",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "GMV",
+              "definition": "total entry fees paid by users for contests hosted on Skillz' platform",
+              "components": "entry fees paid by end-users using cash deposits, prior winnings from end-users\u2019 accounts that have not been withdrawn, and end-user incentives used to enter paid entry fee contests"
+            }
+          },
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "role": "platform operator"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Gross Marketplace Volume",
+          "GMV definition",
+          "entry fees",
+          "cash deposits",
+          "prior winnings",
+          "end-user incentives"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Gross Marketplace Volume (GMV) as the total entry fees paid by users for contests on Skillz\u2019s platform, including cash deposits, unwithdrawn prior winnings, and end-user incentives used to enter paid contests."
+      }
+    },
+    {
+      "chunk_id": "prose_p_16",
+      "text": "The Company defines and calculates non-GAAP operating expense as GAAP operating expense adjusted for stock-based compensation and other special items determined by management, which may include, but are not limited to acquisition-related expenses for transaction costs, certain loss contingency accruals and restructuring charges, as they are not indicative of business operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "defines": "non-GAAP operating expense",
+              "non_gaap_operating_expense_definition": "GAAP operating expense adjusted for stock-based compensation and other special items determined by management",
+              "special_items_examples": "acquisition-related expenses for transaction costs, certain loss contingency accruals, restructuring charges"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP operating expense",
+          "GAAP operating expense",
+          "stock-based compensation",
+          "special items",
+          "acquisition-related expenses",
+          "loss contingency accruals",
+          "restructuring charges"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company explains that its non-GAAP operating expense is calculated by adjusting GAAP operating expense for stock-based compensation and other management-determined special items, including certain acquisition-related costs, loss contingency accruals, and restructuring charges."
+      }
+    },
+    {
+      "chunk_id": "prose_p_621",
+      "text": "Common stock $0.0001 par value; 31.3 million shares authorized; Class A common stock\u2009\u2013\u200925.0 million shares authorized; 19.3 million and 18.7 million shares issued; 12.2 million and 13.3 million shares outstanding as of December 31, 2025 and 2024, respectively; Class B common stock - 6.3 million shares authorized; 3.4 million shares issued and outstanding as of December 31, 2025 and 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Common stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.0001",
+              "shares_authorized": "31.3 million"
+            }
+          },
+          {
+            "name": "Class A common stock",
+            "type": "other",
+            "attributes": {
+              "shares_authorized": "25.0 million",
+              "shares_issued_2025": "19.3 million",
+              "shares_issued_2024": "18.7 million",
+              "shares_outstanding_2025": "12.2 million",
+              "shares_outstanding_2024": "13.3 million",
+              "period": "as of December 31, 2025 and 2024"
+            }
+          },
+          {
+            "name": "Class B common stock",
+            "type": "other",
+            "attributes": {
+              "shares_authorized": "6.3 million",
+              "shares_issued_2025": "3.4 million",
+              "shares_outstanding_2025": "3.4 million",
+              "shares_issued_2024": "3.4 million",
+              "shares_outstanding_2024": "3.4 million",
+              "period": "as of December 31, 2025 and 2024"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0.0001",
+            "type": "other",
+            "currency": "USD",
+            "period": null
+          },
+          {
+            "figure": "31.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": null
+          },
+          {
+            "figure": "25.0 million",
+            "type": "other",
+            "currency": "USD",
+            "period": null
+          },
+          {
+            "figure": "19.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2025"
+          },
+          {
+            "figure": "18.7 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2024"
+          },
+          {
+            "figure": "12.2 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2025"
+          },
+          {
+            "figure": "13.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2024"
+          },
+          {
+            "figure": "6.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": null
+          },
+          {
+            "figure": "3.4 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 31, 2025 and 2024"
+          }
+        ],
+        "key_topics": [
+          "common stock capitalization",
+          "Class A common stock",
+          "Class B common stock",
+          "shares authorized",
+          "shares issued",
+          "shares outstanding"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the company's common stock structure, including par value and authorized, issued, and outstanding shares for Class A and Class B common stock as of December 31, 2025 and 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_5",
+      "text": "Gaetano Franceschi, Skillz\u2019 CFO, added, \u201cOur 2025 results reflect improved execution and stronger fundamentals across both the Skillz and RZR businesses. We delivered revenue growth and a 16% year-over-year improvement in Adjusted EBITDA, while continuing to invest in product innovation and marketing with discipline. We ended the year with $195 million in cash and cash equivalents, and remain focused on optimizing our capital structure as we move toward sustained profitability and long-term value creation.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Gaetano Franceschi",
+            "type": "person",
+            "attributes": {
+              "role": "CFO",
+              "company": "Skillz"
+            }
+          },
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "business": "gaming"
+            }
+          },
+          {
+            "name": "RZR",
+            "type": "company",
+            "attributes": {
+              "business": "business segment"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "16%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-over-year"
+          },
+          {
+            "figure": "195000000",
+            "type": "assets",
+            "currency": "USD",
+            "period": "end of 2025"
+          }
+        ],
+        "key_topics": [
+          "improved execution",
+          "revenue growth",
+          "Adjusted EBITDA improvement",
+          "product innovation",
+          "marketing discipline",
+          "cash and cash equivalents",
+          "capital structure optimization",
+          "profitability"
+        ],
+        "sentiment": "positive",
+        "summary": "Skillz CFO Gaetano Franceschi said 2025 results showed improved execution and stronger fundamentals, with revenue growth, a 16% year-over-year increase in Adjusted EBITDA, and $195 million in cash and cash equivalents, while the company continues investing discipline and focusing on capital structure optimization and long-term profitability."
+      }
+    },
+    {
+      "chunk_id": "prose_p_4",
+      "text": "\u201cThroughout 2025, we made meaningful progress executing against our strategic priorities, delivering four consecutive quarters of sequential revenue growth and returning to year-over-year growth in the second half of the year,\u201d said Andrew Paradise, Skillz\u2019 CEO. \u201cOur AI ad-tech segment, RZR, recently rebranded from Aarki, delivered significant growth and achieved positive Adjusted EBITDA for the full year, reflecting the strength of its platform and operating discipline. Paired with continued improvement across the Skillz platform, we are building a more integrated system designed to scale engagement, monetization, and long-term value.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Andrew Paradise",
+            "type": "person",
+            "attributes": {
+              "role": "CEO",
+              "company": "Skillz"
+            }
+          },
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "description": "Company referenced in CEO statement"
+            }
+          },
+          {
+            "name": "RZR",
+            "type": "other",
+            "attributes": {
+              "description": "AI ad-tech segment of Skillz",
+              "former_name": "Aarki",
+              "rebranded": "recently"
+            }
+          },
+          {
+            "name": "Aarki",
+            "type": "other",
+            "attributes": {
+              "description": "Former name of RZR"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "4",
+            "type": "other",
+            "currency": "other",
+            "period": "Throughout 2025"
+          }
+        ],
+        "key_topics": [
+          "sequential revenue growth",
+          "year-over-year growth",
+          "AI ad-tech",
+          "rebranding",
+          "Adjusted EBITDA",
+          "operating discipline",
+          "platform improvement",
+          "engagement and monetization"
+        ],
+        "sentiment": "positive",
+        "summary": "Skillz reported strong 2025 progress, including four straight quarters of sequential revenue growth, a return to year-over-year growth in the second half, and significant growth with positive full-year Adjusted EBITDA at its rebranded AI ad-tech segment RZR."
+      }
+    },
+    {
+      "chunk_id": "prose_p_12",
+      "text": "Skillz is the leading mobile games platform dedicated to bringing out the best in everyone through competition. The Skillz platform helps developers create multi-million dollar franchises by enabling social competition in their games. Leveraging its patented technology, Skillz hosts billions of casual eSports tournaments for millions of mobile players worldwide, with the goal of building the home of competition for all. Skillz has earned recognition as one of Fast Company\u2019s Best Workplaces for Innovators, CNBC\u2019s Disruptor 50, Forbes\u2019 Next Billion-Dollar Startups, Fast Company\u2019s Most Innovative Companies, and the number-one fastest-growing company in America on the Inc. 5000. Please visit www.skillz.com to learn more.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Skillz",
+            "type": "company",
+            "attributes": {
+              "description": "Leading mobile games platform",
+              "focus": "Competition in mobile games",
+              "technology": "Patented technology",
+              "services": "Enables social competition in games; hosts casual eSports tournaments",
+              "scale": "Billions of tournaments for millions of mobile players worldwide",
+              "recognition": [
+                "Fast Company\u2019s Best Workplaces for Innovators",
+                "CNBC\u2019s Disruptor 50",
+                "Forbes\u2019 Next Billion-Dollar Startups",
+                "Fast Company\u2019s Most Innovative Companies",
+                "Inc. 5000 number-one fastest-growing company in America"
+              ],
+              "website": "www.skillz.com"
+            }
+          },
+          {
+            "name": "Fast Company",
+            "type": "company",
+            "attributes": {
+              "role": "Media company / awards source"
+            }
+          },
+          {
+            "name": "CNBC",
+            "type": "company",
+            "attributes": {
+              "role": "Media company / awards source"
+            }
+          },
+          {
+            "name": "Forbes",
+            "type": "company",
+            "attributes": {
+              "role": "Media company / awards source"
+            }
+          },
+          {
+            "name": "Inc. 5000",
+            "type": "other",
+            "attributes": {
+              "role": "Ranking list"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "mobile gaming platform",
+          "social competition",
+          "eSports tournaments",
+          "patented technology",
+          "developer enablement",
+          "company recognition and awards",
+          "global mobile players"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes Skillz as a leading mobile games platform that enables social competition and hosts large-scale casual eSports tournaments, highlighting its patented technology, global reach, and multiple industry recognitions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_15",
+      "text": "The Company defines and calculates Adjusted EBITDA as net income (loss), excluding interest income (expense), net; change in fair value of common stock warrant liabilities; other income (expense), net; provision for (benefit from) income taxes; depreciation and amortization; stock-based compensation expense and related payroll tax expense; and certain other non-cash or non-recurring items impacting net loss from time to time, including, but not limited to charges related to impairment of goodwill and long-lived assets, litigation accruals, loss contingency accruals, gain on extinguishment of debt, gains from litigation settlements, restructuring charges and one-time nonrecurring expenses, as they are not indicative of business operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "definition": "Defines and calculates Adjusted EBITDA"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "non-GAAP adjustments",
+          "net income reconciliation",
+          "non-cash items",
+          "non-recurring items",
+          "impairment charges",
+          "litigation accruals",
+          "restructuring charges"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Adjusted EBITDA as net income excluding interest, taxes, depreciation and amortization, stock-based compensation, and various other non-cash or non-recurring items such as impairment charges, litigation-related accruals, debt extinguishment gains, settlement gains, restructuring charges, and similar expenses."
+      }
+    },
+    {
+      "chunk_id": "prose_p_14",
+      "text": "In this press release, the Company includes Adjusted EBITDA, which is a non-GAAP performance measure that the Company uses to supplement its results presented in accordance with U.S. GAAP. The Company\u2019s management believes Adjusted EBITDA is useful in evaluating its operating performance and is a similar measure reported by publicly-listed U.S. competitors, and regularly used by securities analysts, institutional investors, and other interested parties in analyzing operating performance and prospects. By providing this non-GAAP measure, the Company\u2019s management intends to provide investors with a meaningful, consistent comparison of the Company\u2019s profitability for the periods presented. Non-GAAP operating expense is also included in this press release, which is a non-GAAP financial measure. The Company\u2019s management believes non-GAAP operating expense is useful to investors and analysts as a supplement to its financial information prepared in accordance with GAAP for analyzing operating performance and identifying operating trends in its business. The Company uses non-GAAP operating expense internally to facilitate period-to-period comparisons and analysis in order to make operating decisions. As required by the rules of the Securities and Exchange Commission (the \u201cSEC\u201d), the Company has provided herein a reconciliation of Adjusted EBITDA and non-GAAP operating expense to the most directly comparable measures under GAAP. Adjusted EBITDA and non-GAAP operating expense are not intended to be substitutes for any U.S. GAAP financial measures and, as calculated, may not be comparable to other similarly titled financial measures of other companies in other industries or within the same industry.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "reported_non_gaap_measures": "Adjusted EBITDA; non-GAAP operating expense",
+              "purpose": "supplement results presented in accordance with U.S. GAAP",
+              "management_view": "believes the measures are useful for evaluating operating performance and comparing profitability"
+            }
+          },
+          {
+            "name": "SEC",
+            "type": "other",
+            "attributes": {
+              "full_name": "Securities and Exchange Commission",
+              "role": "requires reconciliation of non-GAAP measures to GAAP"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "non-GAAP operating expense",
+          "GAAP reconciliation",
+          "operating performance",
+          "SEC disclosure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the Company presents Adjusted EBITDA and non-GAAP operating expense as non-GAAP measures to supplement U.S. GAAP results, describes why management believes they are useful, and notes that reconciliations to GAAP are provided as required by the SEC."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\SKLZ_2025_Q4.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

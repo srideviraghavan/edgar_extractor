@@ -1,0 +1,19 @@
+{
+  "filing_id": "UMC_2021_Q3",
+  "ticker": "UMC",
+  "fiscal_year": 2021,
+  "fiscal_quarter": "Q3",
+  "company_name": "United Microelectronics Corporation",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "net_income": {
+      "value": 17.46,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 15,
+  "tags": []
+}

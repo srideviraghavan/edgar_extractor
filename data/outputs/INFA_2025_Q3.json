@@ -1,0 +1,5859 @@
+{
+  "filing_id": "INFA_2025_Q3",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended September 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended September 30,",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Revenues:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Subscription revenue",
+          "col_1": "$",
+          "col_2": "320,661",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "287,934",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "891,705",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "804,238",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Maintenance and professional services",
+          "col_1": "118,500",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "134,547",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "358,697",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "407,475",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Total revenues",
+          "col_1": "439,161",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "422,481",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,250,402",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,211,713",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Cost of revenues:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Subscription costs",
+          "col_1": "53,426",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "48,768",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "160,777",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "142,978",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Maintenance and professional services costs",
+          "col_1": "26,999",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "31,894",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "80,906",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "100,273",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of acquired technology",
+          "col_1": "540",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "947",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,609",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "3,008",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Total cost of revenues",
+          "col_1": "80,965",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "81,609",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "243,292",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "246,259",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "358,196",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "340,872",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,007,110",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "965,454",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "85,356",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "80,316",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "255,569",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "239,204",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "139,539",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "133,517",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "437,142",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "418,403",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "47,296",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "44,707",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "144,855",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "144,115",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of intangible assets",
+          "col_1": "25,139",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "29,845",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "74,940",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "93,302",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Restructuring",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,554",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,808",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Total operating expenses",
+          "col_1": "297,330",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "289,939",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "912,506",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "901,832",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Income from operations",
+          "col_1": "60,866",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "50,933",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "94,604",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "63,622",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "13,751",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "14,829",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "40,011",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "42,001",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "(29,749)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(36,345)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(88,758)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(113,775)",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Other income (expense), net",
+          "col_1": "4,185",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(14,011)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(30,300)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(6,825)",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Income (loss) before income taxes",
+          "col_1": "49,053",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "15,406",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "15,557",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(14,977)",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Income tax expense (benefit)",
+          "col_1": "45,055",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "29,391",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "14,868",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(15,154)",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Net income (loss)",
+          "col_1": "$",
+          "col_2": "3,998",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(13,985)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "689",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "177",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Net income (loss) per share attributable to Class A and Class B-1 common stockholders:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "$",
+          "col_2": "0.01",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.05)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.00",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.00",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "$",
+          "col_2": "0.01",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.05)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.00",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.00",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Weighted-average shares used in computing net income (loss) per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "306,268",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "303,954",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "303,976",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "300,606",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Diluted",
+          "col_1": "314,515",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "303,954",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "310,528",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "313,363",
+          "col_11": "",
+          "col_12": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "September 30,",
+          "col_2": "",
+          "col_3": "December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "1,349,474",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "912,460",
+          "col_7": ""
+        },
+        {
+          "": "Short-term investments",
+          "col_1": "122,675",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "319,951",
+          "col_5": ""
+        },
+        {
+          "": "Accounts receivable, net of allowances of $3,249 and $6,618, respectively",
+          "col_1": "328,237",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "509,826",
+          "col_5": ""
+        },
+        {
+          "": "Contract assets, net",
+          "col_1": "54,742",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "60,343",
+          "col_5": ""
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "col_1": "190,223",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "184,939",
+          "col_5": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "2,045,351",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,987,519",
+          "col_5": ""
+        },
+        {
+          "": "Property and equipment, net",
+          "col_1": "135,576",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "138,999",
+          "col_5": ""
+        },
+        {
+          "": "Operating lease\u00a0right-of-use-assets",
+          "col_1": "50,417",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "48,438",
+          "col_5": ""
+        },
+        {
+          "": "Goodwill",
+          "col_1": "2,386,626",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,326,831",
+          "col_5": ""
+        },
+        {
+          "": "Customer relationships intangible asset, net",
+          "col_1": "484,757",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "550,404",
+          "col_5": ""
+        },
+        {
+          "": "Other intangible assets, net",
+          "col_1": "4,275",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "5,681",
+          "col_5": ""
+        },
+        {
+          "": "Deferred tax assets",
+          "col_1": "20,909",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "18,267",
+          "col_5": ""
+        },
+        {
+          "": "Other assets",
+          "col_1": "168,719",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "203,393",
+          "col_5": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "$",
+          "col_2": "5,296,630",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "5,279,532",
+          "col_7": ""
+        },
+        {
+          "": "Liabilities and Stockholders\u2019 Equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "$",
+          "col_2": "21,222",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "27,155",
+          "col_7": ""
+        },
+        {
+          "": "Accrued liabilities",
+          "col_1": "49,951",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "57,696",
+          "col_5": ""
+        },
+        {
+          "": "Accrued compensation and related expenses",
+          "col_1": "111,516",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "148,248",
+          "col_5": ""
+        },
+        {
+          "": "Current operating lease liabilities",
+          "col_1": "13,519",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "13,686",
+          "col_5": ""
+        },
+        {
+          "": "Current portion of long-term debt",
+          "col_1": "18,750",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "18,750",
+          "col_5": ""
+        },
+        {
+          "": "Income taxes payable",
+          "col_1": "2,196",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "5,815",
+          "col_5": ""
+        },
+        {
+          "": "Deferred revenue",
+          "col_1": "729,046",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "819,367",
+          "col_5": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "946,200",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,090,717",
+          "col_5": ""
+        },
+        {
+          "": "Long-term operating lease liabilities",
+          "col_1": "40,077",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "37,771",
+          "col_5": ""
+        },
+        {
+          "": "Long-term deferred revenue",
+          "col_1": "9,613",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "13,910",
+          "col_5": ""
+        },
+        {
+          "": "Long-term debt, net",
+          "col_1": "1,778,891",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,790,401",
+          "col_5": ""
+        },
+        {
+          "": "Deferred tax liabilities",
+          "col_1": "5,371",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "7,828",
+          "col_5": ""
+        },
+        {
+          "": "Long-term income taxes payable",
+          "col_1": "31,349",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "24,276",
+          "col_5": ""
+        },
+        {
+          "": "Other liabilities",
+          "col_1": "36,559",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "7,315",
+          "col_5": ""
+        },
+        {
+          "": "Total liabilities",
+          "col_1": "2,848,060",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,972,218",
+          "col_5": ""
+        },
+        {
+          "": "Stockholders\u2019 equity:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Class A common stock; $0.01 par value per share; 2,000,000 shares authorized as of September\u00a030, 2025 and December\u00a031, 2024; 264,301 and 259,485 shares issued and outstanding as of September\u00a030, 2025 and December\u00a031, 2024, respectively",
+          "col_1": "2,644",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,596",
+          "col_5": ""
+        },
+        {
+          "": "Class B-1 common stock; $0.01 par value per share; 200,000 shares authorized as of September\u00a030, 2025 and December\u00a031, 2024; 44,050 shares issued and outstanding as of September\u00a030, 2025 and December\u00a031, 2024",
+          "col_1": "440",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "440",
+          "col_5": ""
+        },
+        {
+          "": "Class B-2 common stock; $0.00001 par value per share; 200,000 shares authorized as of September\u00a030, 2025 and December\u00a031, 2024; 44,050 shares issued and outstanding as of September\u00a030, 2025 and December\u00a031, 2024",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": ""
+        },
+        {
+          "": "Additional\u00a0paid-in-capital",
+          "col_1": "3,767,726",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3,670,371",
+          "col_5": ""
+        },
+        {
+          "": "Accumulated other comprehensive loss",
+          "col_1": "(24,209)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(67,383)",
+          "col_5": ""
+        },
+        {
+          "": "Accumulated deficit",
+          "col_1": "(1,298,031)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,298,710)",
+          "col_5": ""
+        },
+        {
+          "": "Total stockholders\u2019 equity",
+          "col_1": "2,448,570",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,307,314",
+          "col_5": ""
+        },
+        {
+          "": "Total liabilities and stockholders\u2019 equity",
+          "col_1": "$",
+          "col_2": "5,296,630",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "5,279,532",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25",
+        "col_26"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "Three Months Ended September 30,",
+          "col_3": "",
+          "col_4": "Nine Months Ended September 30,"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "2025",
+          "col_3": "",
+          "col_4": "2024",
+          "col_5": "",
+          "col_6": "2025",
+          "col_7": "",
+          "col_8": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Net income (loss)",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "3,998",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "(13,985)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "689",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "177",
+          "col_16": ""
+        },
+        {
+          "": "Adjustments to reconcile net income (loss) to net cash provided by operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "col_2": "3,271",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "3,911",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "10,071",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "9,977",
+          "col_12": ""
+        },
+        {
+          "": "Non-cash\u00a0operating lease costs",
+          "col_1": "",
+          "col_2": "2,741",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "3,592",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "9,845",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "10,927",
+          "col_12": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "",
+          "col_2": "69,608",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "66,000",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "200,178",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "195,600",
+          "col_12": ""
+        },
+        {
+          "": "Deferred income taxes",
+          "col_1": "",
+          "col_2": "(3,795)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "1,743",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(5,030)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "167",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of intangible assets and acquired technology",
+          "col_1": "",
+          "col_2": "25,679",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "30,792",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "76,549",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "96,310",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of debt issuance costs",
+          "col_1": "",
+          "col_2": "998",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "933",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2,930",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,723",
+          "col_12": ""
+        },
+        {
+          "": "Amortization of investment discount, net of premium",
+          "col_1": "",
+          "col_2": "(798)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(1,222)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(2,112)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(4,070)",
+          "col_12": ""
+        },
+        {
+          "": "Debt refinancing costs",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,366",
+          "col_12": ""
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Accounts receivable",
+          "col_1": "",
+          "col_2": "4,971",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "42,149",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "190,746",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "218,567",
+          "col_12": ""
+        },
+        {
+          "": "Prepaid expenses and other assets",
+          "col_1": "",
+          "col_2": "18,508",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "276",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "31,376",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "8,473",
+          "col_12": ""
+        },
+        {
+          "": "Accounts payable and accrued liabilities",
+          "col_1": "",
+          "col_2": "(1,134)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(3,461)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(65,153)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(95,483)",
+          "col_12": ""
+        },
+        {
+          "": "Income taxes payable",
+          "col_1": "",
+          "col_2": "42,055",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "16,903",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(8,854)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(57,909)",
+          "col_12": ""
+        },
+        {
+          "": "Deferred revenue",
+          "col_1": "",
+          "col_2": "(17,395)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(41,133)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(113,778)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(123,833)",
+          "col_12": ""
+        },
+        {
+          "": "Net cash provided by operating activities",
+          "col_1": "",
+          "col_2": "148,707",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "106,498",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "327,457",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "262,992",
+          "col_12": ""
+        },
+        {
+          "": "Investing activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Purchases of property and equipment",
+          "col_1": "",
+          "col_2": "(1,783)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(772)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(6,491)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(2,337)",
+          "col_12": ""
+        },
+        {
+          "": "Purchases of investments",
+          "col_1": "",
+          "col_2": "(26,813)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(124,378)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(261,198)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(393,933)",
+          "col_12": ""
+        },
+        {
+          "": "Maturities of investments",
+          "col_1": "",
+          "col_2": "183,900",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "148,400",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "460,400",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "350,432",
+          "col_12": ""
+        },
+        {
+          "": "Sales of investments",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "7,929",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": ""
+        },
+        {
+          "": "Other",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,878",
+          "col_12": ""
+        },
+        {
+          "": "Net cash provided by / (used in) investing activities",
+          "col_1": "",
+          "col_2": "155,304",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "23,250",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "200,640",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(43,960)",
+          "col_12": ""
+        },
+        {
+          "": "Financing activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Payment of debt",
+          "col_1": "",
+          "col_2": "(4,687)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(4,688)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(14,063)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(16,035)",
+          "col_12": ""
+        },
+        {
+          "": "Payment of debt refinancing costs",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,349)",
+          "col_12": ""
+        },
+        {
+          "": "Proceeds from issuance of debt",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,971",
+          "col_12": ""
+        },
+        {
+          "": "Proceeds from issuance of common stock under employee stock purchase plan",
+          "col_1": "",
+          "col_2": "8,613",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "11,470",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "23,192",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "25,267",
+          "col_12": ""
+        },
+        {
+          "": "Payments for dividends related to Class B-2 shares",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(10)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(12)",
+          "col_12": ""
+        },
+        {
+          "": "Payments for repurchases of common stock",
+          "col_1": "",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(101,346)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": ""
+        },
+        {
+          "": "Payments for taxes related to net share settlement of equity awards",
+          "col_1": "",
+          "col_2": "(25,929)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(22,128)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(74,534)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(98,819)",
+          "col_12": ""
+        },
+        {
+          "": "Proceeds from issuance of shares under equity plans",
+          "col_1": "",
+          "col_2": "24,602",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "5,385",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "48,567",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "63,106",
+          "col_12": ""
+        },
+        {
+          "": "Net cash provided by / (used in) financing activities",
+          "col_1": "",
+          "col_2": "2,599",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "(9,961)",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "(118,194)",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(25,871)",
+          "col_12": ""
+        },
+        {
+          "": "Effect of foreign exchange rate changes on cash and cash equivalents",
+          "col_1": "",
+          "col_2": "(9,411)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "14,321",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "27,111",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "6,969",
+          "col_12": ""
+        },
+        {
+          "": "Net increase in cash and cash equivalents",
+          "col_1": "",
+          "col_2": "297,199",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "134,108",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "437,014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "200,130",
+          "col_12": ""
+        },
+        {
+          "": "Cash and cash equivalents at beginning of period",
+          "col_1": "",
+          "col_2": "1,052,275",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "798,465",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "912,460",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "732,443",
+          "col_12": ""
+        },
+        {
+          "": "Cash and cash equivalents at end of period",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "1,349,474",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "932,573",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "1,349,474",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "932,573",
+          "col_16": ""
+        },
+        {
+          "": "Supplemental disclosures:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Cash paid for interest",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "30,515",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "36,188",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "90,742",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "111,892",
+          "col_16": ""
+        },
+        {
+          "": "Cash paid for income taxes, net of refunds",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "6,828",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "10,745",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "28,697",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "42,588",
+          "col_16": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended\nSeptember 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended\nSeptember 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands)",
+          "col_2": "",
+          "col_3": "(in thousands)"
+        },
+        {
+          "": "GAAP net income (loss)",
+          "col_1": "$",
+          "col_2": "3,998",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(13,985)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "689",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "177",
+          "col_15": ""
+        },
+        {
+          "": "Stock-based compensation-related charges",
+          "col_1": "72,812",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "67,401",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "206,314",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "200,078",
+          "col_11": ""
+        },
+        {
+          "": "Amortization of intangibles",
+          "col_1": "25,679",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "30,792",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "76,549",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "96,310",
+          "col_11": ""
+        },
+        {
+          "": "Restructuring",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,554",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,808",
+          "col_11": ""
+        },
+        {
+          "": "Debt refinancing costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,366",
+          "col_11": ""
+        },
+        {
+          "": "Facility impairment",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "624",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "2,092",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "364",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "14,120",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "7,569",
+          "col_11": ""
+        },
+        {
+          "": "Sponsor-related costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "176",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "773",
+          "col_11": ""
+        },
+        {
+          "": "Income tax effect",
+          "col_1": "10,639",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,822",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(57,200)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(83,677)",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP net income",
+          "col_1": "$",
+          "col_2": "115,220",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "88,948",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "241,272",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "229,404",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net income (loss) per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net income (loss) per share\u2014basic",
+          "col_1": "$",
+          "col_2": "0.01",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.05)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.00",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.00",
+          "col_15": ""
+        },
+        {
+          "": "Net income (loss) per share\u2014diluted",
+          "col_1": "$",
+          "col_2": "0.01",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.05)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.00",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.00",
+          "col_15": ""
+        },
+        {
+          "": "Non-GAAP net income per share\u2014basic",
+          "col_1": "$",
+          "col_2": "0.38",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.29",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.79",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.76",
+          "col_15": ""
+        },
+        {
+          "": "Non-GAAP net income per share\u2014diluted",
+          "col_1": "$",
+          "col_2": "0.37",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.28",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.78",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "0.73",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Share count (in thousands):",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Weighted-average shares used in computing net income (loss) per share\u2014basic",
+          "col_1": "306,268",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "303,954",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "303,976",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "300,606",
+          "col_11": ""
+        },
+        {
+          "": "Weighted-average shares used in computing net income (loss) per share\u2014diluted",
+          "col_1": "314,515",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "303,954",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "310,528",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "313,363",
+          "col_11": ""
+        },
+        {
+          "": "Weighted-average shares used in computing Non-GAAP net income per share\u2014basic",
+          "col_1": "306,268",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "303,954",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "303,976",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "300,606",
+          "col_11": ""
+        },
+        {
+          "": "Weighted-average shares used in computing Non-GAAP net income per share\u2014diluted",
+          "col_1": "314,515",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "312,619",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "310,528",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "313,363",
+          "col_11": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended\nSeptember 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended\nSeptember 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands)",
+          "col_2": "",
+          "col_3": "(in thousands)"
+        },
+        {
+          "": "GAAP income from operations",
+          "col_1": "$",
+          "col_2": "60,866",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "50,933",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "94,604",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "63,622",
+          "col_15": ""
+        },
+        {
+          "": "Stock-based compensation-related charges",
+          "col_1": "72,812",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "67,401",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "206,314",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "200,078",
+          "col_11": ""
+        },
+        {
+          "": "Amortization of intangibles",
+          "col_1": "25,679",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "30,792",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "76,549",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "96,310",
+          "col_11": ""
+        },
+        {
+          "": "Restructuring",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,554",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,808",
+          "col_11": ""
+        },
+        {
+          "": "Facility Impairment",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "624",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "2,092",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "364",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "14,120",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "7,569",
+          "col_11": ""
+        },
+        {
+          "": "Sponsor-related costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "176",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "773",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP income from operations",
+          "col_1": "$",
+          "col_2": "161,449",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "151,044",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "392,387",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "375,160",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP operating margin (% of total revenue)",
+          "col_1": "13.9",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "12.1",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "7.6",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "5.3",
+          "col_11": "%"
+        },
+        {
+          "": "Non-GAAP operating margin (% of total revenue)",
+          "col_1": "36.8",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "35.8",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "31.4",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "31.0",
+          "col_11": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25",
+        "col_26",
+        "col_27",
+        "col_28",
+        "col_29"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended\nSeptember 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended\nSeptember 30,",
+          "col_4": "",
+          "col_5": "Trailing Twelve Months (\"TTM\") Ended September 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024",
+          "col_8": "",
+          "col_9": "2025"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands)",
+          "col_2": "",
+          "col_3": "(in thousands)",
+          "col_4": "",
+          "col_5": "(in thousands)"
+        },
+        {
+          "": "GAAP net income (loss)",
+          "col_1": "$",
+          "col_2": "3,998",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(13,985)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "689",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "177",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "$",
+          "col_18": "10,443",
+          "col_19": ""
+        },
+        {
+          "": "Income tax expense (benefit)",
+          "col_1": "45,055",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "29,391",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "14,868",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(15,154)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "73,256",
+          "col_14": ""
+        },
+        {
+          "": "Interest income",
+          "col_1": "(13,751)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(14,829)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(40,011)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(42,001)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "(54,447)",
+          "col_14": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "29,749",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "36,345",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "88,758",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "113,775",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "121,047",
+          "col_14": ""
+        },
+        {
+          "": "Debt refinancing costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,366",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "\u2014",
+          "col_14": ""
+        },
+        {
+          "": "Other expense (income), net",
+          "col_1": "(4,185)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "14,011",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "30,300",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,459",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "7,731",
+          "col_14": ""
+        },
+        {
+          "": "Stock-based compensation-related charges",
+          "col_1": "72,812",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "67,401",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "206,314",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "200,078",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "269,324",
+          "col_14": ""
+        },
+        {
+          "": "Amortization of intangibles",
+          "col_1": "25,679",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "30,792",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "76,549",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "96,310",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "105,984",
+          "col_14": ""
+        },
+        {
+          "": "Facility impairment",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "624",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "624",
+          "col_14": ""
+        },
+        {
+          "": "Restructuring",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,554",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,808",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "5,697",
+          "col_14": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "2,092",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "364",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "14,120",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "7,569",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "14,120",
+          "col_14": ""
+        },
+        {
+          "": "Sponsor-related costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "176",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "773",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "906",
+          "col_14": ""
+        },
+        {
+          "": "Depreciation",
+          "col_1": "3,383",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3,745",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "9,988",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "9,816",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "13,560",
+          "col_14": ""
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "$",
+          "col_2": "164,832",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "154,789",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "402,375",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "384,976",
+          "col_15": "",
+          "col_16": "",
+          "col_17": "$",
+          "col_18": "568,245",
+          "col_19": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended September 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended September 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands, except percentages)",
+          "col_2": "",
+          "col_3": "(in thousands, except percentages)"
+        },
+        {
+          "": "Total GAAP Revenue",
+          "col_1": "$",
+          "col_2": "439,161",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "422,481",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "1,250,402",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "1,211,713",
+          "col_15": ""
+        },
+        {
+          "": "Net cash provided by operating activities",
+          "col_1": "$",
+          "col_2": "148,707",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "106,498",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "327,457",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "262,992",
+          "col_15": ""
+        },
+        {
+          "": "Less: Purchases of property and equipment",
+          "col_1": "(1,783)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(772)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(6,491)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(2,337)",
+          "col_11": ""
+        },
+        {
+          "": "Add: Restructuring costs",
+          "col_1": "228",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,686",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "5,471",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "18,159",
+          "col_11": ""
+        },
+        {
+          "": "Add: Acquisition-related costs",
+          "col_1": "3,156",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "297",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "7,934",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,979",
+          "col_11": ""
+        },
+        {
+          "": "Add: Sponsor-related costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "70",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "390",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "499",
+          "col_11": ""
+        },
+        {
+          "": "Adjusted Free Cash Flow (after-tax)(1)(2)",
+          "col_1": "$",
+          "col_2": "150,308",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "107,779",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "334,761",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "286,292",
+          "col_15": ""
+        },
+        {
+          "": "Add: Cash paid for interest",
+          "col_1": "30,515",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "36,188",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "90,742",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "111,892",
+          "col_11": ""
+        },
+        {
+          "": "Adjusted Unlevered Free Cash Flow (after-tax)(1)(2)",
+          "col_1": "$",
+          "col_2": "180,823",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "143,967",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "425,503",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "398,184",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Adjusted Free Cash Flow (after-tax) margin(1)(2)",
+          "col_1": "34",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "26",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "27",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "24",
+          "col_11": "%"
+        },
+        {
+          "": "Adjusted Unlevered Free Cash Flow (after-tax) margin(1)(2)",
+          "col_1": "41",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "34",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "34",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "33",
+          "col_11": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "September 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands, except percentages)"
+        },
+        {
+          "": "Cloud Subscription Annual Recurring Revenue",
+          "col_1": "$",
+          "col_2": "968,623",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "747,811",
+          "col_7": ""
+        },
+        {
+          "": "Self-managed Subscription Annual Recurring Revenue",
+          "col_1": "374,492",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "471,030",
+          "col_5": ""
+        },
+        {
+          "": "Maintenance Annual Recurring Revenue on Perpetual Licenses",
+          "col_1": "404,708",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "462,935",
+          "col_5": ""
+        },
+        {
+          "": "Total Annual Recurring Revenue",
+          "col_1": "$",
+          "col_2": "1,747,823",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "1,681,776",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Cloud Subscription Net Retention Rate (Global Parent level)",
+          "col_1": "120",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "126",
+          "col_5": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_8",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "September 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "Maintenance Renewal Rate",
+          "col_1": "93",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "94",
+          "col_5": "%"
+        },
+        {
+          "": "Total Cloud Subscription Annual Recurring Revenue customers",
+          "col_1": "2,545",
+          "col_2": "",
+          "col_3": "2,395"
+        },
+        {
+          "": "Cloud transactions processed per month in trillions(1)",
+          "col_1": "143.3",
+          "col_2": "",
+          "col_3": "101.3"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended\nSeptember 30,",
+          "col_2": "",
+          "col_3": "Nine Months Ended\nSeptember 30,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "(in thousands)",
+          "col_2": "",
+          "col_3": "(in thousands)"
+        },
+        {
+          "": "Revenues:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Cloud subscription(i)",
+          "col_1": "$",
+          "col_2": "230,397",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "175,809",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "640,263",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "488,669",
+          "col_15": ""
+        },
+        {
+          "": "Self-managed subscription support and other(i)",
+          "col_1": "38,839",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "46,627",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "121,299",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "144,126",
+          "col_11": ""
+        },
+        {
+          "": "Maintenance(ii)",
+          "col_1": "100,275",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "115,309",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "306,403",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "349,469",
+          "col_11": ""
+        },
+        {
+          "": "Total revenue recognized over time",
+          "col_1": "369,511",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "337,745",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,067,965",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "982,264",
+          "col_11": ""
+        },
+        {
+          "": "Self-managed subscription license recognized at a point in time(i)(iii)",
+          "col_1": "51,425",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "65,498",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "130,143",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "171,443",
+          "col_11": ""
+        },
+        {
+          "": "Total subscription and maintenance revenue",
+          "col_1": "420,936",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "403,243",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,198,108",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,153,707",
+          "col_11": ""
+        },
+        {
+          "": "Professional services(ii)",
+          "col_1": "18,225",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "19,238",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "52,294",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "58,006",
+          "col_11": ""
+        },
+        {
+          "": "Total revenues",
+          "col_1": "$",
+          "col_2": "439,161",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "422,481",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "1,250,402",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "1,211,713",
+          "col_15": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_10",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "September 30,",
+          "col_2": "",
+          "col_3": "December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "(in millions)"
+        },
+        {
+          "": "Dollar Term Loan",
+          "col_1": "$",
+          "col_2": "1,809",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "1,823",
+          "col_7": ""
+        },
+        {
+          "": "Less: Cash, cash equivalents, and short-term investments",
+          "col_1": "(1,472)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,232)",
+          "col_5": ""
+        },
+        {
+          "": "Total net debt",
+          "col_1": "$",
+          "col_2": "337",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "591",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_d_326",
+      "text": "Reconciliation of GAAP income from operations to Non-GAAP income from operations",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP income from operations",
+          "Non-GAAP income from operations",
+          "reconciliation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section indicates a reconciliation between GAAP income from operations and Non-GAAP income from operations, but provides no specific figures or named entities."
+      }
+    },
+    {
+      "chunk_id": "prose_d_202",
+      "text": "(i) Included in Subscription revenue on the consolidated statements of operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "subscription revenue",
+          "consolidated statements of operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section notes that the referenced item is included in Subscription revenue on the consolidated statements of operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_91",
+      "text": "\u2022 Recognized as a Leader in The Forrester Wave\u2122: Data Governance Solutions, Q3 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Forrester Wave\u2122: Data Governance Solutions, Q3 2025",
+            "type": "other",
+            "attributes": {
+              "recognition": "Leader"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "data governance",
+          "industry recognition",
+          "Forrester Wave",
+          "leadership positioning"
+        ],
+        "sentiment": "positive",
+        "summary": "The section states that the subject was recognized as a Leader in The Forrester Wave\u2122: Data Governance Solutions for Q3 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_d_92",
+      "text": "\u2022 Ranked #1 in Cloud Master Data Management in the 2024 Gartner \u00ae Market Share Report.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Gartner",
+            "type": "company",
+            "attributes": {
+              "report": "2024 Gartner Market Share Report",
+              "ranking": "#1",
+              "category": "Cloud Master Data Management"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "market share ranking",
+          "cloud master data management",
+          "Gartner report"
+        ],
+        "sentiment": "positive",
+        "summary": "The company was ranked #1 in Cloud Master Data Management in the 2024 Gartner Market Share Report."
+      }
+    },
+    {
+      "chunk_id": "prose_d_55",
+      "text": "\u2022 Launched the first CLAIRE \u00ae Agents that empower users to automate complex data management goals:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE Agents",
+            "type": "other",
+            "attributes": {
+              "description": "First launched agents that empower users to automate complex data management goals"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product launch",
+          "automation",
+          "data management",
+          "CLAIRE Agents"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the launch of the first CLAIRE Agents, designed to help users automate complex data management goals."
+      }
+    },
+    {
+      "chunk_id": "prose_d_15",
+      "text": "\u2022 Total ARR increased to $1.75 billion, representing 3.9% year-over-year growth, 3.8% in constant currency",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Total ARR",
+            "type": "other",
+            "attributes": {
+              "metric": "Annual Recurring Revenue",
+              "year_over_year_growth": "3.9%",
+              "constant_currency_growth": "3.8%"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "1750000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current period"
+          }
+        ],
+        "key_topics": [
+          "Annual Recurring Revenue",
+          "year-over-year growth",
+          "constant currency growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Total ARR increased to $1.75 billion, with 3.9% year-over-year growth and 3.8% growth in constant currency."
+      }
+    },
+    {
+      "chunk_id": "prose_d_41",
+      "text": "\u2022 Adjusted Unlevered Free Cash Flow (after-tax) of $180.8 million. Cash paid for interest of $30.5 million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "180.8",
+            "type": "other",
+            "currency": "USD",
+            "period": "not specified"
+          },
+          {
+            "figure": "30.5",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "Adjusted Unlevered Free Cash Flow",
+          "after-tax cash flow",
+          "interest expense"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports adjusted unlevered free cash flow after tax of $180.8 million and cash paid for interest of $30.5 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_203",
+      "text": "(ii) Included in Maintenance and Professional services revenue on the consolidated statements of operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "maintenance and professional services revenue",
+          "consolidated statements of operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section notes that the referenced item is included in Maintenance and Professional services revenue on the consolidated statements of operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_89",
+      "text": "\u2022 Named \"Outstanding Customer Service Experience\u201d by J.D. Power for the fifth consecutive year in Technical Support.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "J.D. Power",
+            "type": "other",
+            "attributes": {
+              "role": "awarding organization",
+              "award": "Outstanding Customer Service Experience",
+              "category": "Technical Support",
+              "duration": "fifth consecutive year"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "customer service",
+          "technical support",
+          "award recognition",
+          "J.D. Power"
+        ],
+        "sentiment": "positive",
+        "summary": "The company was named \"Outstanding Customer Service Experience\" by J.D. Power for the fifth consecutive year in Technical Support."
+      }
+    },
+    {
+      "chunk_id": "prose_d_52",
+      "text": "\u2022 Reported 2,545 Cloud Subscription ARR customers at the end of September\u00a030, 2025, an increase of 6% year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription ARR customers",
+            "type": "other",
+            "attributes": {
+              "count": "2545",
+              "date": "2025-09-30",
+              "year_over_year_change": "6%"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2545",
+            "type": "other",
+            "currency": "other",
+            "period": "end of September 30, 2025"
+          }
+        ],
+        "key_topics": [
+          "Cloud Subscription ARR customers",
+          "customer growth",
+          "year-over-year increase"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported 2,545 Cloud Subscription ARR customers as of September 30, 2025, representing a 6% year-over-year increase."
+      }
+    },
+    {
+      "chunk_id": "prose_d_51",
+      "text": "\u2022 Achieved a Cloud Subscription Net Retention Rate (NRR) of 120% at the global parent level as of September\u00a030, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription Net Retention Rate (NRR)",
+            "type": "other",
+            "attributes": {
+              "value": "120%",
+              "scope": "global parent level",
+              "date": "2025-09-30"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "120%",
+            "type": "other",
+            "currency": "other",
+            "period": "as of September 30, 2025"
+          }
+        ],
+        "key_topics": [
+          "Cloud Subscription",
+          "Net Retention Rate",
+          "Global parent level performance"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported a Cloud Subscription Net Retention Rate of 120% at the global parent level as of September 30, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_d_382",
+      "text": "(1) Total number of cloud transactions processed on our platform per month in trillions, which measures data processed.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "our platform",
+            "type": "other",
+            "attributes": {
+              "description": "Platform on which cloud transactions are processed"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "1",
+            "type": "other",
+            "currency": "other",
+            "period": "per month"
+          }
+        ],
+        "key_topics": [
+          "cloud transactions",
+          "data processed",
+          "platform usage",
+          "monthly volume"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes a metric for the total number of cloud transactions processed on the platform per month, measured in trillions, as an indicator of data processed."
+      }
+    },
+    {
+      "chunk_id": "prose_d_90",
+      "text": "\u2022 Named a Winner in the 2025 Technology & Services Industry Association (TSIA) Star Award for Excellence in Content Strategy.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Technology & Services Industry Association (TSIA)",
+            "type": "other",
+            "attributes": {
+              "award": "TSIA Star Award for Excellence in Content Strategy",
+              "year": "2025"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "award recognition",
+          "content strategy",
+          "industry association"
+        ],
+        "sentiment": "positive",
+        "summary": "The section states that the subject was named a winner in the 2025 TSIA Star Award for Excellence in Content Strategy."
+      }
+    },
+    {
+      "chunk_id": "prose_d_58",
+      "text": "\u25e6 CLAIRE \u00ae ELT Agents empower business users to build data pipelines and better collaborate with data engineers to deploy them;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE ELT Agents",
+            "type": "other",
+            "attributes": {
+              "description": "Product or solution that empowers business users to build data pipelines and collaborate with data engineers"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "data pipelines",
+          "business users",
+          "data engineers",
+          "collaboration",
+          "ELT"
+        ],
+        "sentiment": "positive",
+        "summary": "The section states that CLAIRE ELT Agents help business users build data pipelines and collaborate more effectively with data engineers to deploy them."
+      }
+    },
+    {
+      "chunk_id": "prose_d_46",
+      "text": "(1) Constant currency basis is calculated by translating current period revenue using the comparable period's exchange rates from the prior year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "current period revenue",
+            "type": "revenue",
+            "currency": "other",
+            "period": "current period"
+          }
+        ],
+        "key_topics": [
+          "constant currency basis",
+          "foreign exchange rates",
+          "revenue translation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that constant currency basis is calculated by translating current period revenue using the prior year's comparable exchange rates."
+      }
+    },
+    {
+      "chunk_id": "prose_d_191",
+      "text": "\u2022 Maintenance revenue (ii) represents revenues from fees for ongoing support and product updates mainly for our previously sold perpetual licenses.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "not specified",
+            "type": "revenue",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "maintenance revenue",
+          "ongoing support",
+          "product updates",
+          "perpetual licenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines maintenance revenue as fees earned from ongoing support and product updates for previously sold perpetual licenses."
+      }
+    },
+    {
+      "chunk_id": "prose_d_56",
+      "text": "\u25e6 CLAIRE \u00ae Data Exploration Agents enable complex natural language queries on Master Data Management (MDM) and enterprise data using natural language;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE",
+            "type": "other",
+            "attributes": {
+              "registered_mark": "\u00ae",
+              "product_type": "Data Exploration Agents"
+            }
+          },
+          {
+            "name": "Master Data Management",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "MDM"
+            }
+          },
+          {
+            "name": "enterprise data",
+            "type": "other",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "natural language queries",
+          "data exploration",
+          "master data management",
+          "enterprise data",
+          "natural language processing"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that CLAIRE Data Exploration Agents support complex natural language queries over Master Data Management and enterprise data."
+      }
+    },
+    {
+      "chunk_id": "prose_d_26",
+      "text": "\u2022 GAAP Cloud Subscription Revenue increased to $230.4 million, representing 31.0% year-over-year growth, and represented 71.9% of subscription revenue.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "GAAP Cloud Subscription Revenue",
+            "type": "other",
+            "attributes": {
+              "year_over_year_growth": "31.0%",
+              "share_of_subscription_revenue": "71.9%"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "230.4 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current period"
+          }
+        ],
+        "key_topics": [
+          "cloud subscription revenue",
+          "year-over-year growth",
+          "subscription revenue mix"
+        ],
+        "sentiment": "positive",
+        "summary": "GAAP Cloud Subscription Revenue increased to $230.4 million, up 31.0% year over year, and accounted for 71.9% of subscription revenue."
+      }
+    },
+    {
+      "chunk_id": "prose_d_14",
+      "text": "\u2022 Cloud Subscription Annualized Recurring Revenue (ARR) increased to $969 million, representing 29.5% year-over-year growth, 29.4% in constant currency",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription Annualized Recurring Revenue (ARR)",
+            "type": "other",
+            "attributes": {
+              "growth_yoy": "29.5%",
+              "growth_constant_currency": "29.4%",
+              "direction": "increased"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "969000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "annualized recurring revenue"
+          }
+        ],
+        "key_topics": [
+          "cloud subscription ARR",
+          "year-over-year growth",
+          "constant currency growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Cloud Subscription Annualized Recurring Revenue increased to $969 million, with 29.5% year-over-year growth and 29.4% growth in constant currency."
+      }
+    },
+    {
+      "chunk_id": "prose_d_59",
+      "text": "\u25e6 CLAIRE \u00ae Product Help Agents provide context-aware responses to questions pertaining to data within Informatica\u2019s Intelligent Data Management Cloud (IDMC);",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE\u00ae Product Help Agents",
+            "type": "other",
+            "attributes": {
+              "description": "Provide context-aware responses to questions pertaining to data within Informatica\u2019s Intelligent Data Management Cloud (IDMC)"
+            }
+          },
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "product": "Intelligent Data Management Cloud (IDMC)"
+            }
+          },
+          {
+            "name": "Intelligent Data Management Cloud (IDMC)",
+            "type": "other",
+            "attributes": {
+              "description": "Cloud platform referenced as the data environment for CLAIRE Product Help Agents"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product support",
+          "context-aware responses",
+          "data management cloud",
+          "IDMC",
+          "AI agents"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that CLAIRE Product Help Agents provide context-aware responses to questions about data within Informatica\u2019s Intelligent Data Management Cloud (IDMC)."
+      }
+    },
+    {
+      "chunk_id": "prose_d_39",
+      "text": "\u2022 GAAP Operating Income of $60.9 million and Non-GAAP Operating Income of $161.4 million. GAAP Operating Margin of 13.9% and Non-GAAP Operating Margin of 36.8%.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "60.9 million",
+            "type": "other",
+            "currency": "USD",
+            "period": ""
+          },
+          {
+            "figure": "161.4 million",
+            "type": "other",
+            "currency": "USD",
+            "period": ""
+          },
+          {
+            "figure": "13.9%",
+            "type": "other",
+            "currency": "other",
+            "period": ""
+          },
+          {
+            "figure": "36.8%",
+            "type": "other",
+            "currency": "other",
+            "period": ""
+          }
+        ],
+        "key_topics": [
+          "GAAP operating income",
+          "Non-GAAP operating income",
+          "GAAP operating margin",
+          "Non-GAAP operating margin"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports GAAP operating income of $60.9 million and Non-GAAP operating income of $161.4 million, along with GAAP operating margin of 13.9% and Non-GAAP operating margin of 36.8%."
+      }
+    },
+    {
+      "chunk_id": "prose_d_83",
+      "text": "\u25e6 launched Blueprint for Agentic AI on Oracle Cloud Infrastructure (OCI) with no-code, pre-built connectors, recipes, and a rich API layer to speed agent development;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blueprint for Agentic AI",
+            "type": "other",
+            "attributes": {
+              "description": "Launched on Oracle Cloud Infrastructure with no-code, pre-built connectors, recipes, and a rich API layer to speed agent development"
+            }
+          },
+          {
+            "name": "Oracle Cloud Infrastructure",
+            "type": "company",
+            "attributes": {
+              "abbreviation": "OCI"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "agentic AI",
+          "Oracle Cloud Infrastructure",
+          "no-code development",
+          "pre-built connectors",
+          "API layer",
+          "agent development"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the launch of Blueprint for Agentic AI on Oracle Cloud Infrastructure, highlighting no-code tools, pre-built connectors, recipes, and an API layer designed to accelerate agent development."
+      }
+    },
+    {
+      "chunk_id": "prose_d_61",
+      "text": "\u25e6 CLAIRE \u00ae Product Experience Agents (Private Preview) help classify products and enrich product records within MDM records with both structured and unstructured data.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE",
+            "type": "other",
+            "attributes": {
+              "product_type": "Product Experience Agents",
+              "availability": "Private Preview",
+              "function": "help classify products and enrich product records within MDM records with both structured and unstructured data"
+            }
+          },
+          {
+            "name": "MDM",
+            "type": "other",
+            "attributes": {
+              "expanded_form": "Master Data Management",
+              "context": "records"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product classification",
+          "product record enrichment",
+          "master data management",
+          "structured data",
+          "unstructured data",
+          "private preview"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes CLAIRE Product Experience Agents in private preview, which help classify products and enrich MDM product records using both structured and unstructured data."
+      }
+    },
+    {
+      "chunk_id": "prose_d_200",
+      "text": "Professional services revenue (ii) represents revenues from non-recurring fees associated with implementation, education, and consulting services related to our software products.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Professional services revenue",
+            "type": "other",
+            "attributes": {
+              "description": "Revenues from non-recurring fees associated with implementation, education, and consulting services related to software products"
+            }
+          },
+          {
+            "name": "software products",
+            "type": "other",
+            "attributes": {
+              "context": "Products related to implementation, education, and consulting services"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "professional services revenue",
+          "non-recurring fees",
+          "implementation services",
+          "education services",
+          "consulting services",
+          "software products"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines professional services revenue as non-recurring fees earned from implementation, education, and consulting services related to the company's software products."
+      }
+    },
+    {
+      "chunk_id": "prose_d_60",
+      "text": "\u25e6 CLAIRE \u00ae Data Quality Agents (Public Preview) let users create, evaluate and operationalize data quality rules in minutes based on business specifications in natural language; and",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE Data Quality Agents",
+            "type": "other",
+            "attributes": {
+              "status": "Public Preview",
+              "function": "create, evaluate and operationalize data quality rules",
+              "basis": "business specifications in natural language"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "data quality",
+          "natural language",
+          "business specifications",
+          "rule creation",
+          "operationalization",
+          "public preview"
+        ],
+        "sentiment": "positive",
+        "summary": "CLAIRE Data Quality Agents are in public preview and enable users to quickly create, evaluate, and operationalize data quality rules using natural language business specifications."
+      }
+    },
+    {
+      "chunk_id": "prose_d_84",
+      "text": "\u25e6 announced a dedicated MCP server within Informatica's IDMC platform that accelerates deployment and reduces time-to-value for enterprise agentic AI projects starting in April 2026;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "platform": "IDMC",
+              "announcement": "dedicated MCP server",
+              "timing": "starting in April 2026",
+              "purpose": "accelerates deployment and reduces time-to-value for enterprise agentic AI projects"
+            }
+          },
+          {
+            "name": "IDMC",
+            "type": "other",
+            "attributes": {
+              "full_name": "Informatica's Intelligent Data Management Cloud platform"
+            }
+          },
+          {
+            "name": "MCP server",
+            "type": "other",
+            "attributes": {
+              "description": "dedicated server within Informatica's IDMC platform"
+            }
+          },
+          {
+            "name": "enterprise agentic AI projects",
+            "type": "other",
+            "attributes": {
+              "description": "projects intended to benefit from faster deployment and reduced time-to-value"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "artificial intelligence",
+          "enterprise software",
+          "platform deployment",
+          "time-to-value",
+          "Informatica IDMC",
+          "MCP server"
+        ],
+        "sentiment": "positive",
+        "summary": "Informatica announced a dedicated MCP server within its IDMC platform, expected to begin in April 2026, to speed deployment and improve time-to-value for enterprise agentic AI projects."
+      }
+    },
+    {
+      "chunk_id": "prose_d_170",
+      "text": "Cloud Subscription Net Retention Rate (\"Cloud Subscription NRR\") compares the contract value for Cloud Subscription ARR from the same set of customers at the end of a period compared to the prior",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription Net Retention Rate",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "Cloud Subscription NRR",
+              "description": "Compares the contract value for Cloud Subscription ARR from the same set of customers at the end of a period compared to the prior period"
+            }
+          },
+          {
+            "name": "Cloud Subscription ARR",
+            "type": "other",
+            "attributes": {
+              "description": "Annual recurring revenue from cloud subscriptions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Cloud Subscription Net Retention Rate",
+          "Cloud Subscription ARR",
+          "contract value comparison",
+          "customer retention metric"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Cloud Subscription Net Retention Rate as a metric comparing Cloud Subscription ARR contract value from the same customers at the end of a period versus the prior period."
+      }
+    },
+    {
+      "chunk_id": "prose_d_57",
+      "text": "\u25e6 CLAIRE \u00ae Enterprise Discovery Agents provide contextual and accurate results from an organization\u2019s data sources to quickly deliver relevant, accurate and personalized data for AI and analytics;",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE Enterprise Discovery Agents",
+            "type": "other",
+            "attributes": {
+              "description": "Provide contextual and accurate results from an organization's data sources to deliver relevant, accurate, and personalized data for AI and analytics"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "enterprise discovery",
+          "data sources",
+          "AI",
+          "analytics",
+          "contextual search",
+          "personalized data"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes CLAIRE Enterprise Discovery Agents as a tool that delivers contextual, accurate, and personalized results from organizational data sources for AI and analytics use cases."
+      }
+    },
+    {
+      "chunk_id": "prose_d_63",
+      "text": "\u2022 Launched CLAIRE \u00ae Copilot for MDM to simplify master data usage and understanding through natural language queries to explore master data and access product help seamlessly from within Informatica MDM.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE Copilot for MDM",
+            "type": "other",
+            "attributes": {
+              "description": "Launched product to simplify master data usage and understanding through natural language queries",
+              "function": "Explore master data and access product help from within Informatica MDM"
+            }
+          },
+          {
+            "name": "Informatica MDM",
+            "type": "company",
+            "attributes": {
+              "description": "Platform within which CLAIRE Copilot for MDM is accessible"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product launch",
+          "master data management",
+          "natural language queries",
+          "product help",
+          "Informatica MDM"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the launch of CLAIRE Copilot for MDM, a tool designed to simplify master data usage and understanding through natural language queries and integrated product help within Informatica MDM."
+      }
+    },
+    {
+      "chunk_id": "prose_d_18",
+      "text": "REDWOOD CITY, CA, November\u00a05, 2025 - Informatica (NYSE: INFA), a leader in enterprise AI-powered cloud data management, today announced financial results for its third quarter 2025, ended September\u00a030, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Redwood City, CA",
+            "type": "location",
+            "attributes": {
+              "city": "Redwood City",
+              "state": "CA"
+            }
+          },
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "ticker": "NYSE: INFA",
+              "description": "enterprise AI-powered cloud data management company"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "third quarter 2025 financial results",
+          "earnings announcement",
+          "enterprise AI-powered cloud data management"
+        ],
+        "sentiment": "neutral",
+        "summary": "Informatica announced that it will report financial results for its third quarter 2025, ended September 30, 2025, from Redwood City, California."
+      }
+    },
+    {
+      "chunk_id": "prose_d_50",
+      "text": "\u2022 Proces sed 143.3 trillion cloud transactions per month for the quarter ended September\u00a030, 2025, as compared to 101.3 trillion cloud transactions per month in the same quarter last year, an increase of 41% year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "cloud transactions",
+            "type": "other",
+            "attributes": {
+              "current_period_value": "143.3 trillion per month",
+              "prior_year_value": "101.3 trillion per month",
+              "year_over_year_change": "41%",
+              "period": "quarter ended September 30, 2025"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "143.3 trillion",
+            "type": "other",
+            "currency": "other",
+            "period": "quarter ended September 30, 2025"
+          },
+          {
+            "figure": "101.3 trillion",
+            "type": "other",
+            "currency": "other",
+            "period": "same quarter last year"
+          },
+          {
+            "figure": "41%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "cloud transactions",
+          "year-over-year growth",
+          "quarterly performance"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports that cloud transactions processed increased to 143.3 trillion per month for the quarter ended September 30, 2025, up from 101.3 trillion per month in the same quarter last year, representing 41% year-over-year growth."
+      }
+    },
+    {
+      "chunk_id": "prose_d_43",
+      "text": "A reconciliation of GAAP to non-GAAP financial measures has been provided in the tables included in this press release. An explanation of these measures is also included below under the heading \u201cNon-GAAP Financial Measures.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to non-GAAP reconciliation",
+          "non-GAAP financial measures",
+          "press release tables"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that a reconciliation of GAAP to non-GAAP financial measures is included in the press release tables and that an explanation of these measures appears under the heading \"Non-GAAP Financial Measures.\""
+      }
+    },
+    {
+      "chunk_id": "prose_d_225",
+      "text": "Trusted by approximately 5,000 customers in nearly 100 countries\u2014including over 80 of the Fortune 100\u2014Informatica is the backbone of platform-agnostic, cloud data-driven transformation. Informatica. Where data and AI come to life.\u2122",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "customers": "approximately 5,000",
+              "countries": "nearly 100",
+              "fortune_100_customers": "over 80",
+              "positioning": "backbone of platform-agnostic, cloud data-driven transformation"
+            }
+          },
+          {
+            "name": "Fortune 100",
+            "type": "other",
+            "attributes": {
+              "reference": "customer base"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "5000",
+            "type": "other",
+            "currency": "other",
+            "period": "current"
+          },
+          {
+            "figure": "100",
+            "type": "other",
+            "currency": "other",
+            "period": "current"
+          },
+          {
+            "figure": "80",
+            "type": "other",
+            "currency": "other",
+            "period": "current"
+          }
+        ],
+        "key_topics": [
+          "customer base",
+          "global presence",
+          "Fortune 100 adoption",
+          "cloud data transformation",
+          "artificial intelligence"
+        ],
+        "sentiment": "positive",
+        "summary": "The section presents Informatica as a global, cloud and AI-focused data transformation company with approximately 5,000 customers in nearly 100 countries, including over 80 Fortune 100 companies."
+      }
+    },
+    {
+      "chunk_id": "prose_d_74",
+      "text": "\u2022 Announced new capabilities in CLAIRE \u00ae Copilot for Data Integration to create data pipelines with an NLP-driven guided experience and the ability to ask questions with answers sourced directly from documentation and help articles.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE Copilot for Data Integration",
+            "type": "other",
+            "attributes": {
+              "description": "Product capability announced with NLP-driven guided experience for creating data pipelines and answering questions from documentation and help articles"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product announcement",
+          "data integration",
+          "data pipelines",
+          "NLP-driven guided experience",
+          "documentation-based Q&A",
+          "help articles"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces new capabilities in CLAIRE Copilot for Data Integration, including an NLP-driven guided experience for creating data pipelines and the ability to answer questions using documentation and help articles."
+      }
+    },
+    {
+      "chunk_id": "prose_d_37",
+      "text": "\u2022 Total ARR increased to $1.75 billion, representing 3.9% year-over-year growth or 3.8% year-over-year growth on a constant currency basis. Total ARR included a positive impact of approximately $2.2 million from FX rates year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Total ARR",
+            "type": "other",
+            "attributes": {
+              "description": "Annual recurring revenue",
+              "year_over_year_growth": "3.9%",
+              "constant_currency_year_over_year_growth": "3.8%",
+              "fx_impact": "positive $2.2 million"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "1750000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current period"
+          },
+          {
+            "figure": "2200000",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "Annual recurring revenue",
+          "Year-over-year growth",
+          "Constant currency growth",
+          "Foreign exchange impact"
+        ],
+        "sentiment": "positive",
+        "summary": "Total ARR increased to $1.75 billion, with 3.9% year-over-year growth and 3.8% growth on a constant currency basis, aided by a positive $2.2 million FX impact."
+      }
+    },
+    {
+      "chunk_id": "prose_d_354",
+      "text": "(1) Includes cash tax payments of $6.8 million and $10.8 million for the three months ended September\u00a030, 2025 and 2024, respectively and $28.6 million and $42.6 million for the nine months ended September\u00a030, 2025 and 2024, respectively.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "6.8 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ended September 30, 2025"
+          },
+          {
+            "figure": "10.8 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ended September 30, 2024"
+          },
+          {
+            "figure": "28.6 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "nine months ended September 30, 2025"
+          },
+          {
+            "figure": "42.6 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "nine months ended September 30, 2024"
+          }
+        ],
+        "key_topics": [
+          "cash tax payments",
+          "comparative period disclosure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section discloses cash tax payments for the three and nine months ended September 30, 2025 and 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_d_75",
+      "text": "\u2022 Launched AI-powered Lineage Discovery powered by CLAIRE \u00ae to map data flows from source systems to applications and AI models, accelerating speed of Cloud Data Governance and Catalog (CDGC) deployment, time-to-insights and modernization efforts.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Lineage Discovery",
+            "type": "other",
+            "attributes": {
+              "description": "AI-powered product or feature for mapping data flows from source systems to applications and AI models"
+            }
+          },
+          {
+            "name": "CLAIRE",
+            "type": "other",
+            "attributes": {
+              "description": "AI platform/technology powering Lineage Discovery"
+            }
+          },
+          {
+            "name": "Cloud Data Governance and Catalog (CDGC)",
+            "type": "other",
+            "attributes": {
+              "description": "Cloud data governance and catalog deployment offering"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "AI-powered data lineage",
+          "data governance",
+          "data catalog",
+          "cloud deployment",
+          "data modernization",
+          "time-to-insights"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the launch of an AI-powered Lineage Discovery feature powered by CLAIRE to map data flows and improve cloud data governance, catalog deployment, insights, and modernization efforts."
+      }
+    },
+    {
+      "chunk_id": "prose_d_132",
+      "text": "business strategy, including our strategy related to the Informatica IDMC platform and key partnerships, our ability to increase and predict customer consumption of our platform, our ability to compete effectively, and our ability to manage growth.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica IDMC platform",
+            "type": "other",
+            "attributes": {
+              "description": "Platform referenced in business strategy"
+            }
+          },
+          {
+            "name": "key partnerships",
+            "type": "other",
+            "attributes": {
+              "description": "Strategic partnerships referenced in business strategy"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "business strategy",
+          "platform strategy",
+          "partnerships",
+          "customer consumption",
+          "competition",
+          "growth management"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section discusses business strategy, including the Informatica IDMC platform and key partnerships, along with the company's ability to increase and predict customer consumption, compete effectively, and manage growth."
+      }
+    },
+    {
+      "chunk_id": "prose_d_38",
+      "text": "\u2022 Cloud Subscription ARR increased to $968.6 million, representing 29.5% year-over-year growth or 29.4% year-over-year growth on a constant currency basis. Cloud Subscription ARR included a positive impact of approximately $0.7 million from FX rates year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription ARR",
+            "type": "other",
+            "attributes": {
+              "year_over_year_growth": "29.5%",
+              "constant_currency_year_over_year_growth": "29.4%",
+              "fx_impact": "approximately $0.7 million",
+              "fx_impact_direction": "positive",
+              "period": "year-over-year"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "968.6",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-over-year"
+          },
+          {
+            "figure": "0.7",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "Cloud Subscription ARR",
+          "year-over-year growth",
+          "constant currency growth",
+          "foreign exchange impact"
+        ],
+        "sentiment": "positive",
+        "summary": "Cloud Subscription ARR increased to $968.6 million, with 29.5% year-over-year growth and a 29.4% increase on a constant currency basis, aided by a positive FX impact of approximately $0.7 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_79",
+      "text": "\u2022 Launched Unstructured Data Governance (Private Preview) enabling CDGC users to scan, classify and catalog unstructured data files with classification based on hierarchical taxonomies, allowing enterprises to curate content for GenAI use cases within their data catalog.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Unstructured Data Governance",
+            "type": "other",
+            "attributes": {
+              "status": "Private Preview",
+              "function": "scan, classify, and catalog unstructured data files",
+              "classification_method": "hierarchical taxonomies",
+              "use_case": "GenAI content curation within data catalog"
+            }
+          },
+          {
+            "name": "CDGC",
+            "type": "other",
+            "attributes": {
+              "role": "users can access the feature"
+            }
+          },
+          {
+            "name": "GenAI",
+            "type": "other",
+            "attributes": {
+              "context": "use cases for content curation"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "unstructured data governance",
+          "data cataloging",
+          "classification",
+          "hierarchical taxonomies",
+          "GenAI use cases",
+          "private preview"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the private preview launch of Unstructured Data Governance, a feature for CDGC users to scan, classify, and catalog unstructured data files to support GenAI-related content curation."
+      }
+    },
+    {
+      "chunk_id": "prose_d_86",
+      "text": "\u25e6 launched support for IDMC deployments within OCI Dedicated Regions, enabling customers to run the entire IDMC platform, including MDM, data governance, and other IDMC services in a private, sovereign environment to address stringent regulatory and data-residency requirements.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "IDMC",
+            "type": "other",
+            "attributes": {
+              "description": "Intelligent Data Management Cloud platform",
+              "context": "deployed within OCI Dedicated Regions"
+            }
+          },
+          {
+            "name": "OCI Dedicated Regions",
+            "type": "other",
+            "attributes": {
+              "description": "Oracle Cloud Infrastructure dedicated regions",
+              "context": "private, sovereign environment for IDMC deployments"
+            }
+          },
+          {
+            "name": "MDM",
+            "type": "other",
+            "attributes": {
+              "description": "Master Data Management",
+              "context": "included as part of the IDMC platform support"
+            }
+          },
+          {
+            "name": "data governance",
+            "type": "other",
+            "attributes": {
+              "context": "included as part of the IDMC platform support"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cloud deployment",
+          "sovereign cloud",
+          "data residency",
+          "regulatory compliance",
+          "IDMC platform support",
+          "OCI Dedicated Regions"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces support for IDMC deployments within OCI Dedicated Regions, allowing customers to run the full IDMC platform in a private, sovereign environment to meet regulatory and data-residency requirements."
+      }
+    },
+    {
+      "chunk_id": "prose_d_85",
+      "text": "\u25e6 announced availability of Informatica MDM SaaS on OCI, delivering unified, trusted data from any business domain, including customer, supplier, product, patient, and provider, with enterprise-grade security, performance, and cloud-native efficiency starting in November 2025; and",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "product": "Informatica MDM SaaS",
+              "platform": "OCI",
+              "availability_start": "November 2025",
+              "features": "unified, trusted data; enterprise-grade security; performance; cloud-native efficiency",
+              "domains": "customer, supplier, product, patient, provider"
+            }
+          },
+          {
+            "name": "OCI",
+            "type": "other",
+            "attributes": {
+              "full_name": "Oracle Cloud Infrastructure",
+              "role": "cloud platform"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product availability",
+          "cloud software",
+          "master data management",
+          "Oracle Cloud Infrastructure",
+          "enterprise data security"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the availability of Informatica MDM SaaS on OCI starting in November 2025, highlighting unified trusted data across multiple business domains and emphasizing security, performance, and cloud-native efficiency."
+      }
+    },
+    {
+      "chunk_id": "prose_d_138",
+      "text": "We review several operating and financial metrics, including the following unaudited non-GAAP financial measures and key business metrics to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "operating metrics",
+          "financial metrics",
+          "non-GAAP financial measures",
+          "key business metrics",
+          "business performance evaluation",
+          "trend analysis",
+          "business planning",
+          "strategic decision-making"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the company reviews operating and financial metrics, including unaudited non-GAAP financial measures and key business metrics, to evaluate performance, identify trends, plan the business, and make strategic decisions."
+      }
+    },
+    {
+      "chunk_id": "prose_d_25",
+      "text": "\u2022 GAAP Total Revenues increased to $439.2 million, representing 3.9% year-over-year growth or 2.2% year-over-year growth on a constant currency basis (1) . Total revenues included a positive impact of approximately $7.4 million from foreign currency exchange rates (FX) year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "GAAP Total Revenues",
+            "type": "other",
+            "attributes": {
+              "description": "Total revenues reported on a GAAP basis",
+              "year_over_year_growth": "3.9%",
+              "constant_currency_growth": "2.2%",
+              "fx_impact": "approximately $7.4 million"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "439.2",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current period"
+          },
+          {
+            "figure": "3.9%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "year-over-year"
+          },
+          {
+            "figure": "2.2%",
+            "type": "revenue",
+            "currency": "other",
+            "period": "year-over-year constant currency"
+          },
+          {
+            "figure": "7.4",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "GAAP total revenues",
+          "year-over-year growth",
+          "constant currency growth",
+          "foreign currency exchange impact"
+        ],
+        "sentiment": "positive",
+        "summary": "GAAP total revenues increased to $439.2 million, reflecting 3.9% year-over-year growth, or 2.2% growth on a constant currency basis, with a $7.4 million positive FX impact."
+      }
+    },
+    {
+      "chunk_id": "prose_d_204",
+      "text": "(iii) The Company previously presented Perpetual license revenues separately. Because revenues for perpetual licenses are not material for current or past periods due to our transition to a cloud-only, consumption-driven strategy, the Company has combined these amounts into Self-managed",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "previously_presented_item": "Perpetual license revenues",
+              "current_presentation": "combined into Self-managed",
+              "reason_for_change": "Perpetual license revenues are not material for current or past periods due to transition to a cloud-only, consumption-driven strategy"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "revenue presentation change",
+          "perpetual license revenues",
+          "cloud-only strategy",
+          "consumption-driven strategy",
+          "materiality"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states that it previously presented perpetual license revenues separately, but now combines them into Self-managed because such revenues are not material due to its transition to a cloud-only, consumption-driven strategy."
+      }
+    },
+    {
+      "chunk_id": "prose_d_397",
+      "text": "Revenue recognized over time refers to ratable recognition over the contractual term. Revenue recognized at a point in time refers to recognition upon the later of when the software license is made available or the contractual term commences. Professional services are recognized as services are provided.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "revenue recognition over time",
+          "revenue recognition at a point in time",
+          "software license availability",
+          "professional services revenue recognition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes revenue recognition policies: revenue over time is recognized ratably over the contractual term, revenue at a point in time is recognized when the software license is made available or the contractual term begins, and professional services are recognized as performed."
+      }
+    },
+    {
+      "chunk_id": "prose_d_355",
+      "text": "(2) Includes foreign exchange remeasurement gain (loss) of $3.6 million and $(11.1) million for the three months ended September\u00a030, 2025 and 2024, respectively and $(22.8) million and $(5.2) million for the nine months ended September\u00a030, 2025 and 2024, respectively, primarily from U.S. dollar cash held offshore.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. dollar cash held offshore",
+            "type": "other",
+            "attributes": {
+              "context": "Primary source of foreign exchange remeasurement gain (loss)"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "3.6",
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended September 30, 2025"
+          },
+          {
+            "figure": "-11.1",
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended September 30, 2024"
+          },
+          {
+            "figure": "-22.8",
+            "type": "other",
+            "currency": "USD",
+            "period": "nine months ended September 30, 2025"
+          },
+          {
+            "figure": "-5.2",
+            "type": "other",
+            "currency": "USD",
+            "period": "nine months ended September 30, 2024"
+          }
+        ],
+        "key_topics": [
+          "foreign exchange remeasurement gain (loss)",
+          "U.S. dollar cash held offshore",
+          "three-month period comparison",
+          "nine-month period comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "The section reports foreign exchange remeasurement gains and losses for the three- and nine-month periods ended September 30, 2025 and 2024, primarily driven by U.S. dollar cash held offshore."
+      }
+    },
+    {
+      "chunk_id": "prose_d_78",
+      "text": "\u2022 Launched AI Agent Hub (Private Preview) offering pre-built, domain-specific AI agents and automation recipes that dramatically reduce setup time. These include integrations across Jira, Salesforce, Dynamics, Snowflake and Microsoft Teams, alongside support for specialized lead management, approval workflows and MDM data discovery.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "AI Agent Hub",
+            "type": "other",
+            "attributes": {
+              "launch_status": "Private Preview",
+              "description": "Offers pre-built, domain-specific AI agents and automation recipes",
+              "benefits": "Dramatically reduces setup time",
+              "integrations": "Jira, Salesforce, Dynamics, Snowflake, Microsoft Teams",
+              "capabilities": "Specialized lead management, approval workflows, MDM data discovery"
+            }
+          },
+          {
+            "name": "Jira",
+            "type": "other",
+            "attributes": {
+              "category": "integration"
+            }
+          },
+          {
+            "name": "Salesforce",
+            "type": "other",
+            "attributes": {
+              "category": "integration"
+            }
+          },
+          {
+            "name": "Dynamics",
+            "type": "other",
+            "attributes": {
+              "category": "integration"
+            }
+          },
+          {
+            "name": "Snowflake",
+            "type": "other",
+            "attributes": {
+              "category": "integration"
+            }
+          },
+          {
+            "name": "Microsoft Teams",
+            "type": "other",
+            "attributes": {
+              "category": "integration"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "AI agents",
+          "automation recipes",
+          "private preview launch",
+          "software integrations",
+          "lead management",
+          "approval workflows",
+          "MDM data discovery"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the private preview launch of AI Agent Hub, which provides pre-built domain-specific AI agents and automation recipes with integrations across major enterprise platforms and support for lead management, approvals, and MDM data discovery."
+      }
+    },
+    {
+      "chunk_id": "prose_d_77",
+      "text": "\u2022 Launched AI Agent Engineering (Private Preview) enabling enterprises to build, connect, orchestrate and manage customizable Informatica agents through a no-code interface, reducing AI agent development time. With built-in test consoles for validation, advanced monitoring, full SDLC support, logging and observability, customers can build, test, deploy, monitor and govern AI agents at scale.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "product": "AI Agent Engineering",
+              "release_status": "Private Preview",
+              "capabilities": "build, connect, orchestrate and manage customizable AI agents through a no-code interface",
+              "features": "built-in test consoles, advanced monitoring, full SDLC support, logging, observability",
+              "benefit": "reducing AI agent development time"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "AI agent engineering",
+          "no-code platform",
+          "enterprise software",
+          "monitoring and observability",
+          "SDLC support",
+          "private preview launch"
+        ],
+        "sentiment": "positive",
+        "summary": "Informatica launched AI Agent Engineering in private preview, enabling enterprises to build, test, deploy, monitor, and govern customizable AI agents through a no-code interface with integrated validation, monitoring, and observability features."
+      }
+    },
+    {
+      "chunk_id": "prose_d_187",
+      "text": "\u2022 Cloud subscription revenue (i) represents revenues from cloud subscription offerings, which deliver applications and infrastructure technologies via cloud-based deployment models for which we develop functionality, provide unspecified updates and enhancements, host, manage, upgrade, and support, and that customers access by entering into a subscription agreement with us for a stated period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud subscription revenue",
+            "type": "other",
+            "attributes": {
+              "description": "Revenues from cloud subscription offerings delivered via cloud-based deployment models",
+              "services_included": "Develop functionality, provide unspecified updates and enhancements, host, manage, upgrade, and support",
+              "customer_access": "Customers access by entering into a subscription agreement for a stated period"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cloud subscription revenue",
+          "subscription agreements",
+          "cloud-based deployment models",
+          "software and infrastructure services",
+          "customer support and updates"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines cloud subscription revenue as revenue from cloud-based subscription offerings that include application and infrastructure technologies, ongoing updates, hosting, management, upgrades, and support under subscription agreements."
+      }
+    },
+    {
+      "chunk_id": "prose_d_395",
+      "text": "(iii) The Company previously presented Perpetual license revenue separately. Because revenue for perpetual licenses are not material for current or past periods due to our transition to a cloud-only, consumption-driven strategy, the Company has combined these amounts into Self-managed subscription license recognized at a point in time and retrospectively adjusted past periods for comparative purposes.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "previously_presented_item": "Perpetual license revenue",
+              "current_presentation": "Self-managed subscription license recognized at a point in time",
+              "strategy": "cloud-only, consumption-driven",
+              "restatement": "retrospectively adjusted past periods for comparative purposes"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "revenue presentation change",
+          "perpetual license revenue",
+          "self-managed subscription license",
+          "cloud-only strategy",
+          "retrospective adjustment"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states that perpetual license revenue is no longer material due to its shift to a cloud-only, consumption-driven strategy, so it has combined this revenue into self-managed subscription license revenue recognized at a point in time and retrospectively adjusted prior periods for comparison."
+      }
+    },
+    {
+      "chunk_id": "prose_d_196",
+      "text": "Self-managed subscription license revenue (i)(iii) represents revenues from customers and partners for the license rights to our on-premise self-managed software during a subscription term. When customers enter into a new subscription contract or renew an existing contract, this revenue is recognized upon the later of when the software license is made available to the customer or the subscription term commences.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Self-managed subscription license revenue",
+            "type": "other",
+            "attributes": {
+              "description": "Revenues from customers and partners for the license rights to on-premise self-managed software during a subscription term",
+              "recognition_policy": "Recognized upon the later of when the software license is made available to the customer or when the subscription term commences",
+              "references": "(i)(iii)"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "subscription license revenue",
+          "on-premise self-managed software",
+          "revenue recognition",
+          "new subscription contracts",
+          "contract renewals"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines self-managed subscription license revenue and explains that it is recognized when the software license becomes available to the customer or when the subscription term begins, whichever is later."
+      }
+    },
+    {
+      "chunk_id": "prose_d_62",
+      "text": "\u2022 Announced new capabilities in CLAIRE \u00ae GPT, including planning, advanced reasoning and improved natural language understanding, helping users plan, automate and optimize data workflows through natural language interactions. CLAIRE GPT's compound reasoning and execution system uses Azure OpenAI and AWS Bedrock Claude models within Informatica's secure cloud environment to deliver enterprise-grade agentic data management.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "CLAIRE GPT",
+            "type": "other",
+            "attributes": {
+              "description": "AI capability with planning, advanced reasoning, and improved natural language understanding",
+              "uses": "Helps users plan, automate, and optimize data workflows through natural language interactions",
+              "technology": "Compound reasoning and execution system",
+              "models": "Azure OpenAI and AWS Bedrock Claude",
+              "environment": "Informatica's secure cloud environment",
+              "purpose": "Enterprise-grade agentic data management"
+            }
+          },
+          {
+            "name": "Azure OpenAI",
+            "type": "other",
+            "attributes": {
+              "role": "Model provider used by CLAIRE GPT"
+            }
+          },
+          {
+            "name": "AWS Bedrock Claude",
+            "type": "other",
+            "attributes": {
+              "role": "Model provider used by CLAIRE GPT"
+            }
+          },
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "role": "Provider of secure cloud environment"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "AI capabilities",
+          "natural language understanding",
+          "workflow automation",
+          "advanced reasoning",
+          "agentic data management",
+          "cloud AI models"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces new CLAIRE GPT capabilities, including planning, advanced reasoning, and improved natural language understanding, designed to help users automate and optimize data workflows using Azure OpenAI and AWS Bedrock Claude within Informatica's secure cloud environment."
+      }
+    },
+    {
+      "chunk_id": "prose_d_76",
+      "text": "\u2022 Launched AI Governance and Inventory Workflows, a robust AI governance catalog for AI use cases tracking models, datasets, and approvals, ensuring responsible and compliant deployment across the enterprise. This includes the ability to customize evaluation metrics, scanning and visualizing lineage for AI models, and a workflow builder in CDGC that manages approvals for AI models, supporting better stakeholder collaboration.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "AI Governance and Inventory Workflows",
+            "type": "other",
+            "attributes": {
+              "description": "A robust AI governance catalog for AI use cases tracking models, datasets, and approvals",
+              "capabilities": "customize evaluation metrics, scan and visualize lineage for AI models, workflow builder in CDGC for approvals"
+            }
+          },
+          {
+            "name": "CDGC",
+            "type": "other",
+            "attributes": {
+              "description": "Workflow builder platform used to manage approvals for AI models"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "AI governance",
+          "inventory workflows",
+          "model tracking",
+          "dataset tracking",
+          "approval workflows",
+          "lineage visualization",
+          "evaluation metrics",
+          "enterprise compliance"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes the launch of AI Governance and Inventory Workflows, highlighting capabilities for tracking AI models and datasets, managing approvals, customizing evaluation metrics, and visualizing model lineage to support responsible enterprise deployment."
+      }
+    },
+    {
+      "chunk_id": "prose_d_80",
+      "text": "\u2022 Launched Agentic Product Information Management (PIM) for Product 360 and Agentforce Extension: new Agentic PIM for Product 360 (private preview) simplifies product data stewardship through intuitive conversational experiences. The MDM Extension for Agentforce connects Salesforce-native AI agents with unified, governed master data - bringing trusted, context-rich data and insights directly into customer engagement workflows.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agentic Product Information Management (PIM) for Product 360",
+            "type": "other",
+            "attributes": {
+              "status": "launched",
+              "preview": "private preview",
+              "description": "Simplifies product data stewardship through intuitive conversational experiences"
+            }
+          },
+          {
+            "name": "Product 360",
+            "type": "other",
+            "attributes": {
+              "context": "product information management"
+            }
+          },
+          {
+            "name": "MDM Extension for Agentforce",
+            "type": "other",
+            "attributes": {
+              "description": "Connects Salesforce-native AI agents with unified, governed master data"
+            }
+          },
+          {
+            "name": "Salesforce",
+            "type": "company",
+            "attributes": {
+              "context": "Salesforce-native AI agents"
+            }
+          },
+          {
+            "name": "Agentforce",
+            "type": "other",
+            "attributes": {
+              "context": "AI agents extension/platform"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "product information management",
+          "master data management",
+          "agentic AI",
+          "Salesforce integration",
+          "data stewardship",
+          "customer engagement workflows"
+        ],
+        "sentiment": "positive",
+        "summary": "The section announces the launch of Agentic PIM for Product 360 in private preview and an MDM Extension for Agentforce, highlighting AI-driven product data stewardship and integration with Salesforce-native workflows."
+      }
+    },
+    {
+      "chunk_id": "prose_d_81",
+      "text": "\u2022 Enhanced Open Table Iceberg for Data Lakehouse architecture: enterprises can use Databricks' scalable data lakehouse architecture by connecting and managing data stored in its Databricks-managed Iceberg tables. Enterprises can also maintain efficient, scalable, and reliable data pipelines with Iceberg BigLake tables in Google BigQuery data integration workflows, or leverage AWS SageMaker Lakehouse's modern architecture to access Iceberg tables on Amazon S3.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Databricks",
+            "type": "company",
+            "attributes": {
+              "role": "provider of scalable data lakehouse architecture",
+              "product": "Databricks-managed Iceberg tables"
+            }
+          },
+          {
+            "name": "Google BigQuery",
+            "type": "company",
+            "attributes": {
+              "role": "data integration workflow platform",
+              "product": "Iceberg BigLake tables"
+            }
+          },
+          {
+            "name": "AWS SageMaker Lakehouse",
+            "type": "company",
+            "attributes": {
+              "role": "modern architecture for accessing Iceberg tables",
+              "storage": "Amazon S3"
+            }
+          },
+          {
+            "name": "Amazon S3",
+            "type": "other",
+            "attributes": {
+              "role": "object storage platform"
+            }
+          },
+          {
+            "name": "Iceberg",
+            "type": "other",
+            "attributes": {
+              "role": "table format / architecture component"
+            }
+          },
+          {
+            "name": "BigLake",
+            "type": "other",
+            "attributes": {
+              "role": "table type"
+            }
+          },
+          {
+            "name": "Data Lakehouse",
+            "type": "other",
+            "attributes": {
+              "role": "data architecture"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "data lakehouse architecture",
+          "Iceberg tables",
+          "data integration workflows",
+          "cloud data platforms",
+          "data pipelines",
+          "Amazon S3"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes how enterprises can use Iceberg-based table architectures across Databricks, Google BigQuery, and AWS SageMaker Lakehouse to manage data, support integration workflows, and maintain scalable data pipelines."
+      }
+    },
+    {
+      "chunk_id": "prose_d_158",
+      "text": "Adjusted Unlevered Free Cash Flow (after-tax) represents operating cash flow less purchases of property and equipment and is adjusted for interest payments, sponsor-related costs, expenses associated with acquisitions and restructuring costs (including payments for impaired leases). We believe this measure provides useful supplemental information to investors because it is an indicator of our liquidity over the long term needed to maintain and grow our core business operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted Unlevered Free Cash Flow (after-tax)",
+            "type": "other",
+            "attributes": {
+              "definition": "Operating cash flow less purchases of property and equipment, adjusted for interest payments, sponsor-related costs, expenses associated with acquisitions, and restructuring costs including payments for impaired leases",
+              "purpose": "Supplemental liquidity measure over the long term"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted Unlevered Free Cash Flow",
+          "operating cash flow",
+          "capital expenditures",
+          "interest payments",
+          "sponsor-related costs",
+          "acquisition expenses",
+          "restructuring costs",
+          "liquidity"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Adjusted Unlevered Free Cash Flow (after-tax) as operating cash flow less capital expenditures, further adjusted for several non-operating and restructuring-related items, and states that it is used as a supplemental indicator of long-term liquidity."
+      }
+    },
+    {
+      "chunk_id": "prose_d_217",
+      "text": "Forrester, The Forrester Wave\u2122: Data Governance Solutions, Q3 2025, by Raluca Alexandru, 9 July 2025 was published by Forrester. Forrester does not endorse any company, product, brand, or service included in its research publications and does not advise any person to select the products or services of any company or brand based on the ratings included in such publications. Information is based on the best available resources. Opinions reflect judgment at the time and are subject to change.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Forrester",
+            "type": "company",
+            "attributes": {
+              "publication": "The Forrester Wave\u2122: Data Governance Solutions, Q3 2025",
+              "author": "Raluca Alexandru",
+              "publication_date": "9 July 2025",
+              "role": "publisher"
+            }
+          },
+          {
+            "name": "Raluca Alexandru",
+            "type": "person",
+            "attributes": {
+              "role": "author"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "data governance solutions",
+          "research publication disclaimer",
+          "ratings and endorsements",
+          "publication metadata"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies a Forrester research publication on data governance solutions authored by Raluca Alexandru and dated 9 July 2025, and includes a disclaimer that Forrester does not endorse companies or products mentioned in its research."
+      }
+    },
+    {
+      "chunk_id": "prose_d_189",
+      "text": "\u2022 Self-managed subscription support and other revenue (i) represents revenues generated primarily through the sale of license support contracts sold together with the self-managed subscription license purchased by the customer. Self-managed subscription license support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period and include internet access to technical content, as well as internet and telephone access to technical support personnel.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "self-managed subscription support and other revenue",
+            "type": "other",
+            "attributes": {
+              "description": "Revenue generated primarily through the sale of license support contracts sold together with the self-managed subscription license purchased by the customer",
+              "included_services": "rights to unspecified software product upgrades, maintenance releases and patches during the support period; internet access to technical content; internet and telephone access to technical support personnel"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "self-managed subscription support",
+          "other revenue",
+          "license support contracts",
+          "software upgrades and maintenance",
+          "technical support services"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that self-managed subscription support and other revenue comes mainly from license support contracts bundled with self-managed subscription licenses, providing customers access to software updates, maintenance, patches, technical content, and support."
+      }
+    },
+    {
+      "chunk_id": "prose_d_164",
+      "text": "Cloud Subscription Annual Recurring Revenue (\"Cloud Subscription ARR\") represents the portion of ARR that is attributable to our hosted cloud contracts. We believe that Cloud Subscription ARR is a helpful metric for understanding our business since it represents the approximate annualized cash value collected over a 12-month period for all of our recurring Cloud contracts. Cloud Subscription ARR should be viewed independently of cloud subscription revenue and deferred revenue related to our subscription contracts and is not intended to be combined with or to replace either of those items.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cloud Subscription ARR",
+            "type": "other",
+            "attributes": {
+              "full_name": "Cloud Subscription Annual Recurring Revenue",
+              "definition": "Portion of ARR attributable to hosted cloud contracts",
+              "purpose": "Helpful metric for understanding the business",
+              "measurement_basis": "Approximate annualized cash value collected over a 12-month period for recurring Cloud contracts",
+              "related_items": "cloud subscription revenue, deferred revenue related to subscription contracts",
+              "note": "Should be viewed independently and not combined with or used to replace related revenue or deferred revenue items"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Annual recurring revenue",
+          "Cloud subscription contracts",
+          "Metric definition",
+          "Deferred revenue",
+          "Revenue recognition"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Cloud Subscription ARR as the portion of annual recurring revenue attributable to hosted cloud contracts and explains that it measures the approximate annualized cash value of recurring cloud contracts over 12 months. It also notes that this metric should be considered separately from cloud subscription revenue and related deferred revenue."
+      }
+    },
+    {
+      "chunk_id": "prose_d_22",
+      "text": "\"We delivered another strong quarter with 29.5% year-over-year growth in Cloud Subscription ARR, driven by demand for our AI-powered IDMC platform. Customers continue to choose Informatica to scale their agentic AI initiatives and solve complex business challenges by building on IDMC powered for CLAIRE AI \u2014 empowering them to connect trusted, AI-ready data with seamless integration across platforms, enabling faster innovation, smarter operations, and the development of AI systems,\u201d said Amit Walia, Chief Executive Officer at Informatica. \u201cWe continued working toward closing the transaction with Salesforce.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "role": "mentioned company",
+              "product_platform": "IDMC",
+              "ai_platform": "CLAIRE AI",
+              "business_focus": "cloud subscription and AI-powered data management"
+            }
+          },
+          {
+            "name": "Amit Walia",
+            "type": "person",
+            "attributes": {
+              "title": "Chief Executive Officer",
+              "company": "Informatica"
+            }
+          },
+          {
+            "name": "Salesforce",
+            "type": "company",
+            "attributes": {
+              "context": "transaction counterparty"
+            }
+          },
+          {
+            "name": "IDMC",
+            "type": "other",
+            "attributes": {
+              "description": "AI-powered platform"
+            }
+          },
+          {
+            "name": "CLAIRE AI",
+            "type": "other",
+            "attributes": {
+              "description": "AI capability powering IDMC"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "29.5%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "Cloud Subscription ARR growth",
+          "AI-powered platform demand",
+          "agentic AI initiatives",
+          "data integration",
+          "Salesforce transaction"
+        ],
+        "sentiment": "positive",
+        "summary": "Informatica reported strong quarterly performance with 29.5% year-over-year Cloud Subscription ARR growth, driven by demand for its AI-powered IDMC platform, while also noting continued progress toward closing its transaction with Salesforce."
+      }
+    },
+    {
+      "chunk_id": "prose_d_146",
+      "text": "Adjusted EBITDA represents GAAP net income (loss) as adjusted for income tax benefit (expense), interest income, interest expense, debt refinancing costs, other income (expense) net, stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, amortization of intangibles, facility impairment, expenses associated with restructuring efforts, expenses associated with acquisitions, sponsor-related costs and depreciation. We believe adjusted EBITDA is an important metric for understanding our business to assess our relative profitability adjusted for balance sheet debt levels.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "GAAP net income (loss) adjusted for income tax benefit (expense), interest income, interest expense, debt refinancing costs, other income (expense) net, stock-based compensation-related charges, employer payroll tax-related items on employee stock transactions, amortization of intangibles, facility impairment, restructuring expenses, acquisition-related expenses, sponsor-related costs, and depreciation",
+              "purpose": "Used as an important metric to assess relative profitability adjusted for balance sheet debt levels"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "GAAP net income",
+          "profitability metric",
+          "debt adjustment",
+          "stock-based compensation",
+          "restructuring costs",
+          "acquisition expenses",
+          "depreciation",
+          "amortization of intangibles"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Adjusted EBITDA as GAAP net income adjusted for various non-operating, non-cash, and special items, and states that it is used to evaluate profitability while accounting for debt levels."
+      }
+    },
+    {
+      "chunk_id": "prose_d_113",
+      "text": "In a separate press release issued on May 27, 2025, Informatica announced that it had entered into a definitive agreement, or the Merger Agreement, to be acquired by Salesforce. A copy of the press release and supplemental materials can be found on the \u201cInvestor Relations\u201d page of our website at https://investors.informatica.com and on the Securities and Exchange Commission, or the SEC, website at http://www.sec.gov. Additional details and information about the terms and conditions of the Merger Agreement and the transactions contemplated by the Merger Agreement are available in the Current Report on Form 8-K filed with the SEC on May 28, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "role": "announced entry into definitive merger agreement",
+              "transaction": "to be acquired by Salesforce",
+              "press_release_date": "2025-05-27",
+              "form_8k_filing_date": "2025-05-28",
+              "website": "https://investors.informatica.com"
+            }
+          },
+          {
+            "name": "Salesforce",
+            "type": "company",
+            "attributes": {
+              "role": "acquirer"
+            }
+          },
+          {
+            "name": "Securities and Exchange Commission",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "SEC",
+              "website": "http://www.sec.gov"
+            }
+          },
+          {
+            "name": "Merger Agreement",
+            "type": "other",
+            "attributes": {
+              "description": "definitive agreement for Informatica to be acquired by Salesforce"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "merger agreement",
+          "acquisition",
+          "press release",
+          "SEC filing",
+          "investor relations"
+        ],
+        "sentiment": "neutral",
+        "summary": "Informatica announced that it entered into a definitive merger agreement to be acquired by Salesforce, with additional details available in a May 28, 2025 Form 8-K filing and related press materials."
+      }
+    },
+    {
+      "chunk_id": "prose_d_144",
+      "text": "Non-GAAP Income from Operations and Operating Margin and Non-GAAP Net Income exclude the effect of stock-based compensation expense-related charges, including employer payroll tax-related items on employee stock transactions, amortization of acquired intangibles, expenses associated with acquisitions, debt refinancing costs, sponsor-related costs, expenses associated with restructuring efforts, and facility impairment, and are adjusted for income tax effects. We believe the presentation of operating results that exclude these non-cash or non-recurring items provides useful supplemental information to investors and facilitates the analysis of our operating results and comparison of operating results across reporting periods.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Non-GAAP Income from Operations",
+            "type": "other",
+            "attributes": {
+              "description": "A non-GAAP operating performance measure excluding specified non-cash and non-recurring items."
+            }
+          },
+          {
+            "name": "Operating Margin",
+            "type": "other",
+            "attributes": {
+              "description": "A non-GAAP margin measure adjusted for specified exclusions."
+            }
+          },
+          {
+            "name": "Non-GAAP Net Income",
+            "type": "other",
+            "attributes": {
+              "description": "A non-GAAP profitability measure excluding specified non-cash and non-recurring items."
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP adjustments",
+          "stock-based compensation",
+          "amortization of acquired intangibles",
+          "acquisition-related expenses",
+          "debt refinancing costs",
+          "restructuring expenses",
+          "facility impairment",
+          "income tax effects"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that certain non-GAAP operating and net income measures exclude various non-cash and non-recurring expenses, and are adjusted for income tax effects to provide supplemental information and improve comparability across periods."
+      }
+    },
+    {
+      "chunk_id": "prose_d_223",
+      "text": "Informatica (NYSE: INFA), a leader in AI-powered enterprise cloud data management, helps businesses unlock the full value of their data and AI. As data grows in complexity and volume, Informatica\u2019s Intelligent Data Management Cloud\u2122 delivers a complete, end-to-end platform with a suite of industry-leading, integrated solutions to connect, manage and unify data across any cloud, hybrid or multi-cloud environment. Powered by CLAIRE \u00ae AI, Informatica\u2019s platform integrates natively with all major cloud providers, data warehouses and analytics tools\u2014 giving organizations the freedom of choice, avoiding vendor lock-in and delivering better ROI by enabling access to governed data, simplifying operations and scaling with confidence.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "ticker": "INFA",
+              "exchange": "NYSE",
+              "description": "AI-powered enterprise cloud data management company",
+              "product": "Intelligent Data Management Cloud",
+              "ai_platform": "CLAIRE AI"
+            }
+          },
+          {
+            "name": "Intelligent Data Management Cloud",
+            "type": "other",
+            "attributes": {
+              "trademark": "\u2122",
+              "description": "End-to-end data management platform"
+            }
+          },
+          {
+            "name": "CLAIRE AI",
+            "type": "other",
+            "attributes": {
+              "description": "AI engine powering Informatica's platform"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "enterprise cloud data management",
+          "AI-powered platform",
+          "data integration",
+          "multi-cloud environments",
+          "vendor lock-in avoidance",
+          "governed data access",
+          "operational scaling"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes Informatica as an AI-powered enterprise cloud data management company and highlights its Intelligent Data Management Cloud platform, powered by CLAIRE AI, which integrates with major cloud and analytics tools to help organizations manage data across cloud environments."
+      }
+    },
+    {
+      "chunk_id": "prose_d_168",
+      "text": "Maintenance Annual Recurring Revenue (\"Maintenance ARR\") represents the portion of ARR only attributable to our maintenance contracts. We believe that Maintenance ARR is a helpful metric for understanding our business since it represents the approximate annualized cash value collected over a 12-month period for all our maintenance contracts. Maintenance ARR includes maintenance contracts supporting our perpetual licenses. Maintenance ARR should be viewed independently of maintenance revenue and deferred revenue related to our maintenance contracts and is not intended to be combined with or to replace either of those items. As we continue to shift our focus from perpetual to cloud, we expect Maintenance ARR will decrease in future quarters.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Maintenance Annual Recurring Revenue (Maintenance ARR)",
+            "type": "other",
+            "attributes": {
+              "definition": "Portion of ARR attributable only to maintenance contracts",
+              "purpose": "Helpful metric for understanding the business",
+              "includes": "Maintenance contracts supporting perpetual licenses",
+              "excludes": "Maintenance revenue and deferred revenue related to maintenance contracts",
+              "trend_expectation": "Expected to decrease in future quarters as the company shifts from perpetual to cloud"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Maintenance ARR",
+          "maintenance contracts",
+          "perpetual licenses",
+          "deferred revenue",
+          "cloud transition"
+        ],
+        "sentiment": "negative",
+        "summary": "The section defines Maintenance ARR as the annualized cash value from maintenance contracts, notes that it includes maintenance for perpetual licenses, and states it is separate from maintenance revenue and deferred revenue. It also indicates Maintenance ARR is expected to decline as the company shifts from perpetual to cloud."
+      }
+    },
+    {
+      "chunk_id": "prose_d_166",
+      "text": "Self-managed Subscription Annual Recurring Revenue (\"Self-Managed Subscription ARR\") represents the portion of ARR that is attributable to our self-managed subscription contracts. We believe that Self-Managed Subscription ARR is a helpful metric for understanding our business since it represents the approximate annualized cash value collected over a 12-month period for all of our recurring self-managed subscription contracts. Self-Managed Subscription ARR should be viewed independently of subscription revenue and deferred revenue related to our subscription contracts and is not intended to be combined with or to replace either of those items. As we continue to shift our focus from perpetual to cloud, we expect Self-managed Subscription ARR will decrease in future quarters.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Self-Managed Subscription ARR",
+            "type": "other",
+            "attributes": {
+              "definition": "Portion of ARR attributable to self-managed subscription contracts",
+              "description": "Approximate annualized cash value collected over a 12-month period for recurring self-managed subscription contracts",
+              "relationship_to_other_metrics": "Should be viewed independently of subscription revenue and deferred revenue",
+              "trend_expectation": "Expected to decrease in future quarters as focus shifts from perpetual to cloud"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Annual recurring revenue",
+          "Self-managed subscriptions",
+          "Subscription revenue",
+          "Deferred revenue",
+          "Cloud transition",
+          "Metric definition"
+        ],
+        "sentiment": "negative",
+        "summary": "The section defines Self-Managed Subscription ARR as the annualized cash value of recurring self-managed subscription contracts, notes it should be considered separately from subscription and deferred revenue, and indicates it is expected to decline as the company shifts from perpetual to cloud."
+      }
+    },
+    {
+      "chunk_id": "prose_d_115",
+      "text": "In light of the pending transaction with Salesforce, Informatica will not be hosting an earnings conference call to review the third quarter or providing financial guidance in conjunction with this press release. The Merger is expected to close in the fourth quarter of Salesforce's fiscal year 2026 or early in Salesforce\u2019s fiscal year 2027, which begins on February 1, 2026, subject to the receipt of required regulatory clearances and satisfaction of other customary closing conditions set forth in the Merger Agreement. For further detail and discussion of our financial performance, please refer to our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC, and our Quarterly Report on Form 10-Q that will be filed for the third quarter ended September 30, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Salesforce",
+            "type": "company",
+            "attributes": {
+              "role": "pending transaction counterparty",
+              "fiscal_year_2026": "begins on February 1, 2026"
+            }
+          },
+          {
+            "name": "Informatica",
+            "type": "company",
+            "attributes": {
+              "role": "company in pending transaction",
+              "conference_call": "will not host earnings conference call for third quarter",
+              "guidance": "will not provide financial guidance with this press release"
+            }
+          },
+          {
+            "name": "SEC",
+            "type": "other",
+            "attributes": {
+              "role": "regulatory filing authority"
+            }
+          },
+          {
+            "name": "Merger Agreement",
+            "type": "other",
+            "attributes": {
+              "role": "agreement governing the transaction"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2024-12-31",
+            "type": "other",
+            "currency": "other",
+            "period": "year ended December 31, 2024"
+          },
+          {
+            "figure": "2025-09-30",
+            "type": "other",
+            "currency": "other",
+            "period": "third quarter ended September 30, 2025"
+          }
+        ],
+        "key_topics": [
+          "pending merger transaction",
+          "earnings conference call cancellation",
+          "financial guidance withheld",
+          "regulatory clearances",
+          "closing conditions",
+          "SEC filings",
+          "Form 10-K",
+          "Form 10-Q"
+        ],
+        "sentiment": "neutral",
+        "summary": "Informatica says it will not hold an earnings call or provide guidance because of its pending transaction with Salesforce. The merger is expected to close in late Salesforce fiscal 2026 or early fiscal 2027, subject to regulatory approvals and other closing conditions, and the company directs readers to its recent and upcoming SEC filings for financial details."
+      }
+    },
+    {
+      "chunk_id": "prose_d_219",
+      "text": "Gartner Market Share: Enterprise Software, Worldwide 2024, by Varsha Mehta, et al., 17 April 2025 was published by Gartner, Inc. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission, and the objectivity disclaimer given above. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Gartner, Inc.",
+            "type": "company",
+            "attributes": {
+              "role": "publisher",
+              "trademark": "GARTNER",
+              "publication": "Gartner Market Share: Enterprise Software, Worldwide 2024",
+              "publication_date": "2025-04-17"
+            }
+          },
+          {
+            "name": "Varsha Mehta",
+            "type": "person",
+            "attributes": {
+              "role": "author"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "market share research",
+          "enterprise software",
+          "worldwide market",
+          "publication disclaimer",
+          "trademark notice"
+        ],
+        "sentiment": "neutral",
+        "summary": "This section identifies a Gartner market share research publication on worldwide enterprise software for 2024, names the author and publisher, and includes standard trademark and disclaimer language."
+      }
+    },
+    {
+      "chunk_id": "prose_d_181",
+      "text": "year. We treat divisions, segments, or subsidiaries of a company as one customer when defining the Global Parent level. Global Parent customers are determined using Dun & Bradstreet GDUNS identifiers. To calculate our Cloud Subscription NRR for a particular period, we first establish the Cloud Subscription ARR value at the end of the prior year period. We subsequently measure the Cloud Subscription ARR value at the end of the current period from the same cohort of customers. Cloud Subscription NRR is then calculated by dividing the aggregate Cloud Subscription ARR in the current period by the prior year period. An increase in the Cloud Subscription NRR occurs as a result of price increases on existing contracts, higher consumption of existing products, and sales of additional new subscription products to existing customers exceeding losses from subscription contracts due to price decreases, usage decreases and cancellations. We believe Cloud Subscription NRR is an important metric for understanding our business since it measures the rate at which we are able to sell additional products into our cloud subscription customer base.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Global Parent",
+            "type": "other",
+            "attributes": {
+              "definition": "Customer grouping level that treats divisions, segments, or subsidiaries of a company as one customer"
+            }
+          },
+          {
+            "name": "Dun & Bradstreet GDUNS",
+            "type": "other",
+            "attributes": {
+              "role": "Identifier used to determine Global Parent customers"
+            }
+          },
+          {
+            "name": "Cloud Subscription NRR",
+            "type": "other",
+            "attributes": {
+              "definition": "Net revenue retention metric for cloud subscription customers"
+            }
+          },
+          {
+            "name": "Cloud Subscription ARR",
+            "type": "other",
+            "attributes": {
+              "definition": "Annual recurring revenue measure used in calculating Cloud Subscription NRR"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "customer cohort definition",
+          "Global Parent customer grouping",
+          "Dun & Bradstreet GDUNS identifiers",
+          "Cloud Subscription ARR",
+          "Cloud Subscription NRR calculation",
+          "subscription retention metrics",
+          "customer expansion and churn"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains how Global Parent customers are defined and how Cloud Subscription NRR is calculated by comparing Cloud Subscription ARR for the same customer cohort across periods. It also describes the factors that can increase NRR, such as price increases, higher consumption, and additional subscription sales, offset by decreases and cancellations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_142",
+      "text": "In addition to our results determined in accordance with U.S. generally accepted accounting principles (GAAP), we believe the following non-GAAP measures are useful in evaluating our operating performance. We use the following non-GAAP financial measures to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe that these non-GAAP financial measures, when taken collectively, may be helpful to investors because they provide consistency and comparability with past financial performance. However, non-GAAP financial measures are presented for supplemental informational purposes only, have limitations as an analytical tool, and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. In addition, other companies, including companies in our industry, may calculate similarly titled non-GAAP measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison. A reconciliation is provided below for our non-GAAP financial measures to the most directly comparable financial measures stated in accordance with GAAP. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures, and not to rely on any single financial measure to evaluate our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. generally accepted accounting principles (GAAP)",
+            "type": "other",
+            "attributes": {
+              "role": "benchmark accounting framework"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "role": "supplemental performance metrics"
+            }
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {
+              "role": "intended audience"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP measures",
+          "GAAP reconciliation",
+          "operating performance",
+          "internal planning and forecasting",
+          "comparability and consistency",
+          "investor caution"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the company uses non-GAAP financial measures to evaluate operating performance and for planning purposes, but emphasizes that these measures are supplemental, have limitations, and should be reviewed alongside GAAP results and reconciliations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_162",
+      "text": "Annual Recurring Revenue (\"ARR\") represents the expected annual billing amounts from all active maintenance and subscription agreements. ARR is calculated based on the contract Monthly Recurring Revenue (MRR) multiplied by 12. MRR is calculated based on the accounting adjusted total contract value divided by the number of months of the agreement based on the start and end dates of each contracted line item. The aggregate ARR calculated at the end of each reported period represents the value of all contracts that are active as of the end of the period, including those contracts that have expired but are still under negotiation for renewal. We typically allow for a grace period of up to 6 months past the original contract expiration quarter during which we engage in the renewal process before we report the contract as lost/inactive. This grace-period ARR amount has been approximately 2% or less of the reported ARR in each period presented. If there is an actual cancellation of an ARR contract, we remove that ARR value at that time. We believe ARR is an important metric for understanding our business since it tracks the annualized cash value collected over a 12-month period for all of our recurring contracts, irrespective of whether it is a maintenance contract on a perpetual license, a ratable cloud contract, or a self-managed term-based subscription license. ARR should be viewed independently of total revenue and deferred revenue related to our subscription and services contracts and is not intended to be combined with or to replace either of those items.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Annual Recurring Revenue (ARR)",
+            "type": "other",
+            "attributes": {
+              "definition": "Expected annual billing amounts from all active maintenance and subscription agreements",
+              "calculation": "Contract MRR multiplied by 12",
+              "inclusion": "Includes active contracts at period end, including expired contracts still under renewal negotiation",
+              "grace_period": "Up to 6 months past original contract expiration quarter",
+              "treatment_of_cancellations": "Removed when an ARR contract is actually canceled",
+              "purpose": "Important metric for understanding recurring business and annualized cash value"
+            }
+          },
+          {
+            "name": "Monthly Recurring Revenue (MRR)",
+            "type": "other",
+            "attributes": {
+              "definition": "Monthly recurring revenue used to calculate ARR",
+              "calculation": "Accounting adjusted total contract value divided by the number of months of the agreement based on start and end dates of each contracted line item"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2%",
+            "type": "other",
+            "currency": "other",
+            "period": "each period presented"
+          },
+          {
+            "figure": "6",
+            "type": "other",
+            "currency": "other",
+            "period": "grace period in months"
+          }
+        ],
+        "key_topics": [
+          "Annual Recurring Revenue",
+          "Monthly Recurring Revenue",
+          "ARR calculation methodology",
+          "contract renewal grace period",
+          "contract cancellations",
+          "recurring revenue metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines ARR and MRR, explains how ARR is calculated and reported, and describes the treatment of renewals, cancellations, and grace periods for active contracts."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\INFA_2025_Q3.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

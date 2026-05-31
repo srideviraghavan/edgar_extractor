@@ -1,0 +1,22 @@
+{
+  "filing_id": "ZIP_2023_Q4",
+  "ticker": "ZIP",
+  "fiscal_year": 2023,
+  "fiscal_quarter": "Q4",
+  "company_name": "ZipRecruiter, Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "net_income": {
+      "value": -32994,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 1,
+  "tags": [
+    "shareholder_letter_redirect",
+    "minimal_tables"
+  ]
+}

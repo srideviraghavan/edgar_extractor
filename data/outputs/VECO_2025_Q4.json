@@ -1,0 +1,1210 @@
+{
+  "filing_id": "VECO_2025_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        ""
+      ],
+      "rows": [
+        {
+          "": "U.S. Dollars in millions, except per share data"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "",
+        "4th Quarter",
+        "",
+        "Full Year"
+      ],
+      "rows": [
+        {
+          "": "",
+          "4th Quarter": "Q4 '25",
+          "Full Year": "Q4 '24"
+        },
+        {
+          "": "165.0",
+          "4th Quarter": "$",
+          "Full Year": ""
+        },
+        {
+          "": "1.1",
+          "4th Quarter": "$",
+          "Full Year": ""
+        },
+        {
+          "": "0.02",
+          "4th Quarter": "$",
+          "Full Year": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "",
+        "4th Quarter",
+        "",
+        "Full Year"
+      ],
+      "rows": [
+        {
+          "": "",
+          "4th Quarter": "Q4 '25",
+          "Full Year": "Q4 '24"
+        },
+        {
+          "": "13.8",
+          "4th Quarter": "$",
+          "Full Year": ""
+        },
+        {
+          "": "14.7",
+          "4th Quarter": "$",
+          "Full Year": ""
+        },
+        {
+          "": "0.24",
+          "4th Quarter": "$",
+          "Full Year": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Net sales"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Cost of sales"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Operating expenses, net:"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Research and development"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Selling, general, and administrative"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Amortization of intangible assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Merger costs"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Asset impairment"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Other operating expense (income), net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Total operating expenses, net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Operating income (loss)"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Interest income (expense), net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Other income (expense), net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Income before income taxes"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Income tax expense (benefit)"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Income per common share:"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Weighted average number of shares:"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Statements of Operations(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)"
+      ],
+      "rows": [
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Current assets:"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Cash and cash equivalents"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Restricted cash"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Short-term investments"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Accounts receivable, net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Contract assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Inventories"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Prepaid expenses and other current assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total current assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Property, plant and equipment, net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Operating lease right-of-use assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Intangible assets, net"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Goodwill"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Deferred income taxes"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Other assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total assets"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Liabilities and stockholders\u2019 equity"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Current liabilities:"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Accounts payable"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Accrued expenses and other current liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Contract liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Income taxes payable"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Current portion of long-term debt"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total current liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Deferred income taxes"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Long-term debt"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Long-term operating lease liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Other liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total liabilities"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": ""
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total stockholders\u2019 equity"
+        },
+        {
+          "Veeco Instruments\u00a0Inc. and SubsidiariesCondensed Consolidated Balance Sheets(in thousands)": "Total liabilities and stockholders\u2019 equity"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Three months ended December\u00a031, 2025"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Operating income (loss)"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "Net income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2025)(in thousands)\n(unaudited)": "________________________________^ \u2013 See table below for additional details."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Three months ended December\u00a031, 2025"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Merger related expenses"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Changes in contingent consideration"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Subtotal"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Non-cash interest expense"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Non-GAAP tax adjustment *"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "Total Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2025)(in thousands)\n(unaudited)": "________________________________* \u2013 The \u2018with or without\u2019 method is utilized to determine the income tax effect of all Non-GAAP adjustments."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_8",
+      "headers": [
+        "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Net income available to common shareholders"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2029 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Net Income per Common Share (Q4 2025)(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Three months ended December\u00a031, 2024"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Operating income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "Net income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q4 2024)(in thousands)\n(unaudited)": "________________________________^ \u2013 See table below for additional details."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_10",
+      "headers": [
+        "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Three months ended December\u00a031, 2024"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Asset impairment"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Change in contingent consideration"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Subtotal"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Non-cash interest expense"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Tax benefit associated with asset impairment"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Non-GAAP tax adjustment *"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "Total Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (Q4 2024)(in thousands)\n(unaudited)": "________________________________* \u2013 The \u2018with or without\u2019 method is utilized to determine the income tax effect of all Non-GAAP adjustments."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_11",
+      "headers": [
+        "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Interest expense associated with 2025 and 2027 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income available to common shareholders"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2025 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2027 Convertible Senior Notes(1)"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        },
+        {
+          "Net Income per Common Share (Q4 2024)(in thousands, except per share amounts)\n(unaudited)": "________________________________(1) The non-GAAP incremental dilutive shares includes the impact of the Company\u2019s capped call transaction issued concurrently with our 2027 Notes, and as such, an effective conversion price of $18.46 is used when determining incremental shares to add to the dilutive share count. The GAAP incremental dilutive shares does not include the impact of the Company\u2019s capped call transaction, and as such, an effective conversion price of $13.98 is used when determining incremental shares to add to the dilutive share count."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_12",
+      "headers": [
+        "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "GAAP Net income (loss)"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Share-based compensation"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Amortization"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Asset impairment"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Changes in contingent consideration"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Merger related expenses"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Interest (income) expense, net"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Other"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Income tax expense (benefit)"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q4 2025 and 2024)(in thousands)\n(unaudited)": "Non-GAAP Operating income"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_13",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "For the year ended December\u00a031, 2025"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Operating income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "Net income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2025)(in thousands)\n(unaudited)": "________________________________^ - See table below for additional details."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_14",
+      "headers": [
+        "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "For the year ended December\u00a031, 2025"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Merger related expenses"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Changes in contingent consideration"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Subtotal"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Non-cash interest expense"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Other (income) expense, net"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Non-GAAP tax adjustment *"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "Total Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2025)(in thousands)\n(unaudited)": "________________________________* - The \u2018with or without\u2019 method is utilized to determine the income tax effect of all Non-GAAP adjustments."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_15",
+      "headers": [
+        "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Interest expense associated with convertible notes"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Net income available to common shareholders"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2025 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2027 Convertible Senior Notes(1)"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        },
+        {
+          "Net Income per Common Share (FY 2025)(in thousands, except per share amounts)\n(unaudited)": "________________________________(1) The non-GAAP incremental dilutive shares includes the impact of the Company\u2019s capped call transaction issued concurrently with our 2027 Notes, and as such, an effective conversion price of $18.46 is used when determining incremental shares to add to the dilutive share count. The GAAP incremental dilutive shares does not include the impact of the Company\u2019s capped call transaction, and as such, an effective conversion price of $13.98 is used when determining incremental shares to add to the dilutive share count."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_16",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "For the year ended December\u00a031, 2024"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Operating income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "Net income (loss)"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2024)(in thousands)\n(unaudited)": "________________________________^ \u2013 See table below for additional details."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_17",
+      "headers": [
+        "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "For the year ended December\u00a031, 2024"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Asset Impairment"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Changes in contingent consideration"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Sale of productive assets"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Subtotal"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Non-cash interest expense"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Tax benefits associated with asset impairments"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Non-GAAP tax adjustment *"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "Total Other"
+        },
+        {
+          "Other Non-GAAP Adjustments (FY 2024)(in thousands)\n(unaudited)": "________________________________* \u2013 The \u2018with or without\u2019 method is utilized to determine the income tax effect of all Non-GAAP adjustments."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_18",
+      "headers": [
+        "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Interest expense associated with convertible notes"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income available to common shareholders"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2025 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2027 Convertible Senior Notes(1)"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Dilutive effect of 2029 Convertible Senior Notes"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Basic"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "Diluted"
+        },
+        {
+          "Net Income per Common Share (FY 2024)(in thousands, except per share amounts)\n(unaudited)": "________________________________(1) The non-GAAP incremental dilutive shares includes the impact of the Company\u2019s capped call transaction issued concurrently with our 2027 Notes, and as such, an effective conversion price of $18.46 is used when determining incremental shares to add to the dilutive share count. The GAAP incremental dilutive shares does not include the impact of the Company\u2019s capped call transaction, and as such, an effective conversion price of $13.98 is used when determining incremental shares to add to the dilutive share count."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_19",
+      "headers": [
+        "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "GAAP Net income"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Share-based compensation"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Amortization"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Asset impairment"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Merger related expenses"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Changes in contingent consideration"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Sales of productive assets"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Interest (income) expense, net"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Other"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Income tax expense (benefit)"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2025 and 2024)(in thousands)\n(unaudited)": "Non-GAAP Operating income"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_20",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Guidance for the three months ending"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "March 31, 2026"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Operating income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Income per diluted common share"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_21",
+      "headers": [
+        "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Guidance for the three months ending March 31, 2026"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Net income (loss) available to common shareholders"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Dilutive effect of 2029 Convertible Senior Notes"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Income per Diluted Common Share (Q1 2026)(in millions, except per share amounts)\n(unaudited)": "Income (loss) per diluted common share"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_22",
+      "headers": [
+        "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Guidance for the three months ending March 31, 2026"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "GAAP Net income"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Share-based compensation"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Amortization"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Merger related expense"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Interest expense (income)"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Income tax expense"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Non-GAAP Operating income"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (Q1 2026)(in millions)\n(unaudited)": "Note: Amounts may not calculate precisely due to rounding."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_23",
+      "headers": [
+        "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Guidance for the year ending"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "December 31, 2026"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Net sales"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Gross profit"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Gross margin"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Operating expenses"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Operating income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Net income"
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Reconciliation of GAAP to Non-GAAP Financial Data (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Income per diluted common share"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_24",
+      "headers": [
+        "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Guidance for the year ending December 31, 2026"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Numerator:"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Net income available to common shareholders"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Denominator:"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Basic weighted average shares outstanding"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Effect of potentially dilutive share-based awards"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Dilutive effect of 2029 Convertible Senior Notes"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Diluted weighted average shares outstanding"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": ""
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Net income per common share:"
+        },
+        {
+          "Income per Diluted Common Share (FY 2026)(in millions, except per share amounts)\n(unaudited)": "Income per diluted common share"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_25",
+      "headers": [
+        "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)"
+      ],
+      "rows": [
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Guidance for the year ending December 31, 2026"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "GAAP Net income"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Share-based compensation"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Amortization"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Merger related expense"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Interest expense (income)"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Income tax expense"
+        },
+        {
+          "Reconciliation of GAAP Net Income to Non-GAAP Operating Income (FY 2026)(in millions)\n(unaudited)": "Non-GAAP Operating income"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\VECO_2025_Q4.html",
+    "validation": {
+      "overall_confidence": 0.5,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.0,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

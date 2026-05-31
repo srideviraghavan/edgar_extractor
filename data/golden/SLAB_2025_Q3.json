@@ -1,0 +1,39 @@
+{
+  "filing_id": "SLAB_2025_Q3",
+  "ticker": "SLAB",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q3",
+  "company_name": "Silicon Laboratories Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 206,
+      "required": true
+    },
+    "net_income": {
+      "value": -12,
+      "required": false
+    },
+    "eps_diluted": {
+      "value": -0.3,
+      "required": false
+    }
+  },
+  "segments": [
+    {
+      "name": "Industrial & Commercial",
+      "value": 118
+    },
+    {
+      "name": "Home & Life",
+      "value": 88
+    }
+  ],
+  "has_guidance": true,
+  "min_tables": 6,
+  "tags": [
+    "prose_bullets",
+    "forward_guidance"
+  ]
+}

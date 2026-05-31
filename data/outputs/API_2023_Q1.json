@@ -1,0 +1,2615 @@
+{
+  "filing_id": "API_2023_Q1",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "As of",
+        "col_2",
+        "As of_1",
+        "col_4",
+        "col_5"
+      ],
+      "rows": [
+        {
+          "": "",
+          "As of": "March 31,",
+          "col_2": "",
+          "As of_1": "December 31,"
+        },
+        {
+          "": "",
+          "As of": "2023",
+          "col_2": "",
+          "As of_1": "2022"
+        },
+        {
+          "": "Assets",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Current assets:",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "As of": "50,225",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "45,673",
+          "col_5": ""
+        },
+        {
+          "": "Short-term bank deposits",
+          "As of": "159,521",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "334,537",
+          "col_5": ""
+        },
+        {
+          "": "Short-term financial products issued by banks",
+          "As of": "35,173",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "33,359",
+          "col_5": ""
+        },
+        {
+          "": "Short-term investments",
+          "As of": "15,852",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "14,143",
+          "col_5": ""
+        },
+        {
+          "": "Accounts receivable, net",
+          "As of": "34,081",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "32,803",
+          "col_5": ""
+        },
+        {
+          "": "Prepayments and other current assets",
+          "As of": "9,927",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "7,326",
+          "col_5": ""
+        },
+        {
+          "": "Contract assets",
+          "As of": "1,321",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "634",
+          "col_5": ""
+        },
+        {
+          "": "Held-for-sale assets",
+          "As of": "-",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "17,004",
+          "col_5": ""
+        },
+        {
+          "": "Total current assets",
+          "As of": "306,100",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "485,479",
+          "col_5": ""
+        },
+        {
+          "": "Property and equipment, net",
+          "As of": "12,237",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "12,946",
+          "col_5": ""
+        },
+        {
+          "": "Operating lease right-of-use assets",
+          "As of": "5,281",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "2,344",
+          "col_5": ""
+        },
+        {
+          "": "Intangible assets",
+          "As of": "2,314",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "2,727",
+          "col_5": ""
+        },
+        {
+          "": "Goodwill",
+          "As of": "31,928",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "31,928",
+          "col_5": ""
+        },
+        {
+          "": "Long-term bank deposits",
+          "As of": "112,606",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "-",
+          "col_5": ""
+        },
+        {
+          "": "Long-term financial products issued by banks",
+          "As of": "59,000",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "39,000",
+          "col_5": ""
+        },
+        {
+          "": "Long-term investments",
+          "As of": "51,051",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "55,159",
+          "col_5": ""
+        },
+        {
+          "": "Land use right, net",
+          "As of": "175,043",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "-",
+          "col_5": ""
+        },
+        {
+          "": "Prepayment for land use right",
+          "As of": "-",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "168,244",
+          "col_5": ""
+        },
+        {
+          "": "Other non-current assets",
+          "As of": "3,750",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "2,888",
+          "col_5": ""
+        },
+        {
+          "": "Total assets",
+          "As of": "759,310",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "800,715",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Liabilities and shareholders\u2019 equity",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Current liabilities:",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Accounts payable",
+          "As of": "11,573",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "10,103",
+          "col_5": ""
+        },
+        {
+          "": "Advances from customers",
+          "As of": "8,156",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "8,352",
+          "col_5": ""
+        },
+        {
+          "": "Taxes payable",
+          "As of": "938",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "1,867",
+          "col_5": ""
+        },
+        {
+          "": "Current operating lease liabilities",
+          "As of": "2,293",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "1,932",
+          "col_5": ""
+        },
+        {
+          "": "Accrued expenses and other current liabilities",
+          "As of": "30,615",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "47,011",
+          "col_5": ""
+        },
+        {
+          "": "Held-for-sale liabilities",
+          "As of": "-",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "2,388",
+          "col_5": ""
+        },
+        {
+          "": "Total current liabilities",
+          "As of": "53,575",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "71,653",
+          "col_5": ""
+        },
+        {
+          "": "Long-term payable",
+          "As of": "53",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "55",
+          "col_5": ""
+        },
+        {
+          "": "Long-term operating lease liabilities",
+          "As of": "2,871",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "340",
+          "col_5": ""
+        },
+        {
+          "": "Deferred tax liabilities",
+          "As of": "354",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "407",
+          "col_5": ""
+        },
+        {
+          "": "Total liabilities",
+          "As of": "56,853",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "72,455",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Shareholders\u2019 equity:",
+          "As of": "",
+          "col_2": "",
+          "As of_1": ""
+        },
+        {
+          "": "Class A ordinary shares",
+          "As of": "39",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "39",
+          "col_5": ""
+        },
+        {
+          "": "Class B ordinary shares",
+          "As of": "8",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "8",
+          "col_5": ""
+        },
+        {
+          "": "Additional paid-in-capital",
+          "As of": "1,141,597",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "1,134,704",
+          "col_5": ""
+        },
+        {
+          "": "Treasury shares, at cost",
+          "As of": "(61,267",
+          "col_2": ")",
+          "As of_1": "",
+          "col_4": "(41,815",
+          "col_5": ")"
+        },
+        {
+          "": "Accumulated other comprehensive loss",
+          "As of": "(4,439",
+          "col_2": ")",
+          "As of_1": "",
+          "col_4": "(7,994",
+          "col_5": ")"
+        },
+        {
+          "": "Accumulated deficit",
+          "As of": "(373,481",
+          "col_2": ")",
+          "As of_1": "",
+          "col_4": "(356,682",
+          "col_5": ")"
+        },
+        {
+          "": "Total shareholders\u2019 equity",
+          "As of": "702,457",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "728,260",
+          "col_5": ""
+        },
+        {
+          "": "Total liabilities and shareholders\u2019 equity",
+          "As of": "759,310",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "800,715",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "As of": "",
+          "col_2": "",
+          "As of_1": "",
+          "col_4": "",
+          "col_5": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "Three Month Ended March 31,",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Month Ended March 31,": "2023",
+          "col_2": "2022"
+        },
+        {
+          "": "Real-time engagement service revenues",
+          "Three Month Ended March 31,": "35,101",
+          "col_2": "",
+          "col_3": "37,057",
+          "col_4": ""
+        },
+        {
+          "": "Other revenues",
+          "Three Month Ended March 31,": "1,342",
+          "col_2": "",
+          "col_3": "1,528",
+          "col_4": ""
+        },
+        {
+          "": "Total revenues",
+          "Three Month Ended March 31,": "36,443",
+          "col_2": "",
+          "col_3": "38,585",
+          "col_4": ""
+        },
+        {
+          "": "Cost of revenues",
+          "Three Month Ended March 31,": "13,597",
+          "col_2": "",
+          "col_3": "14,511",
+          "col_4": ""
+        },
+        {
+          "": "Gross profit",
+          "Three Month Ended March 31,": "22,846",
+          "col_2": "",
+          "col_3": "24,074",
+          "col_4": ""
+        },
+        {
+          "": "Operating expenses:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Research and development",
+          "Three Month Ended March 31,": "21,031",
+          "col_2": "",
+          "col_3": "31,034",
+          "col_4": ""
+        },
+        {
+          "": "Sales and marketing",
+          "Three Month Ended March 31,": "10,476",
+          "col_2": "",
+          "col_3": "13,856",
+          "col_4": ""
+        },
+        {
+          "": "General and administrative",
+          "Three Month Ended March 31,": "8,809",
+          "col_2": "",
+          "col_3": "9,230",
+          "col_4": ""
+        },
+        {
+          "": "Total operating expenses",
+          "Three Month Ended March 31,": "40,316",
+          "col_2": "",
+          "col_3": "54,120",
+          "col_4": ""
+        },
+        {
+          "": "Other operating income",
+          "Three Month Ended March 31,": "496",
+          "col_2": "",
+          "col_3": "1,038",
+          "col_4": ""
+        },
+        {
+          "": "Loss from operations",
+          "Three Month Ended March 31,": "(16,974",
+          "col_2": ")",
+          "col_3": "(29,008",
+          "col_4": ")"
+        },
+        {
+          "": "Exchange gain",
+          "Three Month Ended March 31,": "117",
+          "col_2": "",
+          "col_3": "266",
+          "col_4": ""
+        },
+        {
+          "": "Interest income",
+          "Three Month Ended March 31,": "4,406",
+          "col_2": "",
+          "col_3": "1,836",
+          "col_4": ""
+        },
+        {
+          "": "Investment loss",
+          "Three Month Ended March 31,": "(4,428",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Loss before income taxes",
+          "Three Month Ended March 31,": "(16,879",
+          "col_2": ")",
+          "col_3": "(26,906",
+          "col_4": ")"
+        },
+        {
+          "": "Income taxes",
+          "Three Month Ended March 31,": "10",
+          "col_2": "",
+          "col_3": "3",
+          "col_4": ""
+        },
+        {
+          "": "Equity in income (loss) of affiliates",
+          "Three Month Ended March 31,": "67",
+          "col_2": "",
+          "col_3": "(41",
+          "col_4": ")"
+        },
+        {
+          "": "Net loss",
+          "Three Month Ended March 31,": "(16,802",
+          "col_2": ")",
+          "col_3": "(26,944",
+          "col_4": ")"
+        },
+        {
+          "": "Net loss attributable to ordinary shareholders",
+          "Three Month Ended March 31,": "(16,802",
+          "col_2": ")",
+          "col_3": "(26,944",
+          "col_4": ")"
+        },
+        {
+          "": "Other comprehensive loss:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Foreign currency translation adjustments",
+          "Three Month Ended March 31,": "2,169",
+          "col_2": "",
+          "col_3": "2",
+          "col_4": ""
+        },
+        {
+          "": "Gain (loss) on available-for-sale debt securities",
+          "Three Month Ended March 31,": "1,385",
+          "col_2": "",
+          "col_3": "(97",
+          "col_4": ")"
+        },
+        {
+          "": "Total comprehensive loss attributable to ordinary shareholders",
+          "Three Month Ended March 31,": "(13,248",
+          "col_2": ")",
+          "col_3": "(27,039",
+          "col_4": ")"
+        },
+        {
+          "": "",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Net loss per ADS attributable to ordinary shareholders, basic and diluted",
+          "Three Month Ended March 31,": "(0.16",
+          "col_2": ")",
+          "col_3": "(0.24",
+          "col_4": ")"
+        },
+        {
+          "": "Weighted-average shares used in computing net loss per ADS attributable to ordinary shareholders, basic and diluted",
+          "Three Month Ended March 31,": "424,016,857",
+          "col_2": "",
+          "col_3": "451,058,043",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "Cost of revenues",
+          "col_1": "217",
+          "col_2": "",
+          "col_3": "246",
+          "col_4": ""
+        },
+        {
+          "": "Research and development expenses",
+          "col_1": "3,543",
+          "col_2": "",
+          "col_3": "5,353",
+          "col_4": ""
+        },
+        {
+          "": "Sales and marketing expenses",
+          "col_1": "1,733",
+          "col_2": "",
+          "col_3": "1,947",
+          "col_4": ""
+        },
+        {
+          "": "General and administrative expenses",
+          "col_1": "1,931",
+          "col_2": "",
+          "col_3": "1,835",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "Three Month Ended March 31,",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Month Ended March 31,": "2023",
+          "col_2": "2022"
+        },
+        {
+          "": "Cash flows from operating activities:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Net loss",
+          "Three Month Ended March 31,": "(16,802",
+          "col_2": ")",
+          "col_3": "(26,944",
+          "col_4": ")"
+        },
+        {
+          "": "Adjustments to reconcile net loss to net cash used in operating activities:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Share-based compensation expenses",
+          "Three Month Ended March 31,": "7,424",
+          "col_2": "",
+          "col_3": "9,381",
+          "col_4": ""
+        },
+        {
+          "": "Allowance for current expected credit losses",
+          "Three Month Ended March 31,": "1,554",
+          "col_2": "",
+          "col_3": "1,272",
+          "col_4": ""
+        },
+        {
+          "": "Depreciation of property and equipment",
+          "Three Month Ended March 31,": "2,214",
+          "col_2": "",
+          "col_3": "2,473",
+          "col_4": ""
+        },
+        {
+          "": "Amortization of intangible assets",
+          "Three Month Ended March 31,": "346",
+          "col_2": "",
+          "col_3": "579",
+          "col_4": ""
+        },
+        {
+          "": "Amortization of land use right",
+          "Three Month Ended March 31,": "593",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Deferred tax expense",
+          "Three Month Ended March 31,": "(53",
+          "col_2": ")",
+          "col_3": "(84",
+          "col_4": ")"
+        },
+        {
+          "": "Amortization of right-of-use asset and interest on lease liabilities",
+          "Three Month Ended March 31,": "810",
+          "col_2": "",
+          "col_3": "1,077",
+          "col_4": ""
+        },
+        {
+          "": "Investment loss",
+          "Three Month Ended March 31,": "4,428",
+          "col_2": "",
+          "col_3": "(35",
+          "col_4": ")"
+        },
+        {
+          "": "Interest income on debt securities and investments",
+          "Three Month Ended March 31,": "(105",
+          "col_2": ")",
+          "col_3": "(99",
+          "col_4": ")"
+        },
+        {
+          "": "Equity in (income) loss of affiliates",
+          "Three Month Ended March 31,": "(67",
+          "col_2": ")",
+          "col_3": "41",
+          "col_4": ""
+        },
+        {
+          "": "Gain on disposal of property and equipment",
+          "Three Month Ended March 31,": "(42",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Changes in assets and liabilities, net of effect of acquisition:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Accounts receivable",
+          "Three Month Ended March 31,": "(2,383",
+          "col_2": ")",
+          "col_3": "1,547",
+          "col_4": ""
+        },
+        {
+          "": "Contract assets",
+          "Three Month Ended March 31,": "(752",
+          "col_2": ")",
+          "col_3": "(360",
+          "col_4": ")"
+        },
+        {
+          "": "Prepayments and other current assets",
+          "Three Month Ended March 31,": "468",
+          "col_2": "",
+          "col_3": "885",
+          "col_4": ""
+        },
+        {
+          "": "Other non-current assets",
+          "Three Month Ended March 31,": "(848",
+          "col_2": ")",
+          "col_3": "(772",
+          "col_4": ")"
+        },
+        {
+          "": "Accounts payable",
+          "Three Month Ended March 31,": "1,379",
+          "col_2": "",
+          "col_3": "1,182",
+          "col_4": ""
+        },
+        {
+          "": "Advances from customers",
+          "Three Month Ended March 31,": "(295",
+          "col_2": ")",
+          "col_3": "96",
+          "col_4": ""
+        },
+        {
+          "": "Taxes payable",
+          "Three Month Ended March 31,": "(1,155",
+          "col_2": ")",
+          "col_3": "(1,232",
+          "col_4": ")"
+        },
+        {
+          "": "Operating lease liabilities",
+          "Three Month Ended March 31,": "(853",
+          "col_2": ")",
+          "col_3": "(1,370",
+          "col_4": ")"
+        },
+        {
+          "": "Accrued expenses and other liabilities",
+          "Three Month Ended March 31,": "(4,789",
+          "col_2": ")",
+          "col_3": "(3,498",
+          "col_4": ")"
+        },
+        {
+          "": "Net cash used in operating activities",
+          "Three Month Ended March 31,": "(8,928",
+          "col_2": ")",
+          "col_3": "(15,861",
+          "col_4": ")"
+        },
+        {
+          "": "Cash flows from investing activities:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Purchase of short-term bank deposits",
+          "Three Month Ended March 31,": "(129,521",
+          "col_2": ")",
+          "col_3": "(229,471",
+          "col_4": ")"
+        },
+        {
+          "": "Purchase of short-term financial products issued by banks",
+          "Three Month Ended March 31,": "(10,005",
+          "col_2": ")",
+          "col_3": "(14,274",
+          "col_4": ")"
+        },
+        {
+          "": "Proceeds from maturity of short-term bank deposits",
+          "Three Month Ended March 31,": "304,537",
+          "col_2": "",
+          "col_3": "226,133",
+          "col_4": ""
+        },
+        {
+          "": "Proceeds from maturity of short-term financial products issued by banks",
+          "Three Month Ended March 31,": "8,310",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Purchase of long-term bank deposits",
+          "Three Month Ended March 31,": "(112,606",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Purchase of long-term financial products issued by banks",
+          "Three Month Ended March 31,": "(20,000",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Purchase of long-term investments",
+          "Three Month Ended March 31,": "(15",
+          "col_2": ")",
+          "col_3": "(13,930",
+          "col_4": ")"
+        },
+        {
+          "": "Purchase of property and equipment",
+          "Three Month Ended March 31,": "(185",
+          "col_2": ")",
+          "col_3": "(1,172",
+          "col_4": ")"
+        },
+        {
+          "": "Purchase of land use right",
+          "Three Month Ended March 31,": "(5,133",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Purchase of construction in progress for the headquarters project",
+          "Three Month Ended March 31,": "(2,047",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Cash received for business disposal",
+          "Three Month Ended March 31,": "3,062",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Disposal of property and equipment",
+          "Three Month Ended March 31,": "43",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Cash paid for a business combination",
+          "Three Month Ended March 31,": "(3,680",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Net cash generated from (used) in investing activities",
+          "Three Month Ended March 31,": "32,760",
+          "col_2": "",
+          "col_3": "(32,714",
+          "col_4": ")"
+        },
+        {
+          "": "Cash flows from financing activities:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Deposits returned for business disposal",
+          "Three Month Ended March 31,": "(1,000",
+          "col_2": ")",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Proceeds from exercise of employees\u2019 share options",
+          "Three Month Ended March 31,": "24",
+          "col_2": "",
+          "col_3": "623",
+          "col_4": ""
+        },
+        {
+          "": "Repurchase of Class A ordinary shares",
+          "Three Month Ended March 31,": "(19,403",
+          "col_2": ")",
+          "col_3": "(7,603",
+          "col_4": ")"
+        },
+        {
+          "": "Net cash used in financing activities",
+          "Three Month Ended March 31,": "(20,379",
+          "col_2": ")",
+          "col_3": "(6,980",
+          "col_4": ")"
+        },
+        {
+          "": "Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash",
+          "Three Month Ended March 31,": "(413",
+          "col_2": ")",
+          "col_3": "116",
+          "col_4": ""
+        },
+        {
+          "": "Net increase (decrease) in cash, cash equivalents and restricted cash",
+          "Three Month Ended March 31,": "3,040",
+          "col_2": "",
+          "col_3": "(55,439",
+          "col_4": ")"
+        },
+        {
+          "": "Cash balance recorded in held-for sale assets at beginning of period",
+          "Three Month Ended March 31,": "1,488",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at beginning of period *",
+          "Three Month Ended March 31,": "45,827",
+          "col_2": "",
+          "col_3": "285,825",
+          "col_4": ""
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash at end of period **",
+          "Three Month Ended March 31,": "50,355",
+          "col_2": "",
+          "col_3": "230,386",
+          "col_4": ""
+        },
+        {
+          "": "Supplemental disclosure of cash flow information:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Income taxes paid",
+          "Three Month Ended March 31,": "22",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Cash payments included in the measurement of operating lease liabilities",
+          "Three Month Ended March 31,": "853",
+          "col_2": "",
+          "col_3": "1,370",
+          "col_4": ""
+        },
+        {
+          "": "Right-of-use assets obtained in exchange for operating lease obligations",
+          "Three Month Ended March 31,": "3,694",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Non-cash financing and investing activities:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Proceeds receivable from exercise of employees\u2019 share options",
+          "Three Month Ended March 31,": "167",
+          "col_2": "",
+          "col_3": "210",
+          "col_4": ""
+        },
+        {
+          "": "Deposits utilized for employees\u2019 share option exercises",
+          "Three Month Ended March 31,": "-",
+          "col_2": "",
+          "col_3": "7",
+          "col_4": ""
+        },
+        {
+          "": "Payables for deferred financing cost",
+          "Three Month Ended March 31,": "-",
+          "col_2": "",
+          "col_3": "610",
+          "col_4": ""
+        },
+        {
+          "": "Payables for property and equipment",
+          "Three Month Ended March 31,": "182",
+          "col_2": "",
+          "col_3": "527",
+          "col_4": ""
+        },
+        {
+          "": "Payables for construction in progress for the headquarters project",
+          "Three Month Ended March 31,": "272",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Payables for business disposal",
+          "Three Month Ended March 31,": "93",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Proceeds receivable for disposal",
+          "Three Month Ended March 31,": "2,800",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Payables for treasury shares, at cost",
+          "Three Month Ended March 31,": "730",
+          "col_2": "",
+          "col_3": "423",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "154",
+        "col_2",
+        "156",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "** includes restricted cash balance",
+          "154": "130",
+          "col_2": "",
+          "156": "156",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "154": "",
+          "col_2": "",
+          "156": "",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "Three Month Ended March 31,",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Month Ended March 31,": "2023",
+          "col_2": "2022"
+        },
+        {
+          "": "GAAP net loss",
+          "Three Month Ended March 31,": "(16,802",
+          "col_2": ")",
+          "col_3": "(26,944",
+          "col_4": ")"
+        },
+        {
+          "": "Add:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Share-based compensation expenses",
+          "Three Month Ended March 31,": "7,424",
+          "col_2": "",
+          "col_3": "9,381",
+          "col_4": ""
+        },
+        {
+          "": "Acquisition related expenses",
+          "Three Month Ended March 31,": "(44",
+          "col_2": ")",
+          "col_3": "156",
+          "col_4": ""
+        },
+        {
+          "": "Amortization expenses of acquired intangible assets",
+          "Three Month Ended March 31,": "345",
+          "col_2": "",
+          "col_3": "556",
+          "col_4": ""
+        },
+        {
+          "": "Income tax related to acquired intangible assets",
+          "Three Month Ended March 31,": "(53",
+          "col_2": ")",
+          "col_3": "(84",
+          "col_4": ")"
+        },
+        {
+          "": "Non-GAAP net loss",
+          "Three Month Ended March 31,": "(9,130",
+          "col_2": ")",
+          "col_3": "(16,935",
+          "col_4": ")"
+        },
+        {
+          "": "",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "GAAP Net loss",
+          "Three Month Ended March 31,": "(16,802",
+          "col_2": ")",
+          "col_3": "(26,944",
+          "col_4": ")"
+        },
+        {
+          "": "Excluding:",
+          "Three Month Ended March 31,": "",
+          "col_2": ""
+        },
+        {
+          "": "Exchange gain",
+          "Three Month Ended March 31,": "(117",
+          "col_2": ")",
+          "col_3": "(266",
+          "col_4": ")"
+        },
+        {
+          "": "Interest income",
+          "Three Month Ended March 31,": "(4,406",
+          "col_2": ")",
+          "col_3": "(1,836",
+          "col_4": ")"
+        },
+        {
+          "": "Investment loss",
+          "Three Month Ended March 31,": "4,428",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Equity in (income) loss of affiliates",
+          "Three Month Ended March 31,": "(67",
+          "col_2": ")",
+          "col_3": "41",
+          "col_4": ""
+        },
+        {
+          "": "Income taxes",
+          "Three Month Ended March 31,": "(10",
+          "col_2": ")",
+          "col_3": "(3",
+          "col_4": ")"
+        },
+        {
+          "": "Depreciation of property and equipment",
+          "Three Month Ended March 31,": "2,214",
+          "col_2": "",
+          "col_3": "2,473",
+          "col_4": ""
+        },
+        {
+          "": "Amortization of land use right",
+          "Three Month Ended March 31,": "593",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": ""
+        },
+        {
+          "": "Share-based compensation expenses",
+          "Three Month Ended March 31,": "7,424",
+          "col_2": "",
+          "col_3": "9,381",
+          "col_4": ""
+        },
+        {
+          "": "Acquisition related expenses",
+          "Three Month Ended March 31,": "(44",
+          "col_2": ")",
+          "col_3": "156",
+          "col_4": ""
+        },
+        {
+          "": "Amortization expenses of acquired intangible assets",
+          "Three Month Ended March 31,": "345",
+          "col_2": "",
+          "col_3": "556",
+          "col_4": ""
+        },
+        {
+          "": "Adjusted EBITDA",
+          "Three Month Ended March 31,": "(6,442",
+          "col_2": ")",
+          "col_3": "(16,442",
+          "col_4": ")"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "(8,928",
+        ")",
+        "(15,861",
+        ")_1"
+      ],
+      "rows": [
+        {
+          "": "Purchase of property and equipment",
+          "(8,928": "(185",
+          ")": ")",
+          "(15,861": "(1,172",
+          ")_1": ")"
+        },
+        {
+          "": "Free Cash Flow",
+          "(8,928": "(9,113",
+          ")": ")",
+          "(15,861": "(17,033",
+          ")_1": ")"
+        },
+        {
+          "": "Net cash generated from (used in) investing activities",
+          "(8,928": "32,760",
+          ")": "",
+          "(15,861": "(32,714",
+          ")_1": ")"
+        },
+        {
+          "": "Net cash used in financing activities",
+          "(8,928": "(20,379",
+          ")": ")",
+          "(15,861": "(6,980",
+          ")_1": ")"
+        },
+        {
+          "": "",
+          "(8,928": "",
+          ")": "",
+          "(15,861": "",
+          ")_1": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Agora, Inc. Reports First Quarter 2023 Financial Results"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_49",
+      "text": "Agora, Inc. is the holding company of two independent businesses, Agora and Shengwang.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "role": "holding company",
+              "businesses": "Agora and Shengwang"
+            }
+          },
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "relationship": "independent business"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "relationship": "independent business"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "corporate structure",
+          "holding company",
+          "independent businesses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that Agora, Inc. is the holding company for two independent businesses: Agora and Shengwang."
+      }
+    },
+    {
+      "chunk_id": "prose_p_56",
+      "text": "Agora, Inc. Condensed Consolidated Statements of Cash Flows (Unaudited, in US$ thousands)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "statement": "Condensed Consolidated Statements of Cash Flows",
+              "status": "Unaudited",
+              "unit": "US$ thousands"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cash flows",
+          "condensed consolidated financial statements",
+          "unaudited reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Agora, Inc.'s unaudited condensed consolidated statements of cash flows, presented in US dollars thousands."
+      }
+    },
+    {
+      "chunk_id": "prose_p_33",
+      "text": "Definitions of the Company\u2019s non-GAAP financial measures included in this press release are presented below.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Referenced as the issuer of the press release and owner of the non-GAAP financial measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "definitions",
+          "press release"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that definitions of the Company\u2019s non-GAAP financial measures are provided below in the press release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_58",
+      "text": "Agora, Inc. Reconciliation of GAAP to Non-GAAP Measures (Unaudited, in US$ thousands, except share and per ADS amounts)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "report_type": "Reconciliation of GAAP to Non-GAAP Measures",
+              "basis": "Unaudited",
+              "units": "US$ thousands",
+              "per_share_basis": "per ADS amounts"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to Non-GAAP reconciliation",
+          "unaudited financial presentation",
+          "US dollar thousands",
+          "ADS-based metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "This section identifies Agora, Inc. and indicates that the following information presents an unaudited reconciliation of GAAP to non-GAAP measures in US$ thousands, with certain amounts shown per ADS."
+      }
+    },
+    {
+      "chunk_id": "prose_p_15",
+      "text": "Net Loss Net loss was $16.8 million in the first quarter of 2023, compared to $26.9 million in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "16.8 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "26.9 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "net loss",
+          "quarterly financial performance",
+          "year-over-year comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "The company reported a net loss of $16.8 million in the first quarter of 2023, compared with a net loss of $26.9 million in the same period last year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_52",
+      "text": "For more information on Agora, please visit: www.agora.io For more information on Shengwang, please visit: www.shengwang.cn",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "website": "www.agora.io"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "website": "www.shengwang.cn"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "company websites",
+          "investor information"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides website links for Agora and Shengwang for more information."
+      }
+    },
+    {
+      "chunk_id": "prose_p_54",
+      "text": "Agora, Inc. Condensed Consolidated Statements of Comprehensive Loss (Unaudited, in US$ thousands, except share and per ADS amounts)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "statement": "Condensed Consolidated Statements of Comprehensive Loss",
+              "status": "Unaudited",
+              "units": "US$ thousands",
+              "per_share_basis": "per ADS amounts"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "condensed consolidated statements",
+          "comprehensive loss",
+          "unaudited financial reporting",
+          "US dollar thousands"
+        ],
+        "sentiment": "negative",
+        "summary": "This section identifies Agora, Inc.'s unaudited condensed consolidated statements of comprehensive loss, presented in US dollars thousands and including per-ADS amounts."
+      }
+    },
+    {
+      "chunk_id": "prose_p_41",
+      "text": "The Company also uses other operating metrics included in this press release and defined below to assess the performance of its business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "operating metrics",
+          "business performance assessment",
+          "press release"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the company uses additional operating metrics, defined elsewhere in the press release, to assess business performance."
+      }
+    },
+    {
+      "chunk_id": "prose_p_12",
+      "text": "Loss from Operations Loss from operations was $17.0 million in the first quarter of 2023, compared to $29.0 million in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": 17.0,
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": 29.0,
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "loss from operations",
+          "quarterly financial performance",
+          "year-over-year comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "The company reported a loss from operations of $17.0 million in the first quarter of 2023, compared with $29.0 million in the same period last year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_10",
+      "text": "Operating Expenses Operating expenses were $40.3 million in the first quarter of 2023, a decrease of 25.5% from $54.1 million in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "40.3 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "54.1 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "same period last year"
+          },
+          {
+            "figure": "25.5%",
+            "type": "other",
+            "currency": "other",
+            "period": "first quarter of 2023 vs same period last year"
+          }
+        ],
+        "key_topics": [
+          "operating expenses",
+          "year-over-year decrease",
+          "quarterly financial performance"
+        ],
+        "sentiment": "negative",
+        "summary": "Operating expenses were $40.3 million in the first quarter of 2023, down 25.5% from $54.1 million in the same period last year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_13",
+      "text": "Interest Income Interest income was $4.4 million in the first quarter of 2023, compared to $1.8 million in the same period last year, primarily due to the increase in interest rates.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "4.4 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "1.8 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "interest income",
+          "interest rates",
+          "year-over-year increase"
+        ],
+        "sentiment": "positive",
+        "summary": "Interest income increased to $4.4 million in the first quarter of 2023 from $1.8 million in the same period last year, mainly due to higher interest rates."
+      }
+    },
+    {
+      "chunk_id": "prose_p_11",
+      "text": "Other Operating Income Other operating income was $0.5 million in the first quarter of 2023, compared to $1.0 million in the same period last year, primarily due to less tax refund and VAT related deductions.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Other Operating Income",
+            "type": "other",
+            "attributes": {
+              "description": "Operating income line item discussed in the section"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0.5 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "1.0 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "other operating income",
+          "year-over-year decline",
+          "tax refund",
+          "VAT related deductions"
+        ],
+        "sentiment": "negative",
+        "summary": "Other operating income decreased to $0.5 million in the first quarter of 2023 from $1.0 million in the same period last year, mainly due to lower tax refunds and VAT-related deductions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_8",
+      "text": "Cost of Revenues Cost of revenues was $13.6 million in the first quarter of 2023, a decrease of 6.3% from $14.5 million in the same period last year, primarily due to the decrease in bandwidth usage and co-location costs.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Cost of revenues",
+            "type": "other",
+            "attributes": {
+              "description": "Expense category",
+              "period": "first quarter of 2023"
+            }
+          },
+          {
+            "name": "bandwidth usage",
+            "type": "other",
+            "attributes": {
+              "role": "driver of cost decrease"
+            }
+          },
+          {
+            "name": "co-location costs",
+            "type": "other",
+            "attributes": {
+              "role": "driver of cost decrease"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "13.6 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "14.5 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "same period last year"
+          },
+          {
+            "figure": "6.3%",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023 vs same period last year"
+          }
+        ],
+        "key_topics": [
+          "cost of revenues",
+          "expense decrease",
+          "bandwidth usage",
+          "co-location costs"
+        ],
+        "sentiment": "positive",
+        "summary": "Cost of revenues decreased to $13.6 million in the first quarter of 2023 from $14.5 million in the same period last year, mainly due to lower bandwidth usage and co-location costs."
+      }
+    },
+    {
+      "chunk_id": "prose_p_27",
+      "text": "The Company expects total revenues for the second quarter of 2023 to be between $34 million and $37 million. This outlook reflects the Company's current and preliminary views on the market and operational conditions, which are subject to change.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "role": "reporting entity"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "34-37 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "second quarter of 2023"
+          }
+        ],
+        "key_topics": [
+          "revenue outlook",
+          "second quarter 2023 guidance",
+          "market conditions",
+          "operational conditions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company expects second quarter 2023 total revenues to be between $34 million and $37 million, based on current preliminary views of market and operational conditions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_3",
+      "text": "SANTA CLARA, Calif., May  30, 2023  (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API) (the \u201cCompany\u201d), a pioneer and leader in real-time engagement technology, today announced its unaudited financial results for the first quarter ended March 31, 2023.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "SANTA CLARA, Calif.",
+            "type": "location",
+            "attributes": {
+              "role": "dateline"
+            }
+          },
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "NASDAQ: API",
+              "description": "pioneer and leader in real-time engagement technology",
+              "status": "public company"
+            }
+          },
+          {
+            "name": "the Company",
+            "type": "company",
+            "attributes": {
+              "refers_to": "Agora, Inc."
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings release",
+          "unaudited financial results",
+          "first quarter 2023"
+        ],
+        "sentiment": "neutral",
+        "summary": "Agora, Inc. announced that it will report unaudited financial results for the first quarter ended March 31, 2023."
+      }
+    },
+    {
+      "chunk_id": "prose_p_35",
+      "text": "Non-GAAP net income (loss) is defined as net income (loss) adjusted to exclude share-based compensation expenses, acquisition related expenses, amortization expenses of acquired intangible assets and income tax related to acquired intangible assets.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "Non-GAAP net income (loss)",
+          "Share-based compensation expenses",
+          "Acquisition related expenses",
+          "Amortization of acquired intangible assets",
+          "Income tax related to acquired intangible assets"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines non-GAAP net income (loss) as net income (loss adjusted to exclude share-based compensation expenses, acquisition related expenses, amortization of acquired intangible assets, and related income tax effects."
+      }
+    },
+    {
+      "chunk_id": "prose_p_16",
+      "text": "Net Loss per American Depositary Share attributable to ordinary shareholders Net loss per American Depositary Share (\u201cADS\u201d) 1 attributable to ordinary shareholders was $0.16 in the first quarter of 2023, compared to $0.24 in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ordinary shareholders",
+            "type": "other",
+            "attributes": {
+              "context": "attributable holders of net loss per American Depositary Share"
+            }
+          },
+          {
+            "name": "American Depositary Share (ADS)",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "ADS"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0.16",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "0.24",
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "net loss per American Depositary Share",
+          "ordinary shareholders",
+          "quarterly comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "The company reported net loss per American Depositary Share attributable to ordinary shareholders of $0.16 in the first quarter of 2023, compared with $0.24 in the same period last year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_20",
+      "text": "Stanley Wei has been appointed Chief Operating Officer, Agora, on top of his role as Chief Strategy Officer of the Company, to lead the Agora business. Robbin Liu has been appointed Vice President of the Company and Chief Operating Officer, Shengwang, to lead the Shengwang business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Stanley Wei",
+            "type": "person",
+            "attributes": {
+              "appointed_role": "Chief Operating Officer, Agora",
+              "additional_role": "Chief Strategy Officer of the Company",
+              "responsibility": "lead the Agora business"
+            }
+          },
+          {
+            "name": "Robbin Liu",
+            "type": "person",
+            "attributes": {
+              "appointed_role": "Vice President of the Company and Chief Operating Officer, Shengwang",
+              "responsibility": "lead the Shengwang business"
+            }
+          },
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "context": "business led by Stanley Wei"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "context": "business led by Robbin Liu"
+            }
+          },
+          {
+            "name": "the Company",
+            "type": "company",
+            "attributes": {
+              "context": "organization referenced in the appointments"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executive appointments",
+          "leadership changes",
+          "business operations",
+          "Agora",
+          "Shengwang"
+        ],
+        "sentiment": "neutral",
+        "summary": "Stanley Wei was appointed Chief Operating Officer of Agora while continuing as Chief Strategy Officer of the Company, and Robbin Liu was appointed Vice President of the Company and Chief Operating Officer of Shengwang."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "Gross Profit and Gross Margin Gross profit was $22.8 million in the first quarter of 2023, a decrease of 5.1% from $24.1 million in the same period last year. Gross margin was 62.7% in the first quarter of 2023, an increase of 0.3% from 62.4% in the same period last year, mainly due to the disposal of Easemob\u2019s customer engagement cloud business which had lower gross margin.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Easemob",
+            "type": "company",
+            "attributes": {
+              "business": "customer engagement cloud business",
+              "event": "disposed"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "22.8 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "24.1 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          },
+          {
+            "figure": "62.7%",
+            "type": "other",
+            "currency": "other",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "62.4%",
+            "type": "other",
+            "currency": "other",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "gross profit",
+          "gross margin",
+          "year-over-year decline",
+          "business disposal"
+        ],
+        "sentiment": "neutral",
+        "summary": "Gross profit declined to $22.8 million in Q1 2023 from $24.1 million a year earlier, while gross margin improved slightly to 62.7% from 62.4%, mainly due to the disposal of Easemob\u2019s lower-margin customer engagement cloud business."
+      }
+    },
+    {
+      "chunk_id": "prose_p_50",
+      "text": "Headquartered in Santa Clara, California, Agora is a pioneer and global leader in Real-Time Engagement Platform-as-a-Service (PaaS), providing developers with simple, flexible, and powerful application programming interfaces, or APIs, to embed real-time voice, video, interactive live-streaming, chat, whiteboard, and artificial intelligence capabilities into their applications.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "headquarters": "Santa Clara, California",
+              "description": "Pioneer and global leader in Real-Time Engagement Platform-as-a-Service (PaaS)",
+              "capabilities": "APIs for real-time voice, video, interactive live-streaming, chat, whiteboard, and artificial intelligence"
+            }
+          },
+          {
+            "name": "Santa Clara, California",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters location"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Real-Time Engagement Platform-as-a-Service",
+          "APIs",
+          "voice",
+          "video",
+          "interactive live-streaming",
+          "chat",
+          "whiteboard",
+          "artificial intelligence"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes Agora as a Santa Clara-based company and a leader in Real-Time Engagement PaaS, offering APIs that enable real-time communication and AI features in applications."
+      }
+    },
+    {
+      "chunk_id": "prose_p_14",
+      "text": "Investment Loss Investment loss was $4.4 million in the first quarter of 2023, primarily due to the fair value change in equity investments of $2.9 million, credit loss in convertible debt investment of $1.2 million, as well as a disposal loss of Easemob\u2019s customer engagement cloud business of $0.3 million, whereas there were no material transactions in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Easemob",
+            "type": "company",
+            "attributes": {
+              "business": "customer engagement cloud business"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "4.4 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "2.9 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023",
+            "attributes": {
+              "description": "fair value change in equity investments"
+            }
+          },
+          {
+            "figure": "1.2 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023",
+            "attributes": {
+              "description": "credit loss in convertible debt investment"
+            }
+          },
+          {
+            "figure": "0.3 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "first quarter of 2023",
+            "attributes": {
+              "description": "disposal loss of Easemob\u2019s customer engagement cloud business"
+            }
+          }
+        ],
+        "key_topics": [
+          "investment loss",
+          "fair value change in equity investments",
+          "credit loss in convertible debt investment",
+          "disposal loss",
+          "Easemob"
+        ],
+        "sentiment": "negative",
+        "summary": "The section reports an investment loss of $4.4 million in the first quarter of 2023, driven mainly by fair value changes in equity investments, a credit loss on convertible debt investment, and a disposal loss related to Easemob's customer engagement cloud business."
+      }
+    },
+    {
+      "chunk_id": "prose_p_21",
+      "text": "Robbin Liu joined the Company in June 2020. Previously, he held several senior positions in ChinaCache from 2012 to 2019, including Vice President, New Products Development and acting Chief Executive Officer. Prior to that, he worked for Ericsson China as a Senior Solution Manager from 2006 to 2012. He received his master\u2019s degree from Beijing University of Posts and Telecommunications.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Robbin Liu",
+            "type": "person",
+            "attributes": {
+              "joined_company": "June 2020",
+              "previous_roles": "Vice President, New Products Development; acting Chief Executive Officer",
+              "previous_company": "ChinaCache",
+              "employment_period_at_previous_company": "2012 to 2019",
+              "prior_role": "Senior Solution Manager",
+              "prior_company": "Ericsson China",
+              "prior_employment_period": "2006 to 2012",
+              "education": "Master\u2019s degree from Beijing University of Posts and Telecommunications"
+            }
+          },
+          {
+            "name": "ChinaCache",
+            "type": "company",
+            "attributes": {
+              "industry": "other"
+            }
+          },
+          {
+            "name": "Ericsson China",
+            "type": "company",
+            "attributes": {
+              "industry": "other"
+            }
+          },
+          {
+            "name": "Beijing University of Posts and Telecommunications",
+            "type": "other",
+            "attributes": {
+              "type": "university"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executive biography",
+          "employment history",
+          "education",
+          "leadership roles"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides a brief biography of Robbin Liu, outlining his appointment to the Company in June 2020, his prior senior roles at ChinaCache and Ericsson China, and his educational background."
+      }
+    },
+    {
+      "chunk_id": "prose_p_37",
+      "text": "Adjusted EBITDA is defined as net income (loss) before exchange gain (loss), interest income, investment income (loss), other income, equity in income of affiliates, income taxes, depreciation of property and equipment, amortization of land use right, and adjusted to exclude the effects of share-based compensation expenses, acquisition related expenses and amortization expenses of acquired intangible assets.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA definition",
+          "Non-GAAP financial measure",
+          "Exclusions from net income",
+          "Share-based compensation",
+          "Acquisition-related expenses",
+          "Amortization of acquired intangible assets"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Adjusted EBITDA as net income adjusted for various income, expense, depreciation, amortization, and acquisition-related items."
+      }
+    },
+    {
+      "chunk_id": "prose_p_43",
+      "text": "An active customer at the end of any particular period is defined as an organization or individual developer from which the Company generated more than $100 of revenue during the preceding 12 months. Customers are counted based on unique customer account identifiers. Generally, one software application uses the same customer account identifier throughout its life cycle while one account may be used for multiple applications.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "role": "issuer",
+              "definition": "Entity generating revenue from customers"
+            }
+          },
+          {
+            "name": "active customer",
+            "type": "other",
+            "attributes": {
+              "definition": "An organization or individual developer from which the Company generated more than $100 of revenue during the preceding 12 months"
+            }
+          },
+          {
+            "name": "customer account identifier",
+            "type": "other",
+            "attributes": {
+              "definition": "Unique identifier used to count customers"
+            }
+          },
+          {
+            "name": "software application",
+            "type": "other",
+            "attributes": {
+              "definition": "Uses the same customer account identifier throughout its life cycle"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "100",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "preceding 12 months"
+          }
+        ],
+        "key_topics": [
+          "active customer definition",
+          "customer counting methodology",
+          "customer account identifiers",
+          "revenue threshold"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines an active customer as an organization or individual developer that generated more than $100 of revenue in the preceding 12 months and explains that customers are counted using unique customer account identifiers."
+      }
+    },
+    {
+      "chunk_id": "prose_p_39",
+      "text": "Free cash flow is defined as net cash provided by operating activities less purchases of property and equipment (excluding the acquisition of land use right and the construction in progress for the headquarters project). The Company considers free cash flow to be a liquidity measure that provides useful information to management and investors regarding net cash provided by operating activities and cash used for investments in property and equipment required to maintain and grow the business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "definition": "Free cash flow is defined as net cash provided by operating activities less purchases of property and equipment, excluding the acquisition of land use right and construction in progress for the headquarters project.",
+              "role": "issuer"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "free cash flow",
+          "operating cash flow",
+          "property and equipment purchases",
+          "liquidity measure",
+          "capital expenditures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines free cash flow as operating cash flow minus purchases of property and equipment, excluding certain land use right and headquarters project construction costs, and describes it as a liquidity measure useful for assessing cash generation and investment needs."
+      }
+    },
+    {
+      "chunk_id": "prose_p_19",
+      "text": "Following the recent reorganization, Agora, Inc. is now the holding company of two independent businesses, Agora and Shengwang. Headquartered in Santa Clara, California, Agora is a pioneer and global leader in Real-Time Engagement Platform-as-a-Service (PaaS). Headquartered in Shanghai, China, Shengwang is a pioneer and leading Real-Time Engagement PaaS provider in the China market. Agora and Shengwang will operate under their own unique brands and distinct legal entities, and each will be run by separate local management teams.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "role": "holding company",
+              "businesses": "Agora and Shengwang"
+            }
+          },
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "headquarters": "Santa Clara, California",
+              "description": "pioneer and global leader in Real-Time Engagement Platform-as-a-Service (PaaS)",
+              "brand_status": "unique brand",
+              "legal_status": "distinct legal entity",
+              "management": "separate local management team"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "headquarters": "Shanghai, China",
+              "description": "pioneer and leading Real-Time Engagement PaaS provider in the China market",
+              "brand_status": "unique brand",
+              "legal_status": "distinct legal entity",
+              "management": "separate local management team"
+            }
+          },
+          {
+            "name": "Santa Clara, California",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters location"
+            }
+          },
+          {
+            "name": "Shanghai, China",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters location"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "corporate reorganization",
+          "holding company structure",
+          "independent businesses",
+          "real-time engagement PaaS",
+          "separate brands and legal entities",
+          "local management teams"
+        ],
+        "sentiment": "neutral",
+        "summary": "Agora, Inc. has been reorganized as the holding company for two independent businesses, Agora and Shengwang, each operating under separate brands, legal entities, and local management teams."
+      }
+    },
+    {
+      "chunk_id": "prose_p_32",
+      "text": "Non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable GAAP financial measures and should be read only in conjunction with the Company\u2019s consolidated financial statements prepared in accordance with GAAP. A reconciliation of its historical non-GAAP financial measures to the most directly comparable GAAP measures has been provided in the tables captioned \u201cReconciliation of GAAP to Non-GAAP Measures\u201d included at the end of this press release, and investors are encouraged to review the reconciliation.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Referenced as the issuer of the press release and consolidated financial statements"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Non-GAAP financial measures",
+          "GAAP reconciliation",
+          "Consolidated financial statements",
+          "Investor disclosure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that non-GAAP financial measures should not be used alone or as a substitute for GAAP measures and directs investors to the reconciliation tables included in the press release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "Revenues Total revenues were $36.4 million in the first quarter of 2023, a decrease of 5.6% from $38.6 million in the same period last year. Revenues of Agora were $15.1 million in the first quarter of 2023, an increase of 10.2% from $13.7 million in the same period last year, primarily due to the business expansion and usage growth. Revenues of Shengwang were $21.3 million in the first quarter of 2023, a decrease of 14.5% from $24.9 million in the same period last year, primarily due to the appreciation of the U.S. Dollar, a decrease in usage from the certain sector following regulatory changes and the disposal of Easemob\u2019s customer engagement cloud business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "relationship": "reported revenue",
+              "first_quarter_2023_revenue": "$15.1 million",
+              "year_over_year_change": "+10.2%"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "relationship": "reported revenue",
+              "first_quarter_2023_revenue": "$21.3 million",
+              "year_over_year_change": "-14.5%"
+            }
+          },
+          {
+            "name": "Easemob",
+            "type": "company",
+            "attributes": {
+              "relationship": "customer engagement cloud business disposed"
+            }
+          },
+          {
+            "name": "U.S. Dollar",
+            "type": "other",
+            "attributes": {
+              "role": "currency appreciation affected revenue"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "36.4 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "38.6 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "same period last year"
+          },
+          {
+            "figure": "15.1 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "13.7 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "same period last year"
+          },
+          {
+            "figure": "21.3 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2023"
+          },
+          {
+            "figure": "24.9 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "revenue performance",
+          "year-over-year change",
+          "Agora revenue growth",
+          "Shengwang revenue decline",
+          "currency appreciation impact",
+          "regulatory changes",
+          "business disposal"
+        ],
+        "sentiment": "negative",
+        "summary": "The section reports first-quarter 2023 revenues of $36.4 million, down 5.6% year over year. Agora\u2019s revenue increased to $15.1 million, while Shengwang\u2019s revenue fell to $21.3 million due to U.S. dollar appreciation, lower usage in a sector affected by regulatory changes, and the disposal of Easemob\u2019s customer engagement cloud business."
+      }
+    },
+    {
+      "chunk_id": "prose_p_29",
+      "text": "The Company will host a conference call to discuss the financial results at 6 p.m. Pacific Time / 9:00 p.m. Eastern Time on May 30, 2023. Details for the conference call are as follows: Event title: Agora, Inc. 1Q 2023 Financial Results The call will be available at https://edge.media-server.com/mmc/p/e3d7cd7k Investors who want to hear the call should log on at least 15 minutes prior to the broadcast. Participants may register for the call with the link below. https://register.vevent.com/register/BI36213ce1b6594210a60d507b01fe8524 Please visit the Company\u2019s investor relations website at https://investor.agora.io on May 30, 2023 to view the earnings release and accompanying slides prior to the conference call.",
+      "section_header": null,
+      "confidence": 0.6,
+      "extracted_data": {
+        "raw_response": "{\n  \"entities\": [\n    {\n      \"name\": \"Agora, Inc.\",\n      \"type\": \"company\",\n      \"attributes\": {\n        \"event_title\": \"Agora, Inc. 1Q 2023 Financial Results\",\n        \"conference_call_date\": \"2023-05-30\",\n        \"conference_call_time_pacific\": \"6:00 p.m.\",\n        \"conference_call_time_eastern\": \"9:00 p.m.\",\n        \"conference_call_url\": \"https://edge.media-server.com/mmc/p/e3d7cd7k\",\n        \"registration_url\": \"https://register.vevent.com/register/BI36213ce1b6594210a60d507b01fe8524\",\n        \"investor_relations_website\": \"https://investor.agora.io\"\n      }\n    ]\n  ],\n  \"financial_figures\": [],\n  \"key_topics\": [\n    \"conference call\",\n    \"financial results\",\n    \"earnings release\",\n    \"investor relations\",\n    \"quarterly results\"\n  ],\n  \"sentiment\": \"neutral\",\n  \"summary\": \"The company announced a conference call on May 30, 2023 to discuss its 1Q 2023 financial results, with webcast and registration details provided and earnings materials to be posted on the investor relations website.\"\n}"
+      }
+    },
+    {
+      "chunk_id": "prose_p_45",
+      "text": "Dollar-Based Net Retention Rate is calculated for a trailing 12-month period by first identifying all customers in the prior 12-month period, and then calculating the quotient from dividing the revenue generated from such customers in the trailing 12-month period by the revenue generated from the same group of customers in the prior 12-month period. As the vast majority of revenue generated from Agora\u2019s customers is denominated in U.S. dollars, while the vast majority of revenue generated from Shengwang\u2019s customers is denominated in Renminbi, Dollar-Based Net Retention Rate is calculated in U.S. dollars for Agora and in Renminbi for Shengwang, which has substantially removed the impact of foreign currency translations. The Company believes Dollar-Based Net Retention Rate facilitates operating performance comparisons on a period-to-period basis.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Dollar-Based Net Retention Rate",
+            "type": "other",
+            "attributes": {
+              "definition": "Calculated for a trailing 12-month period by dividing revenue from the same customer cohort in the trailing 12-month period by revenue from that cohort in the prior 12-month period.",
+              "purpose": "Facilitates operating performance comparisons on a period-to-period basis."
+            }
+          },
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "currency_for_calculation": "USD",
+              "revenue_denomination": "U.S. dollars"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "currency_for_calculation": "Renminbi",
+              "revenue_denomination": "Renminbi"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Dollar-Based Net Retention Rate",
+          "customer cohort revenue comparison",
+          "trailing 12-month period",
+          "currency denomination",
+          "foreign currency translation impact"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains how Dollar-Based Net Retention Rate is calculated over a trailing 12-month period and notes that it is measured in USD for Agora and Renminbi for Shengwang to reduce foreign currency translation effects."
+      }
+    },
+    {
+      "chunk_id": "prose_p_4",
+      "text": "\u201cOver the past few months, we have worked diligently to streamline our organizational structure and improve our operational efficiency. Going forward, we will operate two independent divisions under separate brands and led by separate leadership teams. The U.S. and international business will operate under the Agora brand, and the China business will operate under the Shengwang brand,\u201d said Tony Zhao, founder, chairman and CEO of Agora, Inc. \u201cWe believe that this strategic reorganization will allow us to optimally focus our resources on the priorities of each business \u2013 driving growth for the Agora business and competing more effectively for the Shengwang business \u2013 while taking into consideration the unique economic and product needs of customers in each market. This new organizational structure will also enable us to become more agile as new opportunities emerge.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Agora, Inc.",
+            "type": "company",
+            "attributes": {
+              "brands": "Agora, Shengwang",
+              "organizational_structure": "two independent divisions under separate brands and separate leadership teams",
+              "businesses": "U.S. and international business; China business"
+            }
+          },
+          {
+            "name": "Agora",
+            "type": "company",
+            "attributes": {
+              "role": "brand for U.S. and international business"
+            }
+          },
+          {
+            "name": "Shengwang",
+            "type": "company",
+            "attributes": {
+              "role": "brand for China business"
+            }
+          },
+          {
+            "name": "Tony Zhao",
+            "type": "person",
+            "attributes": {
+              "title": "founder, chairman and CEO",
+              "company": "Agora, Inc."
+            }
+          },
+          {
+            "name": "U.S.",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "China",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "organizational restructuring",
+          "separate brands",
+          "separate leadership teams",
+          "operational efficiency",
+          "business segmentation",
+          "growth focus",
+          "agility"
+        ],
+        "sentiment": "positive",
+        "summary": "Agora announced a strategic reorganization to operate two independent divisions: the U.S. and international business under the Agora brand and the China business under the Shengwang brand, with separate leadership teams to improve focus, efficiency, and agility."
+      }
+    },
+    {
+      "chunk_id": "prose_p_31",
+      "text": "The Company has provided in this press release financial information that has not been prepared in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d). The Company uses these non-GAAP financial measures internally in analyzing its financial results and believe that the use of these non-GAAP financial measures is useful to investors as an additional tool to evaluate ongoing operating results and trends and in comparing its financial results with other companies in its industry, many of which present similar non-GAAP financial measures. Besides free cash flow (as defined below), each of these non-GAAP financial measures represents the corresponding GAAP financial measure before share-based compensation expenses, acquisition related expenses, amortization expenses of acquired intangible assets and income tax related to acquired intangible assets. The Company believes that such non-GAAP financial measures help identify underlying trends in its business that could otherwise be distorted by the effects of such share-based compensation expenses, acquisition related expenses, amortization expenses of acquired intangible assets and income tax related to acquired intangible assets that it includes in its cost of revenues, total operating expenses and net income (loss). The Company believes that all such non-GAAP financial measures also provide useful information about its operating results, enhance the overall understanding of its past performance and future prospects and allow for greater visibility with respect to key metrics used by its management in its financial and operational decision-making.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "description": "Issuer of the press release",
+              "reporting_basis": "Uses non-GAAP financial measures in addition to GAAP"
+            }
+          },
+          {
+            "name": "GAAP",
+            "type": "other",
+            "attributes": {
+              "description": "Generally accepted accounting principles in the United States"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "share-based compensation",
+          "acquisition-related expenses",
+          "amortization of acquired intangible assets",
+          "income tax related to acquired intangible assets",
+          "free cash flow",
+          "operating results"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the company presents non-GAAP financial measures, including free cash flow, to help investors evaluate operating performance and trends. It states these measures exclude share-based compensation, acquisition-related expenses, amortization of acquired intangible assets, and related income tax effects."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\API_2023_Q1.html",
+    "validation": {
+      "overall_confidence": 0.67109375,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.8421875,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

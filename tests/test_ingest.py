@@ -81,9 +81,40 @@ def test_table_with_empty_rows():
     """
     soup = BeautifulSoup(html, "lxml")
     tables = _extract_tables(soup)
-    
+
     # Should skip empty rows
     assert len(tables[0].rows) >= 1
+
+
+def test_table_with_duplicate_empty_headers():
+    """Duplicate blank headers should not collapse label and value columns."""
+    html = """
+    <table>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td>Total revenue</td><td>32,368</td><td>30,122</td></tr>
+        <tr><td>Net loss</td><td>(2,581)</td><td>(708)</td></tr>
+    </table>
+    """
+    soup = BeautifulSoup(html, "lxml")
+    tables = _extract_tables(soup)
+
+    assert len(tables) == 1
+    assert tables[0].rows[0][""] == "Total revenue"
+    assert tables[0].rows[0]["col_1"] == "32,368"
+    assert tables[0].rows[1][""] == "Net loss"
+    assert tables[0].rows[1]["col_1"] == "(2,581)"
+
+
+def test_extract_prose_from_paragraphs():
+    """Press-release paragraphs should be captured without section headers."""
+    html = """
+    <p>Fourth quarter revenue was $122.2 million and GAAP loss was $22.5 million.</p>
+    """
+    soup = BeautifulSoup(html, "lxml")
+    prose = _extract_prose(soup)
+
+    assert len(prose) == 1
+    assert "122.2 million" in prose[0].text
 
 
 def test_prose_without_headers():

@@ -1,0 +1,1937 @@
+{
+  "filing_id": "TSEM_2022_Q2",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars in thousands)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "June 30,",
+          "col_2": "",
+          "col_3": "December 31,",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "2022",
+          "col_2": "",
+          "col_3": "2021",
+          "col_4": ""
+        },
+        {
+          "": "ASSETS",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "CURRENT ASSETS",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$ 211,177",
+          "col_2": "",
+          "col_3": "$ 210,930",
+          "col_4": ""
+        },
+        {
+          "": "Short-term deposits",
+          "col_1": "468,298",
+          "col_2": "",
+          "col_3": "363,648",
+          "col_4": ""
+        },
+        {
+          "": "Marketable securities",
+          "col_1": "176,487",
+          "col_2": "",
+          "col_3": "190,068",
+          "col_4": ""
+        },
+        {
+          "": "Trade accounts receivable",
+          "col_1": "170,552",
+          "col_2": "",
+          "col_3": "142,228",
+          "col_4": ""
+        },
+        {
+          "": "Inventories",
+          "col_1": "249,038",
+          "col_2": "",
+          "col_3": "234,512",
+          "col_4": ""
+        },
+        {
+          "": "Other current assets",
+          "col_1": "43,253",
+          "col_2": "",
+          "col_3": "54,817",
+          "col_4": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "1,318,805",
+          "col_2": "",
+          "col_3": "1,196,203",
+          "col_4": ""
+        },
+        {
+          "": "LONG-TERM INVESTMENTS",
+          "col_1": "26,544",
+          "col_2": "",
+          "col_3": "39,597",
+          "col_4": ""
+        },
+        {
+          "": "PROPERTY AND EQUIPMENT, NET",
+          "col_1": "878,991",
+          "col_2": "",
+          "col_3": "876,683",
+          "col_4": ""
+        },
+        {
+          "": "GOODWILL AND OTHER INTANGIBLE ASSETS, NET",
+          "col_1": "16,217",
+          "col_2": "",
+          "col_3": "18,820",
+          "col_4": ""
+        },
+        {
+          "": "DEFERRED TAX AND OTHER LONG-TERM ASSETS, NET",
+          "col_1": "83,866",
+          "col_2": "",
+          "col_3": "99,938",
+          "col_4": ""
+        },
+        {
+          "": "TOTAL ASSETS",
+          "col_1": "$ 2,324,423",
+          "col_2": "",
+          "col_3": "$ 2,231,241",
+          "col_4": ""
+        },
+        {
+          "": "LIABILITIES AND SHAREHOLDERS' EQUITY",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "CURRENT LIABILITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "Short-term debt",
+          "col_1": "$ 79,535",
+          "col_2": "",
+          "col_3": "$ 83,868",
+          "col_4": ""
+        },
+        {
+          "": "Trade accounts payable",
+          "col_1": "127,762",
+          "col_2": "",
+          "col_3": "78,712",
+          "col_4": ""
+        },
+        {
+          "": "Deferred revenue and customers' advances",
+          "col_1": "38,632",
+          "col_2": "",
+          "col_3": "39,992",
+          "col_4": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "100,246",
+          "col_2": "",
+          "col_3": "73,756",
+          "col_4": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "346,175",
+          "col_2": "",
+          "col_3": "276,328",
+          "col_4": ""
+        },
+        {
+          "": "LONG-TERM DEBT",
+          "col_1": "200,733",
+          "col_2": "",
+          "col_3": "230,972",
+          "col_4": ""
+        },
+        {
+          "": "LONG-TERM CUSTOMERS' ADVANCES",
+          "col_1": "60,600",
+          "col_2": "",
+          "col_3": "69,968",
+          "col_4": ""
+        },
+        {
+          "": "EMPLOYEE RELATED LIABILITIES",
+          "col_1": "13,962",
+          "col_2": "",
+          "col_3": "14,622",
+          "col_4": ""
+        },
+        {
+          "": "DEFERRED TAX AND OTHER LONG-TERM LIABILITIES",
+          "col_1": "14,403",
+          "col_2": "",
+          "col_3": "23,962",
+          "col_4": ""
+        },
+        {
+          "": "TOTAL LIABILITIES",
+          "col_1": "635,873",
+          "col_2": "",
+          "col_3": "615,852",
+          "col_4": ""
+        },
+        {
+          "": "TOTAL SHAREHOLDERS' EQUITY",
+          "col_1": "1,688,550",
+          "col_2": "",
+          "col_3": "1,615,389",
+          "col_4": ""
+        },
+        {
+          "": "TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY",
+          "col_1": "$ 2,324,423",
+          "col_2": "",
+          "col_3": "$ 2,231,241",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars and share count in thousands, except per share data)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "Three months ended",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "June 30,",
+          "col_2": "",
+          "col_3": "March 31,",
+          "col_4": "",
+          "col_5": "June 30,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "2022",
+          "col_2": "",
+          "col_3": "2022",
+          "col_4": "",
+          "col_5": "2021",
+          "col_6": ""
+        },
+        {
+          "": "REVENUES",
+          "col_1": "$ 426,168",
+          "col_2": "",
+          "col_3": "$ 421,132",
+          "col_4": "",
+          "col_5": "$ 362,138",
+          "col_6": ""
+        },
+        {
+          "": "COST OF REVENUES",
+          "col_1": "313,728",
+          "col_2": "",
+          "col_3": "316,501",
+          "col_4": "",
+          "col_5": "288,383",
+          "col_6": ""
+        },
+        {
+          "": "GROSS PROFIT",
+          "col_1": "112,440",
+          "col_2": "",
+          "col_3": "104,631",
+          "col_4": "",
+          "col_5": "73,755",
+          "col_6": ""
+        },
+        {
+          "": "OPERATING COSTS AND EXPENSES:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "20,481",
+          "col_2": "",
+          "col_3": "20,318",
+          "col_4": "",
+          "col_5": "21,081",
+          "col_6": ""
+        },
+        {
+          "": "Marketing, general and administrative",
+          "col_1": "21,285",
+          "col_2": "",
+          "col_3": "21,253",
+          "col_4": "",
+          "col_5": "18,671",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "41,766",
+          "col_2": "",
+          "col_3": "41,571",
+          "col_4": "",
+          "col_5": "39,752",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "OPERATING PROFIT",
+          "col_1": "70,674",
+          "col_2": "",
+          "col_3": "63,060",
+          "col_4": "",
+          "col_5": "34,003",
+          "col_6": ""
+        },
+        {
+          "": "FINANCING AND OTHER EXPENSE, NET",
+          "col_1": "(8,162)",
+          "col_2": "",
+          "col_3": "(2,133)",
+          "col_4": "",
+          "col_5": "(484)",
+          "col_6": ""
+        },
+        {
+          "": "PROFIT BEFORE INCOME TAX",
+          "col_1": "62,512",
+          "col_2": "",
+          "col_3": "60,927",
+          "col_4": "",
+          "col_5": "33,519",
+          "col_6": ""
+        },
+        {
+          "": "INCOME TAX EXPENSE, NET",
+          "col_1": "(4,339)",
+          "col_2": "",
+          "col_3": "(5,153)",
+          "col_4": "",
+          "col_5": "(2,202)",
+          "col_6": ""
+        },
+        {
+          "": "NET PROFIT",
+          "col_1": "58,173",
+          "col_2": "",
+          "col_3": "55,774",
+          "col_4": "",
+          "col_5": "31,317",
+          "col_6": ""
+        },
+        {
+          "": "Net income attributable to non-controlling interest",
+          "col_1": "(96)",
+          "col_2": "",
+          "col_3": "(1,741)",
+          "col_4": "",
+          "col_5": "(451)",
+          "col_6": ""
+        },
+        {
+          "": "NET PROFIT ATTRIBUTABLE TO THE COMPANY",
+          "col_1": "$ 58,077",
+          "col_2": "",
+          "col_3": "$ 54,033",
+          "col_4": "",
+          "col_5": "$ 30,866",
+          "col_6": ""
+        },
+        {
+          "": "BASIC EARNINGS PER SHARE",
+          "col_1": "$ 0.53",
+          "col_2": "",
+          "col_3": "$ 0.50",
+          "col_4": "",
+          "col_5": "$ 0.29",
+          "col_6": ""
+        },
+        {
+          "": "Weighted average number of shares",
+          "col_1": "109,138",
+          "col_2": "",
+          "col_3": "108,934",
+          "col_4": "",
+          "col_5": "108,043",
+          "col_6": ""
+        },
+        {
+          "": "DILUTED EARNINGS PER SHARE",
+          "col_1": "$ 0.53",
+          "col_2": "",
+          "col_3": "$ 0.49",
+          "col_4": "",
+          "col_5": "$ 0.28",
+          "col_6": ""
+        },
+        {
+          "": "Weighted average number of shares",
+          "col_1": "110,561",
+          "col_2": "",
+          "col_3": "110,539",
+          "col_4": "",
+          "col_5": "109,629",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4"
+      ],
+      "rows": [
+        {
+          "": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars and share count in thousands, except per share data)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "Six months ended",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "June 30,",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "2022",
+          "col_2": "",
+          "col_3": "2021",
+          "col_4": ""
+        },
+        {
+          "": "REVENUES",
+          "col_1": "$ 847,300",
+          "col_2": "",
+          "col_3": "$ 709,352",
+          "col_4": ""
+        },
+        {
+          "": "COST OF REVENUES",
+          "col_1": "630,229",
+          "col_2": "",
+          "col_3": "565,783",
+          "col_4": ""
+        },
+        {
+          "": "GROSS PROFIT",
+          "col_1": "217,071",
+          "col_2": "",
+          "col_3": "143,569",
+          "col_4": ""
+        },
+        {
+          "": "OPERATING COSTS AND EXPENSES:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "40,799",
+          "col_2": "",
+          "col_3": "41,424",
+          "col_4": ""
+        },
+        {
+          "": "Marketing, general and administrative",
+          "col_1": "42,538",
+          "col_2": "",
+          "col_3": "35,662",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "83,337",
+          "col_2": "",
+          "col_3": "77,086",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        },
+        {
+          "": "OPERATING PROFIT",
+          "col_1": "133,734",
+          "col_2": "",
+          "col_3": "66,483",
+          "col_4": ""
+        },
+        {
+          "": "FINANCING AND OTHER EXPENSE, NET",
+          "col_1": "(10,295)",
+          "col_2": "",
+          "col_3": "(8,326)",
+          "col_4": ""
+        },
+        {
+          "": "PROFIT BEFORE INCOME TAX",
+          "col_1": "123,439",
+          "col_2": "",
+          "col_3": "58,157",
+          "col_4": ""
+        },
+        {
+          "": "INCOME TAX BENEFIT (EXPENSE), NET",
+          "col_1": "(9,492)",
+          "col_2": "",
+          "col_3": "3,674",
+          "col_4": ""
+        },
+        {
+          "": "NET PROFIT",
+          "col_1": "113,947",
+          "col_2": "",
+          "col_3": "61,831",
+          "col_4": ""
+        },
+        {
+          "": "Net income attributable to non-controlling interest",
+          "col_1": "(1,837)",
+          "col_2": "",
+          "col_3": "(2,643)",
+          "col_4": ""
+        },
+        {
+          "": "NET PROFIT ATTRIBUTABLE TO THE COMPANY",
+          "col_1": "$ 112,110",
+          "col_2": "",
+          "col_3": "$ 59,188",
+          "col_4": ""
+        },
+        {
+          "": "BASIC EARNINGS PER SHARE",
+          "col_1": "$ 1.03",
+          "col_2": "",
+          "col_3": "$ 0.55",
+          "col_4": ""
+        },
+        {
+          "": "Weighted average number of shares",
+          "col_1": "109,037",
+          "col_2": "",
+          "col_3": "107,992",
+          "col_4": ""
+        },
+        {
+          "": "DILUTED EARNINGS PER SHARE",
+          "col_1": "$ 1.01",
+          "col_2": "",
+          "col_3": "$ 0.54",
+          "col_4": ""
+        },
+        {
+          "": "Weighted average number of shares",
+          "col_1": "110,561",
+          "col_2": "",
+          "col_3": "109,545",
+          "col_4": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "RECONCILIATION FROM GAAP OPERATING PROFIT TO EBITDA (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars in thousands)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "Three months ended",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "June 30,",
+          "col_7": "",
+          "col_8": "March 31,",
+          "col_9": "",
+          "col_10": "June 30,",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "2022",
+          "col_7": "",
+          "col_8": "2022",
+          "col_9": "",
+          "col_10": "2021",
+          "col_11": ""
+        },
+        {
+          "": "GAAP OPERATING PROFIT",
+          "col_1": "$ 70,674",
+          "col_2": "",
+          "col_3": "$ 63,060",
+          "col_4": "",
+          "col_5": "$ 34,003",
+          "col_6": ""
+        },
+        {
+          "": "Depreciation",
+          "col_1": "",
+          "col_2": "60,886",
+          "col_3": "",
+          "col_4": "64,368",
+          "col_5": "",
+          "col_6": "58,474",
+          "col_7": ""
+        },
+        {
+          "": "Stock based compensation",
+          "col_1": "5,543",
+          "col_2": "",
+          "col_3": "5,715",
+          "col_4": "",
+          "col_5": "5,971",
+          "col_6": ""
+        },
+        {
+          "": "Amortization of acquired intangible assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "508",
+          "col_7": "",
+          "col_8": "506",
+          "col_9": "",
+          "col_10": "492",
+          "col_11": ""
+        },
+        {
+          "": "EBITDA",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "$ 137,611",
+          "col_4": "",
+          "col_5": "$ 133,649",
+          "col_6": "",
+          "col_7": "$ 98,940",
+          "col_8": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "CONSOLIDATED SOURCES AND USES REPORT (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars in thousands)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "Three months ended",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "June 30,",
+          "col_2": "",
+          "col_3": "March 31,",
+          "col_4": "",
+          "col_5": "June 30,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "2022",
+          "col_2": "",
+          "col_3": "2022",
+          "col_4": "",
+          "col_5": "2021",
+          "col_6": ""
+        },
+        {
+          "": "CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD",
+          "col_1": "$ 203,484",
+          "col_2": "",
+          "col_3": "$ 210,930",
+          "col_4": "",
+          "col_5": "$ 215,581",
+          "col_6": ""
+        },
+        {
+          "": "Net cash provided by operating activities",
+          "col_1": "138,097",
+          "col_2": "",
+          "col_3": "136,571",
+          "col_4": "",
+          "col_5": "93,250",
+          "col_6": ""
+        },
+        {
+          "": "Investments in property and equipment, net",
+          "col_1": "(49,377)",
+          "col_2": "",
+          "col_3": "(80,840)",
+          "col_4": "",
+          "col_5": "(56,184)",
+          "col_6": ""
+        },
+        {
+          "": "Exercise of options",
+          "col_1": "--",
+          "col_2": "",
+          "col_3": "44",
+          "col_4": "",
+          "col_5": "--",
+          "col_6": ""
+        },
+        {
+          "": "Debt repaid, net",
+          "col_1": "(8,211)",
+          "col_2": "",
+          "col_3": "(30,539)",
+          "col_4": "",
+          "col_5": "(19,769)",
+          "col_6": ""
+        },
+        {
+          "": "Effect of Japanese Yen exchange rate change over cash balance",
+          "col_1": "(7,682)",
+          "col_2": "",
+          "col_3": "(3,071)",
+          "col_4": "",
+          "col_5": "(68)",
+          "col_6": ""
+        },
+        {
+          "": "Investments in short-term deposits, marketable securities and other assets, net",
+          "col_1": "(65,134)",
+          "col_2": "",
+          "col_3": "(29,611)",
+          "col_4": "",
+          "col_5": "(17,055)",
+          "col_6": ""
+        },
+        {
+          "": "CASH AND CASH EQUIVALENTS - END OF PERIOD",
+          "col_1": "$ 211,177",
+          "col_2": "",
+          "col_3": "$ 203,484",
+          "col_4": "",
+          "col_5": "$ 215,755",
+          "col_6": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)",
+          "col_1": ""
+        },
+        {
+          "": "(dollars in thousands)",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": "Three months ended",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "June 30,",
+          "col_2": "",
+          "col_3": "March 31,",
+          "col_4": "",
+          "col_5": "June 30,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "2022",
+          "col_2": "",
+          "col_3": "2022",
+          "col_4": "",
+          "col_5": "2021",
+          "col_6": ""
+        },
+        {
+          "": "CASH FLOWS - OPERATING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Net profit for the period",
+          "col_1": "$ 58,173",
+          "col_2": "",
+          "col_3": "$ 55,774",
+          "col_4": "",
+          "col_5": "$ 31,317",
+          "col_6": ""
+        },
+        {
+          "": "Adjustments to reconcile net profit for the period",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "to net cash provided by operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Income and expense items not involving cash flows:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "67,007",
+          "col_2": "",
+          "col_3": "70,780",
+          "col_4": "",
+          "col_5": "65,482",
+          "col_6": ""
+        },
+        {
+          "": "Effect of exchange rate differences",
+          "col_1": "2,276",
+          "col_2": "",
+          "col_3": "(1,330)",
+          "col_4": "",
+          "col_5": "1,798",
+          "col_6": ""
+        },
+        {
+          "": "Other expense, net",
+          "col_1": "560",
+          "col_2": "",
+          "col_3": "1,347",
+          "col_4": "",
+          "col_5": "1,758",
+          "col_6": ""
+        },
+        {
+          "": "Changes in assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Trade accounts receivable",
+          "col_1": "3,578",
+          "col_2": "",
+          "col_3": "(35,181)",
+          "col_4": "",
+          "col_5": "18,996",
+          "col_6": ""
+        },
+        {
+          "": "Other assets",
+          "col_1": "(3,355)",
+          "col_2": "",
+          "col_3": "13,874",
+          "col_4": "",
+          "col_5": "(16,065)",
+          "col_6": ""
+        },
+        {
+          "": "Inventories",
+          "col_1": "(10,630)",
+          "col_2": "",
+          "col_3": "(18,328)",
+          "col_4": "",
+          "col_5": "(12,077)",
+          "col_6": ""
+        },
+        {
+          "": "Trade accounts payable",
+          "col_1": "22,415",
+          "col_2": "",
+          "col_3": "30,595",
+          "col_4": "",
+          "col_5": "(5,302)",
+          "col_6": ""
+        },
+        {
+          "": "Deferred revenue and customers' advances",
+          "col_1": "(14,031)",
+          "col_2": "",
+          "col_3": "3,385",
+          "col_4": "",
+          "col_5": "(3,133)",
+          "col_6": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "10,974",
+          "col_2": "",
+          "col_3": "15,103",
+          "col_4": "",
+          "col_5": "12,612",
+          "col_6": ""
+        },
+        {
+          "": "Long-term employee related liabilities",
+          "col_1": "26",
+          "col_2": "",
+          "col_3": "331",
+          "col_4": "",
+          "col_5": "247",
+          "col_6": ""
+        },
+        {
+          "": "Deferred tax, net and other long-term liabilities",
+          "col_1": "1,104",
+          "col_2": "",
+          "col_3": "221",
+          "col_4": "",
+          "col_5": "(2,383)",
+          "col_6": ""
+        },
+        {
+          "": "Net cash provided by operating activities",
+          "col_1": "138,097",
+          "col_2": "",
+          "col_3": "136,571",
+          "col_4": "",
+          "col_5": "93,250",
+          "col_6": ""
+        },
+        {
+          "": "CASH FLOWS - INVESTING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Investments in property and equipment, net",
+          "col_1": "(49,377)",
+          "col_2": "",
+          "col_3": "(80,840)",
+          "col_4": "",
+          "col_5": "(56,184)",
+          "col_6": ""
+        },
+        {
+          "": "Investments in deposits, marketable securities and other assets, net",
+          "col_1": "(65,134)",
+          "col_2": "",
+          "col_3": "(29,611)",
+          "col_4": "",
+          "col_5": "(17,055)",
+          "col_6": ""
+        },
+        {
+          "": "Net cash used in investing activities",
+          "col_1": "(114,511)",
+          "col_2": "",
+          "col_3": "(110,451)",
+          "col_4": "",
+          "col_5": "(73,239)",
+          "col_6": ""
+        },
+        {
+          "": "CASH FLOWS - FINANCING ACTIVITIES",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Debt repaid, net",
+          "col_1": "(8,211)",
+          "col_2": "",
+          "col_3": "(30,539)",
+          "col_4": "",
+          "col_5": "(19,769)",
+          "col_6": ""
+        },
+        {
+          "": "Exercise of options",
+          "col_1": "--",
+          "col_2": "",
+          "col_3": "44",
+          "col_4": "",
+          "col_5": "--",
+          "col_6": ""
+        },
+        {
+          "": "Net cash used in financing activities",
+          "col_1": "(8,211)",
+          "col_2": "",
+          "col_3": "(30,495)",
+          "col_4": "",
+          "col_5": "(19,769)",
+          "col_6": ""
+        },
+        {
+          "": "EFFECT OF FOREIGN CURRENCY EXCHANGE RATE CHANGE",
+          "col_1": "(7,682)",
+          "col_2": "",
+          "col_3": "(3,071)",
+          "col_4": "",
+          "col_5": "(68)",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "INCREASE IN CASH AND CASH EQUIVALENTS",
+          "col_1": "7,693",
+          "col_2": "",
+          "col_3": "(7,446)",
+          "col_4": "",
+          "col_5": "174",
+          "col_6": ""
+        },
+        {
+          "": "CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD",
+          "col_1": "203,484",
+          "col_2": "",
+          "col_3": "210,930",
+          "col_4": "",
+          "col_5": "215,581",
+          "col_6": ""
+        },
+        {
+          "": "CASH AND CASH EQUIVALENTS - END OF PERIOD",
+          "col_1": "$ 211,177",
+          "col_2": "",
+          "col_3": "$ 203,484",
+          "col_4": "",
+          "col_5": "$ 215,755",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Tower Semiconductor Reports Second Quarter 2022 Record Revenue of $426 Million\u00a0Year over Year Revenue Growth of 18% Total and 30% Organic"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_15",
+      "text": "CONTACTS : Noit Levy | Investor Relations | +972 74 737 7556 | noitle@towersemi.com",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Noit Levy",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "phone": "+972 74 737 7556",
+              "email": "noitle@towersemi.com"
+            }
+          },
+          {
+            "name": "Tower Semiconductor",
+            "type": "company",
+            "attributes": {
+              "domain": "towersemi.com"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Investor Relations",
+          "Contact Information"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides investor relations contact details for Noit Levy at Tower Semiconductor, including phone number and email address."
+      }
+    },
+    {
+      "chunk_id": "prose_p_9",
+      "text": "Net profit for the first quarter of 2022 was $54 million, representing $0.50 basic and $0.49 diluted earnings per share.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "54 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          },
+          {
+            "figure": "0.50",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          },
+          {
+            "figure": "0.49",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          }
+        ],
+        "key_topics": [
+          "net profit",
+          "earnings per share",
+          "first quarter 2022"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports net profit of $54 million for the first quarter of 2022, with basic earnings per share of $0.50 and diluted earnings per share of $0.49."
+      }
+    },
+    {
+      "chunk_id": "prose_p_3",
+      "text": "MIGDAL HAEMEK, Israel, Aug.  02, 2022  (GLOBE NEWSWIRE) -- Tower Semiconductor (NASDAQ: TSEM & TASE: TSEM) reports today its results for the second quarter ended June 30, 2022.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MIGDAL HAEMEK",
+            "type": "location",
+            "attributes": {
+              "country": "Israel"
+            }
+          },
+          {
+            "name": "Tower Semiconductor",
+            "type": "company",
+            "attributes": {
+              "ticker": "TSEM",
+              "exchanges": "NASDAQ, TASE"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings results",
+          "second quarter 2022",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "Tower Semiconductor announced its results for the second quarter ended June 30, 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_6",
+      "text": "G ross profit for the second quarter of 2022 was $112 million, 52% higher than $74 million recorded in the second quarter of 2021. Gross profit in the first quarter of 2022 was $105 million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "second quarter of 2022",
+            "type": "other",
+            "attributes": {
+              "metric": "gross profit",
+              "value": "$112 million",
+              "comparison": "52% higher than second quarter of 2021"
+            }
+          },
+          {
+            "name": "second quarter of 2021",
+            "type": "other",
+            "attributes": {
+              "metric": "gross profit",
+              "value": "$74 million"
+            }
+          },
+          {
+            "name": "first quarter of 2022",
+            "type": "other",
+            "attributes": {
+              "metric": "gross profit",
+              "value": "$105 million"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 112000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2022"
+          },
+          {
+            "figure": 74000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          },
+          {
+            "figure": 105000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          }
+        ],
+        "key_topics": [
+          "gross profit",
+          "quarterly financial performance",
+          "year-over-year growth",
+          "quarter-over-quarter comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "Gross profit increased to $112 million in the second quarter of 2022, up 52% from $74 million in the second quarter of 2021, and compared with $105 million in the first quarter of 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "O perating profit for the second quarter of 2022 was $71 million, more than double the $34 million recorded in the second quarter of 2021. Operating profit in the first quarter of 2022 was $63 million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "71 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2022"
+          },
+          {
+            "figure": "34 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          },
+          {
+            "figure": "63 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          }
+        ],
+        "key_topics": [
+          "operating profit",
+          "quarterly financial performance",
+          "year-over-year growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Operating profit increased to $71 million in the second quarter of 2022, more than doubling from $34 million in the second quarter of 2021, and was $63 million in the first quarter of 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_10",
+      "text": "Cash flow generated from operating activities in the second quarter of 2022 was $138 million and investment in fixed assets was $49 million, net. During the second quarter of 2022, the Company repaid $8 million of its debt.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "the Company",
+            "type": "company",
+            "attributes": {
+              "role": "subject of cash flow and debt repayment statements"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 138000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2022",
+            "attributes": {
+              "description": "cash flow generated from operating activities"
+            }
+          },
+          {
+            "figure": 49000000,
+            "type": "assets",
+            "currency": "USD",
+            "period": "second quarter of 2022",
+            "attributes": {
+              "description": "investment in fixed assets, net"
+            }
+          },
+          {
+            "figure": 8000000,
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "second quarter of 2022",
+            "attributes": {
+              "description": "debt repaid"
+            }
+          }
+        ],
+        "key_topics": [
+          "operating cash flow",
+          "capital expenditures",
+          "debt repayment"
+        ],
+        "sentiment": "neutral",
+        "summary": "In the second quarter of 2022, the Company generated $138 million in operating cash flow, invested $49 million net in fixed assets, and repaid $8 million of debt."
+      }
+    },
+    {
+      "chunk_id": "prose_p_12",
+      "text": "In light of the Company\u2019s definitive agreement with Intel Corporation, as announced on February 15, 2022, the Company is not providing herewith revenue guidance for the third quarter 2022 and will not host an earnings conference call.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "issuer of the statement",
+              "action": "not providing revenue guidance for third quarter 2022 and will not host an earnings conference call"
+            }
+          },
+          {
+            "name": "Intel Corporation",
+            "type": "company",
+            "attributes": {
+              "context": "counterparty to the Company's definitive agreement",
+              "announcement_date": "2022-02-15"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "definitive agreement",
+          "revenue guidance",
+          "third quarter 2022",
+          "earnings conference call"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company states that, due to its definitive agreement with Intel Corporation announced on February 15, 2022, it will not provide revenue guidance for the third quarter of 2022 and will not hold an earnings conference call."
+      }
+    },
+    {
+      "chunk_id": "prose_p_8",
+      "text": "Net profit for the second quarter of 2022 was $58 million, or $0.53 basic and diluted earnings per share, 88% higher than $31 million recorded in the second quarter of 2021, which represented $0.29 basic and $0.28 diluted earnings per share.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "second quarter of 2022",
+            "type": "other",
+            "attributes": {
+              "metric": "net profit",
+              "net_profit": "$58 million",
+              "basic_eps": "$0.53",
+              "diluted_eps": "$0.53",
+              "comparison": "88% higher than second quarter of 2021"
+            }
+          },
+          {
+            "name": "second quarter of 2021",
+            "type": "other",
+            "attributes": {
+              "metric": "net profit",
+              "net_profit": "$31 million",
+              "basic_eps": "$0.29",
+              "diluted_eps": "$0.28"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "58",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2022"
+          },
+          {
+            "figure": "0.53",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2022"
+          },
+          {
+            "figure": "31",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          },
+          {
+            "figure": "0.29",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          },
+          {
+            "figure": "0.28",
+            "type": "other",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          }
+        ],
+        "key_topics": [
+          "net profit",
+          "earnings per share",
+          "quarterly financial performance",
+          "year-over-year growth"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports strong second-quarter 2022 results, with net profit rising to $58 million from $31 million in the second quarter of 2021, and earnings per share increasing to $0.53."
+      }
+    },
+    {
+      "chunk_id": "prose_p_5",
+      "text": "Revenue for the second quarter of 2022 was $426 million, as compared to $362 million in the second quarter of 2021, reflecting 18% revenue growth. Organic revenue grew by 30% year over year for the second quarter of 2022 (organic revenue defined as total revenue excluding revenues from (i) Nuvoton in the Japanese fabs and (ii) Maxim in the San Antonio fab). Revenue for the first quarter of 2022 was $421 million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Nuvoton",
+            "type": "company",
+            "attributes": {
+              "context": "Excluded from organic revenue in the Japanese fabs"
+            }
+          },
+          {
+            "name": "Maxim",
+            "type": "company",
+            "attributes": {
+              "context": "Excluded from organic revenue in the San Antonio fab"
+            }
+          },
+          {
+            "name": "Japanese fabs",
+            "type": "location",
+            "attributes": {
+              "context": "Referenced as a source of excluded revenue"
+            }
+          },
+          {
+            "name": "San Antonio fab",
+            "type": "location",
+            "attributes": {
+              "context": "Referenced as a source of excluded revenue"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "426000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "second quarter of 2022"
+          },
+          {
+            "figure": "362000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "second quarter of 2021"
+          },
+          {
+            "figure": "18%",
+            "type": "revenue growth",
+            "currency": "USD",
+            "period": "second quarter of 2022 vs second quarter of 2021"
+          },
+          {
+            "figure": "30%",
+            "type": "revenue growth",
+            "currency": "USD",
+            "period": "second quarter of 2022 year over year"
+          },
+          {
+            "figure": "421000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2022"
+          }
+        ],
+        "key_topics": [
+          "quarterly revenue",
+          "year-over-year growth",
+          "organic revenue",
+          "revenue comparison"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports strong revenue growth in Q2 2022, with revenue rising to $426 million from $362 million in Q2 2021, and organic revenue increasing 30% year over year. Q1 2022 revenue was $421 million."
+      }
+    },
+    {
+      "chunk_id": "prose_p_14",
+      "text": "About Tower Semiconductor Tower Semiconductor Ltd. (NASDAQ: TSEM, TASE: TSEM), the leading foundry of high value analog semiconductor solutions, provides technology and manufacturing platforms for integrated circuits (ICs) in growing markets such as consumer, industrial, automotive, mobile, infrastructure, medical and aerospace and defense. Tower Semiconductor focuses on creating positive and sustainable impact on the world through long term partnerships and its advanced and innovative analog technology offering, comprised of a broad range of customizable process platforms such as SiGe, BiCMOS, mixed-signal/CMOS, RF CMOS, CMOS image sensor, non-imaging sensors, integrated power management (BCD and 700V), and MEMS. Tower Semiconductor also provides world-class design enablement for a quick and accurate design cycle as well as process transfer services including development, transfer, and optimization, to IDMs and fabless companies. To provide multi-fab sourcing and extended capacity for its customers, Tower Semiconductor owns two manufacturing facilities in Israel (150mm and 200mm), two in the U.S. (200mm), two facilities in Japan (200mm and 300mm) which it owns through its 51% holdings in TPSCo and is sharing a 300mm manufacturing facility being established in Italy by STMicroelectronics. For more information, please visit: www.towersemi.com",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Tower Semiconductor Ltd.",
+            "type": "company",
+            "attributes": {
+              "ticker": "TSEM",
+              "exchange": "NASDAQ, TASE",
+              "description": "Leading foundry of high value analog semiconductor solutions",
+              "headquarters": "Israel",
+              "website": "www.towersemi.com"
+            }
+          },
+          {
+            "name": "Tower Semiconductor",
+            "type": "company",
+            "attributes": {
+              "business_focus": "Technology and manufacturing platforms for integrated circuits",
+              "markets": "consumer, industrial, automotive, mobile, infrastructure, medical, aerospace and defense",
+              "capabilities": "analog technology, design enablement, process transfer services",
+              "ownership": "Owns manufacturing facilities in Israel, the U.S., and Japan; shares a facility in Italy"
+            }
+          },
+          {
+            "name": "TPSCo",
+            "type": "company",
+            "attributes": {
+              "ownership_stake": "51%",
+              "role": "Holds two manufacturing facilities in Japan through Tower Semiconductor's ownership"
+            }
+          },
+          {
+            "name": "STMicroelectronics",
+            "type": "company",
+            "attributes": {
+              "role": "Establishing a shared 300mm manufacturing facility in Italy with Tower Semiconductor"
+            }
+          },
+          {
+            "name": "Israel",
+            "type": "location",
+            "attributes": {
+              "facilities": "Two manufacturing facilities (150mm and 200mm)"
+            }
+          },
+          {
+            "name": "United States",
+            "type": "location",
+            "attributes": {
+              "facilities": "Two manufacturing facilities (200mm)"
+            }
+          },
+          {
+            "name": "Japan",
+            "type": "location",
+            "attributes": {
+              "facilities": "Two manufacturing facilities (200mm and 300mm)"
+            }
+          },
+          {
+            "name": "Italy",
+            "type": "location",
+            "attributes": {
+              "facilities": "Shared 300mm manufacturing facility being established"
+            }
+          },
+          {
+            "name": "SiGe",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "BiCMOS",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "mixed-signal/CMOS",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "RF CMOS",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "CMOS image sensor",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "integrated power management (BCD and 700V)",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "MEMS",
+            "type": "other",
+            "attributes": {
+              "category": "process platform"
+            }
+          },
+          {
+            "name": "IDMs",
+            "type": "other",
+            "attributes": {
+              "description": "Integrated device manufacturers"
+            }
+          },
+          {
+            "name": "fabless companies",
+            "type": "other",
+            "attributes": {
+              "description": "Companies that outsource semiconductor manufacturing"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "company overview",
+          "semiconductor foundry",
+          "analog semiconductor solutions",
+          "manufacturing facilities",
+          "process platforms",
+          "design enablement",
+          "process transfer services",
+          "multi-fab sourcing",
+          "global operations"
+        ],
+        "sentiment": "positive",
+        "summary": "Tower Semiconductor is described as a leading analog semiconductor foundry serving multiple end markets, offering a broad range of process platforms and design/process transfer services, with manufacturing facilities across Israel, the U.S., Japan, and a shared facility in Italy."
+      }
+    },
+    {
+      "chunk_id": "prose_p_13",
+      "text": "The Company presents its financial statements in accordance with U.S. GAAP. The financial information included in the tables below includes unaudited condensed financial data. Some of the financial information , which may be used and/ or presented in this release and/ or pr ior earnings related filings and/ or in related public disclosures or filings with respect to the financial statements and/ or results of the Company, which we describe as \u201cadjusted\u201d financial measures and/ or reconciled financial measures , are non-GAAP financial measures as defined in Regulation G and related reporting requirements promulgated by the Securities and Exchange Commission as they apply to our Company. These adjusted financial measures are calculated excluding the following: (1) amortization of acquired intangible assets and (2) compensation expenses in respect of equity grants to directors, officers, and employees. These adjusted financial measures should be evaluated in conjunction with, and are not a substitute for, GAAP financial measures. The tables also present the GAAP financial measures, which are most comparable to the adjusted financial measures, as well as a reconciliation between the adjusted financial measures and the comparable GAAP financial measures. As used and/ or presented in this release and/ or pr ior earnings related filings and/ or in related public disclosures or filings with respect to the financial statements and/ or results of the Company, as well as calculated in the tables herein, the term Earnings Before Interest Tax Depreciation and Amortization which we define as EBITDA consists of operating profit in accordance with GAAP, excluding ( i ) depreciation expense s, which include depreciation recorded in cost of revenues and in operating cost and expenses lines ( e.g , research and development related equipment and/ or fixed other assets depreciation) , (ii) stock-based compensation expense and (iii) amortization of acquired intangible assets . EBITDA is reconciled in the tables below from GAAP operating profit. EBITDA is not a required GAAP financial measure and may not be comparable to a similarly titled measure employed by other companies. EBITDA and the adjusted financial information presented herein and/ or prior earnings related filings and/ or in related public disclosures or filings with respect to the financial statements and/ or results of the Company, should not be considered in isolation or as a substitute for operating profit, net profit or loss, cash flows provided by operating, investing and financing activities, per share data or other profit or cash flow statement data prepared in accordance with GAAP. The term Net Cash, as may be used and/ or presented in this release and/ or prior earnings related filings and/ or in related public disclosures or filings with respect to the financial statements and/ or results of the Company, is comprised of cash, cash equivalents, short-term deposits and marketable securities less debt amounts as presented in the balance sheets included herein. The term Net Cash is not a required GAAP financial measure, may not be comparable to a similarly titled measure employed by other companies and should not be considered in isolation or as a substitute for cash, debt, operating profit, net profit or loss, cash flows provided by operating, investing and financing activities, per share data or other profit or cash flow statement data prepared in accordance with GAAP. The term Free Cash Flow, as used and/ or presented in this release and/ or prior earnings related filings and/ or in related public disclosures or filings with respect to the financial statements and/ or results of the Company, is calculated to be net cash provided by operating activities (in the amounts of $13 8 million , $ 137 million and $ 93 million for the three months periods ended June 30, 2022 , March 31, 2022 and June 30 , 2021 , respectively ) less cash used for investments in property and equip ment, net (in the amounts of $ 49 million, $ 81 million and $ 56 million for the three months periods ended June 30, 2022, March 31, 2022 and June 30 , 2021 , respectively) . The term Free Cash Flow is not a required GAAP financial measure, may not be comparable to a similarly titled measure employed by other companies and should not be considered in isolation or as a substitute for operating profit, net profit or loss, cash flows provided by operating, investing and financing activities, per share data or other profit or cash flow statement data prepared in accordance with GAAP .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "financial_reporting_basis": "U.S. GAAP",
+              "financial_information": "unaudited condensed financial data",
+              "non_gaap_measures": "adjusted financial measures, EBITDA, Net Cash, Free Cash Flow"
+            }
+          },
+          {
+            "name": "Securities and Exchange Commission",
+            "type": "other",
+            "attributes": {
+              "role": "regulatory body referenced for Regulation G and related reporting requirements"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 138000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended June 30, 2022",
+            "attributes": {
+              "description": "net cash provided by operating activities"
+            }
+          },
+          {
+            "figure": 137000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended March 31, 2022",
+            "attributes": {
+              "description": "net cash provided by operating activities"
+            }
+          },
+          {
+            "figure": 93000000,
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended June 30, 2021",
+            "attributes": {
+              "description": "net cash provided by operating activities"
+            }
+          },
+          {
+            "figure": 49000000,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ended June 30, 2022",
+            "attributes": {
+              "description": "cash used for investments in property and equipment, net"
+            }
+          },
+          {
+            "figure": 81000000,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ended March 31, 2022",
+            "attributes": {
+              "description": "cash used for investments in property and equipment, net"
+            }
+          },
+          {
+            "figure": 56000000,
+            "type": "expense",
+            "currency": "USD",
+            "period": "three months ended June 30, 2021",
+            "attributes": {
+              "description": "cash used for investments in property and equipment, net"
+            }
+          }
+        ],
+        "key_topics": [
+          "U.S. GAAP financial reporting",
+          "non-GAAP financial measures",
+          "EBITDA reconciliation",
+          "Net Cash definition",
+          "Free Cash Flow calculation",
+          "adjustments for amortization and stock-based compensation",
+          "unaudited condensed financial data"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains the company\u2019s use of U.S. GAAP and non-GAAP measures, defines EBITDA, Net Cash, and Free Cash Flow, and provides the components used to calculate Free Cash Flow for three recent quarters."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\TSEM_2022_Q2.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

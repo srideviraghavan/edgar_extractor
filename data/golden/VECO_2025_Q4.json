@@ -1,0 +1,23 @@
+{
+  "filing_id": "VECO_2025_Q4",
+  "ticker": "VECO",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Veeco Instruments Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "net_income": {
+      "value": 1.1,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": 0.02,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 15,
+  "tags": []
+}

@@ -1,0 +1,1319 @@
+{
+  "filing_id": "UMC_2021_Q3",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "Operating Results"
+      ],
+      "rows": [
+        {
+          "Operating Results": "(Amount: NT$ million)"
+        },
+        {
+          "Operating Results": "Operating Revenues"
+        },
+        {
+          "Operating Results": "Gross Profit"
+        },
+        {
+          "Operating Results": "Operating Expenses"
+        },
+        {
+          "Operating Results": "Net Other Operating Income and Expenses"
+        },
+        {
+          "Operating Results": "Operating Income"
+        },
+        {
+          "Operating Results": "Net Non-Operating Income and Expenses"
+        },
+        {
+          "Operating Results": "Net Income Attributable to Shareholders of the Parent"
+        },
+        {
+          "Operating Results": "EPS (NT$ per share)"
+        },
+        {
+          "Operating Results": "(US$ per ADS)"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "COGS & Expenses"
+      ],
+      "rows": [
+        {
+          "COGS & Expenses": "(Amount: NT$ million)"
+        },
+        {
+          "COGS & Expenses": "Operating Revenues"
+        },
+        {
+          "COGS & Expenses": "COGS"
+        },
+        {
+          "COGS & Expenses": "Depreciation"
+        },
+        {
+          "COGS & Expenses": "Other Mfg. Costs"
+        },
+        {
+          "COGS & Expenses": "Gross Profit"
+        },
+        {
+          "COGS & Expenses": "Gross Margin (%)"
+        },
+        {
+          "COGS & Expenses": "Operating Expenses"
+        },
+        {
+          "COGS & Expenses": "G&A"
+        },
+        {
+          "COGS & Expenses": "Sales & Marketing"
+        },
+        {
+          "COGS & Expenses": "R&D"
+        },
+        {
+          "COGS & Expenses": "Expected Credit Impairment Gain (Loss)"
+        },
+        {
+          "COGS & Expenses": "Net Other Operating Income & Expenses"
+        },
+        {
+          "COGS & Expenses": "Operating Income"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "Non-Operating Income and Expenses"
+      ],
+      "rows": [
+        {
+          "Non-Operating Income and Expenses": "(Amount: NT$ million)"
+        },
+        {
+          "Non-Operating Income and Expenses": "Non-Operating Income and Expenses"
+        },
+        {
+          "Non-Operating Income and Expenses": "Net Interest Income and Expenses"
+        },
+        {
+          "Non-Operating Income and Expenses": "Net Investment Gain and Loss"
+        },
+        {
+          "Non-Operating Income and Expenses": "Exchange Gain and Loss"
+        },
+        {
+          "Non-Operating Income and Expenses": "Other Gain and Loss"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "Cash Flow Summary"
+      ],
+      "rows": [
+        {
+          "Cash Flow Summary": "(Amount: NT$ million)"
+        },
+        {
+          "Cash Flow Summary": "Cash Flow from Operating Activities"
+        },
+        {
+          "Cash Flow Summary": "Net income before tax"
+        },
+        {
+          "Cash Flow Summary": "Depreciation & Amortization"
+        },
+        {
+          "Cash Flow Summary": "Share of profit of associates and joint ventures"
+        },
+        {
+          "Cash Flow Summary": "Income tax paid"
+        },
+        {
+          "Cash Flow Summary": "Changes in working capital & others"
+        },
+        {
+          "Cash Flow Summary": "Cash Flow from Investing Activities"
+        },
+        {
+          "Cash Flow Summary": "Acquisition of PP&E"
+        },
+        {
+          "Cash Flow Summary": "Acquisition of intangible assets"
+        },
+        {
+          "Cash Flow Summary": "Increase in other financial assets"
+        },
+        {
+          "Cash Flow Summary": "Others"
+        },
+        {
+          "Cash Flow Summary": "Cash Flow from Financing Activities"
+        },
+        {
+          "Cash Flow Summary": "Bank loans"
+        },
+        {
+          "Cash Flow Summary": "Bonds Issued"
+        },
+        {
+          "Cash Flow Summary": "Redemption of bonds"
+        },
+        {
+          "Cash Flow Summary": "Increase in deposits-in"
+        },
+        {
+          "Cash Flow Summary": "Cash dividends"
+        },
+        {
+          "Cash Flow Summary": "Others"
+        },
+        {
+          "Cash Flow Summary": "Effect of Exchange Rate"
+        },
+        {
+          "Cash Flow Summary": "Net Cash Flow"
+        },
+        {
+          "Cash Flow Summary": "Beginning balance"
+        },
+        {
+          "Cash Flow Summary": "Ending balance"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "Current Assets"
+      ],
+      "rows": [
+        {
+          "Current Assets": "(Amount: NT$ billion)"
+        },
+        {
+          "Current Assets": "Cash and Cash Equivalents"
+        },
+        {
+          "Current Assets": "Notes & Accounts Receivable"
+        },
+        {
+          "Current Assets": "Days Sales Outstanding"
+        },
+        {
+          "Current Assets": "Inventories, net"
+        },
+        {
+          "Current Assets": "Days of Inventory"
+        },
+        {
+          "Current Assets": "Total Current Assets"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "Liabilities"
+      ],
+      "rows": [
+        {
+          "Liabilities": "(Amount: NT$ billion)"
+        },
+        {
+          "Liabilities": "Total Current Liabilities"
+        },
+        {
+          "Liabilities": "Notes & Accounts Payable"
+        },
+        {
+          "Liabilities": "Short-Term Credit / Bonds"
+        },
+        {
+          "Liabilities": "Payables on Equipment"
+        },
+        {
+          "Liabilities": "Dividends Payable"
+        },
+        {
+          "Liabilities": "Other"
+        },
+        {
+          "Liabilities": "Long-Term Credit / Bonds"
+        },
+        {
+          "Liabilities": "Long-Term Investment Liabilities"
+        },
+        {
+          "Liabilities": "Total Liabilities"
+        },
+        {
+          "Liabilities": "Debt to Equity"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "Revenue Breakdown by Region"
+      ],
+      "rows": [
+        {
+          "Revenue Breakdown by Region": "Region"
+        },
+        {
+          "Revenue Breakdown by Region": "North America"
+        },
+        {
+          "Revenue Breakdown by Region": "Asia Pacific"
+        },
+        {
+          "Revenue Breakdown by Region": "Europe"
+        },
+        {
+          "Revenue Breakdown by Region": "Japan"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "Revenue Breakdown by Geometry"
+      ],
+      "rows": [
+        {
+          "Revenue Breakdown by Geometry": "Geometry"
+        },
+        {
+          "Revenue Breakdown by Geometry": "14nm and below"
+        },
+        {
+          "Revenue Breakdown by Geometry": "14nm<x<=28nm"
+        },
+        {
+          "Revenue Breakdown by Geometry": "28nm<x<=40nm"
+        },
+        {
+          "Revenue Breakdown by Geometry": "40nm<x<=65nm"
+        },
+        {
+          "Revenue Breakdown by Geometry": "65nm<x<=90nm"
+        },
+        {
+          "Revenue Breakdown by Geometry": "90nm<x<=0.13um"
+        },
+        {
+          "Revenue Breakdown by Geometry": "0.13um<x<=0.18um"
+        },
+        {
+          "Revenue Breakdown by Geometry": "0.18um<x<=0.35um"
+        },
+        {
+          "Revenue Breakdown by Geometry": "0.5um and above"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_8",
+      "headers": [
+        "Revenue Breakdown by Customer Type"
+      ],
+      "rows": [
+        {
+          "Revenue Breakdown by Customer Type": "Customer Type"
+        },
+        {
+          "Revenue Breakdown by Customer Type": "Fabless"
+        },
+        {
+          "Revenue Breakdown by Customer Type": "IDM"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "Revenue Breakdown by Application(1)"
+      ],
+      "rows": [
+        {
+          "Revenue Breakdown by Application(1)": "Application"
+        },
+        {
+          "Revenue Breakdown by Application(1)": "Computer"
+        },
+        {
+          "Revenue Breakdown by Application(1)": "Communication"
+        },
+        {
+          "Revenue Breakdown by Application(1)": "Consumer"
+        },
+        {
+          "Revenue Breakdown by Application(1)": "Others"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_11",
+      "headers": [
+        "Wafer Shipments"
+      ],
+      "rows": [
+        {
+          "Wafer Shipments": ""
+        },
+        {
+          "Wafer Shipments": "Wafer Shipments(8\u201d K equivalents)"
+        },
+        {
+          "Wafer Shipments": ""
+        },
+        {
+          "Wafer Shipments": "Quarterly Capacity Utilization Rate"
+        },
+        {
+          "Wafer Shipments": ""
+        },
+        {
+          "Wafer Shipments": "Utilization Rate"
+        },
+        {
+          "Wafer Shipments": "Total Capacity(8\u201d K equivalents)"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_12",
+      "headers": [
+        "Annual Capacity inthousands of wafers",
+        "",
+        "Quarterly Capacity inthousands of wafers"
+      ],
+      "rows": [
+        {
+          "Annual Capacity inthousands of wafers": "FAB",
+          "": "Geometry(um)",
+          "Quarterly Capacity inthousands of wafers": "2020"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "WTK",
+          "": "6\"",
+          "Quarterly Capacity inthousands of wafers": "3.5 \u2013 0.45"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8A",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.25"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8C",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.35 \u2013 0.11"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8D",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.09"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8E",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.15"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8F",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8S",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.18 \u2013 0.11"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "8N",
+          "": "8\"",
+          "Quarterly Capacity inthousands of wafers": "0.5 \u2013 0.11"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "12A",
+          "": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.014"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "12i",
+          "": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.13 \u2013 0.040"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "12X",
+          "": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.040 \u2013 0.028"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "12M",
+          "": "12\"",
+          "Quarterly Capacity inthousands of wafers": "0.090 \u2013 0.040"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "Total(1)",
+          "": "9,188",
+          "Quarterly Capacity inthousands of wafers": "8,148"
+        },
+        {
+          "Annual Capacity inthousands of wafers": "YoY Growth Rate",
+          "": "13%",
+          "Quarterly Capacity inthousands of wafers": "6%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_14",
+      "headers": [
+        "Capital Expenditure by Year- in US$ billion"
+      ],
+      "rows": [
+        {
+          "Capital Expenditure by Year- in US$ billion": "Year"
+        },
+        {
+          "Capital Expenditure by Year- in US$ billion": "CAPEX"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_15",
+      "headers": [
+        "2021 CAPEX Plan"
+      ],
+      "rows": [
+        {
+          "2021 CAPEX Plan": "8\""
+        },
+        {
+          "2021 CAPEX Plan": "15%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_16",
+      "headers": [
+        "Sep 3, 2021",
+        "",
+        "UMC and Chipbond to Establish Strategic Cooperation Through the Exchange of New Share Issuance"
+      ],
+      "rows": [
+        {
+          "Sep 3, 2021": "Jun 1, 2021",
+          "": "",
+          "UMC and Chipbond to Establish Strategic Cooperation Through the Exchange of New Share Issuance": "UMC Pledges Net Zero Carbon Emissions by 2050"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_17",
+      "headers": [
+        "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)"
+      ],
+      "rows": [
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": ""
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Dial-in numbers and Access Codes:"
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "USA Toll Free:"
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Taiwan Number:"
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Other Areas:"
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": ""
+        },
+        {
+          "Time:5:00 PM (Taipei) / 5:00 AM (New York) / 10:00 AM (London)": "Access Code:"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_18",
+      "headers": [
+        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+      ],
+      "rows": [
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Balance Sheet"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "As of September 30, 2021"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Notes & Accounts receivable, net"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Inventories, net"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Funds and investments"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Property, plant and equipment"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Right-of-use assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other non-current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total non-current assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Short-term loans"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Payables"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Current portion of long-term liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Bonds payable"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Long-term loans"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Lease liabilities, noncurrent"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other non-current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total non-current liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total liabilities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Equity"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Equity attributable to the parent company"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Capital"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Additional paid-in capital"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Retained earnings and other components of equity"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Treasury stock"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total equity attributable to the parent company"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total equity"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total liabilities and equity"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_20",
+      "headers": [
+        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+      ],
+      "rows": [
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statements of Comprehensive Income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Except Per Share and Per ADS Data"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating revenues"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating costs"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Gross profit"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Sales and marketing expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- General and administrative expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Research and development expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Expected credit impairment gain (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Subtotal"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net other operating income and expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net non-operating income and expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income from continuing operationsbefore income tax"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other comprehensive income (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total comprehensive income (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income attributable to:"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Comprehensive income (loss) attributable to:"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per share-basic"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per ADS(2)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Weighted average number of shares"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "outstanding (in millions)"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_21",
+      "headers": [
+        "Notes:"
+      ],
+      "rows": [
+        {
+          "Notes:": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
+        },
+        {
+          "Notes:": "(2) 1 ADS equals 5 common shares."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_22",
+      "headers": [
+        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+      ],
+      "rows": [
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statements of Comprehensive Income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Except Per Share and Per ADS Data"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating revenues"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating costs"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Gross profit"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Sales and marketing expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- General and administrative expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Research and development expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "- Expected credit impairment gain (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Subtotal"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net other operating income and expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Operating income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net non-operating income and expenses"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income from continuing operationsbefore income tax"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax expense"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Other comprehensive income (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Total comprehensive income (loss)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income attributable to:"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Comprehensive income (loss) attributable to:"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Shareholders of the parent"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Non-controlling interests"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per share-basic"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Earnings per ADS(2)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Weighted average number of sharesoutstanding (in millions)"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_23",
+      "headers": [
+        "Notes:"
+      ],
+      "rows": [
+        {
+          "Notes:": "(1) New Taiwan Dollars have been translated into U.S. Dollars at the September 30, 2021 exchange rate of NT $27.84 per U.S. Dollar."
+        },
+        {
+          "Notes:": "(2) 1 ADS equals 5 common shares."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_24",
+      "headers": [
+        "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES"
+      ],
+      "rows": [
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Consolidated Condensed Statement of Cash Flows"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "For The Nine-Month Period Ended September 30, 2021"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Figures in Millions of New Taiwan Dollars (NT$) and U.S. Dollars (US$)"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from operating activities :"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net income before tax"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Depreciation & Amortization"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Share of profit of associates and joint ventures"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Income tax paid"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Changes in working capital & others"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash provided by operating activities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from investing activities :"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Acquisition of property, plant and equipment"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Acquisition of intangible assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Increase in other financial assets"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Others"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash used in investing activities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash flows from financing activities :"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Decrease in short-term loans"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Proceeds from bonds issued"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Redemption of bonds"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Proceeds from long-term loans"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Repayments of long-term loans"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Increase in guarantee deposits"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash dividends"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Others"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net cash provided by financing activities"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Effect of exchange rate changes on cash and cash equivalents"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Net increase in cash and cash equivalents"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents at beginning of period"
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": ""
+        },
+        {
+          "UNITED MICROELECTRONICS CORPORATION AND SUBSIDIARIES": "Cash and cash equivalents at end of period"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    },
+    {
+      "table_id": "table_26",
+      "headers": [
+        "________________________"
+      ],
+      "rows": [
+        {
+          "________________________": "1Unless otherwise stated, all financial figures discussed in this announcement are prepared in accordance with TIFRSs recognized by Financial Supervisory Commission in the ROC, which is different from IFRSs issued by the International Accounting Standards Board. They represent comparisons among the three-month period ending September 30, 2021, the three-month period ending June 30, 2021, and the equivalent three-month period that ended September 30, 2020. For all 3Q21 results, New Taiwan Dollar (NT$) amounts have been converted into U.S. Dollars at the September 30, 2021 exchange rate of NT$ 27.84 per U.S. Dollar."
+        },
+        {
+          "________________________": "2Revenue in this section represents wafer sales"
+        },
+        {
+          "________________________": "3Utilization Rate = Quarterly Wafer Out / Quarterly Capacity"
+        },
+        {
+          "________________________": "4Estimated capacity numbers are based oncalculated maximum outputrather thandesigned capacity. The actual capacity numbers may differ depending upon equipment delivery schedules, pace of migration to more advanced process technologies, and other factors affecting production ramp-up."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "UMC Reports Third Quarter 2021 Results"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_1",
+      "text": "Michael Lin / David WongUMC, Investor Relations+ 886-2-2658-9168, ext. 16900jinhong_lin@umc.comdavid_wong@umc.com",
+      "section_header": "Contacts",
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Michael Lin",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "company": "UMC",
+              "phone": "+886-2-2658-9168 ext. 16900",
+              "email": "jinhong_lin@umc.com"
+            }
+          },
+          {
+            "name": "David Wong",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "company": "UMC",
+              "phone": "+886-2-2658-9168 ext. 16900",
+              "email": "david_wong@umc.com"
+            }
+          },
+          {
+            "name": "UMC",
+            "type": "company",
+            "attributes": {
+              "department": "Investor Relations",
+              "phone": "+886-2-2658-9168 ext. 16900"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Investor relations",
+          "Contact information",
+          "Company communications"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section lists investor relations contact details for UMC, including Michael Lin and David Wong with phone numbers and email addresses."
+      }
+    },
+    {
+      "chunk_id": "prose_4",
+      "text": "Michael Lin / David WongUMC, Investor Relations+ 886-2-2658-9168, ext. 16900jinhong_lin@umc.comdavid_wong@umc.com",
+      "section_header": "Contacts",
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Michael Lin",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "company": "UMC",
+              "phone": "+886-2-2658-9168 ext. 16900",
+              "email": "jinhong_lin@umc.com"
+            }
+          },
+          {
+            "name": "David Wong",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "company": "UMC",
+              "phone": "+886-2-2658-9168 ext. 16900",
+              "email": "david_wong@umc.com"
+            }
+          },
+          {
+            "name": "UMC",
+            "type": "company",
+            "attributes": {
+              "department": "Investor Relations",
+              "phone": "+886-2-2658-9168 ext. 16900"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Investor Relations",
+          "Contact Information",
+          "Company Contacts"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides investor relations contact information for UMC, including names, phone number, and email addresses."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\UMC_2021_Q3.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

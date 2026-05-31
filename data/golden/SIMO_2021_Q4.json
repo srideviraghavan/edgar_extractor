@@ -1,0 +1,21 @@
+{
+  "filing_id": "SIMO_2021_Q4",
+  "ticker": "SIMO",
+  "fiscal_year": 2021,
+  "fiscal_quarter": "Q4",
+  "company_name": "Silicon Motion Technology Corporation",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "net_income": {
+      "value": 16.016,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": false,
+  "min_tables": 6,
+  "tags": [
+    "filename_period_mismatch"
+  ]
+}

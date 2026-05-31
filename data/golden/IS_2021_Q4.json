@@ -1,0 +1,21 @@
+{
+  "filing_id": "IS_2021_Q4",
+  "ticker": "IS",
+  "fiscal_year": 2021,
+  "fiscal_quarter": "Q4",
+  "company_name": "ironSource Ltd.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "net_income": {
+      "value": 20.805,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 10,
+  "tags": [
+    "full_year_and_quarter"
+  ]
+}

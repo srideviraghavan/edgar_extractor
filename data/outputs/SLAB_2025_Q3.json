@@ -1,0 +1,1720 @@
+{
+  "filing_id": "SLAB_2025_Q3",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7"
+      ],
+      "rows": [
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": "Three Months Ended",
+          "col_2": "",
+          "col_3": "Nine Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "October 4,2025",
+          "col_2": "",
+          "col_3": "September 28,2024",
+          "col_4": "",
+          "col_5": "October 4,2025",
+          "col_6": "",
+          "col_7": "September 28,2024"
+        },
+        {
+          "": "Revenues",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 205,999",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 166,395",
+          "col_4": "",
+          "col_5": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 576,558",
+          "col_6": "",
+          "col_7": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 418,137"
+        },
+        {
+          "": "Cost of revenues",
+          "col_1": "86,980",
+          "col_2": "",
+          "col_3": "76,082",
+          "col_4": "",
+          "col_5": "251,653",
+          "col_6": "",
+          "col_7": "196,172"
+        },
+        {
+          "": "Gross profit",
+          "col_1": "119,019",
+          "col_2": "",
+          "col_3": "90,313",
+          "col_4": "",
+          "col_5": "324,905",
+          "col_6": "",
+          "col_7": "221,965"
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "87,685",
+          "col_2": "",
+          "col_3": "83,228",
+          "col_4": "",
+          "col_5": "263,725",
+          "col_6": "",
+          "col_7": "249,787"
+        },
+        {
+          "": "Selling, general and administrative",
+          "col_1": "43,676",
+          "col_2": "",
+          "col_3": "36,793",
+          "col_4": "",
+          "col_5": "128,469",
+          "col_6": "",
+          "col_7": "109,041"
+        },
+        {
+          "": "Operating expenses",
+          "col_1": "131,361",
+          "col_2": "",
+          "col_3": "120,021",
+          "col_4": "",
+          "col_5": "392,194",
+          "col_6": "",
+          "col_7": "358,828"
+        },
+        {
+          "": "Operating loss",
+          "col_1": "(12,342)",
+          "col_2": "",
+          "col_3": "(29,708)",
+          "col_4": "",
+          "col_5": "(67,289)",
+          "col_6": "",
+          "col_7": "(136,863)"
+        },
+        {
+          "": "Other income (expense):",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Interest income and other, net",
+          "col_1": "3,046",
+          "col_2": "",
+          "col_3": "3,487",
+          "col_4": "",
+          "col_5": "10,672",
+          "col_6": "",
+          "col_7": "9,009"
+        },
+        {
+          "": "Interest expense",
+          "col_1": "(226)",
+          "col_2": "",
+          "col_3": "(278)",
+          "col_4": "",
+          "col_5": "(761)",
+          "col_6": "",
+          "col_7": "(1,050)"
+        },
+        {
+          "": "Loss before income taxes",
+          "col_1": "(9,522)",
+          "col_2": "",
+          "col_3": "(26,499)",
+          "col_4": "",
+          "col_5": "(57,378)",
+          "col_6": "",
+          "col_7": "(128,904)"
+        },
+        {
+          "": "Provision for income taxes",
+          "col_1": "414",
+          "col_2": "",
+          "col_3": "2,005",
+          "col_4": "",
+          "col_5": "4,845",
+          "col_6": "",
+          "col_7": "38,283"
+        },
+        {
+          "": "Net loss",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (9,936)",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (28,504)",
+          "col_4": "",
+          "col_5": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (62,223)",
+          "col_6": "",
+          "col_7": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (167,187)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (0.30)",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (0.88)",
+          "col_4": "",
+          "col_5": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (1.91)",
+          "col_6": "",
+          "col_7": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (5.21)"
+        },
+        {
+          "": "Diluted",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (0.30)",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (0.88)",
+          "col_4": "",
+          "col_5": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (1.91)",
+          "col_6": "",
+          "col_7": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (5.21)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Weighted-average common shares outstanding:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Basic",
+          "col_1": "32,835",
+          "col_2": "",
+          "col_3": "32,309",
+          "col_4": "",
+          "col_5": "32,656",
+          "col_6": "",
+          "col_7": "32,114"
+        },
+        {
+          "": "Diluted",
+          "col_1": "32,835",
+          "col_2": "",
+          "col_3": "32,309",
+          "col_4": "",
+          "col_5": "32,656",
+          "col_6": "",
+          "col_7": "32,114"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14"
+      ],
+      "rows": [
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "Three Months EndedOctober 4, 2025"
+        },
+        {
+          "": "Non-GAAP Income Statement Items",
+          "col_1": "",
+          "col_2": "GAAPMeasure",
+          "col_3": "",
+          "col_4": "GAAPPercent ofRevenue",
+          "col_5": "",
+          "col_6": "StockCompensationExpense",
+          "col_7": "",
+          "col_8": "IntangibleAssetAmortization",
+          "col_9": "",
+          "col_10": "Other Costs",
+          "col_11": "",
+          "col_12": "Non-GAAPMeasure",
+          "col_13": "",
+          "col_14": "Non-GAAPPercent ofRevenue"
+        },
+        {
+          "": "Revenues",
+          "col_1": "",
+          "col_2": "$\u00a0\u00a0\u00a0\u00a0 205,999",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "119,019",
+          "col_3": "",
+          "col_4": "57.8\u00a0%",
+          "col_5": "",
+          "col_6": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 474",
+          "col_7": "",
+          "col_8": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2014",
+          "col_9": "",
+          "col_10": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2014",
+          "col_11": "",
+          "col_12": "$\u00a0 119,493",
+          "col_13": "",
+          "col_14": "58.0\u00a0%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "",
+          "col_2": "87,685",
+          "col_3": "",
+          "col_4": "42.6\u00a0%",
+          "col_5": "",
+          "col_6": "12,149",
+          "col_7": "",
+          "col_8": "2,295",
+          "col_9": "",
+          "col_10": "530",
+          "col_11": "",
+          "col_12": "72,711",
+          "col_13": "",
+          "col_14": "35.3\u00a0%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "Selling, general and administrative",
+          "col_1": "",
+          "col_2": "43,676",
+          "col_3": "",
+          "col_4": "21.2\u00a0%",
+          "col_5": "",
+          "col_6": "7,417",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": "",
+          "col_12": "36,259",
+          "col_13": "",
+          "col_14": "17.6\u00a0%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "Operating expenses",
+          "col_1": "",
+          "col_2": "131,361",
+          "col_3": "",
+          "col_4": "63.8\u00a0%",
+          "col_5": "",
+          "col_6": "19,566",
+          "col_7": "",
+          "col_8": "2,295",
+          "col_9": "",
+          "col_10": "530",
+          "col_11": "",
+          "col_12": "108,970",
+          "col_13": "",
+          "col_14": "52.9\u00a0%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": ""
+        },
+        {
+          "": "Operating income (loss)",
+          "col_1": "",
+          "col_2": "(12,342)",
+          "col_3": "",
+          "col_4": "(6.0\u00a0%)",
+          "col_5": "",
+          "col_6": "20,040",
+          "col_7": "",
+          "col_8": "2,295",
+          "col_9": "",
+          "col_10": "530",
+          "col_11": "",
+          "col_12": "10,523",
+          "col_13": "",
+          "col_14": "5.1\u00a0%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "Three Months EndedOctober 4, 2025",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12"
+      ],
+      "rows": [
+        {
+          "": "Non-GAAP Earnings (Loss) Per Share",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "GAAPMeasure",
+          "col_3": "",
+          "col_4": "StockCompensationExpense*",
+          "col_5": "",
+          "col_6": "IntangibleAssetAmortization*",
+          "col_7": "",
+          "col_8": "OtherCosts*",
+          "col_9": "",
+          "col_10": "IncomeTaxAdjustments",
+          "col_11": "",
+          "col_12": "Non-GAAPMeasure"
+        },
+        {
+          "": "Net income (loss)",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (9,936)",
+          "col_3": "",
+          "col_4": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20,040",
+          "col_5": "",
+          "col_6": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2,295",
+          "col_7": "",
+          "col_8": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 530",
+          "col_9": "",
+          "col_10": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (2,255)",
+          "col_11": "",
+          "col_12": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 10,674"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "",
+          "col_3": "",
+          "col_4": "Shares Excluded Due to Net Loss",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Diluted shares outstanding",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "32,835",
+          "col_3": "",
+          "col_4": "217",
+          "col_5": "",
+          "col_6": "33,052"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Diluted earnings (loss) per share",
+          "col_1": "",
+          "Three Months EndedOctober 4, 2025": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (0.30)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0.32"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1"
+      ],
+      "rows": [
+        {
+          "": "*",
+          "col_1": "Represents pre-tax amounts"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "Three Months EndedJanuary 3, 2026"
+        },
+        {
+          "": "Business Outlook",
+          "col_1": "",
+          "col_2": "GAAPMeasure",
+          "col_3": "",
+          "col_4": "Non-GAAPAdjustments**",
+          "col_5": "",
+          "col_6": "Non-GAAPMeasure"
+        },
+        {
+          "": "Gross margin",
+          "col_1": "",
+          "col_2": "62% to 64%",
+          "col_3": "",
+          "col_4": "\u2014\u00a0%",
+          "col_5": "",
+          "col_6": "62% to 64%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Operating expenses",
+          "col_1": "",
+          "col_2": "$134 to $136",
+          "col_3": "",
+          "col_4": "$(24)",
+          "col_5": "",
+          "col_6": "$110 to $112"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Diluted earnings (loss) per share",
+          "col_1": "",
+          "col_2": "$(0.22) to $0.08",
+          "col_3": "",
+          "col_4": "$0.62",
+          "col_5": "",
+          "col_6": "$0.40 to $0.70"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1"
+      ],
+      "rows": [
+        {
+          "": "**",
+          "col_1": "Non-GAAP adjustments include the following estimates: stock compensation expense of $20.9 million, intangible asset \namortization of $2.3 million, other costs of $1.0 million, and the application of a long-term non-GAAP tax rate of 20%."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3"
+      ],
+      "rows": [
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": "October 4,2025",
+          "col_2": "",
+          "col_3": "December 28,2024"
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 341,403",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 281,607"
+        },
+        {
+          "": "Short-term investments",
+          "col_1": "97,622",
+          "col_2": "",
+          "col_3": "100,554"
+        },
+        {
+          "": "Accounts receivable, net",
+          "col_1": "67,308",
+          "col_2": "",
+          "col_3": "54,479"
+        },
+        {
+          "": "Inventories",
+          "col_1": "82,190",
+          "col_2": "",
+          "col_3": "105,639"
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "col_1": "64,036",
+          "col_2": "",
+          "col_3": "59,754"
+        },
+        {
+          "": "Total current assets",
+          "col_1": "652,559",
+          "col_2": "",
+          "col_3": "602,033"
+        },
+        {
+          "": "Property and equipment, net",
+          "col_1": "128,323",
+          "col_2": "",
+          "col_3": "132,136"
+        },
+        {
+          "": "Goodwill",
+          "col_1": "376,389",
+          "col_2": "",
+          "col_3": "376,389"
+        },
+        {
+          "": "Other intangible assets, net",
+          "col_1": "25,425",
+          "col_2": "",
+          "col_3": "36,499"
+        },
+        {
+          "": "Other assets, net",
+          "col_1": "70,371",
+          "col_2": "",
+          "col_3": "75,617"
+        },
+        {
+          "": "Total assets",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1,253,067",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1,222,674"
+        },
+        {
+          "": "Liabilities and Stockholders' Equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 55,647",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 42,448"
+        },
+        {
+          "": "Deferred revenue and returns liability",
+          "col_1": "8,447",
+          "col_2": "",
+          "col_3": "3,073"
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "81,216",
+          "col_2": "",
+          "col_3": "52,362"
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "145,310",
+          "col_2": "",
+          "col_3": "97,883"
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "37,044",
+          "col_2": "",
+          "col_3": "44,770"
+        },
+        {
+          "": "Total liabilities",
+          "col_1": "182,354",
+          "col_2": "",
+          "col_3": "142,653"
+        },
+        {
+          "": "Commitments and contingencies",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Stockholders' equity:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Preferred stock \u2013 $0.0001 par value; 10,000 shares authorized; no shares issued",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014"
+        },
+        {
+          "": "Common stock \u2013 $0.0001 par value; 250,000 shares authorized; 32,853 and 32,458\nshares issued and outstanding at October\u00a04, 2025 and December\u00a028, 2024,\nrespectively",
+          "col_1": "3",
+          "col_2": "",
+          "col_3": "3"
+        },
+        {
+          "": "Additional paid-in capital",
+          "col_1": "130,979",
+          "col_2": "",
+          "col_3": "78,227"
+        },
+        {
+          "": "Retained earnings",
+          "col_1": "939,498",
+          "col_2": "",
+          "col_3": "1,001,721"
+        },
+        {
+          "": "Accumulated other comprehensive income",
+          "col_1": "233",
+          "col_2": "",
+          "col_3": "70"
+        },
+        {
+          "": "Total stockholders' equity",
+          "col_1": "1,070,713",
+          "col_2": "",
+          "col_3": "1,080,021"
+        },
+        {
+          "": "Total liabilities and stockholders' equity",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1,253,067",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1,222,674"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3"
+      ],
+      "rows": [
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": "Nine Months Ended"
+        },
+        {
+          "": "",
+          "col_1": "October 4,2025",
+          "col_2": "",
+          "col_3": "September 28,2024"
+        },
+        {
+          "": "Operating Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (62,223)",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (167,187)"
+        },
+        {
+          "": "Adjustments to reconcile net loss to net cash provided by (used in) operating \nactivities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Depreciation of property and equipment",
+          "col_1": "18,769",
+          "col_2": "",
+          "col_3": "19,302"
+        },
+        {
+          "": "Amortization of other intangible assets",
+          "col_1": "11,074",
+          "col_2": "",
+          "col_3": "17,596"
+        },
+        {
+          "": "Stock-based compensation expense",
+          "col_1": "59,645",
+          "col_2": "",
+          "col_3": "45,358"
+        },
+        {
+          "": "Deferred income taxes",
+          "col_1": "2,026",
+          "col_2": "",
+          "col_3": "29,100"
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Accounts receivable",
+          "col_1": "(12,829)",
+          "col_2": "",
+          "col_3": "(19,585)"
+        },
+        {
+          "": "Inventories",
+          "col_1": "23,316",
+          "col_2": "",
+          "col_3": "54,724"
+        },
+        {
+          "": "Prepaid expenses and other assets",
+          "col_1": "9,080",
+          "col_2": "",
+          "col_3": "23,091"
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "11,141",
+          "col_2": "",
+          "col_3": "(13,849)"
+        },
+        {
+          "": "Other current liabilities and income taxes",
+          "col_1": "29,901",
+          "col_2": "",
+          "col_3": "(5,004)"
+        },
+        {
+          "": "Deferred revenue and returns liability",
+          "col_1": "5,374",
+          "col_2": "",
+          "col_3": "6,361"
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "(7,916)",
+          "col_2": "",
+          "col_3": "(13,946)"
+        },
+        {
+          "": "Net cash provided by (used in) operating activities",
+          "col_1": "87,358",
+          "col_2": "",
+          "col_3": "(24,039)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Investing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Purchases of marketable securities",
+          "col_1": "(34,790)",
+          "col_2": "",
+          "col_3": "(28,363)"
+        },
+        {
+          "": "Sales of marketable securities",
+          "col_1": "15,332",
+          "col_2": "",
+          "col_3": "44,057"
+        },
+        {
+          "": "Maturities of marketable securities",
+          "col_1": "22,598",
+          "col_2": "",
+          "col_3": "131,008"
+        },
+        {
+          "": "Purchases of property and equipment",
+          "col_1": "(19,942)",
+          "col_2": "",
+          "col_3": "(7,785)"
+        },
+        {
+          "": "Purchase of other investment",
+          "col_1": "(4,000)",
+          "col_2": "",
+          "col_3": "\u2014"
+        },
+        {
+          "": "Proceeds from sale of equity investment",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "12,382"
+        },
+        {
+          "": "Net cash provided by (used in) investing activities",
+          "col_1": "(20,802)",
+          "col_2": "",
+          "col_3": "151,299"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Financing Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Payments on debt",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "(45,000)"
+        },
+        {
+          "": "Payment of taxes withheld for vested stock awards",
+          "col_1": "(14,907)",
+          "col_2": "",
+          "col_3": "(16,078)"
+        },
+        {
+          "": "Proceeds from the issuance of common stock",
+          "col_1": "8,147",
+          "col_2": "",
+          "col_3": "9,396"
+        },
+        {
+          "": "Net cash used in financing activities",
+          "col_1": "(6,760)",
+          "col_2": "",
+          "col_3": "(51,682)"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Increase in cash and cash equivalents",
+          "col_1": "59,796",
+          "col_2": "",
+          "col_3": "75,578"
+        },
+        {
+          "": "Cash and cash equivalents at beginning of period",
+          "col_1": "281,607",
+          "col_2": "",
+          "col_3": "227,504"
+        },
+        {
+          "": "Cash and cash equivalents at end of period",
+          "col_1": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 341,403",
+          "col_2": "",
+          "col_3": "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 303,082"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_326",
+      "text": "Adjustments to reconcile net loss to net cash provided by (used in) operating \nactivities:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "reconciliation of net loss to net cash provided by or used in operating activities",
+          "operating cash flow adjustments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces adjustments used to reconcile net loss to net cash provided by or used in operating activities, but no specific figures or entities are provided."
+      }
+    },
+    {
+      "chunk_id": "prose_p_2",
+      "text": "Wireless IoT leader delivers sequential and year-over-year growth in sales and profitability",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Wireless IoT leader",
+            "type": "other",
+            "attributes": {
+              "description": "Unnamed company described as a leader in wireless IoT"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "sales growth",
+          "profitability growth",
+          "sequential growth",
+          "year-over-year growth",
+          "wireless IoT"
+        ],
+        "sentiment": "positive",
+        "summary": "The section states that a wireless IoT leader achieved sequential and year-over-year growth in both sales and profitability."
+      }
+    },
+    {
+      "chunk_id": "prose_p_318",
+      "text": "Silicon Laboratories Inc. Condensed Consolidated Statements of Cash Flows (In thousands) (Unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Laboratories Inc.",
+            "type": "company",
+            "attributes": {
+              "statement": "Condensed Consolidated Statements of Cash Flows",
+              "unit": "In thousands",
+              "status": "Unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cash flows",
+          "condensed consolidated financial statements",
+          "unaudited interim reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Laboratories Inc.'s condensed consolidated statements of cash flows, presented in thousands and unaudited."
+      }
+    },
+    {
+      "chunk_id": "prose_p_114",
+      "text": "Unaudited Reconciliation of GAAP to Non-GAAP Financial Measures (In thousands, except per share data)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to Non-GAAP reconciliation",
+          "unaudited financial measures",
+          "per share data",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces an unaudited reconciliation of GAAP to non-GAAP financial measures, presented in thousands except for per share data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_237",
+      "text": "Silicon Laboratories Inc.\nCondensed Consolidated Balance Sheets (In thousands, except per share data) (Unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Laboratories Inc.",
+            "type": "company",
+            "attributes": {
+              "document_section": "Condensed Consolidated Balance Sheets",
+              "unit_of_measurement": "In thousands, except per share data",
+              "status": "Unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Condensed Consolidated Balance Sheets",
+          "Unaudited financial statements",
+          "Silicon Laboratories Inc."
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Laboratories Inc. and indicates that the following content is an unaudited condensed consolidated balance sheet presented in thousands, except per share data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_20",
+      "text": "Silicon Laboratories Inc. Condensed Consolidated Statements of Operations (In thousands, except per share data) (Unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Laboratories Inc.",
+            "type": "company",
+            "attributes": {
+              "statement": "Condensed Consolidated Statements of Operations",
+              "units": "In thousands, except per share data",
+              "status": "Unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Condensed consolidated statements of operations",
+          "Unaudited financial statement",
+          "Per share data",
+          "Thousands denomination"
+        ],
+        "sentiment": "neutral",
+        "summary": "This section identifies Silicon Laboratories Inc. and indicates that the content is an unaudited condensed consolidated statement of operations presented in thousands, except per share data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_10",
+      "text": "The company expects fourth-quarter revenue to be between $200 to $215 million. The company also estimates the following results:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "the company",
+            "type": "company",
+            "attributes": {
+              "quarter": "fourth-quarter",
+              "expects_revenue_range": "$200 to $215 million"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "200000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "215000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter"
+          }
+        ],
+        "key_topics": [
+          "revenue guidance",
+          "fourth-quarter outlook",
+          "financial estimates"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company expects fourth-quarter revenue to be between $200 million and $215 million and indicates additional estimates will follow."
+      }
+    },
+    {
+      "chunk_id": "prose_p_300",
+      "text": "Common stock \u2013 $0.0001 par value; 250,000 shares authorized; 32,853 and 32,458\nshares issued and outstanding at October\u00a04, 2025 and December\u00a028, 2024,\nrespectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Common stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.0001",
+              "shares_authorized": "250,000",
+              "shares_issued_and_outstanding_at_October_4_2025": "32,853",
+              "shares_issued_and_outstanding_at_December_28_2024": "32,458"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0.0001",
+            "type": "other",
+            "currency": "USD",
+            "period": "October 4, 2025 and December 28, 2024"
+          },
+          {
+            "figure": "250000",
+            "type": "other",
+            "currency": "USD",
+            "period": "October 4, 2025 and December 28, 2024"
+          },
+          {
+            "figure": "32853",
+            "type": "other",
+            "currency": "USD",
+            "period": "October 4, 2025"
+          },
+          {
+            "figure": "32458",
+            "type": "other",
+            "currency": "USD",
+            "period": "December 28, 2024"
+          }
+        ],
+        "key_topics": [
+          "common stock",
+          "par value",
+          "authorized shares",
+          "issued and outstanding shares"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the company's common stock, including its par value, authorized share count, and the number of shares issued and outstanding at October 4, 2025 and December 28, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_12",
+      "text": "On a non-GAAP basis, excluding the impact of stock compensation, amortization of acquired intangible assets, and certain other items as set forth in the reconciliation tables:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP basis",
+          "stock compensation",
+          "amortization of acquired intangible assets",
+          "reconciliation tables",
+          "adjusted financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that results are presented on a non-GAAP basis, excluding stock compensation, amortization of acquired intangible assets, and certain other items as detailed in reconciliation tables."
+      }
+    },
+    {
+      "chunk_id": "prose_p_3",
+      "text": "AUSTIN, Texas , Nov. 4, 2025 /PRNewswire/ -- Silicon Labs (NASDAQ: SLAB ), the leading innovator in low-power wireless, reported financial results for the third quarter, which ended October\u00a04, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Austin, Texas",
+            "type": "location",
+            "attributes": {
+              "city": "Austin",
+              "state": "Texas",
+              "country": "United States"
+            }
+          },
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "ticker": "NASDAQ: SLAB",
+              "description": "leading innovator in low-power wireless"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "financial results",
+          "third quarter",
+          "earnings announcement",
+          "low-power wireless"
+        ],
+        "sentiment": "neutral",
+        "summary": "Silicon Labs announced its financial results for the third quarter ended October 4, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_19",
+      "text": "Note to editors: Silicon Laboratories, Silicon Labs, the \"S\" symbol, and the Silicon Labs logo are trademarks of Silicon Laboratories Inc. All other product names noted herein may be trademarks of their respective holders.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Laboratories Inc.",
+            "type": "company",
+            "attributes": {
+              "also_known_as": "Silicon Laboratories, Silicon Labs",
+              "trademarked_items": "\"S\" symbol, Silicon Labs logo"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "trademarks",
+          "brand names",
+          "product name ownership"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section is a trademark notice stating that Silicon Laboratories, Silicon Labs, the \"S\" symbol, and the Silicon Labs logo are trademarks of Silicon Laboratories Inc., and that other product names may be trademarks of their respective holders."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "Results on a non-GAAP basis, excluding the impact of stock compensation, amortization of acquired intangible assets, and certain other items as set forth in the below GAAP to Non-GAAP reconciliation tables were as follows:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP results",
+          "stock compensation",
+          "amortization of acquired intangible assets",
+          "GAAP to Non-GAAP reconciliation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that results are presented on a non-GAAP basis, excluding stock compensation, amortization of acquired intangible assets, and certain other items, with details provided in GAAP to Non-GAAP reconciliation tables."
+      }
+    },
+    {
+      "chunk_id": "prose_p_236",
+      "text": "Non-GAAP adjustments include the following estimates: stock compensation expense of $20.9 million, intangible asset \namortization of $2.3 million, other costs of $1.0 million, and the application of a long-term non-GAAP tax rate of 20%.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "20.9 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          },
+          {
+            "figure": "2.3 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          },
+          {
+            "figure": "1.0 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "not specified"
+          },
+          {
+            "figure": "20%",
+            "type": "other",
+            "currency": "other",
+            "period": "long-term"
+          }
+        ],
+        "key_topics": [
+          "Non-GAAP adjustments",
+          "stock compensation expense",
+          "intangible asset amortization",
+          "other costs",
+          "non-GAAP tax rate"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section lists non-GAAP adjustment estimates, including stock compensation expense, intangible asset amortization, other costs, and a long-term non-GAAP tax rate of 20%."
+      }
+    },
+    {
+      "chunk_id": "prose_p_112",
+      "text": "In addition to the GAAP results provided throughout this document, Silicon Labs has provided non-GAAP financial measurements on a basis excluding non-cash and other charges and benefits. Details of these excluded items are presented in the tables below, which reconcile the GAAP results to non-GAAP financial measurements.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "financial_reporting": "provides non-GAAP financial measurements",
+              "basis": "excluding non-cash and other charges and benefits"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP results",
+          "non-GAAP financial measurements",
+          "reconciliation",
+          "non-cash charges and benefits"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that Silicon Labs presents non-GAAP financial measures in addition to GAAP results, excluding certain non-cash and other charges and benefits, with reconciliations provided in the tables below."
+      }
+    },
+    {
+      "chunk_id": "prose_p_4",
+      "text": "\"The Silicon Labs team delivered sequential and year-over-year growth in sales and profitability driven by strong execution across our business,\" said Matt Johnson, President and Chief Executive Officer at Silicon Labs. \"Looking ahead, we remain focused on supporting new customer ramps, maintaining operational discipline, and driving continued earnings growth.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "mentioned_as": "team",
+              "context": "delivered sequential and year-over-year growth in sales and profitability"
+            }
+          },
+          {
+            "name": "Matt Johnson",
+            "type": "person",
+            "attributes": {
+              "title": "President and Chief Executive Officer",
+              "organization": "Silicon Labs"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "sales growth",
+          "profitability growth",
+          "operational discipline",
+          "customer ramps",
+          "earnings growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Silicon Labs reported sequential and year-over-year growth in sales and profitability, with management emphasizing continued focus on customer ramps, operational discipline, and earnings growth."
+      }
+    },
+    {
+      "chunk_id": "prose_p_14",
+      "text": "Silicon Labs will host an earnings conference call to discuss the quarterly results and answer questions at 7:30 am CDT today. An audio webcast will be available on Silicon Labs' website ( www.silabs.com ) under Investor Relations. In addition, the company will post an audio recording of the event at investor.silabs.com and make a replay available through December 4, 2025.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "event": "earnings conference call",
+              "purpose": "discuss quarterly results and answer questions",
+              "time": "7:30 am CDT today",
+              "webcast_url": "www.silabs.com",
+              "investor_relations_section": "Investor Relations",
+              "audio_recording_url": "investor.silabs.com",
+              "replay_available_through": "December 4, 2025"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings conference call",
+          "quarterly results",
+          "investor relations",
+          "webcast",
+          "audio replay"
+        ],
+        "sentiment": "neutral",
+        "summary": "Silicon Labs announced an earnings conference call to discuss quarterly results and answer questions, with an audio webcast and replay available on its investor relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_p_113",
+      "text": "The non-GAAP financial measurements do not replace the presentation of Silicon Labs' GAAP financial results. These measurements provide supplemental information to assist management and investors in analyzing Silicon Labs' financial position and results of operations. Silicon Labs has chosen to provide this information to investors to enable them to perform meaningful comparisons of past, present and future operating results and as a means to emphasize the results of core on-going operations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "mentioned_in_context": "issuer of the financial information",
+              "financial_measurements": "non-GAAP and GAAP financial results"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP financial results",
+          "supplemental financial information",
+          "operating results comparison",
+          "core ongoing operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Silicon Labs' non-GAAP financial measures are supplemental to GAAP results and are intended to help investors compare operating performance across periods and focus on core ongoing operations."
+      }
+    },
+    {
+      "chunk_id": "prose_p_16",
+      "text": "Silicon Labs (NASDAQ: SLAB ) is the leading innovator in low-power wireless connectivity, building embedded technology that connects devices and improves lives. Merging cutting-edge technology into the world's most highly integrated SoCs, Silicon Labs provides device makers the solutions, support, and ecosystems needed to create advanced edge connectivity applications. Headquartered in Austin, Texas, Silicon Labs has operations in over 16 countries and is the trusted partner for innovative solutions in the smart home, industrial IoT, and smart cities markets. Learn more at silabs.com.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Labs",
+            "type": "company",
+            "attributes": {
+              "ticker": "SLAB",
+              "exchange": "NASDAQ",
+              "headquarters": "Austin, Texas",
+              "operations": "over 16 countries",
+              "website": "silabs.com",
+              "markets": "smart home, industrial IoT, smart cities",
+              "description": "leading innovator in low-power wireless connectivity"
+            }
+          },
+          {
+            "name": "Austin, Texas",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "low-power wireless connectivity",
+          "embedded technology",
+          "SoCs",
+          "edge connectivity applications",
+          "smart home",
+          "industrial IoT",
+          "smart cities"
+        ],
+        "sentiment": "positive",
+        "summary": "Silicon Labs is presented as a leading innovator in low-power wireless connectivity, offering embedded technology and solutions for edge connectivity applications across smart home, industrial IoT, and smart cities markets. The company is headquartered in Austin, Texas and operates in over 16 countries."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\SLAB_2025_Q3.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

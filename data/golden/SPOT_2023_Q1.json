@@ -1,0 +1,17 @@
+{
+  "filing_id": "SPOT_2023_Q1",
+  "ticker": "SPOT",
+  "fiscal_year": 2023,
+  "fiscal_quarter": "Q1",
+  "company_name": "Spotify Technology S.A.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {},
+  "segments": [],
+  "has_guidance": false,
+  "min_tables": 0,
+  "tags": [
+    "no_financial_data",
+    "prose_only"
+  ]
+}

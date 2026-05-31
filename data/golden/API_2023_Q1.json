@@ -1,0 +1,30 @@
+{
+  "filing_id": "API_2023_Q1",
+  "ticker": "API",
+  "fiscal_year": 2023,
+  "fiscal_quarter": "Q1",
+  "company_name": "Agora, Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 36443,
+      "required": true
+    },
+    "net_income": {
+      "value": -16802,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": -0.16,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 5,
+  "tags": [
+    "multi_period_tables",
+    "non_gaap_reconciliation"
+  ]
+}

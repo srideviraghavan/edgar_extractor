@@ -1,0 +1,5763 @@
+{
+  "filing_id": "BLND_2025_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "$ in millions"
+        },
+        {
+          "": "Q1 2026 Guidance"
+        },
+        {
+          "": "Total Revenue",
+          "col_1": "$28.5M - $30.0M"
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "Non-GAAP Operating Income",
+          "col_1": "$2.0M-$3.0M"
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": ""
+        },
+        {
+          "": "",
+          "col_1": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "December 31, 2025",
+          "col_2": "",
+          "col_3": "December 31, 2024"
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "43,578",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "38,011",
+          "col_7": ""
+        },
+        {
+          "": "Marketable securities and other investments",
+          "col_1": "24,739",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "56,233",
+          "col_5": ""
+        },
+        {
+          "": "Trade and other receivables, net of allowance for credit losses of $112 and $50, respectively",
+          "col_1": "8,786",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "14,656",
+          "col_5": ""
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "col_1": "15,121",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "16,725",
+          "col_5": ""
+        },
+        {
+          "": "Current assets held for sale from discontinued operations",
+          "col_1": "5,640",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "9,618",
+          "col_5": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "97,864",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "135,243",
+          "col_5": ""
+        },
+        {
+          "": "Property and equipment, net",
+          "col_1": "22,997",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "11,672",
+          "col_5": ""
+        },
+        {
+          "": "Operating lease right-of-use assets",
+          "col_1": "1,394",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "339",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Deferred contract costs",
+          "col_1": "3,425",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,868",
+          "col_5": ""
+        },
+        {
+          "": "Other non-current assets",
+          "col_1": "41,425",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "21,906",
+          "col_5": ""
+        },
+        {
+          "": "Non-current assets held for sale from discontinued operations",
+          "col_1": "2,940",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "6,057",
+          "col_5": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "$",
+          "col_2": "170,045",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "178,085",
+          "col_7": ""
+        },
+        {
+          "": "Liabilities, redeemable equity and stockholders\u2019 equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "$",
+          "col_2": "1,826",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "1,620",
+          "col_7": ""
+        },
+        {
+          "": "Deferred revenue",
+          "col_1": "19,464",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "19,240",
+          "col_5": ""
+        },
+        {
+          "": "Accrued compensation",
+          "col_1": "4,555",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3,315",
+          "col_5": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "8,872",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "9,740",
+          "col_5": ""
+        },
+        {
+          "": "Current liabilities held for sale from discontinued operations",
+          "col_1": "4,816",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "5,107",
+          "col_5": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "39,533",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "39,022",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "1,415",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "278",
+          "col_5": ""
+        },
+        {
+          "": "Non-current liabilities held for sale from discontinued operations",
+          "col_1": "154",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,103",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Total liabilities",
+          "col_1": "41,102",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "40,403",
+          "col_5": ""
+        },
+        {
+          "": "Commitments and contingencies",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Redeemable noncontrolling interest - held for sale from discontinued operations",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "52,375",
+          "col_5": ""
+        },
+        {
+          "": "Series A redeemable convertible preferred stock, par value $0.00001 per share: 200,000 shares authorized as of December\u00a031, 2025 and December\u00a031, 2024, 150 shares issued and outstanding as of December\u00a031, 2025 and December\u00a031, 2024, respectively",
+          "col_1": "159,495",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "141,663",
+          "col_5": ""
+        },
+        {
+          "": "Stockholders\u2019 equity:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "Class A, Class B and Class C Common Stock, par value $0.00001 per share: 3,000,000 (Class A 1,800,000, Class B 600,000, Class C 600,000) shares authorized  as of December\u00a031, 2025 and December\u00a031, 2024; 256,043 (Class A 252,787, Class B 3,256, Class C 0) and 258,173 (Class A 254,426, Class B 3,747, Class C 0) shares issued and outstanding as of December\u00a031, 2025 and December\u00a031, 2024, respectively",
+          "col_1": "2",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2",
+          "col_5": ""
+        },
+        {
+          "": "Additional paid-in capital",
+          "col_1": "1,360,704",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,328,015",
+          "col_5": ""
+        },
+        {
+          "": "Accumulated other comprehensive income",
+          "col_1": "597",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "602",
+          "col_5": ""
+        },
+        {
+          "": "Accumulated deficit",
+          "col_1": "(1,391,855)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,384,975)",
+          "col_5": ""
+        },
+        {
+          "": "Total stockholders\u2019 equity",
+          "col_1": "(30,552)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(56,356)",
+          "col_5": ""
+        },
+        {
+          "": "Total liabilities, redeemable equity and stockholders\u2019 equity",
+          "col_1": "$",
+          "col_2": "170,045",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "178,085",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Revenue",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Software platform",
+          "col_1": "$",
+          "col_2": "30,269",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "27,637",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "114,367",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "106,914",
+          "col_15": ""
+        },
+        {
+          "": "Professional services",
+          "col_1": "2,099",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "2,485",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "9,139",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "8,848",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Total revenue",
+          "col_1": "32,368",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "30,122",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "123,506",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "115,762",
+          "col_11": ""
+        },
+        {
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Software platform",
+          "col_1": "6,218",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "5,964",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "25,312",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "23,107",
+          "col_11": ""
+        },
+        {
+          "": "Professional services",
+          "col_1": "1,666",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,820",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "7,106",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "9,434",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Total cost of revenue",
+          "col_1": "7,884",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "7,784",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "32,418",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "32,541",
+          "col_11": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "24,484",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "22,338",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "91,088",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "83,221",
+          "col_11": ""
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "8,809",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "8,861",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "32,843",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "46,087",
+          "col_11": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "7,063",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "6,178",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "29,073",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "34,410",
+          "col_11": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "12,211",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "10,476",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "50,115",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "45,687",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Restructuring",
+          "col_1": "31",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "95",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "871",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,882",
+          "col_11": ""
+        },
+        {
+          "": "Total operating expenses",
+          "col_1": "28,114",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "25,610",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "112,902",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "132,066",
+          "col_11": ""
+        },
+        {
+          "": "Loss from operations",
+          "col_1": "(3,630)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(3,272)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(21,814)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(48,845)",
+          "col_11": ""
+        },
+        {
+          "": "Interest expense",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(6,747)",
+          "col_11": ""
+        },
+        {
+          "": "Other income (expense), net",
+          "col_1": "1,377",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,067",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "20,857",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "12,941",
+          "col_11": ""
+        },
+        {
+          "": "Loss before income taxes",
+          "col_1": "(2,253)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,205)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(957)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(42,651)",
+          "col_11": ""
+        },
+        {
+          "": "Income tax expense",
+          "col_1": "(151)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(16)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(249)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(109)",
+          "col_11": ""
+        },
+        {
+          "": "Loss from continuing operations",
+          "col_1": "(2,404)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,221)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,206)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(42,760)",
+          "col_11": ""
+        },
+        {
+          "": "Net (loss) income from discontinued operations",
+          "col_1": "(177)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,513",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(5,856)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(659)",
+          "col_11": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "(2,581)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(708)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(7,062)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(43,419)",
+          "col_11": ""
+        },
+        {
+          "": "Less: Net (loss) income attributable to noncontrolling interest included in discontinued operations",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(117)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "182",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "74",
+          "col_11": ""
+        },
+        {
+          "": "Net loss attributable to Blend Labs, Inc.",
+          "col_1": "(2,581)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(825)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(6,880)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(43,345)",
+          "col_11": ""
+        },
+        {
+          "": "Less: Accretion of redeemable noncontrolling interest to redemption value from discontinued operations",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(1,511)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,254)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(6,259)",
+          "col_11": ""
+        },
+        {
+          "": "Less: Accretion of Series A redeemable convertible preferred stock to redemption value",
+          "col_1": "(4,696)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(4,170)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(17,832)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(10,879)",
+          "col_11": ""
+        },
+        {
+          "": "Net loss attributable to Blend Labs, Inc. common stockholders",
+          "col_1": "$",
+          "col_2": "(7,277)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(6,506)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(25,966)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(60,483)",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss per share attributable to Blend Labs, Inc. common stockholders - basic and diluted:"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Continuing operations",
+          "col_1": "$",
+          "col_2": "(0.03)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.03)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.07)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.21)",
+          "col_15": ""
+        },
+        {
+          "": "Discontinued operations",
+          "col_1": "$",
+          "col_2": "0.00",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.00",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.03)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.03)",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss per share attributable to Blend Labs, Inc. common stockholders",
+          "col_1": "$",
+          "col_2": "(0.03)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.03)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.10)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.24)",
+          "col_15": ""
+        },
+        {
+          "": "Weighted average shares used in calculating net loss per share:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Basic and diluted",
+          "col_1": "258,121",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "256,735",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "258,949",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "253,921",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Comprehensive loss:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(2,581)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(708)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(7,062)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(43,419)",
+          "col_15": ""
+        },
+        {
+          "": "Unrealized (loss) gain on marketable securities",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(215)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(100)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "87",
+          "col_11": ""
+        },
+        {
+          "": "Foreign currency translation gain",
+          "col_1": "42",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "52",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "95",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "74",
+          "col_11": ""
+        },
+        {
+          "": "Comprehensive loss",
+          "col_1": "(2,539)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(871)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(7,067)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(43,258)",
+          "col_11": ""
+        },
+        {
+          "": "Less: Comprehensive (loss) income attributable to noncontrolling interest",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(117)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "182",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "74",
+          "col_11": ""
+        },
+        {
+          "": "Comprehensive loss attributable to Blend Labs, Inc.",
+          "col_1": "$",
+          "col_2": "(2,539)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(988)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(6,885)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(43,184)",
+          "col_15": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Net loss",
+          "col_1": "$",
+          "col_2": "(2,581)",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "(708)",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "(7,062)",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "(43,419)"
+        },
+        {
+          "": "Less: Net (loss) income from discontinued operations",
+          "col_1": "(177)",
+          "col_2": "",
+          "col_3": "1,513",
+          "col_4": "",
+          "col_5": "(5,856)",
+          "col_6": "",
+          "col_7": "(659)"
+        },
+        {
+          "": "Net loss from continuing operations",
+          "col_1": "(2,404)",
+          "col_2": "",
+          "col_3": "(2,221)",
+          "col_4": "",
+          "col_5": "(1,206)",
+          "col_6": "",
+          "col_7": "(42,760)"
+        },
+        {
+          "": "Adjustments to reconcile net loss to net cash used in operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Stock-based compensation",
+          "col_1": "7,478",
+          "col_2": "",
+          "col_3": "6,050",
+          "col_4": "",
+          "col_5": "28,955",
+          "col_6": "",
+          "col_7": "27,941"
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "1,200",
+          "col_2": "",
+          "col_3": "273",
+          "col_4": "",
+          "col_5": "3,288",
+          "col_6": "",
+          "col_7": "1,339"
+        },
+        {
+          "": "Amortization of deferred contract costs",
+          "col_1": "451",
+          "col_2": "",
+          "col_3": "289",
+          "col_4": "",
+          "col_5": "1,626",
+          "col_6": "",
+          "col_7": "1,068"
+        },
+        {
+          "": "Amortization of debt discount and issuance costs",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "690"
+        },
+        {
+          "": "Amortization of operating lease right-of-use assets",
+          "col_1": "181",
+          "col_2": "",
+          "col_3": "87",
+          "col_4": "",
+          "col_5": "531",
+          "col_6": "",
+          "col_7": "2,062"
+        },
+        {
+          "": "Accelerated amortization of right-of-use asset in connection with lease abandonment",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "2,992"
+        },
+        {
+          "": "Gain on conversion of note receivable to investment in equity securities",
+          "col_1": "825",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "825",
+          "col_6": "",
+          "col_7": "\u2014"
+        },
+        {
+          "": "Gain on investment in equity securities",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "(16,580)",
+          "col_6": "",
+          "col_7": "(4,417)"
+        },
+        {
+          "": "Loss on extinguishment of debt",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "5,476"
+        },
+        {
+          "": "Gain on sale of insurance business",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(9,213)"
+        },
+        {
+          "": "Other",
+          "col_1": "43",
+          "col_2": "",
+          "col_3": "(325)",
+          "col_4": "",
+          "col_5": "(312)",
+          "col_6": "",
+          "col_7": "(1,927)"
+        },
+        {
+          "": "Changes in operating assets and liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Trade and other receivables",
+          "col_1": "3,535",
+          "col_2": "",
+          "col_3": "(136)",
+          "col_4": "",
+          "col_5": "5,760",
+          "col_6": "",
+          "col_7": "4,765"
+        },
+        {
+          "": "Prepaid expenses and other assets, current and non-current",
+          "col_1": "(2,789)",
+          "col_2": "",
+          "col_3": "(723)",
+          "col_4": "",
+          "col_5": "(7,080)",
+          "col_6": "",
+          "col_7": "(432)"
+        },
+        {
+          "": "Deferred contract costs, non-current",
+          "col_1": "(289)",
+          "col_2": "",
+          "col_3": "(805)",
+          "col_4": "",
+          "col_5": "(557)",
+          "col_6": "",
+          "col_7": "(415)"
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "1,054",
+          "col_2": "",
+          "col_3": "392",
+          "col_4": "",
+          "col_5": "206",
+          "col_6": "",
+          "col_7": "(291)"
+        },
+        {
+          "": "Deferred revenue",
+          "col_1": "(5,773)",
+          "col_2": "",
+          "col_3": "(617)",
+          "col_4": "",
+          "col_5": "(548)",
+          "col_6": "",
+          "col_7": "10,256"
+        },
+        {
+          "": "Accrued compensation",
+          "col_1": "(159)",
+          "col_2": "",
+          "col_3": "(1,800)",
+          "col_4": "",
+          "col_5": "807",
+          "col_6": "",
+          "col_7": "(2,109)"
+        },
+        {
+          "": "Operating lease liabilities",
+          "col_1": "(136)",
+          "col_2": "",
+          "col_3": "(1,246)",
+          "col_4": "",
+          "col_5": "(2,769)",
+          "col_6": "",
+          "col_7": "(2,922)"
+        },
+        {
+          "": "Other liabilities, current and non-current",
+          "col_1": "(321)",
+          "col_2": "",
+          "col_3": "(2,395)",
+          "col_4": "",
+          "col_5": "1,452",
+          "col_6": "",
+          "col_7": "(303)"
+        },
+        {
+          "": "Net cash provided by (used in) operating activities - continuing operations",
+          "col_1": "2,896",
+          "col_2": "",
+          "col_3": "(3,177)",
+          "col_4": "",
+          "col_5": "14,398",
+          "col_6": "",
+          "col_7": "(8,200)"
+        },
+        {
+          "": "Net cash used in operating activities - discontinued operations",
+          "col_1": "(1,358)",
+          "col_2": "",
+          "col_3": "(1,409)",
+          "col_4": "",
+          "col_5": "(2,886)",
+          "col_6": "",
+          "col_7": "(4,844)"
+        },
+        {
+          "": "Net cash provided by (used in) operating activities",
+          "col_1": "1,538",
+          "col_2": "",
+          "col_3": "(4,586)",
+          "col_4": "",
+          "col_5": "11,512",
+          "col_6": "",
+          "col_7": "(13,044)"
+        },
+        {
+          "": "Investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Purchases of marketable securities",
+          "col_1": "(4,995)",
+          "col_2": "",
+          "col_3": "(5,609)",
+          "col_4": "",
+          "col_5": "(35,485)",
+          "col_6": "",
+          "col_7": "(102,030)"
+        },
+        {
+          "": "Sale of available-for-sale securities",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "20,827",
+          "col_6": "",
+          "col_7": "100,327"
+        },
+        {
+          "": "Maturities of marketable securities",
+          "col_1": "2,500",
+          "col_2": "",
+          "col_3": "11,300",
+          "col_4": "",
+          "col_5": "46,727",
+          "col_6": "",
+          "col_7": "53,150"
+        },
+        {
+          "": "Additions to property, equipment and internal-use software development costs",
+          "col_1": "(1,559)",
+          "col_2": "",
+          "col_3": "(2,497)",
+          "col_4": "",
+          "col_5": "(11,593)",
+          "col_6": "",
+          "col_7": "(9,741)"
+        },
+        {
+          "": "Proceeds from sale of insurance business",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "9,075"
+        },
+        {
+          "": "Cash received in connection with conversion of note receivable to investment in equity securities",
+          "col_1": "2,255",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "2,255",
+          "col_6": "",
+          "col_7": "\u2014"
+        },
+        {
+          "": "Investment in non-marketable equity securities",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "(4,000)",
+          "col_6": "",
+          "col_7": "\u2014"
+        },
+        {
+          "": "Investment in note receivable",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "(5,000)",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(5,000)"
+        },
+        {
+          "": "Other",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(283)"
+        },
+        {
+          "": "Net cash (used in) provided by investing activities - continuing operations",
+          "col_1": "(1,799)",
+          "col_2": "",
+          "col_3": "(1,806)",
+          "col_4": "",
+          "col_5": "18,731",
+          "col_6": "",
+          "col_7": "45,498"
+        },
+        {
+          "": "Net cash used in investing activities - discontinued operations",
+          "col_1": "(13)",
+          "col_2": "",
+          "col_3": "(83)",
+          "col_4": "",
+          "col_5": "(195)",
+          "col_6": "",
+          "col_7": "(103)"
+        },
+        {
+          "": "Net cash (used in) provided by investing activities",
+          "col_1": "(1,812)",
+          "col_2": "",
+          "col_3": "(1,889)",
+          "col_4": "",
+          "col_5": "18,536",
+          "col_6": "",
+          "col_7": "45,395"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Proceeds from exercises of stock options, including early exercises, net of repurchases",
+          "col_1": "147",
+          "col_2": "",
+          "col_3": "789",
+          "col_4": "",
+          "col_5": "1,652",
+          "col_6": "",
+          "col_7": "1,658"
+        },
+        {
+          "": "Taxes paid related to net share settlement of equity awards",
+          "col_1": "(1,981)",
+          "col_2": "",
+          "col_3": "(7,112)",
+          "col_4": "",
+          "col_5": "(9,369)",
+          "col_6": "",
+          "col_7": "(18,115)"
+        },
+        {
+          "": "Share repurchases",
+          "col_1": "(15,727)",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "(24,870)",
+          "col_6": "",
+          "col_7": "\u2014"
+        },
+        {
+          "": "Repayment of long-term debt",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(144,500)"
+        },
+        {
+          "": "Net proceeds from the issuance of the Series A redeemable convertible preferred stock and the Haveli Warrant",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "149,375"
+        },
+        {
+          "": "Payment for issuance costs related to the Series A redeemable convertible preferred stock and the Haveli Warrant",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(9,480)"
+        },
+        {
+          "": "Net cash used in financing activities - continuing operations",
+          "col_1": "(17,561)",
+          "col_2": "",
+          "col_3": "(6,323)",
+          "col_4": "",
+          "col_5": "(32,587)",
+          "col_6": "",
+          "col_7": "(21,062)"
+        },
+        {
+          "": "Effect of exchange rates on cash, cash equivalents, and restricted cash",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "(5)"
+        },
+        {
+          "": "Net (decrease) increase in cash, cash equivalents, and restricted cash",
+          "col_1": "(17,835)",
+          "col_2": "",
+          "col_3": "(12,798)",
+          "col_4": "",
+          "col_5": "(2,539)",
+          "col_6": "",
+          "col_7": "11,284"
+        },
+        {
+          "": "Cash, cash equivalents, and restricted cash at beginning of period",
+          "col_1": "64,833",
+          "col_2": "",
+          "col_3": "62,335",
+          "col_4": "",
+          "col_5": "49,537",
+          "col_6": "",
+          "col_7": "38,253"
+        },
+        {
+          "": "Cash, cash equivalents, and restricted cash at end of period",
+          "col_1": "$",
+          "col_2": "46,998",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "49,537",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "46,998",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "49,537"
+        },
+        {
+          "": "Less: Cash, cash equivalents and restricted cash included in current assets held for sale from discontinued operations",
+          "col_1": "3,420",
+          "col_2": "",
+          "col_3": "6,503",
+          "col_4": "",
+          "col_5": "3,420",
+          "col_6": "",
+          "col_7": "6,503"
+        },
+        {
+          "": "Cash, cash equivalents and restricted cash, end of period, excluding current assets held for sale from discontinued operations",
+          "col_1": "$",
+          "col_2": "43,578",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "43,034",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "43,578",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "43,034"
+        },
+        {
+          "": "Reconciliation of cash, cash equivalents, and restricted cash within the consolidated balance sheets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "$",
+          "col_2": "43,578",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "38,011",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "43,578",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "38,011"
+        },
+        {
+          "": "Restricted cash",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "5,023",
+          "col_4": "",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "5,023"
+        },
+        {
+          "": "Total cash, cash equivalents, and restricted cash",
+          "col_1": "$",
+          "col_2": "43,578",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "43,034",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "43,578",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "43,034"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Supplemental disclosure of cash flow information:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Cash paid for income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "State and Local",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Texas",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "64",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "52"
+        },
+        {
+          "": "Foreign",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "India",
+          "col_1": "$",
+          "col_2": "72",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "325",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "24"
+        },
+        {
+          "": "Total income taxes paid, net",
+          "col_1": "$",
+          "col_2": "72",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "389",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "76"
+        },
+        {
+          "": "Cash paid for interest",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "6,150"
+        },
+        {
+          "": "Supplemental disclosure of non-cash investing and financing activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Reclassification of redeemable noncontrolling interest related to discontinued operations to equity",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "52,675",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "\u2014"
+        },
+        {
+          "": "Vesting of early exercised stock options",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "363"
+        },
+        {
+          "": "Operating lease liabilities arising from obtaining new or modified right-of-use assets",
+          "col_1": "$",
+          "col_2": "(19)",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "(53)",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "1,565",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "1,098"
+        },
+        {
+          "": "Stock-based compensation included in capitalized internal-use software development costs",
+          "col_1": "$",
+          "col_2": "225",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "509",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "3,162",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "2,450"
+        },
+        {
+          "": "Accretion of redeemable noncontrolling interest related to discontinued operations to redemption value",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "1,511",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "1,254",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "6,259"
+        },
+        {
+          "": "Accretion of Series A redeemable convertible preferred stock to redemption value",
+          "col_1": "$",
+          "col_2": "4,696",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "4,170",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "17,832",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "10,879"
+        },
+        {
+          "": "Covered Warrant received in connection with strategic partnership and sale of insurance business",
+          "col_1": "$",
+          "col_2": "\u2014",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "\u2014",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "222"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Capitalized internal-use software development costs included in accrued compensation",
+          "col_1": "$",
+          "col_2": "129",
+          "col_3": "",
+          "col_4": "$",
+          "col_5": "155",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "129",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "155"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "YoY change"
+        },
+        {
+          "": "Mortgage Suite",
+          "col_1": "$",
+          "col_2": "18,797",
+          "col_3": "",
+          "col_4": "58",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "18,179",
+          "col_9": "",
+          "col_10": "60",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "3",
+          "col_14": "%"
+        },
+        {
+          "": "Consumer Banking Suite",
+          "col_1": "11,472",
+          "col_2": "",
+          "col_3": "36",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "9,458",
+          "col_7": "",
+          "col_8": "32",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "21",
+          "col_12": "%"
+        },
+        {
+          "": "Total software platform",
+          "col_1": "30,269",
+          "col_2": "",
+          "col_3": "94",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "27,637",
+          "col_7": "",
+          "col_8": "92",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "10",
+          "col_12": "%"
+        },
+        {
+          "": "Professional services",
+          "col_1": "2,099",
+          "col_2": "",
+          "col_3": "6",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "2,485",
+          "col_7": "",
+          "col_8": "8",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "(16)",
+          "col_12": "%"
+        },
+        {
+          "": "Total revenue",
+          "col_1": "$",
+          "col_2": "32,368",
+          "col_3": "",
+          "col_4": "100",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "30,122",
+          "col_9": "",
+          "col_10": "100",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "7",
+          "col_14": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Twelve Months Ended December 31,",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "YoY change"
+        },
+        {
+          "": "Mortgage Suite",
+          "col_1": "$",
+          "col_2": "69,131",
+          "col_3": "",
+          "col_4": "56",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "73,257",
+          "col_9": "",
+          "col_10": "64",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "(6)",
+          "col_14": "%"
+        },
+        {
+          "": "Consumer Banking Suite",
+          "col_1": "45,236",
+          "col_2": "",
+          "col_3": "37",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "33,657",
+          "col_7": "",
+          "col_8": "28",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "34",
+          "col_12": "%"
+        },
+        {
+          "": "Total software platform",
+          "col_1": "114,367",
+          "col_2": "",
+          "col_3": "93",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "106,914",
+          "col_7": "",
+          "col_8": "92",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "7",
+          "col_12": "%"
+        },
+        {
+          "": "Professional services",
+          "col_1": "9,139",
+          "col_2": "",
+          "col_3": "7",
+          "col_4": "%",
+          "col_5": "",
+          "col_6": "8,848",
+          "col_7": "",
+          "col_8": "8",
+          "col_9": "%",
+          "col_10": "",
+          "col_11": "3",
+          "col_12": "%"
+        },
+        {
+          "": "Total revenue",
+          "col_1": "$",
+          "col_2": "123,506",
+          "col_3": "",
+          "col_4": "100",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "$",
+          "col_8": "115,762",
+          "col_9": "",
+          "col_10": "100",
+          "col_11": "%",
+          "col_12": "",
+          "col_13": "7",
+          "col_14": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25",
+        "col_26",
+        "col_27",
+        "col_28",
+        "col_29"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "2024",
+          "col_3": "",
+          "col_4": "2025",
+          "col_5": "2024"
+        },
+        {
+          "": "Gross Profit Reconciliation",
+          "col_1": "Gross Profit",
+          "col_2": "Gross Margin",
+          "col_3": "Gross Profit",
+          "col_4": "Gross Margin",
+          "col_5": "",
+          "col_6": "Gross Profit",
+          "col_7": "Gross Margin",
+          "col_8": "Gross Profit",
+          "col_9": "Gross Margin"
+        },
+        {
+          "": "Blend Platform",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "GAAP Software platform",
+          "col_1": "$",
+          "col_2": "24,051",
+          "col_3": "",
+          "col_4": "79",
+          "col_5": "%",
+          "col_6": "$",
+          "col_7": "21,673",
+          "col_8": "",
+          "col_9": "78",
+          "col_10": "%",
+          "col_11": "",
+          "col_12": "$",
+          "col_13": "89,055",
+          "col_14": "",
+          "col_15": "78",
+          "col_16": "%",
+          "col_17": "$",
+          "col_18": "83,807",
+          "col_19": "",
+          "col_20": "78",
+          "col_21": "%"
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "6",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "8",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "13",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Amortization of capitalized internal-use software(8)",
+          "col_1": "1,143",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "249",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "3,133",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "491",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Non-GAAP Software platform",
+          "col_1": "25,200",
+          "col_2": "",
+          "col_3": "83",
+          "col_4": "%",
+          "col_5": "21,925",
+          "col_6": "",
+          "col_7": "79",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "92,196",
+          "col_11": "",
+          "col_12": "81",
+          "col_13": "%",
+          "col_14": "84,311",
+          "col_15": "",
+          "col_16": "79",
+          "col_17": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "GAAP Professional services",
+          "col_1": "433",
+          "col_2": "",
+          "col_3": "21",
+          "col_4": "%",
+          "col_5": "665",
+          "col_6": "",
+          "col_7": "27",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "2,033",
+          "col_11": "",
+          "col_12": "22",
+          "col_13": "%",
+          "col_14": "(586)",
+          "col_15": "",
+          "col_16": "(7)",
+          "col_17": "%"
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "128",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "141",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "535",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "497",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Amortization of capitalized internal-use software(8)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "\u2014",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Non-GAAP Professional services",
+          "col_1": "561",
+          "col_2": "",
+          "col_3": "27",
+          "col_4": "%",
+          "col_5": "806",
+          "col_6": "",
+          "col_7": "32",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "2,568",
+          "col_11": "",
+          "col_12": "28",
+          "col_13": "%",
+          "col_14": "(89)",
+          "col_15": "",
+          "col_16": "(1)",
+          "col_17": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "GAAP Gross Profit",
+          "col_1": "24,484",
+          "col_2": "",
+          "col_3": "76",
+          "col_4": "%",
+          "col_5": "22,338",
+          "col_6": "",
+          "col_7": "74",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "91,088",
+          "col_11": "",
+          "col_12": "74",
+          "col_13": "%",
+          "col_14": "83,221",
+          "col_15": "",
+          "col_16": "72",
+          "col_17": "%"
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "134",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "144",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "543",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "510",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Amortization of capitalized internal-use software(8)",
+          "col_1": "1,143",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "249",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "3,133",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "491",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Non-GAAP Gross Profit",
+          "col_1": "$",
+          "col_2": "25,761",
+          "col_3": "",
+          "col_4": "80",
+          "col_5": "%",
+          "col_6": "$",
+          "col_7": "22,731",
+          "col_8": "",
+          "col_9": "75",
+          "col_10": "%",
+          "col_11": "",
+          "col_12": "$",
+          "col_13": "94,764",
+          "col_14": "",
+          "col_15": "77",
+          "col_16": "%",
+          "col_17": "$",
+          "col_18": "84,222",
+          "col_19": "",
+          "col_20": "73",
+          "col_21": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_8",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "GAAP operating expenses",
+          "col_1": "$",
+          "col_2": "28,114",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "25,610",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "112,902",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "132,066",
+          "col_15": ""
+        },
+        {
+          "": "Non-GAAP adjustments:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "7,344",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "5,906",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "28,412",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "27,431",
+          "col_11": ""
+        },
+        {
+          "": "Workforce reduction costs(2)",
+          "col_1": "31",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "95",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "871",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,882",
+          "col_11": ""
+        },
+        {
+          "": "Abandoned and terminated facilities costs(3)",
+          "col_1": "(104)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "537",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,667",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "537",
+          "col_11": ""
+        },
+        {
+          "": "Compensation realignment costs(4)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,155",
+          "col_11": ""
+        },
+        {
+          "": "Executive transition costs(9)",
+          "col_1": "472",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "743",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Litigation contingencies and related professional services costs(5)",
+          "col_1": "15",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "874",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "53",
+          "col_11": ""
+        },
+        {
+          "": "Transaction-related costs(6)",
+          "col_1": "21",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "490",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Impairment of capitalized internal-use software(7)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "135",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP operating expenses",
+          "col_1": "$",
+          "col_2": "20,335",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "19,072",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "79,710",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "97,008",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP loss from operations",
+          "col_1": "$",
+          "col_2": "(3,630)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(3,272)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(21,814)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(48,845)",
+          "col_15": ""
+        },
+        {
+          "": "Non-GAAP adjustments:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "7,478",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "6,050",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "28,955",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "27,941",
+          "col_11": ""
+        },
+        {
+          "": "Workforce reduction costs(2)",
+          "col_1": "31",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "95",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "871",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,882",
+          "col_11": ""
+        },
+        {
+          "": "Abandoned and terminated facilities costs(3)",
+          "col_1": "(104)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "537",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,667",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "537",
+          "col_11": ""
+        },
+        {
+          "": "Compensation realignment costs(4)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,155",
+          "col_11": ""
+        },
+        {
+          "": "Executive transition costs(9)",
+          "col_1": "472",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "743",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Litigation contingencies and related professional services costs(5)",
+          "col_1": "15",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "874",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "53",
+          "col_11": ""
+        },
+        {
+          "": "Transaction-related costs(6)",
+          "col_1": "21",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "490",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Impairment of capitalized internal-use software(7)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "135",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Amortization of capitalized internal-use software(8)",
+          "col_1": "1,143",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "249",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,133",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "491",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP income (loss) from operations",
+          "col_1": "$",
+          "col_2": "5,426",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "3,659",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "15,054",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(12,786)",
+          "col_15": ""
+        },
+        {
+          "": "GAAP operating margin",
+          "col_1": "(11)",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(11)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "(18)",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "(42)",
+          "col_11": "%"
+        },
+        {
+          "": "Non-GAAP operating margin",
+          "col_1": "17",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "12",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "12",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "(11)",
+          "col_11": "%"
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "GAAP net loss from continuing operations",
+          "col_1": "$",
+          "col_2": "(2,404)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(2,221)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(1,206)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(42,760)",
+          "col_15": ""
+        },
+        {
+          "": "Non-GAAP adjustments:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Stock-based compensation(1)",
+          "col_1": "7,478",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "6,050",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "28,955",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "27,941",
+          "col_11": ""
+        },
+        {
+          "": "Loss on extinguishment of debt(13)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,531",
+          "col_11": ""
+        },
+        {
+          "": "Workforce reduction costs(2)",
+          "col_1": "31",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "95",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "871",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "5,882",
+          "col_11": ""
+        },
+        {
+          "": "Abandoned and terminated facilities costs(3)",
+          "col_1": "(104)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "537",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,667",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "537",
+          "col_11": ""
+        },
+        {
+          "": "Compensation realignment costs(4)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "1,155",
+          "col_11": ""
+        },
+        {
+          "": "Executive transition costs(9)",
+          "col_1": "472",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "743",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Litigation contingencies and related professional services costs(5)",
+          "col_1": "15",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "874",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "53",
+          "col_11": ""
+        },
+        {
+          "": "Transaction-related costs(6)",
+          "col_1": "21",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "490",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Impairment of capitalized internal-use software(7)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "135",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "\u2014",
+          "col_11": ""
+        },
+        {
+          "": "Amortization of capitalized internal-use software(8)",
+          "col_1": "1,143",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "249",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,133",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "491",
+          "col_11": ""
+        },
+        {
+          "": "Gain on investment in equity securities(10)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(16,580)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(4,417)",
+          "col_11": ""
+        },
+        {
+          "": "Foreign currency gains and losses(11)",
+          "col_1": "81",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "97",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "283",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "116",
+          "col_11": ""
+        },
+        {
+          "": "Loss on transfer of subsidiary(12)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "601",
+          "col_11": ""
+        },
+        {
+          "": "Gain on sale of insurance business(14)",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(9,239)",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP net income (loss) from continuing operations",
+          "col_1": "$",
+          "col_2": "6,733",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "4,807",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "19,365",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(14,109)",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "GAAP diluted net loss per share from continuing operations attributable to common stockholders",
+          "col_1": "$",
+          "col_2": "(0.03)",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(0.03)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "(0.07)",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.21)",
+          "col_15": ""
+        },
+        {
+          "": "Per share impact of non-GAAP expenses(15)",
+          "col_1": "0.03",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "0.03",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.08",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "0.11",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP diluted income (loss) per share  from continuing operations attributable to common stockholders",
+          "col_1": "$",
+          "col_2": "0.00",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "0.00",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "0.01",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(0.10)",
+          "col_15": ""
+        },
+        {
+          "": "GAAP diluted weighted average shares used in calculating net loss per share",
+          "col_1": "258,121",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "256,735",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "258,949",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "253,921",
+          "col_11": ""
+        },
+        {
+          "": "Non-GAAP diluted weighted average shares used in calculating net income (loss) per share",
+          "col_1": "265,369",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "272,200",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "266,351",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "253,921",
+          "col_11": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,"
+        },
+        {
+          "": "",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024"
+        },
+        {
+          "": "Net cash provided by (used in) operating activities - continuing operations",
+          "col_1": "$",
+          "col_2": "2,896",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(3,177)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "14,398",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(8,200)",
+          "col_15": ""
+        },
+        {
+          "": "Additions to property, equipment and internal-use software development costs",
+          "col_1": "(1,559)",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(2,497)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(11,593)",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(9,741)",
+          "col_11": ""
+        },
+        {
+          "": "Free cash flow",
+          "col_1": "1,337",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "(5,674)",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,805",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "(17,941)",
+          "col_11": ""
+        },
+        {
+          "": "Cash paid for interest",
+          "col_1": "\u2014",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "\u2014",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "6,150",
+          "col_11": ""
+        },
+        {
+          "": "Unlevered free cash flow",
+          "col_1": "$",
+          "col_2": "1,337",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "(5,674)",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "2,805",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "(11,791)",
+          "col_15": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": ""
+        },
+        {
+          "": "Revenue",
+          "col_1": "$",
+          "col_2": "32,368",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "30,122",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "123,506",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "115,762",
+          "col_15": ""
+        },
+        {
+          "": "Free cash flow margin",
+          "col_1": "4",
+          "col_2": "%",
+          "col_3": "",
+          "col_4": "(19)",
+          "col_5": "%",
+          "col_6": "",
+          "col_7": "2",
+          "col_8": "%",
+          "col_9": "",
+          "col_10": "(15)",
+          "col_11": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_10",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25"
+      ],
+      "rows": [
+        {
+          "": "Notes:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "(1) Stock-based compensation represents the non-cash grant date fair value of stock-based instruments utilized to incentivize our employees, for which the expense is recognized over the applicable vesting or performance period.",
+          "col_1": "",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "",
+          "col_1": "Three Months Ended December 31,",
+          "col_2": "",
+          "col_3": "Twelve Months Ended December 31,",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Stock-based compensation by function:",
+          "col_1": "2025",
+          "col_2": "",
+          "col_3": "2024",
+          "col_4": "",
+          "col_5": "2025",
+          "col_6": "",
+          "col_7": "2024",
+          "col_8": "",
+          "col_9": ""
+        },
+        {
+          "": "Cost of revenue",
+          "col_1": "$",
+          "col_2": "134",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "144",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "543",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "510",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
+        },
+        {
+          "": "Research and development *",
+          "col_1": "1,673",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "1,782",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "6,292",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "9,870",
+          "col_11": "",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "827",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "831",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,864",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "3,546",
+          "col_11": "",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "4,844",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "3,293",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "19,256",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "14,015",
+          "col_11": "",
+          "col_12": "",
+          "col_13": ""
+        },
+        {
+          "": "Total",
+          "col_1": "$",
+          "col_2": "7,478",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "$",
+          "col_6": "6,050",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "$",
+          "col_10": "28,955",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "$",
+          "col_14": "27,941",
+          "col_15": "",
+          "col_16": "",
+          "col_17": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_11",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16",
+        "col_17",
+        "col_18",
+        "col_19",
+        "col_20",
+        "col_21",
+        "col_22",
+        "col_23",
+        "col_24",
+        "col_25",
+        "col_26"
+      ],
+      "rows": [
+        {
+          "": "* Net of $0.2\u00a0million and $3.2\u00a0million of additions to capitalized internal-use software for  three and twelve months ended December 31, 2025 and $1.6\u00a0million and $2.5\u00a0million for the  three and twelve months ended December 31, 2024."
+        },
+        {
+          "": "(2) Workforce reduction costs represent expenses incurred in connection with the workforce restructuring actions executed as part of our broader efforts to improve cost efficiency."
+        },
+        {
+          "": "(3) Abandoned and terminated facilities costs represent charges related to the early termination of a leased facility and abandonment of another leased facility as part of our broader efforts to better align our operating structure with our business activities."
+        },
+        {
+          "": "(4) Compensation realignment costs relate to amortization of one-time cash bonus payment (paid in two installments in March and May 2023) to certain employees in lieu of previously committed equity-based awards, driven by an organizational initiative to standardize our equity compensation program."
+        },
+        {
+          "": "(5) Litigation contingencies and related professional services costsrepresent reserves for legal settlements and related professional service fees that are unusual or infrequent costs associated with our operating activities."
+        },
+        {
+          "": "(6) Transaction-related costs include non-recurringfinancial advisory, legal, and other transactional costs incurred in connection with investing or divesting activitiesrecorded within general and administrative expense."
+        },
+        {
+          "": "(7) Impairment of capitalized internal-use software represents the non-cash expense related to the write-off of certain internal-use software projects."
+        },
+        {
+          "": "(8) Amortization of capitalized internal-use software represents the non-cash amortization expense related to our developed technology that is amortized over the estimated useful life."
+        },
+        {
+          "": "(9) Executive transition costs relate to the departure of one of our executives."
+        },
+        {
+          "": "(10) Gain on investment in equity securities represents an adjustment to the carrying value of the non-marketable security without a readily determinable fair value to reflect observable price changes."
+        },
+        {
+          "": "(11) Foreign currency gains and losses include transaction gains and losses incurred in connection with our operations in India."
+        },
+        {
+          "": "(12) Loss on transfer of subsidiary represents a loss recognized in connection with the transfer of our subsidiary in India to a third-party and includes impairment charges related to certain assets transferred as part of the agreement, costs incurred to settle certain liabilities arising from the agreement, and one-time legal costs incurred to facilitate the transaction."
+        },
+        {
+          "": "(13) Loss on extinguishment of debt represents a write off of unamortized debt issuance costs and debt discounts related to the extinguishment of our term loan."
+        },
+        {
+          "": "(14) Gain on sale of insurance business represents the gain recognized in connection with the sale of certain assets of our insurance agency, partially offset by transaction costs."
+        },
+        {
+          "": "(15) Per share impact of non-GAAP expenses represents the per share impact of aggregated non-GAAP items included in (1) through (14)."
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_d_275",
+      "text": "(9) Executive transition costs relate to the departure of one of our executives.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "executive",
+            "type": "person",
+            "attributes": {
+              "role": "executive",
+              "event": "departure"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executive transition costs",
+          "executive departure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that executive transition costs are related to the departure of one of the company's executives."
+      }
+    },
+    {
+      "chunk_id": "prose_d_259",
+      "text": "Non-GAAP diluted weighted average shares used in calculating net income (loss) per share",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "Non-GAAP diluted weighted average shares",
+          "Net income per share",
+          "Loss per share"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section refers to non-GAAP diluted weighted average shares used in calculating net income or loss per share, without providing specific numerical data."
+      }
+    },
+    {
+      "chunk_id": "prose_d_145",
+      "text": "Less: Net (loss) income attributable to noncontrolling interest included in discontinued operations",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "noncontrolling interest",
+            "type": "other",
+            "attributes": {
+              "context": "included in discontinued operations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "net loss",
+          "net income",
+          "noncontrolling interest",
+          "discontinued operations"
+        ],
+        "sentiment": "negative",
+        "summary": "The section refers to net loss or income attributable to noncontrolling interest within discontinued operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_164",
+      "text": "Reconciliation of cash, cash equivalents, and restricted cash within the consolidated balance sheets:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "consolidated balance sheets",
+            "type": "other",
+            "attributes": {
+              "context": "reconciliation of cash, cash equivalents, and restricted cash"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "cash",
+          "cash equivalents",
+          "restricted cash",
+          "reconciliation",
+          "consolidated balance sheets"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces a reconciliation of cash, cash equivalents, and restricted cash within the consolidated balance sheets, but provides no numerical amounts."
+      }
+    },
+    {
+      "chunk_id": "prose_d_56",
+      "text": "We adjust the following items from our non-GAAP financial measures as detailed in the reconciliations below:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "reconciliations",
+          "adjustments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain items are adjusted from non-GAAP financial measures and refers readers to the reconciliations below."
+      }
+    },
+    {
+      "chunk_id": "prose_d_11",
+      "text": "\u2022 Results Ahead of Guidance: Total revenue near the high end of guidance and non-GAAP operating income above the high end of guidance.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "near the high end of guidance",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "current guidance period"
+          },
+          {
+            "figure": "above the high end of guidance",
+            "type": "other",
+            "currency": "USD",
+            "period": "current guidance period"
+          }
+        ],
+        "key_topics": [
+          "results ahead of guidance",
+          "revenue performance",
+          "non-GAAP operating income"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported total revenue near the high end of guidance and non-GAAP operating income above the high end of guidance."
+      }
+    },
+    {
+      "chunk_id": "prose_d_29",
+      "text": "registered public accounting firm. Financial results will not be final until Blend files its Annual Report on Form 10-K for the period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend",
+            "type": "company",
+            "attributes": {
+              "filing": "Annual Report on Form 10-K"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "financial results",
+          "annual report",
+          "Form 10-K",
+          "registered public accounting firm"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that financial results are not final until Blend files its Annual Report on Form 10-K for the period."
+      }
+    },
+    {
+      "chunk_id": "prose_d_12",
+      "text": "\u2022 Growing Customer Base: Added or expanded 10 customer relationships in the fourth quarter \u2014 with pipeline up approximately 40% year-over-year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Customer relationships",
+            "type": "other",
+            "attributes": {
+              "added_or_expanded": "10",
+              "period": "fourth quarter",
+              "pipeline_growth": "approximately 40% year-over-year"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "10",
+            "type": "other",
+            "currency": "other",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "40%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-over-year"
+          }
+        ],
+        "key_topics": [
+          "customer growth",
+          "pipeline growth",
+          "business expansion"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported adding or expanding 10 customer relationships in the fourth quarter, with its pipeline increasing approximately 40% year-over-year."
+      }
+    },
+    {
+      "chunk_id": "prose_d_13",
+      "text": "\u2022 Returning Capital to Shareholders: Repurchased 5.1 million shares in the fourth quarter for more than $15 million, bringing the year-to-date total to $25 million.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "shareholders",
+            "type": "other",
+            "attributes": {
+              "context": "recipients of capital returned via share repurchases"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "5.1 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "15 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": "25 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "year-to-date"
+          }
+        ],
+        "key_topics": [
+          "share repurchases",
+          "returning capital to shareholders",
+          "capital allocation"
+        ],
+        "sentiment": "positive",
+        "summary": "The company returned capital to shareholders by repurchasing 5.1 million shares in the fourth quarter for more than $15 million, bringing year-to-date repurchases to $25 million."
+      }
+    },
+    {
+      "chunk_id": "prose_d_271",
+      "text": "(2) Workforce reduction costs represent expenses incurred in connection with the workforce restructuring actions executed as part of our broader efforts to improve cost efficiency.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "workforce reduction costs",
+            "type": "other",
+            "attributes": {
+              "description": "Expenses incurred in connection with workforce restructuring actions",
+              "purpose": "Improve cost efficiency"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "workforce reduction costs",
+          "workforce restructuring",
+          "cost efficiency",
+          "expenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that workforce reduction costs are expenses related to restructuring actions taken to improve cost efficiency."
+      }
+    },
+    {
+      "chunk_id": "prose_d_106",
+      "text": "We have not separately adjusted for certain tax-related impacts of our non-GAAP financial measures, as they are not material to our overall non-GAAP results for the periods presented.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "tax-related impacts",
+          "materiality"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states that it did not separately adjust for certain tax-related impacts in its non-GAAP financial measures because those impacts were not material to the overall non-GAAP results for the periods presented."
+      }
+    },
+    {
+      "chunk_id": "prose_d_96",
+      "text": "believe these gains and losses to be indicative of our business performance and excluding these gains and losses provides information consistent with how we evaluate our operating results.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "gains and losses",
+          "business performance",
+          "operating results",
+          "non-GAAP adjustment"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that certain gains and losses are considered indicative of business performance and that excluding them provides information consistent with how operating results are evaluated."
+      }
+    },
+    {
+      "chunk_id": "prose_d_90",
+      "text": "Foreign currency gains and losses . We exclude unrealized gains and losses resulting from remeasurement of assets and liabilities from foreign currency into the functional currency as we do not",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "foreign currency gains and losses",
+          "unrealized gains and losses",
+          "remeasurement of assets and liabilities",
+          "functional currency"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that unrealized foreign currency gains and losses from remeasuring assets and liabilities into the functional currency are excluded."
+      }
+    },
+    {
+      "chunk_id": "prose_d_23",
+      "text": "The financial information in this press release reflects preliminary estimates and remains subject to completion of the company\u2019s financial closing procedures and review by the company\u2019s independent",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "company",
+            "type": "other",
+            "attributes": {
+              "role": "issuer of the press release",
+              "note": "financial information is preliminary and subject to completion of financial closing procedures and review by the company's independent"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "preliminary financial estimates",
+          "financial closing procedures",
+          "independent review",
+          "press release disclaimer"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the financial information in the press release is preliminary and subject to completion of the company's financial closing procedures and independent review."
+      }
+    },
+    {
+      "chunk_id": "prose_d_276",
+      "text": "(10) Gain on investment in equity securities represents an adjustment to the carrying value of the non-marketable security without a readily determinable fair value to reflect observable price changes.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "investment in equity securities",
+            "type": "other",
+            "attributes": {
+              "description": "non-marketable security without a readily determinable fair value",
+              "accounting_treatment": "adjusted to carrying value to reflect observable price changes"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "gain on investment",
+          "equity securities",
+          "carrying value adjustment",
+          "observable price changes",
+          "non-marketable securities"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that gain on investment in equity securities is recognized as an adjustment to the carrying value of a non-marketable security without a readily determinable fair value, based on observable price changes."
+      }
+    },
+    {
+      "chunk_id": "prose_d_274",
+      "text": "(6) Transaction-related costs include non-recurring financial advisory, legal, and other transactional costs incurred in connection with investing or divesting activities recorded within general and administrative expense.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "non-recurring",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "transaction-related costs",
+          "financial advisory costs",
+          "legal costs",
+          "transactional costs",
+          "investing activities",
+          "divesting activities",
+          "general and administrative expense"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines transaction-related costs as non-recurring financial advisory, legal, and other transactional costs associated with investing or divesting activities, recorded in general and administrative expense."
+      }
+    },
+    {
+      "chunk_id": "prose_d_78",
+      "text": "Amortization of capitalized internal-use software. We exclude the amortization of capitalized internal-use software because we do not believe this non-cash expense has a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "capitalized internal-use software",
+            "type": "other",
+            "attributes": {
+              "context": "amortization is excluded as a non-cash expense"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "amortization",
+          "capitalized internal-use software",
+          "non-cash expense",
+          "business operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that amortization of capitalized internal-use software is excluded because it is considered a non-cash expense without a direct correlation to business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_273",
+      "text": "(5) Litigation contingencies and related professional services costs represent reserves for legal settlements and related professional service fees that are unusual or infrequent costs associated with our operating activities.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "reserves",
+            "type": "liabilities",
+            "currency": "USD",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "litigation contingencies",
+          "legal settlements",
+          "professional services fees",
+          "operating activities",
+          "unusual or infrequent costs"
+        ],
+        "sentiment": "negative",
+        "summary": "The section explains that litigation contingencies and related professional services costs are reserves for legal settlements and related fees associated with unusual or infrequent operating costs."
+      }
+    },
+    {
+      "chunk_id": "prose_d_268",
+      "text": "(1) Stock-based compensation represents the non-cash grant date fair value of stock-based instruments utilized to incentivize our employees, for which the expense is recognized over the applicable vesting or performance period.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "employees",
+            "type": "other",
+            "attributes": {
+              "role": "recipients of stock-based incentives"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "stock-based compensation",
+          "non-cash expense",
+          "grant date fair value",
+          "vesting period",
+          "performance period"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that stock-based compensation is a non-cash expense measured at grant date fair value and recognized over the relevant vesting or performance period."
+      }
+    },
+    {
+      "chunk_id": "prose_d_270",
+      "text": "* Net of $0.2\u00a0million and $3.2\u00a0million of additions to capitalized internal-use software for  three and twelve months ended December 31, 2025 and $1.6\u00a0million and $2.5\u00a0million for the  three and twelve months ended December 31, 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "0.2",
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended December 31, 2025"
+          },
+          {
+            "figure": "3.2",
+            "type": "other",
+            "currency": "USD",
+            "period": "twelve months ended December 31, 2025"
+          },
+          {
+            "figure": "1.6",
+            "type": "other",
+            "currency": "USD",
+            "period": "three months ended December 31, 2024"
+          },
+          {
+            "figure": "2.5",
+            "type": "other",
+            "currency": "USD",
+            "period": "twelve months ended December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "capitalized internal-use software",
+          "additions",
+          "period comparisons"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section reports additions to capitalized internal-use software for the three and twelve months ended December 31, 2025 and 2024, net of specified amounts."
+      }
+    },
+    {
+      "chunk_id": "prose_d_86",
+      "text": "Gain on investment in equity securities. We exclude gains related to the carrying value adjustments of non-marketable equity securities because we do not believe these non-cash gains have a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "gain on investment in equity securities",
+          "non-marketable equity securities",
+          "carrying value adjustments",
+          "non-cash gains",
+          "business operations correlation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that gains on investment in equity securities are discussed, but gains from carrying value adjustments of non-marketable equity securities are excluded because they are non-cash and not considered directly related to business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_131",
+      "text": "Series A redeemable convertible preferred stock, par value $0.00001 per share: 200,000 shares authorized as of December\u00a031, 2025 and December\u00a031, 2024, 150 shares issued and outstanding as of December\u00a031, 2025 and December\u00a031, 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Series A redeemable convertible preferred stock",
+            "type": "other",
+            "attributes": {
+              "par_value_per_share": "$0.00001",
+              "shares_authorized_as_of_2025-12-31": "200000",
+              "shares_authorized_as_of_2024-12-31": "200000",
+              "shares_issued_and_outstanding_as_of_2025-12-31": "150",
+              "shares_issued_and_outstanding_as_of_2024-12-31": "150"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "200000",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "150",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "0.00001",
+            "type": "other",
+            "currency": "USD",
+            "period": "per share"
+          }
+        ],
+        "key_topics": [
+          "preferred stock",
+          "authorized shares",
+          "issued and outstanding shares",
+          "redeemable convertible preferred stock",
+          "capital structure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes Series A redeemable convertible preferred stock, including its par value, authorized share count, and issued and outstanding shares as of December 31, 2025 and December 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_d_76",
+      "text": "Impairment of capitalized internal-use software. We exclude the impairment of capitalized internal-use software because we do not believe this non-cash expense has a direct correlation to the operation of our business and is non-recurring in nature.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "capitalized internal-use software",
+            "type": "other",
+            "attributes": {
+              "context": "Impairment is excluded from business operation analysis",
+              "nature": "non-cash expense",
+              "recurrence": "non-recurring"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "impairment",
+          "capitalized internal-use software",
+          "non-cash expense",
+          "non-recurring items",
+          "adjusted business operations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that impairment of capitalized internal-use software is excluded because it is a non-cash, non-recurring expense that is not considered directly related to business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_21",
+      "text": "GAAP diluted net loss from continuing operations attributable to common stockholders per share was $0.07 compared to a loss of $0.21 in 2024. Non-GAAP diluted net income from continuing operations attributable to common stockholders per share was $0.01 in 2025 compared to a loss of $0.10 in 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "common stockholders",
+            "type": "other",
+            "attributes": {
+              "context": "attributable to"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "0.07",
+            "type": "other",
+            "currency": "USD",
+            "period": "2025"
+          },
+          {
+            "figure": "0.21",
+            "type": "other",
+            "currency": "USD",
+            "period": "2024"
+          },
+          {
+            "figure": "0.01",
+            "type": "other",
+            "currency": "USD",
+            "period": "2025"
+          },
+          {
+            "figure": "0.10",
+            "type": "other",
+            "currency": "USD",
+            "period": "2024"
+          }
+        ],
+        "key_topics": [
+          "GAAP diluted net loss per share",
+          "Non-GAAP diluted net income per share",
+          "continuing operations",
+          "common stockholders"
+        ],
+        "sentiment": "negative",
+        "summary": "The section reports per-share results for continuing operations attributable to common stockholders, showing a GAAP diluted net loss of $0.07 in 2025 versus $0.21 in 2024, and a Non-GAAP diluted net income of $0.01 in 2025 versus a $0.10 loss in 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_d_272",
+      "text": "(4) Compensation realignment costs relate to amortization of one-time cash bonus payment (paid in two installments in March and May 2023) to certain employees in lieu of previously committed equity-based awards, driven by an organizational initiative to standardize our equity compensation program.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "certain employees",
+            "type": "other",
+            "attributes": {
+              "role": "recipients of one-time cash bonus payment"
+            }
+          },
+          {
+            "name": "organizational initiative",
+            "type": "other",
+            "attributes": {
+              "purpose": "standardize equity compensation program"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "one-time cash bonus payment",
+            "type": "expense",
+            "currency": "USD",
+            "period": "March and May 2023"
+          }
+        ],
+        "key_topics": [
+          "compensation realignment costs",
+          "amortization",
+          "cash bonus payment",
+          "equity-based awards",
+          "equity compensation program standardization"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that compensation realignment costs consist of amortization of a one-time cash bonus paid in two installments in March and May 2023 to certain employees instead of previously committed equity-based awards, as part of an initiative to standardize the equity compensation program."
+      }
+    },
+    {
+      "chunk_id": "prose_d_108",
+      "text": "It is important to note that the particular items we exclude from, or include in, our non-GAAP financial measures may differ from the items excluded from, or included in, similar non-GAAP financial measures used by other companies in the same industry. In addition, other companies may utilize metrics that are not similar to ours.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "our non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "description": "Company-specific non-GAAP metrics that may differ from those used by other companies"
+            }
+          },
+          {
+            "name": "other companies in the same industry",
+            "type": "other",
+            "attributes": {
+              "description": "Peer companies referenced for comparison of non-GAAP measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "comparability",
+          "industry peers",
+          "financial metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the company's non-GAAP financial measures may exclude or include different items than similar measures used by other companies, and that other companies may use different metrics altogether."
+      }
+    },
+    {
+      "chunk_id": "prose_d_41",
+      "text": "On Thursday, March\u00a010 at 4:30 pm ET, Blend will host a live discussion of its fourth quarter and full year 2025 financial results. A link to the live discussion will be made available on the Company\u2019s investor relations website at https://investor.blend.com. A replay will also be made available following the discussion at the same website.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend",
+            "type": "company",
+            "attributes": {
+              "event": "live discussion of fourth quarter and full year 2025 financial results",
+              "date": "Thursday, March 10",
+              "time": "4:30 pm ET",
+              "investor_relations_website": "https://investor.blend.com",
+              "replay_available": "yes"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings call",
+          "fourth quarter results",
+          "full year 2025 results",
+          "investor relations website",
+          "replay availability"
+        ],
+        "sentiment": "neutral",
+        "summary": "Blend announced a live discussion of its fourth quarter and full year 2025 financial results on Thursday, March 10 at 4:30 pm ET, with a webcast link and replay to be posted on its investor relations website."
+      }
+    },
+    {
+      "chunk_id": "prose_d_118",
+      "text": "Blend Labs, Inc., (NYSE: BLND) is a leading origination platform for digital banking solutions. Financial providers\u2014 from large banks, fintechs, and credit unions to community and independent mortgage banks\u2014use Blend\u2019s platform to transform banking experiences for their customers. Better banking starts on Blend. To learn more, visit blend.com.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend Labs, Inc.",
+            "type": "company",
+            "attributes": {
+              "ticker": "BLND",
+              "exchange": "NYSE",
+              "description": "leading origination platform for digital banking solutions"
+            }
+          },
+          {
+            "name": "financial providers",
+            "type": "other",
+            "attributes": {
+              "includes": "large banks, fintechs, credit unions, community and independent mortgage banks"
+            }
+          },
+          {
+            "name": "blend.com",
+            "type": "other",
+            "attributes": {
+              "type": "website"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "digital banking solutions",
+          "origination platform",
+          "mortgage banking",
+          "financial services technology",
+          "customer banking experience"
+        ],
+        "sentiment": "positive",
+        "summary": "Blend Labs, Inc. is presented as a leading digital banking origination platform used by a range of financial providers to improve customer banking experiences."
+      }
+    },
+    {
+      "chunk_id": "prose_d_82",
+      "text": "Gain on sale of insurance business. We exclude the gain on sale of our insurance business to a third party, which is comprised of the excess consideration received for the net assets transferred as part of the sale agreement. This gain is non-recurring in nature and we do not believe it has a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "insurance business",
+            "type": "other",
+            "attributes": {
+              "transaction": "sold to a third party",
+              "nature": "non-recurring gain excluded from operations"
+            }
+          },
+          {
+            "name": "third party",
+            "type": "other",
+            "attributes": {
+              "role": "buyer"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "excess consideration received for the net assets transferred",
+            "type": "other",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "gain on sale",
+          "insurance business divestiture",
+          "non-recurring items",
+          "adjusted earnings exclusion"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company excludes a non-recurring gain from the sale of its insurance business to a third party, stating that it does not directly relate to ongoing business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_17",
+      "text": "GAAP diluted net loss from continuing operations attributable to common stockholders per share was $0.03 compared to a loss of $0.03 in the fourth quarter of 2024. Non-GAAP diluted net income from continuing operations attributable to common stockholders per share was break-even ($0.00) in both the fourth quarter of 2025 and the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "common stockholders",
+            "type": "other",
+            "attributes": {
+              "role": "attributable party"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "-0.03",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2025"
+          },
+          {
+            "figure": "-0.03",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          },
+          {
+            "figure": "0.00",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2025"
+          },
+          {
+            "figure": "0.00",
+            "type": "other",
+            "currency": "USD",
+            "period": "same period last year"
+          }
+        ],
+        "key_topics": [
+          "GAAP diluted net loss per share",
+          "Non-GAAP diluted net income per share",
+          "continuing operations",
+          "common stockholders"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company reported GAAP diluted net loss per share of $0.03 in the fourth quarter of 2025, unchanged from the prior year, while Non-GAAP diluted net income per share was break-even at $0.00 in both periods."
+      }
+    },
+    {
+      "chunk_id": "prose_d_38",
+      "text": "We have not provided the forward-looking GAAP equivalent to our non-GAAP Operating Income outlook, or a GAAP reconciliation as a result of the uncertainty regarding, and the potential variability of, stock-based compensation, which is affected by our hiring and retention needs and future prices of our stock, and non-recurring, infrequent or unusual items.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP operating income outlook",
+          "GAAP reconciliation",
+          "stock-based compensation",
+          "hiring and retention needs",
+          "stock price variability",
+          "non-recurring items",
+          "infrequent items",
+          "unusual items"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states it did not provide a forward-looking GAAP equivalent or GAAP reconciliation for its non-GAAP Operating Income outlook due to uncertainty and variability in stock-based compensation and other non-recurring or unusual items."
+      }
+    },
+    {
+      "chunk_id": "prose_d_88",
+      "text": "Loss on extinguishment of debt . We exclude the write offs of unamortized debt issuance costs and debt discounts related to the extinguishment of our term loan and termination of the credit agreement from our non-GAAP financial measures. These costs are non-recurring in nature and we do not believe they have a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "term loan",
+            "type": "other",
+            "attributes": {
+              "context": "debt extinguishment"
+            }
+          },
+          {
+            "name": "credit agreement",
+            "type": "other",
+            "attributes": {
+              "context": "terminated"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "loss on extinguishment of debt",
+          "non-GAAP adjustments",
+          "write-offs",
+          "unamortized debt issuance costs",
+          "debt discounts",
+          "termination of credit agreement"
+        ],
+        "sentiment": "negative",
+        "summary": "The company excludes losses from extinguishing debt, including write-offs of unamortized debt issuance costs and debt discounts related to its term loan and terminated credit agreement, from non-GAAP measures because it views them as non-recurring and not directly tied to operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_72",
+      "text": "Litigation contingencies and related professional services costs. We exclude costs related to litigation contingencies, which represent reserves for legal settlements, as well as the related professional service fees incurred related to these matters. These costs are non-recurring in nature and we do not believe they have a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "litigation contingencies",
+          "legal settlements",
+          "professional service fees",
+          "non-recurring expenses",
+          "adjusted operating costs"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that litigation contingency costs and related professional service fees are excluded because they are non-recurring and not directly correlated with business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_80",
+      "text": "Executive transition costs. We exclude costs associated with transitions of executive officers as these costs relate to an infrequent strategic business decisions, are short-term in nature and are not reflective of our ongoing operations. Thus we believe that excluding these charges for purposes of calculating the non-GAAP financial measures provides more meaningful period to period comparisons.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "executive officers",
+            "type": "other",
+            "attributes": {
+              "role": "officers whose transition costs are excluded from non-GAAP measures"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "description": "financial measures adjusted to exclude executive transition costs"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "executive transition costs",
+          "non-GAAP adjustments",
+          "ongoing operations",
+          "period-to-period comparisons"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that executive transition costs are excluded from non-GAAP financial measures because they are infrequent, short-term, and not reflective of ongoing operations, making comparisons between periods more meaningful."
+      }
+    },
+    {
+      "chunk_id": "prose_d_132",
+      "text": "Class A, Class B and Class C Common Stock, par value $0.00001 per share: 3,000,000 (Class A 1,800,000, Class B 600,000, Class C 600,000) shares authorized  as of December\u00a031, 2025 and December\u00a031, 2024; 256,043 (Class A 252,787, Class B 3,256, Class C 0) and 258,173 (Class A 254,426, Class B 3,747, Class C 0) shares issued and outstanding as of December\u00a031, 2025 and December\u00a031, 2024, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Class A Common Stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.00001 per share",
+              "authorized_shares_as_of_2025_12_31": "1,800,000",
+              "authorized_shares_as_of_2024_12_31": "1,800,000",
+              "issued_and_outstanding_shares_as_of_2025_12_31": "252,787",
+              "issued_and_outstanding_shares_as_of_2024_12_31": "254,426"
+            }
+          },
+          {
+            "name": "Class B Common Stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.00001 per share",
+              "authorized_shares_as_of_2025_12_31": "600,000",
+              "authorized_shares_as_of_2024_12_31": "600,000",
+              "issued_and_outstanding_shares_as_of_2025_12_31": "3,256",
+              "issued_and_outstanding_shares_as_of_2024_12_31": "3,747"
+            }
+          },
+          {
+            "name": "Class C Common Stock",
+            "type": "other",
+            "attributes": {
+              "par_value": "$0.00001 per share",
+              "authorized_shares_as_of_2025_12_31": "600,000",
+              "authorized_shares_as_of_2024_12_31": "600,000",
+              "issued_and_outstanding_shares_as_of_2025_12_31": "0",
+              "issued_and_outstanding_shares_as_of_2024_12_31": "0"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "3000000",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "1800000",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "600000",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "600000",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025 and December 31, 2024"
+          },
+          {
+            "figure": "256043",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "252787",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "3256",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "0",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2025"
+          },
+          {
+            "figure": "258173",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2024"
+          },
+          {
+            "figure": "254426",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2024"
+          },
+          {
+            "figure": "3747",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2024"
+          },
+          {
+            "figure": "0",
+            "type": "other",
+            "currency": "other",
+            "period": "as of December 31, 2024"
+          }
+        ],
+        "key_topics": [
+          "common stock authorization",
+          "issued and outstanding shares",
+          "share classes",
+          "par value"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the company's Class A, Class B, and Class C common stock, including par value, authorized shares, and issued and outstanding shares as of December 31, 2025 and December 31, 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_d_62",
+      "text": "Abandoned and terminated facilities costs . In the third quarter of 2024, we abandoned our headquarters in San Francisco, California and early terminated our office lease in Omaha. We exclude costs related to abandoned and terminated leases as these costs related to a one-time strategic business decision, are non-recurring or short-term in nature and are not reflective of our ongoing operations. Thus we believe",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "San Francisco, California",
+            "type": "location",
+            "attributes": {
+              "role": "headquarters location abandoned in Q3 2024"
+            }
+          },
+          {
+            "name": "Omaha",
+            "type": "location",
+            "attributes": {
+              "role": "office lease early terminated in Q3 2024"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "abandoned facilities",
+          "terminated lease",
+          "non-recurring costs",
+          "strategic business decision",
+          "ongoing operations"
+        ],
+        "sentiment": "negative",
+        "summary": "The company states that in the third quarter of 2024 it abandoned its San Francisco headquarters and early terminated its Omaha office lease, and it excludes these related costs as one-time, non-recurring items not reflective of ongoing operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_102",
+      "text": "Our non-GAAP financial measures also include non-GAAP operating margin, which is defined as non-GAAP income (loss) from operations divided by total revenue. We believe that the presentation of non-GAAP operating margin provides useful information to investors as it is one of the metrics we use to assess our operating and financial performance, and also may be a useful metric for investors to compare our operating and financial results with other companies in our industry.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "non-GAAP operating margin",
+            "type": "other",
+            "attributes": {
+              "definition": "non-GAAP income (loss) from operations divided by total revenue",
+              "purpose": "used to assess operating and financial performance and compare results with other companies in the industry"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "non-GAAP operating margin",
+          "operating performance",
+          "financial performance",
+          "comparability"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines non-GAAP operating margin as non-GAAP income (loss) from operations divided by total revenue and explains that management believes it helps investors assess performance and compare results with peers."
+      }
+    },
+    {
+      "chunk_id": "prose_d_84",
+      "text": "Loss on transfer of subsidiary . We exclude loss on transfer of our subsidiary in India to a third party, which is primarily comprised of impairment charges related to certain assets transferred as part of the agreement, costs incurred to settle certain liabilities arising from the agreement, and one-time legal costs incurred to facilitate the transaction. These costs are non-recurring in nature and we do not believe they have a direct correlation to the operation of our business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "subsidiary in India",
+            "type": "other",
+            "attributes": {
+              "relationship": "subsidiary",
+              "location": "India",
+              "transaction": "transferred to a third party"
+            }
+          },
+          {
+            "name": "third party",
+            "type": "other",
+            "attributes": {
+              "role": "acquirer"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "loss on transfer of subsidiary",
+          "impairment charges",
+          "liability settlement costs",
+          "legal costs",
+          "non-recurring expenses",
+          "business operations exclusion"
+        ],
+        "sentiment": "negative",
+        "summary": "The company excluded a non-recurring loss related to transferring its India subsidiary to a third party, driven by impairment charges, liability settlement costs, and legal fees, because it is not considered directly related to ongoing business operations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_36",
+      "text": "Blend's first quarter 2026 guidance reflects certain assumptions and expectations related to U.S. aggregate industry mortgage originations. We view the mortgage market size based on the Home Mortgage Disclosure Act (\u201cHMDA\u201d). Our first quarter 2026 market size expectation is 1.10 million to 1.20 million units. For the second quarter of 2026 we expect a sequential volume increase, in line with normal seasonal patterns. Our current expectation for the second quarter of 2026 is 1.50 to 1.60 million units.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend",
+            "type": "company",
+            "attributes": {
+              "context": "Provides first quarter 2026 guidance"
+            }
+          },
+          {
+            "name": "Home Mortgage Disclosure Act (HMDA)",
+            "type": "other",
+            "attributes": {
+              "context": "Referenced as the basis for mortgage market size"
+            }
+          },
+          {
+            "name": "U.S. aggregate industry mortgage originations",
+            "type": "other",
+            "attributes": {
+              "context": "Market referenced in guidance assumptions"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "1.10-1.20 million",
+            "type": "other",
+            "currency": "other",
+            "period": "Q1 2026"
+          },
+          {
+            "figure": "1.50-1.60 million",
+            "type": "other",
+            "currency": "other",
+            "period": "Q2 2026"
+          }
+        ],
+        "key_topics": [
+          "mortgage originations",
+          "market size guidance",
+          "HMDA",
+          "seasonal volume increase",
+          "Q1 2026 outlook",
+          "Q2 2026 outlook"
+        ],
+        "sentiment": "neutral",
+        "summary": "Blend provided mortgage market size expectations for Q1 and Q2 2026, assuming U.S. aggregate industry mortgage originations based on HMDA data, with Q2 expected to increase sequentially in line with seasonal patterns."
+      }
+    },
+    {
+      "chunk_id": "prose_d_58",
+      "text": "Stock-based compensation. We exclude stock-based compensation, which is a non-cash expense, from our non-GAAP financial measures because we believe that excluding this cost provides meaningful supplemental information regarding operational performance. In particular, companies calculate stock-based compensation expense using a variety of valuation methodologies and subjective assumptions, and expense related to stock-based awards can vary significantly based on the timing, size and nature of awards granted.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "stock-based compensation",
+            "type": "other",
+            "attributes": {
+              "description": "Non-cash expense excluded from non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "description": "Financial measures from which stock-based compensation is excluded"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "stock-based compensation",
+          "non-GAAP financial measures",
+          "non-cash expense",
+          "operational performance",
+          "valuation methodologies",
+          "subjective assumptions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that stock-based compensation is excluded from non-GAAP financial measures because it is a non-cash expense and its calculation depends on varying valuation methods and subjective assumptions."
+      }
+    },
+    {
+      "chunk_id": "prose_d_19",
+      "text": "Full year revenue was $123.5 million, an increase of 7% compared to 2024. Software platform revenue was $114.4\u00a0million, up 7% year-over-year and Professional services revenue was $9.1 million compared to $8.8\u00a0million in 2024. Total GAAP gross profit margin was 74%, up from 72% in 2024, and non-GAAP gross profit margin was 77%, up from 73% in 2024. GAAP operating loss was $21.8 million, an improvement from a loss of $48.8 million in 2024. Non-GAAP operating income was $15.1 million, up from a loss of $12.8 million in 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Unknown",
+            "type": "other",
+            "attributes": {
+              "section_header": "Unknown"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 123.5,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": 114.4,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": 9.1,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": 74,
+            "type": "other",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": 77,
+            "type": "other",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": -21.8,
+            "type": "other",
+            "currency": "USD",
+            "period": "full year"
+          },
+          {
+            "figure": 15.1,
+            "type": "other",
+            "currency": "USD",
+            "period": "full year"
+          }
+        ],
+        "key_topics": [
+          "full year revenue growth",
+          "software platform revenue",
+          "professional services revenue",
+          "gross profit margin",
+          "GAAP operating loss",
+          "non-GAAP operating income"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported full-year revenue of $123.5 million, driven by growth in software platform and professional services revenue. Gross margins improved year over year, GAAP operating loss narrowed significantly, and non-GAAP operating income turned positive."
+      }
+    },
+    {
+      "chunk_id": "prose_d_60",
+      "text": "Workforce reduction costs . We exclude restructuring costs related to workforce reductions as these costs primarily include employee severance and other costs directly associated with resource realignments incurred in connection with changing strategies or business conditions. These costs can vary significantly in amount and frequency based on the nature of the actions as well as the changing needs of our business and we believe that excluding them provides easier comparability of pre- and post-restructuring operating results.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "workforce reductions",
+            "type": "other",
+            "attributes": {
+              "description": "Restructuring actions involving employee reductions and related resource realignments"
+            }
+          },
+          {
+            "name": "employee severance",
+            "type": "other",
+            "attributes": {
+              "description": "A primary component of restructuring costs related to workforce reductions"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "workforce reduction costs",
+          "restructuring costs",
+          "employee severance",
+          "resource realignments",
+          "comparability of operating results"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that restructuring costs tied to workforce reductions are excluded because they mainly consist of severance and other realignment costs that vary with business conditions, and excluding them improves comparability of operating results."
+      }
+    },
+    {
+      "chunk_id": "prose_d_74",
+      "text": "Transaction-related costs . We exclude costs related to strategic transactions from our non-GAAP financial measures as we do not consider these costs to be related to organic continuing operations of our business or relevant to assessing the long-term performance of the impact of such transactions. These adjustments allow for more accurate comparisons of the financial results to historical operations and forward looking guidance. These non-recurring costs include financial advisory, legal, and other transactional costs incurred in connection with investing or divesting activities.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "transaction-related costs",
+          "non-GAAP financial measures",
+          "strategic transactions",
+          "organic continuing operations",
+          "financial advisory costs",
+          "legal costs",
+          "investing and divesting activities"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that transaction-related costs tied to strategic transactions are excluded from non-GAAP financial measures because they are considered non-recurring and not reflective of organic continuing operations or long-term performance."
+      }
+    },
+    {
+      "chunk_id": "prose_d_70",
+      "text": "Compensation realignment costs . We exclude the compensation realignment costs incurred in connection with the change in our compensation strategy from our non-GAAP financial measures. These costs relate to amortization of one-time two-installment cash bonus payment made to certain employees in lieu of previously committed equity-based awards, driven by an organizational initiative to standardize our equity compensation program. We believe that excluding these charges for purposes of calculating the non-GAAP financial measures provides more meaningful period to period comparisons.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "our company",
+            "type": "company",
+            "attributes": {
+              "context": "issuer discussing non-GAAP adjustments",
+              "topic": "compensation realignment costs"
+            }
+          },
+          {
+            "name": "certain employees",
+            "type": "other",
+            "attributes": {
+              "context": "received one-time two-installment cash bonus payments in lieu of equity-based awards"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP adjustments",
+          "compensation realignment costs",
+          "cash bonus payments",
+          "equity-based awards",
+          "compensation strategy change",
+          "organizational initiative"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that compensation realignment costs are excluded from non-GAAP financial measures because they relate to one-time cash bonus payments made to certain employees instead of previously committed equity-based awards, and excluding them is intended to improve period-to-period comparability."
+      }
+    },
+    {
+      "chunk_id": "prose_d_9",
+      "text": "\"I am pleased to report that Blend finished fiscal year 2025 with a strong fourth quarter, coming in near the high end of our revenue guidance and beating the high end of our non-GAAP operating income guidance,\" said Nima Ghamsari, Co-founder and Head of Blend. \"What excites me most going into 2026 is not just our growing roster of customers \u2014 it's what we're now able to offer them. Blend Autopilot, our new AI agent, is already live with large customers and is attacking the $11,000 cost-to-originate head-on. We have built a profitable, scalable platform, and now we have the tools to fundamentally rewire how our customers operate.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend",
+            "type": "company",
+            "attributes": {
+              "fiscal_year": "2025",
+              "product": "Blend Autopilot",
+              "description": "profitable, scalable platform"
+            }
+          },
+          {
+            "name": "Nima Ghamsari",
+            "type": "person",
+            "attributes": {
+              "role": "Co-founder and Head of Blend"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "11000",
+            "type": "expense",
+            "currency": "USD",
+            "period": "ongoing cost-to-originate"
+          }
+        ],
+        "key_topics": [
+          "fiscal year 2025 results",
+          "fourth quarter performance",
+          "revenue guidance",
+          "non-GAAP operating income guidance",
+          "AI agent",
+          "customer growth",
+          "cost reduction",
+          "profitability",
+          "scalable platform"
+        ],
+        "sentiment": "positive",
+        "summary": "Blend reported a strong fourth quarter and fiscal 2025 performance, finishing near the high end of revenue guidance and above the high end of non-GAAP operating income guidance. The company highlighted its new AI agent, Blend Autopilot, which is live with large customers and aimed at reducing the $11,000 cost-to-originate, while emphasizing its profitable and scalable platform heading into 2026."
+      }
+    },
+    {
+      "chunk_id": "prose_d_15",
+      "text": "Fourth quarter revenue was $32.4 million, an increase of 7% compared to the fourth quarter of 2024. Software platform revenue was $30.3\u00a0million, up 10% year-over-year, and Professional services revenue was $2.1\u00a0million compared to $2.5\u00a0million in the fourth quarter of 2024. Total GAAP gross profit margin was 76%, up from 74% in the fourth quarter of 2024, and non-GAAP gross profit margin was 80%, up from 75% in the same period last year. GAAP operating loss was $3.6 million, compared to a loss of $3.3 million in the fourth quarter of 2024. Non-GAAP operating income was $5.4 million, up from $3.7 million in the same period last year.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Unknown",
+            "type": "other",
+            "attributes": {
+              "section_header": "Unknown"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 32.4,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": 30.3,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": 2.1,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": 76,
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": 80,
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": -3.6,
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          },
+          {
+            "figure": 5.4,
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter"
+          }
+        ],
+        "key_topics": [
+          "quarterly revenue growth",
+          "software platform revenue",
+          "professional services revenue",
+          "gross margin",
+          "operating loss",
+          "non-GAAP operating income"
+        ],
+        "sentiment": "positive",
+        "summary": "The company reported fourth quarter revenue of $32.4 million, driven by growth in software platform revenue, while professional services revenue declined. Gross margins improved year over year, GAAP operating loss widened slightly, and non-GAAP operating income increased."
+      }
+    },
+    {
+      "chunk_id": "prose_d_110",
+      "text": "The non-GAAP financial information is presented for supplemental informational purposes only and is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. There are material limitations associated with the use of non-GAAP financial measures since they exclude significant expenses and income that are required by GAAP to be recorded in our financial statements. Please see the reconciliation tables at the end of this release for the reconciliation of GAAP and non-GAAP results. Management encourages investors and others to review Blend\u2019s financial information in its entirety and not rely on a single financial measure.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Blend",
+            "type": "company",
+            "attributes": {
+              "context": "Referenced as the company whose financial information is being discussed",
+              "topic": "non-GAAP financial measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "financial reporting limitations",
+          "investor disclosure"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Blend's non-GAAP financial information is provided only as supplemental disclosure, has limitations, and should be reviewed alongside GAAP results and reconciliation tables."
+      }
+    },
+    {
+      "chunk_id": "prose_d_98",
+      "text": "Changes in non-GAAP EPS metric. We have historically reported non-GAAP basic (consolidated) net loss per share as our earnings per share metric, as we believed the metric was most appropriate in light of our ongoing net losses. As our business has evolved and we\u2019ve been able to achieve non-GAAP net income in recent periods, we no longer view non-GAAP basic (consolidated) net loss per share as useful or appropriate to understanding our earnings per share metric. Therefore, we no longer use, and we will not disclose, basic (consolidated) net loss per share. Instead, we will disclose non-GAAP diluted net income (loss) per share attributable to common stockholders. The historical periods presented herein have been recast to the updated metric for purposes of comparability.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "we",
+            "type": "company",
+            "attributes": {
+              "role": "reporting entity",
+              "note": "The company is not named in the excerpt."
+            }
+          },
+          {
+            "name": "common stockholders",
+            "type": "other",
+            "attributes": {
+              "role": "shareholders receiving diluted net income (loss) per share attribution"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP EPS metric change",
+          "basic net loss per share discontinued",
+          "diluted net income (loss) per share",
+          "comparability of historical periods",
+          "financial reporting methodology"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company states it is changing its non-GAAP earnings per share metric from basic consolidated net loss per share to diluted net income (loss) per share attributable to common stockholders, reflecting improved profitability and recasting historical periods for comparability."
+      }
+    },
+    {
+      "chunk_id": "prose_d_104",
+      "text": "In addition, our non-GAAP financial measures include the following measures related to our liquidity: free cash flow, unlevered free cash flow and free cash flow margin. Free cash flow is defined as net cash flow from operating activities less cash spent on additions to property, equipment, internal-use software and intangible assets. Unlevered free cash flow is defined as free cash flow before cash paid for interest on our outstanding debt. Free cash flow margin is defined as free cash flow divided by total revenue. We believe information regarding free cash flow and free cash flow margin provides useful information to investors as a basis for comparing our performance with other companies in our industry and as a measurement of the cash generation that is available to invest in our business and meet our financing needs. We present unlevered free cash flow primarily for historical comparisons. In April 2024, we repaid in full all amounts outstanding and payable under our debt obligations and therefore eliminated any debt service obligations.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "our company",
+            "type": "company",
+            "attributes": {
+              "non_gaap_measures": "free cash flow, unlevered free cash flow, free cash flow margin",
+              "debt_status_april_2024": "repaid in full all amounts outstanding and payable under debt obligations",
+              "debt_service_obligations": "eliminated"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP liquidity measures",
+          "free cash flow",
+          "unlevered free cash flow",
+          "free cash flow margin",
+          "debt repayment",
+          "liquidity"
+        ],
+        "sentiment": "positive",
+        "summary": "The section defines the company\u2019s non-GAAP liquidity measures\u2014free cash flow, unlevered free cash flow, and free cash flow margin\u2014and explains their usefulness for comparing performance and assessing cash generation. It also notes that in April 2024 the company repaid all outstanding debt, eliminating debt service obligations."
+      }
+    },
+    {
+      "chunk_id": "prose_d_54",
+      "text": "In addition to financial measures prepared in accordance with GAAP, this press release and the accompanying tables contain, and the conference call will contain, non-GAAP financial measures, including non-GAAP gross profit and non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income (loss) from operations, non-GAAP operating margin, non-GAAP net income (loss) from continuing operations, and non-GAAP diluted net income (loss) per share from continuing operations attributable to common stockholders. Our management uses these non-GAAP financial measures internally in analyzing our financial results and believes they are useful to investors, as a supplement to the corresponding GAAP financial measures, in evaluating our ongoing operational performance and trends, in allowing for greater transparency with respect to measures used by our management in their financial and operational decision making, and in comparing our results of operations with other companies in the same industry, many of which present similar non-GAAP financial measures to help investors understand the operational performance of their businesses.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "management",
+            "type": "other",
+            "attributes": {
+              "role": "uses non-GAAP financial measures internally to analyze financial results"
+            }
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {
+              "role": "intended audience for supplemental non-GAAP measures"
+            }
+          },
+          {
+            "name": "common stockholders",
+            "type": "other",
+            "attributes": {
+              "role": "attributable holders for diluted net income (loss) per share from continuing operations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "gross profit and gross margin",
+          "operating expenses",
+          "income from operations",
+          "operating margin",
+          "net income from continuing operations",
+          "diluted net income per share",
+          "financial performance analysis",
+          "GAAP reconciliation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the company presents several non-GAAP financial measures alongside GAAP results and uses them internally to evaluate performance, improve transparency, and help investors compare operating trends."
+      }
+    },
+    {
+      "chunk_id": "prose_d_100",
+      "text": "Economic Value per Funded Loan . In our Mortgage Suite, Economic Value per Funded Loan represents the contractual rates for mortgage and mortgage-related products multiplied by the number of loans funded or transactions completed, as applicable, by a customer in the specified period (economic value), divided by the total number of loans funded by all Mortgage Suite customers in that same period. Economic value per funded loan is segregated into three categories: 1) core software, 2) add-on products and 3) partnerships. Core software consists of economic value generated through Mortgage and Blend Close. Add-on products transitioning to partnership models consists of economic value generated through Blend Income Verification and Blend Insurance Agency, prior to their transition to partnership models. Partnerships consists of economic value generated from partners through our integrated marketplace. The value derived from products associated with the mortgage application stage is aligned with the timing of funding the related loan (typically a 1-3 month delay from the time of application). Additionally, the value that is associated with fixed platform fees is recognized as revenue ratably over the contractual period, which naturally creates peaks and troughs that align with quarters of low and high mortgage loans funded. We use Economic Value per Funded Loan to measure our success at broadening the client relationships from the underlying mortgage transactions and selling additional products through our software platform.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Mortgage Suite",
+            "type": "other",
+            "attributes": {
+              "description": "Product suite used to measure Economic Value per Funded Loan"
+            }
+          },
+          {
+            "name": "Mortgage",
+            "type": "other",
+            "attributes": {
+              "description": "Core software product generating economic value"
+            }
+          },
+          {
+            "name": "Blend Close",
+            "type": "other",
+            "attributes": {
+              "description": "Core software product generating economic value"
+            }
+          },
+          {
+            "name": "Blend Income Verification",
+            "type": "other",
+            "attributes": {
+              "description": "Add-on product transitioning to partnership model"
+            }
+          },
+          {
+            "name": "Blend Insurance Agency",
+            "type": "other",
+            "attributes": {
+              "description": "Add-on product transitioning to partnership model"
+            }
+          },
+          {
+            "name": "integrated marketplace",
+            "type": "other",
+            "attributes": {
+              "description": "Marketplace through which partnership-generated economic value is derived"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "1-3",
+            "type": "other",
+            "currency": "other",
+            "period": "months"
+          }
+        ],
+        "key_topics": [
+          "Economic Value per Funded Loan",
+          "mortgage software metrics",
+          "core software",
+          "add-on products",
+          "partnerships",
+          "revenue recognition timing",
+          "funded loans",
+          "client relationships"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section defines Economic Value per Funded Loan for the Mortgage Suite, explains how it is calculated, and breaks it into core software, add-on products, and partnerships. It also describes timing differences in revenue recognition and how the metric is used to assess customer expansion and product sales."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\BLND_2025_Q4.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "filing_id": "VRM_2024_Q3",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_9",
+      "headers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "": "Voting\u00a0Rights"
+        },
+        {
+          "": "Presumed to Accept"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Presumed to Accept"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Entitled to Vote"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Presumed to Accept"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Presumed to Accept"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Presumed to Accept"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Entitled to Vote"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Entitled to Vote"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    },
+    {
+      "table_id": "table_14",
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "": "Respectfully submitted,/s/ DRAFTPORTER\nHEDGES LLPJohn F. Higgins (TX Bar No. 09597500)Eric M.\nEnglish (TX Bar No. 24062714)M. Shane Johnson (TX Bar No. 24083263)James A. Keefe (TX Bar No. 24122842)Jordan T. Stevens (TX Bar\nNo. 24106467)Grecia V. Sarda (TX Bar No. 24132092)1000 Main\nSt., 36th FloorHouston, Texas 77002Telephone: (713)\n226-6000Facsimile: (713) 226-6248Email:\u2002\u2009\u200ajhiggins@porterhedges.comeenglish@porterhedges.comsjohnson@porterhedges.comjkeefe@porterhedges.comjstevens@porterhedges.comgsarda@porterhedges.comProposed Counsel to the Debtor and Debtor in Possession"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": null
+    }
+  ],
+  "prose_chunks": [],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\VRM_2024_Q3.html",
+    "validation": {
+      "overall_confidence": 0.5,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.0,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

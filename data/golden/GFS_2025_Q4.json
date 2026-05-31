@@ -1,0 +1,30 @@
+{
+  "filing_id": "GFS_2025_Q4",
+  "ticker": "GFS",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "GLOBALFOUNDRIES Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 1830,
+      "required": true
+    },
+    "net_income": {
+      "value": 200,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": 0.36,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 10,
+  "tags": [
+    "non_ifrs",
+    "segment_tables"
+  ]
+}

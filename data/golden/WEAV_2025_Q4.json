@@ -1,0 +1,29 @@
+{
+  "filing_id": "WEAV_2025_Q4",
+  "ticker": "WEAV",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Weave Communications, Inc.",
+  "currency": "USD",
+  "value_scale": "millions",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 63.4,
+      "required": true
+    },
+    "net_income": {
+      "value": -1.8,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": -0.02,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 6,
+  "tags": [
+    "prose_and_tables"
+  ]
+}

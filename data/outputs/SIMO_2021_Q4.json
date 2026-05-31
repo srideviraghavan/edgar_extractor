@@ -1,0 +1,2215 @@
+{
+  "filing_id": "SIMO_2021_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "1Q\u00a02025 GAAP",
+        "1Q\u00a02025 Non-GAAP*"
+      ],
+      "rows": [
+        {
+          "": "Net sales",
+          "1Q\u00a02025 GAAP": "$166.5\u00a0million\u00a0(-13%\u00a0Q/Q,\u00a0-12%\u00a0Y/Y)",
+          "1Q\u00a02025 Non-GAAP*": "$166.5\u00a0million\u00a0(-13% Q/Q,-12%\u00a0Y/Y)"
+        },
+        {
+          "": "Gross margin",
+          "1Q\u00a02025 GAAP": "47.1\u00a0%",
+          "1Q\u00a02025 Non-GAAP*": "47.1\u00a0%"
+        },
+        {
+          "": "Operating margin",
+          "1Q\u00a02025 GAAP": "5.9\u00a0%",
+          "1Q\u00a02025 Non-GAAP*": "8.9\u00a0%"
+        },
+        {
+          "": "Earnings per diluted ADS",
+          "1Q\u00a02025 GAAP": "$0.58",
+          "1Q\u00a02025 Non-GAAP*": "$0.60"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "GAAP",
+        "Non-GAAP",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "1Q\u00a02025",
+          "GAAP": "4Q\u00a02024",
+          "Non-GAAP": "1Q\u00a02024",
+          "col_3": "1Q\u00a02025",
+          "col_4": "4Q\u00a02024",
+          "col_5": "1Q\u00a02024"
+        },
+        {
+          "": "Revenue",
+          "GAAP": "$166.5",
+          "Non-GAAP": "$191.2",
+          "col_3": "$189.3",
+          "col_4": "$166.5",
+          "col_5": "$191.2",
+          "col_6": "$189.3"
+        },
+        {
+          "": "Gross\u00a0profitPercent\u00a0of\u00a0revenue",
+          "GAAP": "$78.447.1%",
+          "Non-GAAP": "$87.645.8%",
+          "col_3": "$85.145.0%",
+          "col_4": "$78.447.1%",
+          "col_5": "$87.946.0%",
+          "col_6": "$85.245.0%"
+        },
+        {
+          "": "Operating\u00a0expenses",
+          "GAAP": "$68.6",
+          "Non-GAAP": "$69.9",
+          "col_3": "$67.2",
+          "col_4": "$63.6",
+          "col_5": "$58.3",
+          "col_6": "$62.5"
+        },
+        {
+          "": "Operating\u00a0profitPercent\u00a0of\u00a0revenue",
+          "GAAP": "$9.85.9%",
+          "Non-GAAP": "$17.79.3%",
+          "col_3": "$18.09.5%",
+          "col_4": "$14.98.9%",
+          "col_5": "$29.615.5%",
+          "col_6": "$22.612.0%"
+        },
+        {
+          "": "Earnings\u00a0per\u00a0diluted\u00a0ADS",
+          "GAAP": "$0.58",
+          "Non-GAAP": "$0.64",
+          "col_3": "$0.48",
+          "col_4": "$0.60",
+          "col_5": "$0.87",
+          "col_6": "$0.64"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "1Q\u00a02025",
+        "4Q\u00a02024",
+        "1Q\u00a02024"
+      ],
+      "rows": [
+        {
+          "": "Cash,\u00a0cash\u00a0equivalents,\u00a0and\u00a0restricted\u00a0cash\u2014end\u00a0of\u00a0period",
+          "1Q\u00a02025": "$331.7",
+          "4Q\u00a02024": "$334.3",
+          "1Q\u00a02024": "$349.3"
+        },
+        {
+          "": "Dividend\u00a0payments",
+          "1Q\u00a02025": "$7.0",
+          "4Q\u00a02024": "$7.3",
+          "1Q\u00a02024": "$5.0"
+        },
+        {
+          "": "Dividend\u00a0payments",
+          "1Q\u00a02025": "$17.0",
+          "4Q\u00a02024": "$16.8",
+          "1Q\u00a02024": "$16.8"
+        },
+        {
+          "": "Share\u00a0repurchases",
+          "1Q\u00a02025": "$24.3",
+          "4Q\u00a02024": "--",
+          "1Q\u00a02024": "--"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "GAAP",
+        "Non-GAAP\u00a0Adjustment",
+        "Non-GAAP"
+      ],
+      "rows": [
+        {
+          "": "Revenue",
+          "GAAP": "$175\u00a0to\u00a0$183+5%\u00a0to\u00a010%\u00a0Q/Q",
+          "Non-GAAP\u00a0Adjustment": "--",
+          "Non-GAAP": "$175 to\u00a0$183+5%\u00a0to\u00a010%\u00a0Q/Q"
+        },
+        {
+          "": "Gross\u00a0margin",
+          "GAAP": "47.0%\u00a0to\u00a048.0%",
+          "Non-GAAP\u00a0Adjustment": "Approximately $0.1*",
+          "Non-GAAP": "47.0%\u00a0to\u00a048.0%"
+        },
+        {
+          "": "Operating\u00a0margin",
+          "GAAP": "6.6%\u00a0to\u00a09.2%",
+          "Non-GAAP\u00a0Adjustment": "Approximately\u00a0$3.1 to\u00a0$4.1**",
+          "Non-GAAP": "8.9%\u00a0to\u00a010.9%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "For Three Months Ended",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5"
+      ],
+      "rows": [
+        {
+          "": "",
+          "For Three Months Ended": "Mar. 31,\n2024\n($)",
+          "col_2": "",
+          "col_3": "Dec. 31,\n2024\n($)",
+          "col_4": "",
+          "col_5": "Mar. 31,\n2025\n($)"
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": ""
+        },
+        {
+          "": "Net\u00a0Sales",
+          "For Three Months Ended": "189,311",
+          "col_2": "",
+          "col_3": "191,160",
+          "col_4": "",
+          "col_5": "166,492"
+        },
+        {
+          "": "Cost\u00a0of\u00a0sales",
+          "For Three Months Ended": "104,191",
+          "col_2": "",
+          "col_3": "103,560",
+          "col_4": "",
+          "col_5": "88,125"
+        },
+        {
+          "": "Gross profitOperating expensesResearch\u00a0& development",
+          "For Three Months Ended": "85,12054,392",
+          "col_2": "",
+          "col_3": "87,60054,156",
+          "col_4": "",
+          "col_5": "78,36755,026"
+        },
+        {
+          "": "Sales\u00a0&\u00a0marketing",
+          "For Three Months Ended": "6,304",
+          "col_2": "",
+          "col_3": "7,360",
+          "col_4": "",
+          "col_5": "7,115"
+        },
+        {
+          "": "General\u00a0&\u00a0administrative",
+          "For Three Months Ended": "6,474",
+          "col_2": "",
+          "col_3": "8,350",
+          "col_4": "",
+          "col_5": "6,460"
+        },
+        {
+          "": "Operating incomeNon-operating income (expense)Interest income, net",
+          "For Three Months Ended": "17,9503,066",
+          "col_2": "",
+          "col_3": "17,7343,768",
+          "col_4": "",
+          "col_5": "9,7662,929"
+        },
+        {
+          "": "Foreign\u00a0exchange\u00a0gain, net",
+          "For Three Months Ended": "588",
+          "col_2": "",
+          "col_3": "1,046",
+          "col_4": "",
+          "col_5": "373"
+        },
+        {
+          "": "Realized/Unrealized gain(loss)\u00a0on\u00a0investments",
+          "For Three Months Ended": "(1,608)",
+          "col_2": "",
+          "col_3": "956",
+          "col_4": "",
+          "col_5": "3,296"
+        },
+        {
+          "": "Subtotal",
+          "For Three Months Ended": "2,046",
+          "col_2": "",
+          "col_3": "5,770",
+          "col_4": "",
+          "col_5": "6,598"
+        },
+        {
+          "": "Income\u00a0before income\u00a0tax",
+          "For Three Months Ended": "19,996",
+          "col_2": "",
+          "col_3": "23,504",
+          "col_4": "",
+          "col_5": "16,364"
+        },
+        {
+          "": "Income\u00a0tax\u00a0expense\u00a0(benefit)",
+          "For Three Months Ended": "3,980",
+          "col_2": "",
+          "col_3": "1,935",
+          "col_4": "",
+          "col_5": "(3,099)"
+        },
+        {
+          "": "Net\u00a0income",
+          "For Three Months Ended": "16,016",
+          "col_2": "",
+          "col_3": "21,569",
+          "col_4": "",
+          "col_5": "19,463"
+        },
+        {
+          "": "Earnings\u00a0per\u00a0basic\u00a0ADS",
+          "For Three Months Ended": "0.48",
+          "col_2": "",
+          "col_3": "0.64",
+          "col_4": "",
+          "col_5": "0.58"
+        },
+        {
+          "": "Earnings\u00a0per\u00a0diluted\u00a0ADS",
+          "For Three Months Ended": "0.48",
+          "col_2": "",
+          "col_3": "0.64",
+          "col_4": "",
+          "col_5": "0.58"
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": ""
+        },
+        {
+          "": "Margin\u00a0Analysis:Gross\u00a0margin",
+          "For Three Months Ended": "45.0\u00a0%",
+          "col_2": "",
+          "col_3": "45.8\u00a0%",
+          "col_4": "",
+          "col_5": "47.1\u00a0%"
+        },
+        {
+          "": "Operating\u00a0margin",
+          "For Three Months Ended": "9.5\u00a0%",
+          "col_2": "",
+          "col_3": "9.3\u00a0%",
+          "col_4": "",
+          "col_5": "5.9\u00a0%"
+        },
+        {
+          "": "Net\u00a0margin",
+          "For Three Months Ended": "8.5\u00a0%",
+          "col_2": "",
+          "col_3": "11.3\u00a0%",
+          "col_4": "",
+          "col_5": "11.7\u00a0%"
+        },
+        {
+          "": "Additional\u00a0Data:Weighted\u00a0avg.\u00a0ADS\u00a0equivalents",
+          "For Three Months Ended": "33,508",
+          "col_2": "",
+          "col_3": "33,690",
+          "col_4": "",
+          "col_5": "33,634"
+        },
+        {
+          "": "Diluted\u00a0ADS\u00a0equivalents",
+          "For Three Months Ended": "33,701",
+          "col_2": "",
+          "col_3": "33,814",
+          "col_4": "",
+          "col_5": "33,827"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "For Three Months Ended",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "",
+          "For Three Months Ended": "Mar. 31,\n2024\n($)",
+          "col_2": "Dec. 31,\n2024\n($)",
+          "col_3": "Mar. 31,\n2025\n($)"
+        },
+        {
+          "": ""
+        },
+        {
+          "": "Gross\u00a0profit (GAAP)",
+          "For Three Months Ended": "85,120",
+          "col_2": "",
+          "col_3": "87,600",
+          "col_4": "",
+          "col_5": "78,367",
+          "col_6": ""
+        },
+        {
+          "": "Gross\u00a0margin\u00a0(GAAP)",
+          "For Three Months Ended": "45.0\u00a0%",
+          "col_2": "",
+          "col_3": "45.8\u00a0%",
+          "col_4": "",
+          "col_5": "47.1\u00a0%",
+          "col_6": ""
+        },
+        {
+          "": "Stock-based compensation (A)",
+          "For Three Months Ended": "72",
+          "col_2": "",
+          "col_3": "162",
+          "col_4": "",
+          "col_5": "73",
+          "col_6": ""
+        },
+        {
+          "": "Restructuring charges",
+          "For Three Months Ended": "-",
+          "col_2": "",
+          "col_3": "164",
+          "col_4": "",
+          "col_5": "-",
+          "col_6": ""
+        },
+        {
+          "": "Gross\u00a0profit\u00a0(non-GAAP)",
+          "For Three Months Ended": "85,192",
+          "col_2": "",
+          "col_3": "87,926",
+          "col_4": "",
+          "col_5": "78,440",
+          "col_6": ""
+        },
+        {
+          "": "Gross\u00a0margin\u00a0(non-GAAP)",
+          "For Three Months Ended": "45.0\u00a0%",
+          "col_2": "",
+          "col_3": "46.0\u00a0%",
+          "col_4": "",
+          "col_5": "47.1\u00a0%",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0expenses\u00a0(GAAP)",
+          "For Three Months Ended": "67,170",
+          "col_2": "",
+          "col_3": "69,866",
+          "col_4": "",
+          "col_5": "68,601",
+          "col_6": ""
+        },
+        {
+          "": "Stock-based compensation (A)",
+          "For Three Months Ended": "(3,093)",
+          "col_2": "",
+          "col_3": "(9,585)",
+          "col_4": "",
+          "col_5": "(4,738)",
+          "col_6": ""
+        },
+        {
+          "": "Dispute\u00a0related\u00a0expenses",
+          "For Three Months Ended": "(1,532)",
+          "col_2": "",
+          "col_3": "(1,999)",
+          "col_4": "",
+          "col_5": "(277)",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0expenses\u00a0(non-GAAP)",
+          "For Three Months Ended": "62,545",
+          "col_2": "",
+          "col_3": "58,282",
+          "col_4": "",
+          "col_5": "63,586",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0profit (GAAP)",
+          "For Three Months Ended": "17,950",
+          "col_2": "",
+          "col_3": "17,734",
+          "col_4": "",
+          "col_5": "9,766",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0margin\u00a0(GAAP)",
+          "For Three Months Ended": "9.5\u00a0%",
+          "col_2": "",
+          "col_3": "9.3\u00a0%",
+          "col_4": "",
+          "col_5": "5.9\u00a0%",
+          "col_6": ""
+        },
+        {
+          "": "Total adjustments to operating profit",
+          "For Three Months Ended": "4,697",
+          "col_2": "",
+          "col_3": "11,910",
+          "col_4": "",
+          "col_5": "5,088",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0profit\u00a0(non-GAAP)",
+          "For Three Months Ended": "22,647",
+          "col_2": "",
+          "col_3": "29,644",
+          "col_4": "",
+          "col_5": "14,854",
+          "col_6": ""
+        },
+        {
+          "": "Operating\u00a0margin\u00a0(non-GAAP)",
+          "For Three Months Ended": "12.0\u00a0%",
+          "col_2": "",
+          "col_3": "15.5\u00a0%",
+          "col_4": "",
+          "col_5": "8.9\u00a0%",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Non-operating\u00a0income (expense)\u00a0(GAAP)",
+          "For Three Months Ended": "2,046",
+          "col_2": "",
+          "col_3": "5,770",
+          "col_4": "",
+          "col_5": "6,598",
+          "col_6": ""
+        },
+        {
+          "": "Foreign\u00a0exchange\u00a0loss (gain),\u00a0net",
+          "For Three Months Ended": "(588)",
+          "col_2": "",
+          "col_3": "(1,046)",
+          "col_4": "",
+          "col_5": "(373)",
+          "col_6": ""
+        },
+        {
+          "": "Realized/Unrealized\u00a0loss\u00a0(gain) on\u00a0investments",
+          "For Three Months Ended": "1,608",
+          "col_2": "",
+          "col_3": "(956)",
+          "col_4": "",
+          "col_5": "(3,296)",
+          "col_6": ""
+        },
+        {
+          "": "Non-operating\u00a0income\u00a0(expense)\u00a0(non-GAAP)",
+          "For Three Months Ended": "3,066",
+          "col_2": "",
+          "col_3": "3,768",
+          "col_4": "",
+          "col_5": "2,929",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0income (GAAP)",
+          "For Three Months Ended": "16,016",
+          "col_2": "",
+          "col_3": "21,569",
+          "col_4": "",
+          "col_5": "19,463",
+          "col_6": ""
+        },
+        {
+          "": "Total\u00a0pre-tax\u00a0impact of\u00a0non-GAAP\u00a0adjustments",
+          "For Three Months Ended": "5,717",
+          "col_2": "",
+          "col_3": "9,908",
+          "col_4": "",
+          "col_5": "1,419",
+          "col_6": ""
+        },
+        {
+          "": "Income\u00a0tax\u00a0impact of\u00a0non-GAAP\u00a0adjustments",
+          "For Three Months Ended": "(147)",
+          "col_2": "",
+          "col_3": "(2,049)",
+          "col_4": "",
+          "col_5": "(610)",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0income\u00a0(non-GAAP)",
+          "For Three Months Ended": "21,586",
+          "col_2": "",
+          "col_3": "29,428",
+          "col_4": "",
+          "col_5": "20,272",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Earnings\u00a0per\u00a0diluted\u00a0ADS\u00a0(GAAP)",
+          "For Three Months Ended": "$0.48",
+          "col_2": "",
+          "col_3": "$0.64",
+          "col_4": "",
+          "col_5": "$0.58",
+          "col_6": ""
+        },
+        {
+          "": "Earnings\u00a0per\u00a0diluted\u00a0ADS\u00a0(non-GAAP)",
+          "For Three Months Ended": "$0.64",
+          "col_2": "",
+          "col_3": "$0.87",
+          "col_4": "",
+          "col_5": "$0.60",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "Shares\u00a0used in\u00a0computing\u00a0earnings\u00a0per\u00a0diluted\u00a0ADS\u00a0(GAAP)",
+          "For Three Months Ended": "33,701",
+          "col_2": "",
+          "col_3": "33,814",
+          "col_4": "",
+          "col_5": "33,827",
+          "col_6": ""
+        },
+        {
+          "": "Non-GAAP\u00a0adjustments",
+          "For Three Months Ended": "26",
+          "col_2": "",
+          "col_3": "181",
+          "col_4": "",
+          "col_5": "20",
+          "col_6": ""
+        },
+        {
+          "": "Shares\u00a0used\u00a0in\u00a0computing\u00a0earnings\u00a0per\u00a0diluted\u00a0ADS\u00a0(non-GAAP)",
+          "For Three Months Ended": "33,727",
+          "col_2": "",
+          "col_3": "33,995",
+          "col_4": "",
+          "col_5": "33,847",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        },
+        {
+          "": "(A)Excludes\u00a0stock-based\u00a0compensation\u00a0as\u00a0follows:Cost\u00a0of\u00a0sales",
+          "For Three Months Ended": "72",
+          "col_2": "",
+          "col_3": "162",
+          "col_4": "",
+          "col_5": "73",
+          "col_6": ""
+        },
+        {
+          "": "Research\u00a0&\u00a0development",
+          "For Three Months Ended": "2,143",
+          "col_2": "",
+          "col_3": "6,670",
+          "col_4": "",
+          "col_5": "3,003",
+          "col_6": ""
+        },
+        {
+          "": "Sales\u00a0&\u00a0marketing",
+          "For Three Months Ended": "347",
+          "col_2": "",
+          "col_3": "978",
+          "col_4": "",
+          "col_5": "862",
+          "col_6": ""
+        },
+        {
+          "": "General\u00a0&\u00a0administrative",
+          "For Three Months Ended": "603",
+          "col_2": "",
+          "col_3": "1,937",
+          "col_4": "",
+          "col_5": "873",
+          "col_6": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "Mar. 31,2024($)",
+        "col_2",
+        "Dec. 31,2024($)",
+        "col_4",
+        "Mar. 31,2025($)"
+      ],
+      "rows": [
+        {
+          "": "Cash and cash equivalents",
+          "Mar. 31,2024($)": "294,814",
+          "col_2": "",
+          "Dec. 31,2024($)": "276,068",
+          "col_4": "",
+          "Mar. 31,2025($)": "275,140"
+        },
+        {
+          "": "Accounts receivable (net)",
+          "Mar. 31,2024($)": "186,154",
+          "col_2": "",
+          "Dec. 31,2024($)": "233,744",
+          "col_4": "",
+          "Mar. 31,2025($)": "206,693"
+        },
+        {
+          "": "Inventories",
+          "Mar. 31,2024($)": "253,316",
+          "col_2": "",
+          "Dec. 31,2024($)": "199,229",
+          "col_4": "",
+          "Mar. 31,2025($)": "180,903"
+        },
+        {
+          "": "Refundable deposits \u2013 current",
+          "Mar. 31,2024($)": "49,610",
+          "col_2": "",
+          "Dec. 31,2024($)": "54,645",
+          "col_4": "",
+          "Mar. 31,2025($)": "53,015"
+        },
+        {
+          "": "Prepaid expenses and other current assets",
+          "Mar. 31,2024($)": "17,944",
+          "col_2": "",
+          "Dec. 31,2024($)": "31,187",
+          "col_4": "",
+          "Mar. 31,2025($)": "32,102"
+        },
+        {
+          "": "Total current assets",
+          "Mar. 31,2024($)": "801,838",
+          "col_2": "",
+          "Dec. 31,2024($)": "794,873",
+          "col_4": "",
+          "Mar. 31,2025($)": "747,853"
+        },
+        {
+          "": "Long-term investments",
+          "Mar. 31,2024($)": "15,489",
+          "col_2": "",
+          "Dec. 31,2024($)": "17,326",
+          "col_4": "",
+          "Mar. 31,2025($)": "20,636"
+        },
+        {
+          "": "Property and equipment (net)",
+          "Mar. 31,2024($)": "174,420",
+          "col_2": "",
+          "Dec. 31,2024($)": "188,398",
+          "col_4": "",
+          "Mar. 31,2025($)": "193,603"
+        },
+        {
+          "": "Other assets",
+          "Mar. 31,2024($)": "32,529",
+          "col_2": "",
+          "Dec. 31,2024($)": "30,739",
+          "col_4": "",
+          "Mar. 31,2025($)": "29,310"
+        },
+        {
+          "": "Total assets",
+          "Mar. 31,2024($)": "1,024,276",
+          "col_2": "",
+          "Dec. 31,2024($)": "1,031,336",
+          "col_4": "",
+          "Mar. 31,2025($)": "991,402"
+        },
+        {
+          "": "Accounts payable",
+          "Mar. 31,2024($)": "64,810",
+          "col_2": "",
+          "Dec. 31,2024($)": "17,773",
+          "col_4": "",
+          "Mar. 31,2025($)": "23,048"
+        },
+        {
+          "": "Income tax payable",
+          "Mar. 31,2024($)": "10,702",
+          "col_2": "",
+          "Dec. 31,2024($)": "13,107",
+          "col_4": "",
+          "Mar. 31,2025($)": "14,782"
+        },
+        {
+          "": "Accrued expenses and other current liabilities",
+          "Mar. 31,2024($)": "135,425",
+          "col_2": "",
+          "Dec. 31,2024($)": "168,624",
+          "col_4": "",
+          "Mar. 31,2025($)": "130,277"
+        },
+        {
+          "": "Total current liabilities",
+          "Mar. 31,2024($)": "210,937",
+          "col_2": "",
+          "Dec. 31,2024($)": "199,504",
+          "col_4": "",
+          "Mar. 31,2025($)": "168,107"
+        },
+        {
+          "": "Other liabilities",
+          "Mar. 31,2024($)": "59,883",
+          "col_2": "",
+          "Dec. 31,2024($)": "59,548",
+          "col_4": "",
+          "Mar. 31,2025($)": "50,968"
+        },
+        {
+          "": "Total liabilities",
+          "Mar. 31,2024($)": "270,820",
+          "col_2": "",
+          "Dec. 31,2024($)": "259,052",
+          "col_4": "",
+          "Mar. 31,2025($)": "219,075"
+        },
+        {
+          "": "Shareholders' equity",
+          "Mar. 31,2024($)": "753,456",
+          "col_2": "",
+          "Dec. 31,2024($)": "772,284",
+          "col_4": "",
+          "Mar. 31,2025($)": "772,327"
+        },
+        {
+          "": "Total liabilities & shareholders' equity",
+          "Mar. 31,2024($)": "1,024,276",
+          "col_2": "",
+          "Dec. 31,2024($)": "1,031,336",
+          "col_4": "",
+          "Mar. 31,2025($)": "991,402"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "For Three Months Ended",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6"
+      ],
+      "rows": [
+        {
+          "": "",
+          "For Three Months Ended": "Mar. 31,\n2024\n($)",
+          "col_2": "Dec. 31,\n2024\n($)",
+          "col_3": "Mar. 31,\n2025\n($)"
+        },
+        {
+          "": "Net\u00a0income",
+          "For Three Months Ended": "16,016",
+          "col_2": "",
+          "col_3": "21,569",
+          "col_4": "",
+          "col_5": "19,463",
+          "col_6": ""
+        },
+        {
+          "": "Depreciation\u00a0&\u00a0amortization",
+          "For Three Months Ended": "5,608",
+          "col_2": "",
+          "col_3": "7,256",
+          "col_4": "",
+          "col_5": "7,225",
+          "col_6": ""
+        },
+        {
+          "": "Stock-based\u00a0compensation",
+          "For Three Months Ended": "3,165",
+          "col_2": "",
+          "col_3": "9,747",
+          "col_4": "",
+          "col_5": "4,811",
+          "col_6": ""
+        },
+        {
+          "": "Investment\u00a0losses\u00a0(gain) &\u00a0disposals",
+          "For Three Months Ended": "1,608",
+          "col_2": "",
+          "col_3": "(956)",
+          "col_4": "",
+          "col_5": "(3,309)",
+          "col_6": ""
+        },
+        {
+          "": "Changes\u00a0in\u00a0operating\u00a0assets\u00a0and\u00a0liabilities",
+          "For Three Months Ended": "(18,586)",
+          "col_2": "",
+          "col_3": "(43,774)",
+          "col_4": "",
+          "col_5": "22,082",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0cash\u00a0provided\u00a0by\u00a0(used\u00a0in)\u00a0operating\u00a0activities",
+          "For Three Months Ended": "7,811",
+          "col_2": "",
+          "col_3": "(6,158)",
+          "col_4": "",
+          "col_5": "50,272",
+          "col_6": ""
+        },
+        {
+          "": "Purchase\u00a0of\u00a0property\u00a0& equipment",
+          "For Three Months Ended": "(10,749)",
+          "col_2": "",
+          "col_3": "(10,836)",
+          "col_4": "",
+          "col_5": "(11,661)",
+          "col_6": ""
+        },
+        {
+          "": "Proceeds\u00a0from\u00a0disposal\u00a0of\u00a0properties",
+          "For Three Months Ended": "-",
+          "col_2": "",
+          "col_3": "3",
+          "col_4": "",
+          "col_5": "13",
+          "col_6": ""
+        },
+        {
+          "": "Purchase\u00a0of\u00a0long-term\u00a0investments",
+          "For Three Months Ended": "-",
+          "col_2": "",
+          "col_3": "(4,173)",
+          "col_4": "",
+          "col_5": "-",
+          "col_6": ""
+        },
+        {
+          "": "Disposal\u00a0of\u00a0long-term\u00a0investments",
+          "For Three Months Ended": "-",
+          "col_2": "",
+          "col_3": "4,432",
+          "col_4": "",
+          "col_5": "-",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0cash\u00a0provided\u00a0by\u00a0(used\u00a0in)\u00a0investing\u00a0activities",
+          "For Three Months Ended": "(10,749)",
+          "col_2": "",
+          "col_3": "(10,574)",
+          "col_4": "",
+          "col_5": "(11,648)",
+          "col_6": ""
+        },
+        {
+          "": "Dividend\u00a0payments",
+          "For Three Months Ended": "(16,808)",
+          "col_2": "",
+          "col_3": "(16,814)",
+          "col_4": "",
+          "col_5": "(16,956)",
+          "col_6": ""
+        },
+        {
+          "": "Share\u00a0repurchases",
+          "For Three Months Ended": "-",
+          "col_2": "",
+          "col_3": "-",
+          "col_4": "",
+          "col_5": "(24,291)",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0cash\u00a0used in\u00a0financing\u00a0activities",
+          "For Three Months Ended": "(16,808)",
+          "col_2": "",
+          "col_3": "(16,814)",
+          "col_4": "",
+          "col_5": "(41,247)",
+          "col_6": ""
+        },
+        {
+          "": "Net\u00a0increase\u00a0(decrease)\u00a0in\u00a0cash, cash\u00a0equivalents\u00a0& restricted\u00a0cash",
+          "For Three Months Ended": "(19,746)",
+          "col_2": "",
+          "col_3": "(33,546)",
+          "col_4": "",
+          "col_5": "(2,623)",
+          "col_6": ""
+        },
+        {
+          "": "Effect\u00a0of\u00a0foreign\u00a0exchange\u00a0changes",
+          "For Three Months Ended": "35",
+          "col_2": "",
+          "col_3": "(717)",
+          "col_4": "",
+          "col_5": "37",
+          "col_6": ""
+        },
+        {
+          "": "Cash,\u00a0cash\u00a0equivalents\u00a0&\u00a0restricted\u00a0cash\u2014beginning\u00a0of\u00a0period",
+          "For Three Months Ended": "368,990",
+          "col_2": "",
+          "col_3": "368,596",
+          "col_4": "",
+          "col_5": "334,333",
+          "col_6": ""
+        },
+        {
+          "": "Cash,\u00a0cash\u00a0equivalents\u00a0&\u00a0restricted\u00a0cash\u2014end\u00a0of\u00a0period",
+          "For Three Months Ended": "349,279",
+          "col_2": "",
+          "col_3": "334,333",
+          "col_4": "",
+          "col_5": "331,747",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "For Three Months Ended": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "Share this article"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_393",
+      "text": "Silicon Motion Technology Corporation Consolidated Balance Sheet (In thousands, unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion Technology Corporation",
+            "type": "company",
+            "attributes": {
+              "statement": "Consolidated Balance Sheet",
+              "unit": "thousands",
+              "status": "unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "consolidated balance sheet",
+          "unaudited financial statement",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Motion Technology Corporation's consolidated balance sheet, presented in thousands and marked as unaudited."
+      }
+    },
+    {
+      "chunk_id": "prose_p_138",
+      "text": "A webcast\u00a0of\u00a0the\u00a0call\u00a0will\u00a0be\u00a0available\u00a0on\u00a0the\u00a0Company's\u00a0website\u00a0at www.siliconmotion.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "website": "www.siliconmotion.com",
+              "context": "Company"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "webcast",
+          "company website",
+          "call availability"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that a webcast of the call will be available on the Company's website at www.siliconmotion.com."
+      }
+    },
+    {
+      "chunk_id": "prose_p_145",
+      "text": "Dispute\u00a0related expenses consist\u00a0of\u00a0legal, consultant,\u00a0other\u00a0fees\u00a0and\u00a0resolution\u00a0related\u00a0to\u00a0the\u00a0dispute.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "dispute related expenses",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "dispute related expenses",
+          "legal fees",
+          "consultant fees",
+          "resolution costs"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that dispute-related expenses include legal, consultant, other fees, and costs related to resolving the dispute."
+      }
+    },
+    {
+      "chunk_id": "prose_p_135",
+      "text": "The Company's management team will conduct a conference call at 8:00 am Eastern Time on April 30, 2025 .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "role": "management team host",
+              "event": "conference call",
+              "time": "8:00 am Eastern Time",
+              "date": "April 30, 2025"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call",
+          "management team",
+          "earnings communication"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company's management team will conduct a conference call at 8:00 am Eastern Time on April 30, 2025."
+      }
+    },
+    {
+      "chunk_id": "prose_p_479",
+      "text": "Silicon Motion Technology Corporation Condensed Consolidated Statements of Cash Flows (in\u00a0thousands,\u00a0unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion Technology Corporation",
+            "type": "company",
+            "attributes": {
+              "statement": "Condensed Consolidated Statements of Cash Flows",
+              "unit": "thousands",
+              "status": "unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "condensed consolidated statements of cash flows",
+          "unaudited financial statement",
+          "cash flows"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Motion Technology Corporation's condensed consolidated statements of cash flows, presented in thousands and unaudited."
+      }
+    },
+    {
+      "chunk_id": "prose_p_137",
+      "text": "Participant Online Registration: https://register-conf.media-server.com/register/BI5c69a4c2d96041b59a2bf8a51cec1881",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Participant Online Registration",
+            "type": "other",
+            "attributes": {
+              "url": "https://register-conf.media-server.com/register/BI5c69a4c2d96041b59a2bf8a51cec1881"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "participant registration",
+          "online registration",
+          "conference registration link"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides a participant online registration link for the conference."
+      }
+    },
+    {
+      "chunk_id": "prose_p_147",
+      "text": "Realized/Unrealized\u00a0loss\u00a0(gain)\u00a0on\u00a0investments relates\u00a0to\u00a0the\u00a0disposal and\u00a0net\u00a0change in\u00a0fair\u00a0value\u00a0of\u00a0long-term\u00a0investments.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "realized/unrealized loss (gain)",
+          "investments",
+          "disposal",
+          "net change in fair value",
+          "long-term investments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that realized and unrealized losses or gains on investments are related to the disposal of long-term investments and changes in their fair value."
+      }
+    },
+    {
+      "chunk_id": "prose_p_148",
+      "text": "Silicon Motion Technology Corporation Consolidated Statements of Income (in thousands, except percentages and per ADS data, unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion Technology Corporation",
+            "type": "company",
+            "attributes": {
+              "statement": "Consolidated Statements of Income",
+              "units": "in thousands, except percentages and per ADS data",
+              "status": "unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "consolidated statements of income",
+          "unaudited financial reporting",
+          "per ADS data",
+          "financial statement units"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Motion Technology Corporation's unaudited consolidated statements of income and notes that amounts are presented in thousands, except for percentages and per ADS data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_256",
+      "text": "Silicon Motion Technology Corporation Reconciliation of GAAP to Non-GAAP Operating Results (in thousands, except percentages and per ADS data, unaudited)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion Technology Corporation",
+            "type": "company",
+            "attributes": {
+              "report_type": "Reconciliation of GAAP to Non-GAAP Operating Results",
+              "units": "in thousands, except percentages and per ADS data",
+              "status": "unaudited"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to Non-GAAP reconciliation",
+          "operating results",
+          "unaudited financial presentation",
+          "per ADS data"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section identifies Silicon Motion Technology Corporation's unaudited reconciliation of GAAP to non-GAAP operating results, presented in thousands with percentages and per ADS data."
+      }
+    },
+    {
+      "chunk_id": "prose_p_23",
+      "text": "*\u00a0Please\u00a0see\u00a0supplemental\u00a0reconciliations\u00a0of\u00a0U.S.\u00a0Generally\u00a0Accepted Accounting\u00a0Principles\u00a0(\"GAAP\") to\u00a0all\u00a0non-GAAP\u00a0financial\u00a0measures mentioned herein towards the end of this news release.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. Generally Accepted Accounting Principles (GAAP)",
+            "type": "other",
+            "attributes": {
+              "description": "Accounting standard referenced for reconciliation to non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "non-GAAP financial measures",
+            "type": "other",
+            "attributes": {
+              "description": "Alternative financial measures mentioned in the news release"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP reconciliation",
+          "non-GAAP financial measures",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section directs readers to supplemental reconciliations of GAAP to non-GAAP financial measures provided later in the news release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_144",
+      "text": "Restructuring\u00a0charges relate\u00a0to\u00a0the\u00a0restructuring\u00a0of\u00a0our\u00a0underperforming\u00a0product\u00a0lines,\u00a0principally\u00a0the\u00a0write-down\u00a0of\u00a0NAND\u00a0flash, embedded\u00a0DRAM\u00a0and SSD inventory valuation and severance payments.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "NAND flash",
+            "type": "other",
+            "attributes": {
+              "context": "inventory valuation write-down"
+            }
+          },
+          {
+            "name": "embedded DRAM",
+            "type": "other",
+            "attributes": {
+              "context": "inventory valuation write-down"
+            }
+          },
+          {
+            "name": "SSD",
+            "type": "other",
+            "attributes": {
+              "context": "inventory valuation write-down"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "restructuring charges",
+          "underperforming product lines",
+          "inventory write-downs",
+          "severance payments"
+        ],
+        "sentiment": "negative",
+        "summary": "The section describes restructuring charges tied to underperforming product lines, mainly due to inventory write-downs for NAND flash, embedded DRAM, and SSDs, along with severance payments."
+      }
+    },
+    {
+      "chunk_id": "prose_p_133",
+      "text": "* Projected gross margin (non-GAAP) excludes $0.1 million of stock-based compensation. ** Projected operating margin (non-GAAP) excludes $3.1million to $4.1 million of stock-based compensation and dispute related expenses.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "0.1 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "projected"
+          },
+          {
+            "figure": "3.1 million to 4.1 million",
+            "type": "expense",
+            "currency": "USD",
+            "period": "projected"
+          }
+        ],
+        "key_topics": [
+          "non-GAAP gross margin",
+          "non-GAAP operating margin",
+          "stock-based compensation",
+          "dispute related expenses"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that projected non-GAAP gross margin excludes $0.1 million of stock-based compensation, and projected non-GAAP operating margin excludes $3.1 million to $4.1 million of stock-based compensation and dispute-related expenses."
+      }
+    },
+    {
+      "chunk_id": "prose_p_25",
+      "text": "For the first quarter of 2025, net income (non-GAAP) decreased to $20.3 million , or $0.60 per diluted ADS (non-GAAP), from net income (non-GAAP) of $29.4 million , or $0.87 per diluted ADS (non-GAAP), in the fourth quarter of 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "20.3 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2025"
+          },
+          {
+            "figure": "0.60",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2025"
+          },
+          {
+            "figure": "29.4 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          },
+          {
+            "figure": "0.87",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          }
+        ],
+        "key_topics": [
+          "net income",
+          "non-GAAP earnings",
+          "diluted ADS",
+          "quarterly comparison"
+        ],
+        "sentiment": "negative",
+        "summary": "Non-GAAP net income declined in the first quarter of 2025 to $20.3 million, or $0.60 per diluted ADS, from $29.4 million, or $0.87 per diluted ADS, in the fourth quarter of 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_142",
+      "text": "The\u00a0following\u00a0are\u00a0explanations\u00a0of\u00a0each\u00a0of\u00a0the\u00a0adjustments\u00a0that\u00a0we\u00a0incorporate\u00a0into\u00a0our\u00a0non-GAAP measures,\u00a0as\u00a0well\u00a0as\u00a0the\u00a0reasons\u00a0for\u00a0excluding\u00a0each of these individual items in our reconciliation of these non-GAAP financial measures:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP measures",
+          "adjustments",
+          "reconciliation",
+          "excluded items",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces explanations for adjustments included in the company's non-GAAP measures and the reasons for excluding each item in the reconciliation of those non-GAAP financial measures."
+      }
+    },
+    {
+      "chunk_id": "prose_p_109",
+      "text": "During the first quarter of 2025, we had $11.7 million of capital expenditures, including $7.0 million for the routine purchases of testing equipment, software, design tools and other items, and $4.7 million for building construction in\u00a0Hsinchu, Taiwan .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "first quarter of 2025",
+            "type": "other",
+            "attributes": {
+              "period": "Q1 2025"
+            }
+          },
+          {
+            "name": "Hsinchu, Taiwan",
+            "type": "location",
+            "attributes": {
+              "country": "Taiwan",
+              "city": "Hsinchu"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "11.7 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "Q1 2025",
+            "attributes": {
+              "description": "capital expenditures"
+            }
+          },
+          {
+            "figure": "7.0 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "Q1 2025",
+            "attributes": {
+              "description": "routine purchases of testing equipment, software, design tools and other items"
+            }
+          },
+          {
+            "figure": "4.7 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "Q1 2025",
+            "attributes": {
+              "description": "building construction in Hsinchu, Taiwan"
+            }
+          }
+        ],
+        "key_topics": [
+          "capital expenditures",
+          "testing equipment",
+          "software",
+          "design tools",
+          "building construction",
+          "Hsinchu, Taiwan"
+        ],
+        "sentiment": "neutral",
+        "summary": "In the first quarter of 2025, the company reported $11.7 million in capital expenditures, including $7.0 million for routine equipment and software purchases and $4.7 million for building construction in Hsinchu, Taiwan."
+      }
+    },
+    {
+      "chunk_id": "prose_p_136",
+      "text": "Conference Call Details Participants must register in advance to join the conference call using the link provided below. Conference access information (including dial-in information and a unique access PIN) will be provided in the email received upon registration.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Conference Call Details",
+            "type": "other",
+            "attributes": {
+              "description": "Instructions for registering and accessing a conference call"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call registration",
+          "dial-in information",
+          "access PIN",
+          "email confirmation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides instructions for participants to register in advance for a conference call and notes that dial-in details and a unique access PIN will be sent by email after registration."
+      }
+    },
+    {
+      "chunk_id": "prose_p_111",
+      "text": "On\u00a0February 6,\u00a02025,\u00a0we\u00a0announced\u00a0that\u00a0our\u00a0Board\u00a0of\u00a0Directors had\u00a0authorized\u00a0a\u00a0new\u00a0program for\u00a0the\u00a0Company\u00a0to\u00a0repurchase\u00a0up\u00a0to\u00a0$50\u00a0million\u00a0of\u00a0our ADSs over a six-month period. In the first quarter of 2025, we repurchased $24.3 million of our ADSs at an average price of $56.96 per ADS.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Board of Directors",
+            "type": "other",
+            "attributes": {
+              "action": "authorized new share repurchase program"
+            }
+          },
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "repurchase_program_authorization": "$50 million",
+              "repurchase_period": "six months",
+              "repurchased_in_q1_2025": "$24.3 million",
+              "average_price_per_ADS": "$56.96"
+            }
+          },
+          {
+            "name": "ADSs",
+            "type": "other",
+            "attributes": {
+              "instrument": "American Depositary Shares"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "50000000",
+            "type": "other",
+            "currency": "USD",
+            "period": "six-month repurchase program"
+          },
+          {
+            "figure": "24300000",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2025"
+          },
+          {
+            "figure": "56.96",
+            "type": "other",
+            "currency": "USD",
+            "period": "first quarter of 2025"
+          }
+        ],
+        "key_topics": [
+          "share repurchase program",
+          "board authorization",
+          "ADS buybacks",
+          "capital allocation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The company announced a new six-month ADS repurchase program authorized by its Board of Directors for up to $50 million, and reported repurchasing $24.3 million of ADSs in the first quarter of 2025 at an average price of $56.96 per ADS."
+      }
+    },
+    {
+      "chunk_id": "prose_p_572",
+      "text": "Silicon Motion Investor Contacts: Tom Sepenzis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Selina\u00a0Hsieh Senior\u00a0Director\u00a0of\u00a0IR &\u00a0Strategy\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Investor\u00a0Relations tsepenzis@siliconmotion.com ir@siliconmotion.com",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "context": "Investor Contacts"
+            }
+          },
+          {
+            "name": "Tom Sepenzis",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations",
+              "email": "tsepenzis@siliconmotion.com"
+            }
+          },
+          {
+            "name": "Selina Hsieh",
+            "type": "person",
+            "attributes": {
+              "role": "Senior Director of IR & Strategy",
+              "email": "ir@siliconmotion.com"
+            }
+          },
+          {
+            "name": "Investor Relations",
+            "type": "other",
+            "attributes": {
+              "context": "department"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "investor contacts",
+          "investor relations",
+          "company contact information"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section lists Silicon Motion investor contact information, including names, roles, and email addresses for investor relations contacts."
+      }
+    },
+    {
+      "chunk_id": "prose_p_143",
+      "text": "Stock-based compensation expense consists of non-cash charges related to the fair value of restricted stock units awarded to employees. The Company believes that the exclusion of these non-cash charges provides for more accurate comparisons of our operating results to our peer companies due to the varying available valuation methodologies, subjective assumptions and the variety of award types. In addition, the Company believes it is useful to investors to understand the specific impact of share-based compensation on its operating results.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "The Company",
+            "type": "company",
+            "attributes": {
+              "context": "Discusses stock-based compensation expense and its exclusion from operating results for comparison purposes."
+            }
+          },
+          {
+            "name": "employees",
+            "type": "other",
+            "attributes": {
+              "context": "Recipients of restricted stock units awarded by the Company."
+            }
+          },
+          {
+            "name": "restricted stock units",
+            "type": "other",
+            "attributes": {
+              "context": "Equity awards whose fair value drives the stock-based compensation expense."
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "non-cash charges",
+            "type": "expense",
+            "currency": "other",
+            "period": "not specified"
+          }
+        ],
+        "key_topics": [
+          "stock-based compensation",
+          "non-cash expense",
+          "restricted stock units",
+          "operating results adjustment",
+          "peer company comparison",
+          "share-based compensation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that stock-based compensation expense is a non-cash charge related to restricted stock units and that the Company excludes it to improve comparability of operating results and help investors understand the impact of share-based compensation."
+      }
+    },
+    {
+      "chunk_id": "prose_p_146",
+      "text": "Foreign exchange loss (gain) consists of translation gains and/or losses of non-US$ denominated current assets and current liabilities, as well as certain other balance sheet items, which result from the appreciation or depreciation of non-US$ currencies against the US$. We do not use financial instruments\u00a0to\u00a0manage the\u00a0impact\u00a0on\u00a0our\u00a0operations\u00a0from\u00a0changes\u00a0in\u00a0foreign\u00a0exchange rates,\u00a0and\u00a0because our\u00a0operations\u00a0are\u00a0subject\u00a0to\u00a0fluctuations\u00a0in foreign exchange rates, we therefore exclude foreign exchange gains and losses when presenting non-GAAP financial measures.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "US$",
+            "type": "other",
+            "attributes": {
+              "role": "functional currency reference"
+            }
+          },
+          {
+            "name": "non-US$ currencies",
+            "type": "other",
+            "attributes": {
+              "role": "foreign currencies subject to translation gains/losses"
+            }
+          },
+          {
+            "name": "financial instruments",
+            "type": "other",
+            "attributes": {
+              "role": "not used to manage foreign exchange impact"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "foreign exchange loss/gain",
+          "translation gains and losses",
+          "non-US dollar denominated assets and liabilities",
+          "foreign exchange risk",
+          "non-GAAP financial measures"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that foreign exchange gains and losses arise from translation of non-US dollar current assets, liabilities, and other balance sheet items due to currency fluctuations. It also states that the company does not use financial instruments to hedge this exposure and excludes foreign exchange gains and losses from non-GAAP financial measures."
+      }
+    },
+    {
+      "chunk_id": "prose_p_24",
+      "text": "TAIPEI and MILPITAS, Calif. , April 30, 2025 /PRNewswire/ -- Silicon Motion Technology Corporation (NasdaqGS: SIMO) (\"Silicon Motion,\" the \"Company\" or \"we\") today announced its financial results for the quarter ended March 31, 2025 . For the first quarter of 2025, net sales (GAAP) decreased sequentially to $166.5 million from $191.2 million in the fourth quarter of 2024. Net income (GAAP) decreased to $19.5 million , or $0.58 per diluted American depositary share (\"ADS\") (GAAP), from net income (GAAP) of $21.6 million , or $0.64 per diluted ADS (GAAP), in the fourth quarter of 2024.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion Technology Corporation",
+            "type": "company",
+            "attributes": {
+              "ticker": "SIMO",
+              "exchange": "NasdaqGS",
+              "aliases": "Silicon Motion, the Company, we"
+            }
+          },
+          {
+            "name": "TAIPEI",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "Milpitas, Calif.",
+            "type": "location",
+            "attributes": {}
+          },
+          {
+            "name": "American depositary share",
+            "type": "other",
+            "attributes": {
+              "abbreviation": "ADS"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "166.5 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "quarter ended March 31, 2025"
+          },
+          {
+            "figure": "191.2 million",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          },
+          {
+            "figure": "19.5 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "quarter ended March 31, 2025"
+          },
+          {
+            "figure": "21.6 million",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          },
+          {
+            "figure": "0.58",
+            "type": "other",
+            "currency": "USD",
+            "period": "quarter ended March 31, 2025"
+          },
+          {
+            "figure": "0.64",
+            "type": "other",
+            "currency": "USD",
+            "period": "fourth quarter of 2024"
+          }
+        ],
+        "key_topics": [
+          "first quarter 2025 financial results",
+          "sequential decline in net sales",
+          "net income decrease",
+          "earnings per ADS"
+        ],
+        "sentiment": "negative",
+        "summary": "Silicon Motion Technology Corporation reported first-quarter 2025 results showing sequential declines in net sales and net income compared with the fourth quarter of 2024."
+      }
+    },
+    {
+      "chunk_id": "prose_p_569",
+      "text": "We are the global leader in supplying NAND flash controllers for solid state storage devices. We supply more\u00a0SSD\u00a0controllers\u00a0than\u00a0any\u00a0other\u00a0company in\u00a0the\u00a0world\u00a0for\u00a0servers, PCs\u00a0and\u00a0other\u00a0client\u00a0devices and\u00a0are\u00a0the\u00a0leading\u00a0merchant supplier\u00a0of\u00a0eMMC\u00a0and\u00a0UFS\u00a0embedded\u00a0storage controllers\u00a0used\u00a0in smartphones,\u00a0IoT\u00a0devices\u00a0and\u00a0other\u00a0applications.\u00a0We\u00a0also\u00a0supply\u00a0customized\u00a0high-performance\u00a0hyperscale\u00a0data\u00a0center\u00a0and\u00a0specialized\u00a0industrial\u00a0and automotive SSD solutions.\u00a0Our customers include most of the NAND flash vendors, storage device module makers and leading OEMs.\u00a0For further information on Silicon Motion, visit us at www.siliconmotion.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "description": "Global leader in supplying NAND flash controllers for solid state storage devices",
+              "products": "SSD controllers, eMMC controllers, UFS embedded storage controllers, customized hyperscale data center SSD solutions, industrial SSD solutions, automotive SSD solutions",
+              "customer_segments": "servers, PCs, client devices, smartphones, IoT devices, OEMs, NAND flash vendors, storage device module makers",
+              "website": "www.siliconmotion.com"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "NAND flash controllers",
+          "SSD controllers",
+          "eMMC and UFS embedded storage controllers",
+          "solid state storage devices",
+          "hyperscale data center solutions",
+          "industrial and automotive SSD solutions",
+          "customer base"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes Silicon Motion as a global leader in NAND flash and SSD controller supply, highlighting its broad product portfolio, leadership in embedded storage controllers, and customer base across servers, PCs, smartphones, IoT, and industrial and automotive applications."
+      }
+    },
+    {
+      "chunk_id": "prose_p_28",
+      "text": "\"Despite the challenging macro environment in the first quarter of 2025, we executed our plan and delivered quarterly revenue at the high end of our guided range and delivered another quarter of gross margin expansion,\" stated Wallace Kou , President and CEO of Silicon Motion. \"Our industry leading PCIe Gen 5 controller experienced stronger than expected demand during the quarter, partially driven by growing AI inference demands from white box server makers leveraging more mainstream hardware components. Our eMMC and UFS controllers also experienced better than expected demand given a rebound in the smartphone market and our ongoing market share gains. While the near-term remains challenging given the broader economic challenges associated with tariffs and potential trade wars, we remain focused on delivering strong, sustainable long-term growth through product diversification; expanding into new markets; and growing market share across our portfolio of consumer, enterprise, automotive, industrial and storage solutions.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Wallace Kou",
+            "type": "person",
+            "attributes": {
+              "title": "President and CEO"
+            }
+          },
+          {
+            "name": "Silicon Motion",
+            "type": "company",
+            "attributes": {
+              "industry": "semiconductor / storage controllers"
+            }
+          },
+          {
+            "name": "PCIe Gen 5 controller",
+            "type": "other",
+            "attributes": {
+              "product_type": "controller"
+            }
+          },
+          {
+            "name": "eMMC and UFS controllers",
+            "type": "other",
+            "attributes": {
+              "product_type": "controllers"
+            }
+          },
+          {
+            "name": "white box server makers",
+            "type": "other",
+            "attributes": {
+              "role": "customer segment"
+            }
+          },
+          {
+            "name": "smartphone market",
+            "type": "other",
+            "attributes": {
+              "role": "end market"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "high end of guided range",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "first quarter of 2025"
+          }
+        ],
+        "key_topics": [
+          "quarterly revenue performance",
+          "gross margin expansion",
+          "PCIe Gen 5 controller demand",
+          "AI inference demand",
+          "white box servers",
+          "eMMC and UFS controller demand",
+          "smartphone market rebound",
+          "market share gains",
+          "tariffs and trade wars",
+          "product diversification",
+          "long-term growth"
+        ],
+        "sentiment": "positive",
+        "summary": "Silicon Motion reported strong first-quarter 2025 results, with revenue at the high end of guidance and continued gross margin expansion. Demand was stronger than expected for PCIe Gen 5 and eMMC/UFS controllers, supported by AI inference needs, a smartphone market rebound, and market share gains, though management noted ongoing macroeconomic and trade-related challenges."
+      }
+    },
+    {
+      "chunk_id": "prose_p_141",
+      "text": "Our non-GAAP financial measures are provided to enhance the user's overall understanding of our current financial performance and our prospects for the future. Specifically, we believe the non-GAAP results provide useful information to both management and investors as these non-GAAP results exclude certain expenses, gains and losses that we believe are not indicative of our core operating results and because they are consistent with the financial models and estimates published by many analysts who follow the Company. We use non-GAAP measures to evaluate the operating performance of our business, for comparison with our forecasts, and for benchmarking our performance externally against our competitors. Also, when evaluating potential acquisitions, we exclude the items described below from our consideration of the target's performance and valuation. Since we find these measures to be useful, we believe that our investors benefit from seeing the results from management's perspective in addition to seeing our GAAP results. We believe that these non-GAAP measures, when read in conjunction with the Company's GAAP financials, provide useful information to investors by offering:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Issuer discussing non-GAAP financial measures",
+              "role": "management perspective"
+            }
+          },
+          {
+            "name": "GAAP",
+            "type": "other",
+            "attributes": {
+              "context": "Generally Accepted Accounting Principles",
+              "role": "benchmark for comparison with non-GAAP results"
+            }
+          },
+          {
+            "name": "analysts",
+            "type": "other",
+            "attributes": {
+              "context": "Many analysts who follow the Company",
+              "role": "publish financial models and estimates"
+            }
+          },
+          {
+            "name": "investors",
+            "type": "other",
+            "attributes": {
+              "context": "Users of the company's financial information",
+              "role": "benefit from non-GAAP and GAAP results"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "core operating results",
+          "management performance evaluation",
+          "forecast comparison",
+          "peer benchmarking",
+          "acquisition evaluation"
+        ],
+        "sentiment": "positive",
+        "summary": "The section explains that the company uses non-GAAP financial measures to supplement GAAP results, helping management and investors understand core operating performance, compare against forecasts and competitors, and evaluate potential acquisitions."
+      }
+    },
+    {
+      "chunk_id": "prose_p_113",
+      "text": "\"We are rapidly expanding our market opportunities as we invest in new products and enter new markets, which we anticipate will drive improved revenue and profitability for many years to come. In 2025, we expect to benefit from the introduction of several new products, including our 8-channel PCIE\u00a0Gen\u00a05\u00a0controller,\u00a0our\u00a04-channel\u00a0PCIe\u00a0Gen\u00a05\u00a0controller\u00a0targeting the\u00a0mass\u00a0market that\u00a0will\u00a0be\u00a0introduced\u00a0in\u00a0late\u00a02025, our\u00a0higher-end\u00a0UFS 4.1 and new low-cost \u00a0UFS 2.2\u00a0controllers\u00a0that\u00a0will\u00a0ramp\u00a0in\u00a0the\u00a0second\u00a0half\u00a0of\u00a02025.\u00a0We introduced our first\u00a0MonTitan enterprise/AI-class\u00a0products\u00a0at\u00a0the\u00a0end\u00a0of 2024, and we expect these to ramp-up production with our first customers in the second half of 2025. Additionally, we continue to expand our automotive\u00a0product portfolio\u00a0and\u00a0our\u00a0market\u00a0share across\u00a0multiple\u00a0applications.\u00a0While\u00a0the\u00a0near-term\u00a0environment\u00a0remains\u00a0challenging\u00a0given\u00a0the\u00a0macro environment, including the potential impact of tariffs and potential trade wars, we continue to believe we will see a strong rebound in the consumer markets in the second half of 2025, enhanced by our new product introductions, and we continue to target a revenue run rate of $1 billion as we exit the\u00a0year.\"",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "MonTitan",
+            "type": "other",
+            "attributes": {
+              "description": "enterprise/AI-class products",
+              "launch_timing": "end of 2024",
+              "production_ramp": "second half of 2025"
+            }
+          },
+          {
+            "name": "8-channel PCIE Gen 5 controller",
+            "type": "other",
+            "attributes": {
+              "product_type": "controller",
+              "launch_timing": "2025"
+            }
+          },
+          {
+            "name": "4-channel PCIe Gen 5 controller",
+            "type": "other",
+            "attributes": {
+              "product_type": "controller",
+              "target_market": "mass market",
+              "launch_timing": "late 2025"
+            }
+          },
+          {
+            "name": "UFS 4.1 controller",
+            "type": "other",
+            "attributes": {
+              "product_type": "controller",
+              "positioning": "higher-end",
+              "ramp_timing": "second half of 2025"
+            }
+          },
+          {
+            "name": "UFS 2.2 controller",
+            "type": "other",
+            "attributes": {
+              "product_type": "controller",
+              "positioning": "low-cost",
+              "ramp_timing": "second half of 2025"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": 1000000000,
+            "type": "revenue",
+            "currency": "USD",
+            "period": "exit of 2025"
+          }
+        ],
+        "key_topics": [
+          "new product introductions",
+          "market expansion",
+          "PCIe Gen 5 controllers",
+          "UFS controllers",
+          "enterprise/AI products",
+          "automotive product portfolio",
+          "consumer market rebound",
+          "tariffs and trade wars",
+          "revenue growth"
+        ],
+        "sentiment": "positive",
+        "summary": "The company expects growth from multiple new product launches in 2025, including PCIe Gen 5 and UFS controllers, ramp-up of MonTitan enterprise/AI products, and continued automotive expansion. Despite macroeconomic and trade-related uncertainty, it anticipates a strong consumer market rebound in the second half of 2025 and targets a $1 billion revenue run rate by year-end."
+      }
+    },
+    {
+      "chunk_id": "prose_p_140",
+      "text": "To supplement the Company's unaudited selected financial results calculated in accordance with U.S. Generally Accepted Accounting Principles (\"GAAP\"), the Company discloses certain non-GAAP financial measures that exclude stock-based compensation and other items, including gross profit (non-GAAP), gross margin (non-GAAP), operating expenses (non-GAAP), operating profit (non-GAAP), operating margin (non-GAAP), non-operating income (expense) (non-GAAP), net income (non-GAAP), and earnings per diluted ADS (non-GAAP). These non-GAAP measures are not in accordance with or an alternative to GAAP and may be different from similarly-titled non-GAAP measures used by other companies. We believe that these non-GAAP measures have limitations in that they do not reflect all the amounts associated with the Company's results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate the Company's results of operations in conjunction with the corresponding GAAP measures. The presentation of this additional information is not meant to be considered in isolation or as a substitute for the most directly comparable GAAP measure. We compensate for the limitations of our non-GAAP financial measures by relying upon GAAP results to gain a complete picture of our performance.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Discloses non-GAAP financial measures in addition to unaudited selected financial results calculated in accordance with GAAP"
+            }
+          },
+          {
+            "name": "U.S. Generally Accepted Accounting Principles (GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Accounting framework used for the Company's selected financial results"
+            }
+          },
+          {
+            "name": "stock-based compensation",
+            "type": "other",
+            "attributes": {
+              "context": "Excluded from certain non-GAAP financial measures"
+            }
+          },
+          {
+            "name": "gross profit (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "gross margin (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "operating expenses (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "operating profit (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "operating margin (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "non-operating income (expense) (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "net income (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          },
+          {
+            "name": "earnings per diluted ADS (non-GAAP)",
+            "type": "other",
+            "attributes": {
+              "context": "Non-GAAP financial measure disclosed by the Company"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP reconciliation",
+          "stock-based compensation exclusion",
+          "limitations of non-GAAP measures",
+          "comparability with other companies"
+        ],
+        "sentiment": "neutral",
+        "summary": "The Company explains that it presents several non-GAAP financial measures excluding stock-based compensation and other items, but emphasizes that these measures are not substitutes for GAAP and should be used only alongside the corresponding GAAP results."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\SIMO_2021_Q4.html",
+    "validation": {
+      "overall_confidence": 0.6749999999999999,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.8499999999999999,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

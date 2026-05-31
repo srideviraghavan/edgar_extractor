@@ -1,0 +1,71 @@
+{
+  "filing_id": "SPOT_2023_Q1",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_1",
+      "text": "Investor Relations:Bryan GoldbergLauren Katzenir@spotify.cominvestors.spotify.comPublic Relations:Dustee Jenkinspress@spotify.com",
+      "section_header": "Contacts",
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Spotify",
+            "type": "company",
+            "attributes": {
+              "investor_relations_contacts": "Bryan Goldberg, Lauren Katzen",
+              "investor_relations_email": "ir@spotify.com",
+              "investor_relations_website": "investors.spotify.com",
+              "public_relations_contact": "Dustee Jenkins",
+              "public_relations_email": "press@spotify.com"
+            }
+          },
+          {
+            "name": "Bryan Goldberg",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations"
+            }
+          },
+          {
+            "name": "Lauren Katzen",
+            "type": "person",
+            "attributes": {
+              "role": "Investor Relations"
+            }
+          },
+          {
+            "name": "Dustee Jenkins",
+            "type": "person",
+            "attributes": {
+              "role": "Public Relations"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Investor Relations",
+          "Public Relations",
+          "Contact Information"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section lists Spotify contact information for investor relations and public relations, including named contacts, email addresses, and the investor relations website."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\SPOT_2023_Q1.html",
+    "validation": {
+      "overall_confidence": 0.85,
+      "table_confidence": 0.0,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

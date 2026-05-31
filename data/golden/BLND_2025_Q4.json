@@ -1,0 +1,29 @@
+{
+  "filing_id": "BLND_2025_Q4",
+  "ticker": "BLND",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Blend Labs, Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "total_revenue": {
+      "value": 32368,
+      "required": true
+    },
+    "net_income": {
+      "value": -2581,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": -0.03,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 8,
+  "tags": [
+    "continuing_operations"
+  ]
+}

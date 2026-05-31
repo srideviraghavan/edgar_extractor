@@ -1,0 +1,555 @@
+{
+  "filing_id": "WISH_2024_Q1",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "Three Months Ended",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Months Ended": "March 31,"
+        },
+        {
+          "": "",
+          "Three Months Ended": "2024"
+        },
+        {
+          "": "$",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "$",
+          "Three Months Ended": "$"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "Three Months Ended",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Months Ended": "March 31,"
+        },
+        {
+          "": "",
+          "Three Months Ended": "2024"
+        },
+        {
+          "": "(59",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "(164",
+          "Three Months Ended": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "",
+        "As of March 31,",
+        "",
+        "",
+        "As of December 31,",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "As of March 31,": "2024",
+          "As of December 31,": "2023"
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "$",
+          "As of March 31,": "$",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "$",
+          "As of March 31,": "$",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "$",
+          "As of March 31,": "$",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        },
+        {
+          "": "$",
+          "As of March 31,": "$",
+          "As of December 31,": ""
+        },
+        {
+          "": "",
+          "As of March 31,": "",
+          "As of December 31,": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    },
+    {
+      "table_id": "table_3",
+      "headers": [
+        "",
+        "Three Months Ended",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Months Ended": "March 31,"
+        },
+        {
+          "": "",
+          "Three Months Ended": "2024"
+        },
+        {
+          "": "36",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "30",
+          "Three Months Ended": ""
+        },
+        {
+          "": "6",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "15",
+          "Three Months Ended": ""
+        },
+        {
+          "": "22",
+          "Three Months Ended": ""
+        },
+        {
+          "": "22",
+          "Three Months Ended": ""
+        },
+        {
+          "": "59",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(53",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "\u2014",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(53",
+          "Three Months Ended": ""
+        },
+        {
+          "": "6",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(59",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(2.43",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "24,315",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "",
+        "Three Months Ended",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Months Ended": "March 31,"
+        },
+        {
+          "": "",
+          "Three Months Ended": "2024"
+        },
+        {
+          "": "\u2014",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "5",
+          "Three Months Ended": ""
+        },
+        {
+          "": "3",
+          "Three Months Ended": ""
+        },
+        {
+          "": "9",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    },
+    {
+      "table_id": "table_5",
+      "headers": [
+        "",
+        "Three Months Ended",
+        ""
+      ],
+      "rows": [
+        {
+          "": "",
+          "Three Months Ended": "March 31,"
+        },
+        {
+          "": "",
+          "Three Months Ended": "2024"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(59",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "9",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "3",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(13",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(9",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(10",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(2",
+          "Three Months Ended": ""
+        },
+        {
+          "": "6",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(75",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "\u2014",
+          "Three Months Ended": ""
+        },
+        {
+          "": "90",
+          "Three Months Ended": ""
+        },
+        {
+          "": "90",
+          "Three Months Ended": ""
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(1",
+          "Three Months Ended": ""
+        },
+        {
+          "": "(2",
+          "Three Months Ended": ""
+        },
+        {
+          "": "12",
+          "Three Months Ended": ""
+        },
+        {
+          "": "238",
+          "Three Months Ended": ""
+        },
+        {
+          "": "250",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "250",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "\u2014",
+          "Three Months Ended": ""
+        },
+        {
+          "": "250",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "1",
+          "Three Months Ended": "$"
+        },
+        {
+          "": "",
+          "Three Months Ended": ""
+        },
+        {
+          "": "\u2014",
+          "Three Months Ended": "$"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_1",
+      "text": "May 08, 2024 16:10 ET| Source:ContextLogic Inc.FollowContextLogic Inc.",
+      "section_header": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results",
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ContextLogic Inc.",
+            "type": "company",
+            "attributes": {
+              "section_header": "ContextLogic Inc. Reports First-Quarter 2024 Financial Results",
+              "date": "2024-05-08",
+              "time": "16:10 ET",
+              "source": "ContextLogic Inc."
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "first-quarter 2024 financial results",
+          "earnings release",
+          "company announcement"
+        ],
+        "sentiment": "neutral",
+        "summary": "ContextLogic Inc. issued a press release on May 8, 2024 announcing its first-quarter 2024 financial results."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\WISH_2024_Q1.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

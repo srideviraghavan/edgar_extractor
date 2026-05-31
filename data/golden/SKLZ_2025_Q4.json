@@ -1,0 +1,19 @@
+{
+  "filing_id": "SKLZ_2025_Q4",
+  "ticker": "SKLZ",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "Skillz Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "net_income": {
+      "value": -17902,
+      "required": true
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 5,
+  "tags": []
+}

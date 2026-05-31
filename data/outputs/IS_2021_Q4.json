@@ -1,0 +1,4360 @@
+{
+  "filing_id": "IS_2021_Q4",
+  "filing_type": null,
+  "company_name": null,
+  "filing_date": null,
+  "tables": [
+    {
+      "table_id": "table_0",
+      "headers": [
+        "",
+        "col_1",
+        "Q122 Guidance",
+        "col_3",
+        "FY22 Guidance"
+      ],
+      "rows": [
+        {
+          "": "Revenue",
+          "col_1": "",
+          "Q122 Guidance": "$180-$185",
+          "col_3": "",
+          "FY22 Guidance": "$790-$820"
+        },
+        {
+          "": "Revenue Y/Y growth Rate",
+          "col_1": "",
+          "Q122 Guidance": "50%-55%",
+          "col_3": "",
+          "FY22 Guidance": "43%-48%"
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Q122 Guidance": "$56-$58",
+          "col_3": "",
+          "FY22 Guidance": "$255-$265"
+        },
+        {
+          "": "Adjusted EBITDA Margin",
+          "col_1": "",
+          "Q122 Guidance": "30%-32%",
+          "col_3": "",
+          "FY22 Guidance": "31%-34%"
+        },
+        {
+          "": "Fully Diluted shares outstanding",
+          "col_1": "",
+          "Q122 Guidance": "~1.1B shares",
+          "col_3": "",
+          "FY22 Guidance": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_1",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "December 31,",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2020",
+          "col_6": ""
+        },
+        {
+          "": "Assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Current assets:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Cash and cash equivalents",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "778,261",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "200,672",
+          "col_8": ""
+        },
+        {
+          "": "Short-term deposits",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,627",
+          "col_8": ""
+        },
+        {
+          "": "Accounts receivable, net of allowances of $437 and $724 as of December 31, 2021 and 2020, respectively",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "232,049",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "151,503",
+          "col_8": ""
+        },
+        {
+          "": "Other current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "42,382",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "15,711",
+          "col_8": ""
+        },
+        {
+          "": "Total current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,052,692",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "385,513",
+          "col_8": ""
+        },
+        {
+          "": "Long-term restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "3,495",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,415",
+          "col_8": ""
+        },
+        {
+          "": "Deferred tax assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "2,012",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "161",
+          "col_8": ""
+        },
+        {
+          "": "Operating lease right-of-use asset",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "34,116",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "36,780",
+          "col_8": ""
+        },
+        {
+          "": "Property, equipment and software, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "25,131",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "23,077",
+          "col_8": ""
+        },
+        {
+          "": "Investment in equity securities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "20,000",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "Goodwill",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "240,299",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "79,156",
+          "col_8": ""
+        },
+        {
+          "": "Intangible assets, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "54,221",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "8,084",
+          "col_8": ""
+        },
+        {
+          "": "Other non-current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "18,857",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "650",
+          "col_8": ""
+        },
+        {
+          "": "Total assets",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "1,450,823",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "535,836",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_2",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "December 31,",
+          "col_3": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2020",
+          "col_6": ""
+        },
+        {
+          "": "Liabilities and shareholders\u2019 equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Current liabilities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "247,362",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "155,476",
+          "col_8": ""
+        },
+        {
+          "": "Current maturities of long-term loan",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "9,725",
+          "col_8": ""
+        },
+        {
+          "": "Operating lease liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "7,525",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "7,429",
+          "col_8": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "53,949",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "34,034",
+          "col_8": ""
+        },
+        {
+          "": "Total current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "308,836",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "206,664",
+          "col_8": ""
+        },
+        {
+          "": "Long-term loan, net of current maturities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "74,684",
+          "col_8": ""
+        },
+        {
+          "": "Deferred tax liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "6,514",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,521",
+          "col_8": ""
+        },
+        {
+          "": "Long-term operating lease liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "30,076",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "32,241",
+          "col_8": ""
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "2,829",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "280",
+          "col_8": ""
+        },
+        {
+          "": "Total liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "348,255",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "316,390",
+          "col_8": ""
+        },
+        {
+          "": "Commitments and contingencies",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Shareholders\u2019 equity:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": ""
+        },
+        {
+          "": "Class A and Class B ordinary share, no par value; 11,500,000,000 (Class A 10,000,000,000 and Class B 1,500,000,000) shares authorized; 1,018,468,804 (Class A 652,938,412 and Class B 365,530,392) and 640,266,044 (Class A 320,133,022 and Class B 320,133,022) issued and outstanding at December 31, 2021 and 2020, respectively(*)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "2019 ordinary shares, NIS 0.01 par value, 25,006,298 authorized, issued and outstanding at December 31, 2020",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "72",
+          "col_8": ""
+        },
+        {
+          "": "Treasury shares, at cost, 6,745,955 Class A ordinary shares held at December 31, 2021",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(67,460",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "Additional paid-in capital(*)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,042,589",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "152,251",
+          "col_8": ""
+        },
+        {
+          "": "Accumulated other comprehensive income",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "495",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": ""
+        },
+        {
+          "": "Retained earnings",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "126,944",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "67,123",
+          "col_8": ""
+        },
+        {
+          "": "Total shareholders\u2019 equity",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,102,568",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "219,446",
+          "col_8": ""
+        },
+        {
+          "": "Total liabilities and shareholders\u2019 equity",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "1,450,823",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "535,836",
+          "col_8": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_4",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "Three Months Ended\n\nDecember 31,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "Year Ended December 31,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2020",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2021",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2020",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Revenue",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "158,271",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "108,354",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "553,466",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "331,519",
+          "col_16": ""
+        },
+        {
+          "": "Cost of revenue",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "24,562",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,306",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "89,223",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "57,825",
+          "col_16": ""
+        },
+        {
+          "": "Gross profit",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "133,709",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "91,048",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "464,243",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "273,694",
+          "col_16": ""
+        },
+        {
+          "": "Operating expenses:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Research and development",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "22,887",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,149",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "90,531",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "51,600",
+          "col_16": ""
+        },
+        {
+          "": "Sales and marketing",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "56,804",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "42,046",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "208,707",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "119,262",
+          "col_16": ""
+        },
+        {
+          "": "General and administrative",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "26,193",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "8,910",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "82,638",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "28,746",
+          "col_16": ""
+        },
+        {
+          "": "Total operating expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "105,884",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "68,105",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "381,876",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "199,608",
+          "col_16": ""
+        },
+        {
+          "": "Income from operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "27,825",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "22,943",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "82,367",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "74,086",
+          "col_16": ""
+        },
+        {
+          "": "Financial expenses, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(57",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,771",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,004",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "4,381",
+          "col_16": ""
+        },
+        {
+          "": "Income from continuing operations before income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "27,882",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "21,172",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "80,363",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "69,705",
+          "col_16": ""
+        },
+        {
+          "": "Income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "7,077",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "3,852",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "20,542",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "10,896",
+          "col_16": ""
+        },
+        {
+          "": "Income from continuing operations, net of income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "20,805",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "17,320",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "59,821",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "58,809",
+          "col_16": ""
+        },
+        {
+          "": "Income from discontinued operations, net of income taxes",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "4,701",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "36,480",
+          "col_16": ""
+        },
+        {
+          "": "Net income",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "20,805",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "22,021",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "59,821",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "95,289",
+          "col_16": ""
+        },
+        {
+          "": "Basic net income per ordinary share:(*)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Continuing operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "0.02",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.02",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0.07",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "0.07",
+          "col_16": ""
+        },
+        {
+          "": "Discontinued operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.01",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "0.04",
+          "col_16": ""
+        },
+        {
+          "": "Basic net income per ordinary share",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "0.02",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "0.03",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "0.07",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "0.11",
+          "col_16": ""
+        },
+        {
+          "": "Weighted-average ordinary shares outstanding \u2013 basic",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,014,509,223",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "639,223,211",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "832,144,353",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "636,450,643",
+          "col_16": ""
+        },
+        {
+          "": "Diluted net income per ordinary share:(*)",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Continuing operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "0.02",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.02",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "0.06",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "0.06",
+          "col_16": ""
+        },
+        {
+          "": "Discontinued operations",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "0.01",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "0.04",
+          "col_16": ""
+        },
+        {
+          "": "Diluted net income per ordinary share",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "0.02",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "0.03",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "0.06",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "0.10",
+          "col_16": ""
+        },
+        {
+          "": "Weighted-average ordinary shares outstanding \u2013 diluted",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,094,974,000",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "689,922,172",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "911,059,088",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "681,900,332",
+          "col_16": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_6",
+      "headers": [
+        "",
+        "col_1",
+        "col_2",
+        "col_3",
+        "col_4",
+        "col_5",
+        "col_6",
+        "col_7",
+        "col_8",
+        "col_9",
+        "col_10",
+        "col_11",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "Three Months Ended\n\nDecember 31,",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "Year Ended December 31,",
+          "col_6": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "2021",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "2020",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "2021",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2020",
+          "col_12": ""
+        },
+        {
+          "": "",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": ""
+        },
+        {
+          "": "Cash flows from operating Activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Net income from continuing operations",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "20,805",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "17,320",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "59,821",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "58,809",
+          "col_16": ""
+        },
+        {
+          "": "Adjustments to reconcile net income to net cash provided by operating activities:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "6,690",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "4,628",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "24,118",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "16,858",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "20,714",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "5,005",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "78,515",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "12,596",
+          "col_16": ""
+        },
+        {
+          "": "Non-cash lease expense",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,134",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "2,471",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "595",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "2,791",
+          "col_16": ""
+        },
+        {
+          "": "Effect of exchange rate changes on cash and cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(1,812",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,407",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(2,627",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(1,395",
+          "col_16": ")"
+        },
+        {
+          "": "Loss (gain) on disposal of property and equipment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(16",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Interest accrued and other financial expenses",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "110",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "628",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "271",
+          "col_16": ""
+        },
+        {
+          "": "Deferred income taxes, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,178",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "665",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "644",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(633",
+          "col_16": ")"
+        },
+        {
+          "": "Changes in operating assets and liabilities, net of effects of businesses acquired:",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Accounts receivable",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(41,568",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(25,435",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(82,584",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(39,816",
+          "col_16": ")"
+        },
+        {
+          "": "Other current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(10,261",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(6,426",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(27,721",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(5,771",
+          "col_16": ")"
+        },
+        {
+          "": "Other non-current assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(11,388",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(1,746",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(21,442",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(3,913",
+          "col_16": ")"
+        },
+        {
+          "": "Accounts payable",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "33,932",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "23,450",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "97,701",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "40,706",
+          "col_16": ""
+        },
+        {
+          "": "Other current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "8,886",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "6,690",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "14,553",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "11,118",
+          "col_16": ""
+        },
+        {
+          "": "Other non-current liabilities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,274",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "4",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "1,705",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "35",
+          "col_16": ""
+        },
+        {
+          "": "Net cash provided by continuing operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "29,585",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "25,329",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "143,890",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "91,656",
+          "col_16": ""
+        },
+        {
+          "": "Net cash provided by (used in) discontinued operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "6,188",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(5,168",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "52,771",
+          "col_16": ""
+        },
+        {
+          "": "Net cash provided by operating activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "29,585",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "31,517",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "138,722",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "144,427",
+          "col_16": ""
+        },
+        {
+          "": "Cash flows from investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Purchase of property and equipment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(391",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(94",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,419",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(1,049",
+          "col_16": ")"
+        },
+        {
+          "": "Capitalized software development costs",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(2,662",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,968",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(10,821",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(12,024",
+          "col_16": ")"
+        },
+        {
+          "": "Purchase of intangible assets",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(1,950",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Proceeds from sale of property and equipment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "10",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "31",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Acquisitions, net of cash acquired",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(38,209",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(127,549",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Purchase of equity investment",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(20,000",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Investments in short-term deposits",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(17,590",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(60,180",
+          "col_16": ")"
+        },
+        {
+          "": "Maturities of short-term deposits",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "37,590",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "17,590",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "50,690",
+          "col_16": ""
+        },
+        {
+          "": "Net cash provided by (used in) continuing investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(41,252",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "16,938",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(144,118",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(22,563",
+          "col_16": ")"
+        },
+        {
+          "": "Net cash provided by (used in) discontinued investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(928",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(5,082",
+          "col_16": ")"
+        },
+        {
+          "": "Net cash provided by (used in) investing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(41,252",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "16,010",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(144,118",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(27,645",
+          "col_16": ")"
+        },
+        {
+          "": "Cash flows from financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Repayment of long-term loan",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,500",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "(85,000",
+          "col_12": ")",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(7,500",
+          "col_16": ")"
+        },
+        {
+          "": "Proceeds from Recapitalization transaction, net",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "663,813",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Exercise of options and restricted share units",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "738",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "827",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,625",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "1,731",
+          "col_16": ""
+        },
+        {
+          "": "Other",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(540",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(540",
+          "col_16": ")"
+        },
+        {
+          "": "Net cash provided by (used in) continuing financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "738",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,213",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "581,438",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(6,309",
+          "col_16": ")"
+        },
+        {
+          "": "Net cash provided by (used in) discontinued financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "\u2014",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Net cash provided by (used in) financing activities",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "738",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "(2,213",
+          "col_8": ")",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "581,438",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "(6,309",
+          "col_16": ")"
+        },
+        {
+          "": "Effect of exchange rate changes on cash and cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "1,812",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "1,407",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "2,627",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "1,395",
+          "col_16": ""
+        },
+        {
+          "": "Net change in cash and cash equivalents and restricted cash",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "(10,929",
+          "col_4": ")",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "45,314",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "576,042",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "110,473",
+          "col_16": ""
+        },
+        {
+          "": "Cash and cash equivalents and restricted cash at beginning of the period",
+          "col_1": "",
+          "col_2": "",
+          "col_3": "790,873",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "",
+          "col_7": "156,366",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "",
+          "col_11": "203,087",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "91,219",
+          "col_16": ""
+        },
+        {
+          "": "Cash and cash equivalents and restricted cash at end of the period",
+          "col_1": "",
+          "col_2": "$",
+          "col_3": "781,756",
+          "col_4": "",
+          "col_5": "",
+          "col_6": "$",
+          "col_7": "203,087",
+          "col_8": "",
+          "col_9": "",
+          "col_10": "$",
+          "col_11": "781,756",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "203,087",
+          "col_16": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_7",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP Income from continuing operations, net of income taxes",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "20,805",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "17,320",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "59,821",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "58,809",
+          "col_16": ""
+        },
+        {
+          "": "Add:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "20,714",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "5,005",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "78,515",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "12,596",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "6,690",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "4,628",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "24,118",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "16,858",
+          "col_16": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "2,033",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "4,487",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Offering Costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "4,214",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Non-GAAP net income",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "50,242",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "26,953",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "171,155",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "88,263",
+          "col_16": ""
+        },
+        {
+          "": "Weighted-average ordinary shares outstanding\u2014basic*",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "1,014,509,223",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "639,223,211",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "832,144,353",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "636,450,643",
+          "col_16": ""
+        },
+        {
+          "": "Basic Non-GAAP net income per ordinary share*",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "0.05",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "0.03",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "0.18",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "0.10",
+          "col_16": ""
+        },
+        {
+          "": "Weighted-average ordinary shares outstanding\u2014diluted*",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "1,094,974,000",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "689,922,172",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "911,059,088",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "681,900,332",
+          "col_16": ""
+        },
+        {
+          "": "Diluted Non-GAAP net income per ordinary share*",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "0.05",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "0.03",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "0.17",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "0.09",
+          "col_16": ""
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_9",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP Income from continuing operations, net of income taxes",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "20,805",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "17,320",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "59,821",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "58,809",
+          "col_16": ""
+        },
+        {
+          "": "Add:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Financial expenses, net",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "(57",
+          "col_4": ")",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "1,771",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "2,004",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "4,381",
+          "col_16": ""
+        },
+        {
+          "": "Income taxes",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "7,077",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "3,852",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "20,542",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "10,896",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "20,714",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "5,005",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "78,515",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "12,596",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "6,690",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "4,628",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "24,118",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "16,858",
+          "col_16": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "2,033",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "4,487",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Offering Costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "4,214",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Adjusted EBITDA",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "57,262",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "32,576",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "193,701",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "103,540",
+          "col_16": ""
+        },
+        {
+          "": "Revenue",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "158,271",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "108,354",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "553,466",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "331,519",
+          "col_16": ""
+        },
+        {
+          "": "Income from continuing operations, net of income taxes margin",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "13",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "16",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "11",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "18",
+          "col_16": "%"
+        },
+        {
+          "": "Adjusted EBITDA margin",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "36",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "30",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "35",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "31",
+          "col_16": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_10",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP gross profit",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "133,709",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "91,048",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "464,243",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "273,694",
+          "col_16": ""
+        },
+        {
+          "": "Add:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "304",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "191",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "1,217",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "316",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "5,855",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "4,033",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "20,949",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "14,487",
+          "col_16": ""
+        },
+        {
+          "": "Non-GAAP gross profit",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "139,868",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "95,272",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "486,409",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "288,497",
+          "col_16": ""
+        },
+        {
+          "": "GAAP gross margin",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "84",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "84",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "84",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "83",
+          "col_16": "%"
+        },
+        {
+          "": "Non-GAAP gross margin",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "88",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "88",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "88",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "87",
+          "col_16": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_11",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP research and development expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "22,887",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "17,149",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "90,531",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "51,600",
+          "col_16": ""
+        },
+        {
+          "": "Less:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "6,864",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "1,529",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "24,419",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "3,881",
+          "col_16": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "234",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "465",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Non-GAAP research and development expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "15,789",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "15,620",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "65,647",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "47,719",
+          "col_16": ""
+        },
+        {
+          "": "GAAP research and development expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "14",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "16",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "16",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "16",
+          "col_16": "%"
+        },
+        {
+          "": "Non-GAAP research and development expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "10",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "14",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "12",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "14",
+          "col_16": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_12",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP sales and marketing expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "56,804",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "42,046",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "208,707",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "119,262",
+          "col_16": ""
+        },
+        {
+          "": "Less:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "4,162",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "2,177",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "16,807",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "4,692",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "446",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "231",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "1,678",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "925",
+          "col_16": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "697",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "1,073",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Non-GAAP sales and marketing expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "51,499",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "39,638",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "189,149",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "113,645",
+          "col_16": ""
+        },
+        {
+          "": "GAAP sales and marketing expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "36",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "39",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "38",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "36",
+          "col_16": "%"
+        },
+        {
+          "": "Non-GAAP sales and marketing expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "33",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "37",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "34",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "34",
+          "col_16": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    },
+    {
+      "table_id": "table_13",
+      "headers": [
+        "",
+        "col_1",
+        "Q4 2021",
+        "col_3",
+        "col_4",
+        "Q4 2020",
+        "col_6",
+        "col_7",
+        "FY 2021",
+        "col_9",
+        "col_10",
+        "FY 2020",
+        "col_12",
+        "col_13",
+        "col_14",
+        "col_15",
+        "col_16"
+      ],
+      "rows": [
+        {
+          "": "",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": ""
+        },
+        {
+          "": "GAAP general and administrative expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "26,193",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "8,910",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "82,638",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "28,746",
+          "col_16": ""
+        },
+        {
+          "": "Less:",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "",
+          "col_16": ""
+        },
+        {
+          "": "Share-based compensation expense",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "9,384",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "1,108",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "36,072",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "3,707",
+          "col_16": ""
+        },
+        {
+          "": "Depreciation and amortization",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "389",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "364",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "1,491",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "1,446",
+          "col_16": ""
+        },
+        {
+          "": "Acquisition-related costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "1,102",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "2,949",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Offering Costs",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "\u2014",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "\u2014",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "4,214",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "\u2014",
+          "col_16": ""
+        },
+        {
+          "": "Non-GAAP general and administrative expense",
+          "col_1": "",
+          "Q4 2021": "$",
+          "col_3": "15,318",
+          "col_4": "",
+          "Q4 2020": "",
+          "col_6": "$",
+          "col_7": "7,438",
+          "FY 2021": "",
+          "col_9": "",
+          "col_10": "$",
+          "FY 2020": "37,912",
+          "col_12": "",
+          "col_13": "",
+          "col_14": "$",
+          "col_15": "23,593",
+          "col_16": ""
+        },
+        {
+          "": "GAAP general and administrative expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "17",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "8",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "15",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "9",
+          "col_16": "%"
+        },
+        {
+          "": "Non-GAAP general and administrative expense as a percentage of revenue",
+          "col_1": "",
+          "Q4 2021": "",
+          "col_3": "10",
+          "col_4": "%",
+          "Q4 2020": "",
+          "col_6": "",
+          "col_7": "7",
+          "FY 2021": "%",
+          "col_9": "",
+          "col_10": "",
+          "FY 2020": "7",
+          "col_12": "%",
+          "col_13": "",
+          "col_14": "",
+          "col_15": "7",
+          "col_16": "%"
+        }
+      ],
+      "confidence": 0.5,
+      "source_section": "ironSource Announces Fourth Quarter and Full Year 2021 Financial Results"
+    }
+  ],
+  "prose_chunks": [
+    {
+      "chunk_id": "prose_p_1043",
+      "text": "Effect of exchange rate changes on cash and cash equivalents and restricted cash",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "effect of exchange rate changes",
+          "cash and cash equivalents",
+          "restricted cash"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section indicates a discussion of how exchange rate changes affect cash and cash equivalents, including restricted cash, but provides no specific figures or named entities."
+      }
+    },
+    {
+      "chunk_id": "prose_p_975",
+      "text": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "reconciliation of net income to net cash provided by operating activities",
+          "operating cash flow adjustments"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces adjustments used to reconcile net income to net cash provided by operating activities, but provides no specific figures or entities."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1111",
+      "text": "Changes in operating assets and liabilities, net of effects of businesses acquired:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "changes in operating assets and liabilities",
+          "effects of businesses acquired"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces changes in operating assets and liabilities, excluding the effects of businesses acquired, but provides no specific figures or additional details."
+      }
+    },
+    {
+      "chunk_id": "prose_p_384",
+      "text": "Treasury shares, at cost, 6,745,955 Class A ordinary shares held at December 31, 2021",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Class A ordinary shares",
+            "type": "other",
+            "attributes": {
+              "category": "treasury shares",
+              "measurement_basis": "at cost",
+              "held_at_date": "December 31, 2021",
+              "quantity": "6,745,955"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "6745955",
+            "type": "other",
+            "currency": "other",
+            "period": "December 31, 2021"
+          }
+        ],
+        "key_topics": [
+          "treasury shares",
+          "Class A ordinary shares",
+          "share count",
+          "equity"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that 6,745,955 Class A ordinary shares were held as treasury shares at cost as of December 31, 2021."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1",
+      "text": "Q4 Adjusted EBITDA 1 of $57 million, 76% year-over-year growth; 36% Adjusted EBITDA Margin 1",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Q4",
+            "type": "other",
+            "attributes": {
+              "context": "quarterly reporting period"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "earnings before interest, taxes, depreciation, and amortization, adjusted"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "57",
+            "type": "other",
+            "currency": "USD",
+            "period": "Q4"
+          },
+          {
+            "figure": "76%",
+            "type": "other",
+            "currency": "other",
+            "period": "year-over-year"
+          },
+          {
+            "figure": "36%",
+            "type": "other",
+            "currency": "other",
+            "period": "Q4"
+          }
+        ],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "year-over-year growth",
+          "EBITDA margin",
+          "quarterly performance"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports Q4 Adjusted EBITDA of $57 million, representing 76% year-over-year growth and a 36% Adjusted EBITDA margin."
+      }
+    },
+    {
+      "chunk_id": "prose_p_117",
+      "text": "Accounts receivable, net of allowances of $437 and $724 as of December 31, 2021 and 2020, respectively",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": 437,
+            "type": "assets",
+            "currency": "USD",
+            "period": "December 31, 2021"
+          },
+          {
+            "figure": 724,
+            "type": "assets",
+            "currency": "USD",
+            "period": "December 31, 2020"
+          }
+        ],
+        "key_topics": [
+          "accounts receivable",
+          "allowances",
+          "asset valuation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that accounts receivable are presented net of allowances of $437 as of December 31, 2021 and $724 as of December 31, 2020."
+      }
+    },
+    {
+      "chunk_id": "prose_p_375",
+      "text": "2019 ordinary shares, NIS 0.01 par value, 25,006,298 authorized, issued and outstanding at December 31, 2020",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "2019 ordinary shares",
+            "type": "other",
+            "attributes": {
+              "par_value": "NIS 0.01",
+              "authorized": "25,006,298",
+              "issued_and_outstanding_at": "December 31, 2020"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "25006298",
+            "type": "other",
+            "currency": "other",
+            "period": "December 31, 2020"
+          }
+        ],
+        "key_topics": [
+          "ordinary shares",
+          "share capital",
+          "authorized shares",
+          "issued and outstanding shares",
+          "par value"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that 2019 ordinary shares with NIS 0.01 par value had 25,006,298 shares authorized, issued, and outstanding as of December 31, 2020."
+      }
+    },
+    {
+      "chunk_id": "prose_p_11",
+      "text": "ironSource is introducing first quarter of 2022 guidance and guidance for the fiscal year ending December 31, 2022.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "action": "introducing guidance",
+              "periods": "first quarter of 2022 and fiscal year ending December 31, 2022"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "earnings guidance",
+          "first quarter 2022",
+          "fiscal year 2022"
+        ],
+        "sentiment": "neutral",
+        "summary": "ironSource is introducing guidance for the first quarter of 2022 and for the fiscal year ending December 31, 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1695",
+      "text": "Reconciliation of GAAP to Non-GAAP net income from continuing operations, net of income taxes and net income per share:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "GAAP to Non-GAAP reconciliation",
+          "net income from continuing operations",
+          "net income per share",
+          "income taxes"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces a reconciliation of GAAP to non-GAAP net income from continuing operations, net of income taxes, and net income per share, but provides no specific figures in the text shown."
+      }
+    },
+    {
+      "chunk_id": "prose_p_44",
+      "text": "ironSource will host a conference call and live webcast for analysts and investors at 8:30 a.m. Eastern Time on February 16, 2022.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "event": "conference call and live webcast",
+              "audience": "analysts and investors",
+              "time": "8:30 a.m. Eastern Time",
+              "date": "February 16, 2022"
+            }
+          },
+          {
+            "name": "Eastern Time",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call",
+          "live webcast",
+          "analysts and investors",
+          "earnings communication"
+        ],
+        "sentiment": "neutral",
+        "summary": "ironSource announced a conference call and live webcast for analysts and investors scheduled for 8:30 a.m. Eastern Time on February 16, 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_2",
+      "text": "Full year 2021 Revenue of $553 million, 67% year-over-year growth; full year Adjusted EBITDA of $194 million, 87% year-over-year growth",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [
+          {
+            "figure": "553000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "full year 2021"
+          },
+          {
+            "figure": "194000000",
+            "type": "other",
+            "currency": "USD",
+            "period": "full year 2021"
+          }
+        ],
+        "key_topics": [
+          "full year 2021 revenue",
+          "year-over-year growth",
+          "adjusted EBITDA"
+        ],
+        "sentiment": "positive",
+        "summary": "The section reports full-year 2021 revenue of $553 million, up 67% year over year, and adjusted EBITDA of $194 million, up 87% year over year."
+      }
+    },
+    {
+      "chunk_id": "prose_p_49",
+      "text": "ironSource management is scheduled to participate in the Morgan Stanley Technology, Media and Telecom conference on March 9th in San Francisco.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "role": "management participant"
+            }
+          },
+          {
+            "name": "Morgan Stanley Technology, Media and Telecom conference",
+            "type": "other",
+            "attributes": {
+              "event_type": "conference",
+              "date": "March 9th",
+              "location": "San Francisco"
+            }
+          },
+          {
+            "name": "San Francisco",
+            "type": "location",
+            "attributes": {}
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference participation",
+          "investor relations",
+          "technology media and telecom"
+        ],
+        "sentiment": "neutral",
+        "summary": "ironSource management is scheduled to participate in the Morgan Stanley Technology, Media and Telecom conference on March 9th in San Francisco."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1694",
+      "text": "The following tables show the Company\u2019s non-GAAP financial metrics reconciled to the comparable GAAP financial metrics included in this release.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "description": "Referenced as the entity whose non-GAAP financial metrics are reconciled to comparable GAAP financial metrics"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial metrics",
+          "GAAP reconciliation",
+          "financial reporting"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section states that the company\u2019s non-GAAP financial metrics are reconciled to comparable GAAP financial metrics in the release."
+      }
+    },
+    {
+      "chunk_id": "prose_p_1912",
+      "text": "Adjusted EBITDA and Adjusted EBITDA margin and a reconciliation of GAAP income from continuing operations, net of income taxes to Adjusted EBITDA:",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin",
+          "GAAP income from continuing operations",
+          "income taxes",
+          "reconciliation"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section introduces Adjusted EBITDA and Adjusted EBITDA margin and indicates that a reconciliation from GAAP income from continuing operations, net of income taxes, to Adjusted EBITDA is provided."
+      }
+    },
+    {
+      "chunk_id": "prose_p_439",
+      "text": "Per share amounts have been adjusted, on a retroactive basis, for all periods presented, to reflect both the distribution of Class B ordinary shares and the Stock Split, together representing a ratio of 9.98 of each share.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Class B ordinary shares",
+            "type": "other",
+            "attributes": {
+              "event": "distribution",
+              "adjustment": "retroactive",
+              "related_to": "per share amounts"
+            }
+          },
+          {
+            "name": "Stock Split",
+            "type": "other",
+            "attributes": {
+              "adjustment": "retroactive",
+              "related_to": "per share amounts"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "9.98",
+            "type": "other",
+            "currency": "other",
+            "period": "all periods presented"
+          }
+        ],
+        "key_topics": [
+          "retroactive per-share adjustment",
+          "Class B ordinary shares distribution",
+          "stock split",
+          "share ratio"
+        ],
+        "sentiment": "neutral",
+        "summary": "Per share amounts were retroactively adjusted for all periods presented to reflect the distribution of Class B ordinary shares and a stock split, together representing a ratio of 9.98 shares."
+      }
+    },
+    {
+      "chunk_id": "prose_p_366",
+      "text": "Class A and Class B ordinary share, no par value; 11,500,000,000 (Class A 10,000,000,000 and Class B 1,500,000,000) shares authorized; 1,018,468,804 (Class A 652,938,412 and Class B 365,530,392) and 640,266,044 (Class A 320,133,022 and Class B 320,133,022) issued and outstanding at December 31, 2021 and 2020, respectively (*)",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Class A ordinary share",
+            "type": "other",
+            "attributes": {
+              "par_value": "no par value",
+              "authorized_shares": "10,000,000,000",
+              "issued_and_outstanding_2021": "652,938,412",
+              "issued_and_outstanding_2020": "320,133,022"
+            }
+          },
+          {
+            "name": "Class B ordinary share",
+            "type": "other",
+            "attributes": {
+              "par_value": "no par value",
+              "authorized_shares": "1,500,000,000",
+              "issued_and_outstanding_2021": "365,530,392",
+              "issued_and_outstanding_2020": "320,133,022"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "11500000000",
+            "type": "other",
+            "currency": "other",
+            "period": "authorized shares"
+          },
+          {
+            "figure": "1018468804",
+            "type": "other",
+            "currency": "other",
+            "period": "December 31, 2021"
+          },
+          {
+            "figure": "640266044",
+            "type": "other",
+            "currency": "other",
+            "period": "December 31, 2020"
+          }
+        ],
+        "key_topics": [
+          "share capital",
+          "authorized shares",
+          "issued and outstanding shares",
+          "Class A ordinary shares",
+          "Class B ordinary shares"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section describes the company's ordinary share capital, including Class A and Class B shares, their authorized amounts, and the number of shares issued and outstanding at December 31, 2021 and 2020."
+      }
+    },
+    {
+      "chunk_id": "prose_p_45",
+      "text": "Parties in the United States can access the call by dialing +1 844-200-6205, using conference code 510139. International parties can access the call by dialing +1 929-526-1599, using conference code 510139. This press release and the accompanying presentation materials will be available on the Company\u2019s website at http://www.is.com/ shortly before the presentation begins.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "United States",
+            "type": "location",
+            "attributes": {
+              "context": "parties in the United States can access the call"
+            }
+          },
+          {
+            "name": "International parties",
+            "type": "other",
+            "attributes": {
+              "context": "can access the call using the international dial-in number"
+            }
+          },
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "website": "http://www.is.com/",
+              "context": "press release and presentation materials available on the company's website"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "conference call access",
+          "dial-in numbers",
+          "conference code",
+          "company website",
+          "press release availability",
+          "presentation materials"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides dial-in details and conference code for a call, and notes that the press release and presentation materials will be available on the company\u2019s website shortly before the presentation begins."
+      }
+    },
+    {
+      "chunk_id": "prose_p_51",
+      "text": "ironSource monitors the key business metrics set forth below to help evaluate the business and growth trends, establish budgets, measure the effectiveness of sales and marketing efforts, and assess operational efficiencies. The calculation of the key metrics discussed below may differ from other similarly-titled metrics used by other companies, securities analysts or investors.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "role": "monitors key business metrics",
+              "purpose": "evaluate business and growth trends, establish budgets, measure effectiveness of sales and marketing efforts, assess operational efficiencies"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "key business metrics",
+          "business and growth trends",
+          "budgeting",
+          "sales and marketing effectiveness",
+          "operational efficiencies",
+          "metric calculation comparability"
+        ],
+        "sentiment": "neutral",
+        "summary": "ironSource states that it monitors key business metrics to evaluate growth, budgeting, sales and marketing effectiveness, and operational efficiency, and notes that its metric calculations may differ from those used by other companies."
+      }
+    },
+    {
+      "chunk_id": "prose_p_4",
+      "text": "TEL AVIV, Israel--( BUSINESS WIRE )--ironSource (NYSE: IS) (\u201cironSource\u201d or the \u201cCompany\u201d), a leading business platform for the App Economy, today announced financial results for the fourth quarter and fiscal year ended December 31, 2021. In addition, the Company provided its initial outlook for the first quarter ending March 31, 2022 and guidance for the full fiscal year 2022.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "ticker": "NYSE: IS",
+              "description": "leading business platform for the App Economy",
+              "headquarters": "TEL AVIV, Israel"
+            }
+          },
+          {
+            "name": "TEL AVIV",
+            "type": "location",
+            "attributes": {
+              "country": "Israel"
+            }
+          },
+          {
+            "name": "Business Wire",
+            "type": "other",
+            "attributes": {
+              "role": "newswire"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "2021-12-31",
+            "type": "other",
+            "currency": "other",
+            "period": "fourth quarter and fiscal year ended December 31, 2021"
+          },
+          {
+            "figure": "2022-03-31",
+            "type": "other",
+            "currency": "other",
+            "period": "first quarter ending March 31, 2022"
+          }
+        ],
+        "key_topics": [
+          "financial results",
+          "fourth quarter 2021",
+          "fiscal year 2021",
+          "initial outlook",
+          "first quarter 2022 guidance",
+          "full fiscal year 2022 guidance"
+        ],
+        "sentiment": "neutral",
+        "summary": "ironSource announced its financial results for the fourth quarter and fiscal year ended December 31, 2021, and provided initial outlook for the first quarter of 2022 along with full-year 2022 guidance."
+      }
+    },
+    {
+      "chunk_id": "prose_p_47",
+      "text": "The webcast will be posted on ironSource\u2019s investor relations website at investors.is.com shortly after the call and will remain accessible for one year. A telephonic replay of the conference call will be available through March 2, 2022. To access the replay, parties in the United States can dial +1 866-813-9403, using conference code 967312. International parties can access the replay by dialing +44 204-525-0658, using conference code 967312.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "website": "investors.is.com",
+              "webcast_availability": "shortly after the call",
+              "webcast_access_duration": "one year"
+            }
+          },
+          {
+            "name": "United States",
+            "type": "location",
+            "attributes": {
+              "replay_phone": "+1 866-813-9403"
+            }
+          },
+          {
+            "name": "International",
+            "type": "location",
+            "attributes": {
+              "replay_phone": "+44 204-525-0658"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "webcast availability",
+          "conference call replay",
+          "investor relations website",
+          "dial-in replay instructions"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section provides details on where to access the webcast replay on ironSource\u2019s investor relations website and gives telephonic replay instructions, including phone numbers, conference code, and availability through March 2, 2022."
+      }
+    },
+    {
+      "chunk_id": "prose_p_5",
+      "text": "\u201c Our fourth quarter results capped an outstanding 2021 in which we achieved record yearly revenue of $553 million, which we believe demonstrates steadily-growing demand for ironSource\u2019s unique set of offerings designed to help businesses take advantage of the fast-expanding App Economy. Equally important, we have remained focused on our financial fundamentals as we transitioned from being private to being a public company in 2021, achieving 67% year-over-year revenue growth along with 35% Adjusted EBITDA margin,\u201d said Tomer Bar Zeev, CEO and co-founder of ironSource.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "description": "Company referenced as having record yearly revenue and transitioning from private to public in 2021"
+            }
+          },
+          {
+            "name": "Tomer Bar Zeev",
+            "type": "person",
+            "attributes": {
+              "role": "CEO and co-founder of ironSource"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "553000000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "2021"
+          },
+          {
+            "figure": "67%",
+            "type": "revenue growth",
+            "currency": "other",
+            "period": "year-over-year in 2021"
+          },
+          {
+            "figure": "35%",
+            "type": "other",
+            "currency": "other",
+            "period": "Adjusted EBITDA margin in 2021"
+          }
+        ],
+        "key_topics": [
+          "record annual revenue",
+          "year-over-year growth",
+          "Adjusted EBITDA margin",
+          "public company transition",
+          "App Economy demand"
+        ],
+        "sentiment": "positive",
+        "summary": "ironSource reported record 2021 yearly revenue of $553 million, 67% year-over-year revenue growth, and a 35% Adjusted EBITDA margin, highlighting strong demand and a successful transition to a public company."
+      }
+    },
+    {
+      "chunk_id": "prose_p_7",
+      "text": "\u201c We have worked hard to further cement our market leadership position in 2021, and are excited about the significant near- and long-term growth opportunities in our total addressable market as we look at the years ahead. We will work to increase our penetration in apps beyond games as those publishers look to adopt the monetization and marketing playbook used by mobile games to boost profitability. We will also continue to enhance and expand the overall set of solutions we offer our customers, such as with our cross-channel marketing solution, to increase our share of wallet.\u201d",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "market leadership position",
+            "type": "other",
+            "attributes": {
+              "context": "Company states it further cemented its market leadership position in 2021"
+            }
+          },
+          {
+            "name": "apps beyond games",
+            "type": "other",
+            "attributes": {
+              "context": "Target segment for increased penetration"
+            }
+          },
+          {
+            "name": "cross-channel marketing solution",
+            "type": "other",
+            "attributes": {
+              "context": "Product/solution offered to customers"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "market leadership",
+          "growth opportunities",
+          "total addressable market",
+          "apps beyond games",
+          "monetization",
+          "marketing playbook",
+          "cross-channel marketing",
+          "share of wallet",
+          "customer solutions expansion"
+        ],
+        "sentiment": "positive",
+        "summary": "The company expresses confidence in its strengthened market position in 2021 and highlights growth opportunities in its addressable market. It plans to expand into apps beyond games, enhance its solution set, and increase customer share of wallet."
+      }
+    },
+    {
+      "chunk_id": "prose_p_53",
+      "text": "ironSource\u2019s larger customer relationships drive scale, improved unit economics and operating leverage in its business model, which improves ironSource\u2019s solutions and thereby increases the value proposition to all of ironSource\u2019s customers. To measure ironSource\u2019s ability to scale with its customers and attract large enterprises to its platform, ironSource counts the number of customers that contributed more than $100,000 in revenue in the trailing 12 months. ironSource\u2019s gross customer retention rate is calculated by comparing two twelve-month periods to see how many customers in the previous period remain active customers in the current period. ironSource\u2019s customer count is subject to adjustments for acquisitions, consolidations, spin-offs and other market activity.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "business_context": "Software/platform company",
+              "metrics_discussed": "customer count, gross customer retention rate",
+              "customer_threshold": "customers contributing more than $100,000 in revenue in the trailing 12 months"
+            }
+          }
+        ],
+        "financial_figures": [
+          {
+            "figure": "100000",
+            "type": "revenue",
+            "currency": "USD",
+            "period": "trailing 12 months"
+          }
+        ],
+        "key_topics": [
+          "customer scale",
+          "unit economics",
+          "operating leverage",
+          "gross customer retention rate",
+          "enterprise customer growth",
+          "customer count adjustments"
+        ],
+        "sentiment": "positive",
+        "summary": "The section explains that ironSource benefits from larger customer relationships, which improve scale, unit economics, and operating leverage. It also describes how the company measures customer scale using customers contributing over $100,000 in trailing 12-month revenue and how gross customer retention is calculated."
+      }
+    },
+    {
+      "chunk_id": "prose_p_55",
+      "text": "ironSource believes the growth in the use of its platform by existing customers is an important measure of the health of its business and future growth prospects. ironSource monitors its performance in this area using an indicator management refers to as dollar-based net expansion rate. ironSource calculates dollar-based net expansion rate for a period by dividing current period revenue from a set of customers by prior period revenue of the same set of customers. Prior period revenue is the trailing 12-month revenue measured as of such prior period end. Current period revenue is the trailing 12-month revenue from the same customers as of the current period end. Management\u2019s calculation of dollar-based net expansion rate includes the effect of any customer renewals, expansion, contraction and churn, but excludes revenue from new customers.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "metric_monitored": "dollar-based net expansion rate",
+              "focus": "growth in use of platform by existing customers",
+              "metric_definition": "current period revenue from a set of customers divided by prior period revenue of the same set of customers",
+              "prior_period_revenue_basis": "trailing 12-month revenue measured as of the prior period end",
+              "current_period_revenue_basis": "trailing 12-month revenue from the same customers as of the current period end",
+              "included_effects": "customer renewals, expansion, contraction, and churn",
+              "excluded_effects": "revenue from new customers"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "dollar-based net expansion rate",
+          "customer retention",
+          "revenue growth",
+          "existing customers",
+          "subscription metrics"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that ironSource uses dollar-based net expansion rate to assess the health of its business and future growth prospects, defining it as current period trailing 12-month revenue from a customer set divided by the prior period trailing 12-month revenue from the same set, including renewals, expansion, contraction, and churn but excluding new customer revenue."
+      }
+    },
+    {
+      "chunk_id": "prose_p_61",
+      "text": "ironSource is a leading business platform for the App Economy. App developers use ironSource\u2019s platform to turn their apps into successful, scalable businesses, leveraging a comprehensive set of software solutions which help them grow and engage users, monetize content, and analyze and optimize business performance to drive more overall growth. The ironSource platform also empowers telecom operators to create a richer device experience, incorporating relevant app and service recommendations to engage users throughout the lifecycle of the device. By providing a comprehensive business platform for the core constituents of the App Economy, ironSource allows customers to focus on what they do best, creating great apps and user experiences, while enabling their business expansion in the App Economy. For more information please visit www.is.com .",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "description": "Leading business platform for the App Economy",
+              "website": "www.is.com",
+              "customers": "App developers and telecom operators",
+              "services": "Software solutions for growth, user engagement, monetization, analytics, and business optimization"
+            }
+          },
+          {
+            "name": "App Economy",
+            "type": "other",
+            "attributes": {
+              "description": "Market ecosystem served by ironSource"
+            }
+          },
+          {
+            "name": "telecom operators",
+            "type": "other",
+            "attributes": {
+              "description": "Customers using the platform to create richer device experiences"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "App Economy",
+          "software platform",
+          "app monetization",
+          "user engagement",
+          "analytics and optimization",
+          "telecom device experience",
+          "business growth"
+        ],
+        "sentiment": "positive",
+        "summary": "The section describes ironSource as a business platform for the App Economy that helps app developers and telecom operators grow, engage users, monetize content, and optimize performance."
+      }
+    },
+    {
+      "chunk_id": "prose_p_46",
+      "text": "____________ 1 Adjusted EBITDA and Adjusted EBITDA margin are financial measures that are not required by, or presented in accordance with, U.S. GAAP. Please see Annex A of this release for a reconciliation of Adjusted EBITDA to net income, the most directly comparable financial measure stated in accordance with GAAP for each of the periods presented. We calculate Adjusted EBITDA margin as Adjusted EBITDA divided by revenue. 2 Adjusted EBITDA is a financial measure that is not required by, or presented in accordance with, U.S. GAAP. The Company has not reconciled its Adjusted EBITDA guidance to net income because net income is not accessible on a forward-looking basis and, accordingly, a reconciliation to net income is not available without unreasonable effort. See \u201c Key Performance Metrics and Non-GAAP Financial Measures\u201d for more information.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "U.S. GAAP",
+            "type": "other",
+            "attributes": {
+              "description": "Accounting standard referenced as the basis for comparison and reconciliation"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure discussed in the section"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA margin",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP margin measure calculated as Adjusted EBITDA divided by revenue"
+            }
+          },
+          {
+            "name": "net income",
+            "type": "other",
+            "attributes": {
+              "description": "Most directly comparable GAAP financial measure referenced for reconciliation"
+            }
+          },
+          {
+            "name": "Annex A",
+            "type": "other",
+            "attributes": {
+              "description": "Section of the release containing the reconciliation"
+            }
+          },
+          {
+            "name": "Key Performance Metrics and Non-GAAP Financial Measures",
+            "type": "other",
+            "attributes": {
+              "description": "Referenced section for additional information"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Non-GAAP financial measures",
+          "Adjusted EBITDA",
+          "Adjusted EBITDA margin",
+          "GAAP reconciliation",
+          "Forward-looking guidance",
+          "Unreasonable effort exception"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP measures, defines Adjusted EBITDA margin as Adjusted EBITDA divided by revenue, and states that the Company cannot reconcile Adjusted EBITDA guidance to net income on a forward-looking basis without unreasonable effort."
+      }
+    },
+    {
+      "chunk_id": "prose_p_57",
+      "text": "ironSource defines Adjusted EBITDA as income from continuing operations, net of income taxes, as adjusted for income taxes, financial expenses, net and depreciation and amortization, further adjusted for assets impairment, share-based compensation expense and fair value adjustment related to contingent consideration, acquisition-related costs and offering costs. ironSource defines Adjusted EBITDA Margin as Adjusted EBITDA calculated as a percentage of revenue. Adjusted EBITDA and Adjusted EBITDA Margin are included in this press release because they are key metrics used by management and our board of directors to assess our financial performance. Adjusted EBITDA and Adjusted EBITDA Margin are frequently used by analysts, investors and other interested parties to evaluate companies in our industry. ironSource management believes that Adjusted EBITDA and Adjusted EBITDA Margin are appropriate measures of operating performance because each eliminates the impact of expenses that do not relate directly to the performance of the underlying business.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "ironSource",
+            "type": "company",
+            "attributes": {
+              "defines": "Adjusted EBITDA and Adjusted EBITDA Margin",
+              "role": "issuer"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "definition": "Income from continuing operations, net of income taxes, adjusted for income taxes, financial expenses, net, depreciation and amortization, assets impairment, share-based compensation expense, fair value adjustment related to contingent consideration, acquisition-related costs, and offering costs"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA Margin",
+            "type": "other",
+            "attributes": {
+              "definition": "Adjusted EBITDA calculated as a percentage of revenue"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "Adjusted EBITDA",
+          "Adjusted EBITDA Margin",
+          "non-GAAP financial measures",
+          "operating performance",
+          "management metrics"
+        ],
+        "sentiment": "positive",
+        "summary": "The section defines ironSource's Adjusted EBITDA and Adjusted EBITDA Margin, explaining the adjustments made to income from continuing operations and noting that these metrics are used by management, the board, analysts, and investors to assess operating performance."
+      }
+    },
+    {
+      "chunk_id": "prose_p_59",
+      "text": "For more information on the non-GAAP financial measures, please see the reconciliation tables provided below. The accompanying tables have more details on the GAAP financial measures that are most directly comparable to non-GAAP financial measures and the related reconciliations between these financial measures. The Company has not reconciled its Adjusted EBITDA guidance to net income because net income is not accessible on a forward-looking basis. Certain items that impact Adjusted EBITDA are out of the Company\u2019s control and/or cannot be reasonably predicted. These items include, but are not limited to, share based compensation expenses. These items are uncertain, depend on various factors, and could have a material impact on GAAP reported results for the guidance period. Accordingly, a reconciliation to net income is not available without unreasonable effort. For more information regarding the non-GAAP financial measures discussed in this release, please see Annex A of this release for the reconciliations of GAAP financial measures to non-GAAP financial measures.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Company",
+            "type": "company",
+            "attributes": {
+              "context": "Issuer discussing non-GAAP financial measures and reconciliations",
+              "measure": "Adjusted EBITDA",
+              "note": "Did not reconcile Adjusted EBITDA guidance to net income because net income is not accessible on a forward-looking basis"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP financial measure referenced in guidance"
+            }
+          },
+          {
+            "name": "net income",
+            "type": "other",
+            "attributes": {
+              "description": "GAAP measure not reconciled on a forward-looking basis"
+            }
+          },
+          {
+            "name": "share based compensation expenses",
+            "type": "other",
+            "attributes": {
+              "description": "Example of an item impacting Adjusted EBITDA"
+            }
+          },
+          {
+            "name": "Annex A",
+            "type": "other",
+            "attributes": {
+              "description": "Contains reconciliations of GAAP financial measures to non-GAAP financial measures"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP financial measures",
+          "GAAP to non-GAAP reconciliation",
+          "Adjusted EBITDA guidance",
+          "forward-looking limitations",
+          "share-based compensation",
+          "unreasonable effort disclosure",
+          "Annex A reconciliations"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that the company provides reconciliation tables for non-GAAP measures, but cannot reconcile Adjusted EBITDA guidance to net income on a forward-looking basis because net income is not accessible and certain impacting items, such as share-based compensation, cannot be reasonably predicted."
+      }
+    },
+    {
+      "chunk_id": "prose_p_58",
+      "text": "Adjusted EBITDA and Adjusted EBITDA Margin are non-GAAP measures of our financial performance and should not be considered as alternatives to net loss as a measure of financial performance, as alternatives to cash flows from operations as a measure of liquidity, or as alternatives to any other performance measure derived in accordance with GAAP. Adjusted EBITDA and Adjusted EBITDA Margin should not be construed as inferences that our future results will be unaffected by unusual or other items. Additionally, Adjusted EBITDA and Adjusted EBITDA Margin are not intended to be measures of free cash flow for management\u2019s discretionary use, as they do not reflect our tax payments and certain other cash costs that may recur in the future, including, among other things, cash requirements for costs to replace assets being depreciated and amortized. Management compensates for these limitations by relying on our GAAP results in addition to using Adjusted EBITDA and Adjusted EBITDA Margin as supplemental measures. Our measures of Adjusted EBITDA and Adjusted EBITDA Margin are not necessarily comparable to similarly-titled captions of other companies due to different methods of calculation.",
+      "section_header": null,
+      "confidence": 0.85,
+      "extracted_data": {
+        "entities": [
+          {
+            "name": "Adjusted EBITDA",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP measure of financial performance",
+              "comparability": "May not be comparable to similarly titled measures of other companies",
+              "limitations": "Does not replace net loss, cash flows from operations, or GAAP performance measures"
+            }
+          },
+          {
+            "name": "Adjusted EBITDA Margin",
+            "type": "other",
+            "attributes": {
+              "description": "Non-GAAP measure of financial performance",
+              "comparability": "May not be comparable to similarly titled measures of other companies",
+              "limitations": "Does not replace net loss, cash flows from operations, or GAAP performance measures"
+            }
+          },
+          {
+            "name": "GAAP",
+            "type": "other",
+            "attributes": {
+              "description": "Generally Accepted Accounting Principles"
+            }
+          }
+        ],
+        "financial_figures": [],
+        "key_topics": [
+          "non-GAAP measures",
+          "Adjusted EBITDA",
+          "Adjusted EBITDA Margin",
+          "GAAP reconciliation",
+          "limitations of performance metrics",
+          "free cash flow",
+          "comparability"
+        ],
+        "sentiment": "neutral",
+        "summary": "The section explains that Adjusted EBITDA and Adjusted EBITDA Margin are non-GAAP supplemental measures, not substitutes for GAAP-based performance, liquidity, or free cash flow measures, and may not be comparable across companies."
+      }
+    }
+  ],
+  "guidance_sections": [],
+  "extraction_metadata": {
+    "model": "gpt-5.4-mini",
+    "source_file": "data\\raw\\IS_2021_Q4.html",
+    "validation": {
+      "overall_confidence": 0.675,
+      "table_confidence": 0.5,
+      "prose_confidence": 0.85,
+      "guidance_confidence": 0.0,
+      "issues": []
+    }
+  }
+}

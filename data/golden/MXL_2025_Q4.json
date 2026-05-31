@@ -1,0 +1,25 @@
+{
+  "filing_id": "MXL_2025_Q4",
+  "ticker": "MXL",
+  "fiscal_year": 2025,
+  "fiscal_quarter": "Q4",
+  "company_name": "MaxLinear, Inc.",
+  "currency": "USD",
+  "value_scale": "thousands",
+  "key_metrics": {
+    "net_income": {
+      "value": -14897,
+      "required": true
+    },
+    "eps_diluted": {
+      "value": 0.19,
+      "required": false
+    }
+  },
+  "segments": [],
+  "has_guidance": true,
+  "min_tables": 8,
+  "tags": [
+    "non_gaap_eps"
+  ]
+}
